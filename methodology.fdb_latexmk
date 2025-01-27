@@ -1,0 +1,21 @@
+# Fdb version 4
+["pdflatex"] 1737965893.51227 "methodology.tex" "methodology.pdf" "methodology" 1737965893.68497 0
+  "/usr/local/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
+  "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1136768653 1324 c910af8c371558dc20f2d7822f66fe64 ""
+  "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmr12.tfm" 1136768653 1288 655e228510b4c2a1abe905c368440826 ""
+  "/usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb" 1248133631 32080 340ef9bf63678554ee606688e7b5339d ""
+  "/usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1248133631 35752 024fb6c41858982481f6968b5fc26508 ""
+  "/usr/local/texlive/2024/texmf-dist/tex/latex/base/article.cls" 1730496337 20144 d7d3a15c7efd9458741458961c8a96e7 ""
+  "/usr/local/texlive/2024/texmf-dist/tex/latex/base/size10.clo" 1730496337 8448 bd43e47d84d3704b7eabd59a92e43bf1 ""
+  "/usr/local/texlive/2024/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def" 1716410060 29785 9f93ab201fe5dd053afcc6c1bcf7d266 ""
+  "/usr/local/texlive/2024/texmf-dist/web2c/texmf.cnf" 1727217670 42021 a58d36c7ede3d2fc9f93da62d691ddff ""
+  "/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1737960660 5466570 e8651e7fa7bb054fee9a07d3f37faf28 ""
+  "/usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1737960692 3352332 e4252926ed51e09c89730e6aa5c54599 ""
+  "/usr/local/texlive/2024/texmf.cnf" 1737960656.29128 455 5b996dcaa0eb4ef14a83b026bc0a008c ""
+  "methodology.aux" 1737965893.66987 131 edebe0faf01ffd70e33cc868a0ebfcec "pdflatex"
+  "methodology.tex" 1737965879.07281 114 a5a14264f1cc6b222105b9484dc51ded ""
+  (generated)
+  "methodology.aux"
+  "methodology.log"
+  "methodology.pdf"
+  (rewritten before read)
