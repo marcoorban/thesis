@@ -1,0 +1,22 @@
+# Fdb version 4
+["pdflatex"] 1738040376.59591 "litreview.tex" "litreview.pdf" "litreview" 1738040376.77531 0
+  "/usr/local/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
+  "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1136768653 1324 c910af8c371558dc20f2d7822f66fe64 ""
+  "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmr12.tfm" 1136768653 1288 655e228510b4c2a1abe905c368440826 ""
+  "/usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb" 1248133631 32080 340ef9bf63678554ee606688e7b5339d ""
+  "/usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb" 1248133631 36299 5f9df58c2139e7edcf37c8fca4bd384d ""
+  "/usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1248133631 35752 024fb6c41858982481f6968b5fc26508 ""
+  "/usr/local/texlive/2024/texmf-dist/tex/latex/base/article.cls" 1730496337 20144 d7d3a15c7efd9458741458961c8a96e7 ""
+  "/usr/local/texlive/2024/texmf-dist/tex/latex/base/size10.clo" 1730496337 8448 bd43e47d84d3704b7eabd59a92e43bf1 ""
+  "/usr/local/texlive/2024/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def" 1716410060 29785 9f93ab201fe5dd053afcc6c1bcf7d266 ""
+  "/usr/local/texlive/2024/texmf-dist/web2c/texmf.cnf" 1727217670 42021 a58d36c7ede3d2fc9f93da62d691ddff ""
+  "/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1737960660 5466570 e8651e7fa7bb054fee9a07d3f37faf28 ""
+  "/usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1737960692 3352332 e4252926ed51e09c89730e6aa5c54599 ""
+  "/usr/local/texlive/2024/texmf.cnf" 1737960656.29128 455 5b996dcaa0eb4ef14a83b026bc0a008c ""
+  "litreview.aux" 1738040376.7587 584 e4b306d76f4a13c82dc1bc0958d6d731 "pdflatex"
+  "litreview.tex" 1738040374.72527 2277 28ef04dfee42ce98cc17174cad74fdac ""
+  (generated)
+  "litreview.aux"
+  "litreview.log"
+  "litreview.pdf"
+  (rewritten before read)

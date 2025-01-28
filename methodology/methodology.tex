@@ -1,0 +1,100 @@
+\documentclass{article}
+\usepackage{todonotes}
+\usepackage{geometry}
+\usepackage{setspace}
+\usepackage{gensymb}
+\setstretch{1.5}
+\geometry{margin=3cm}
+
+\begin{document}
+	
+\section{Introduction}
+
+To analyze the performance of different support structures created using topology optimization, a comparison study was made in which parts created by additive manufacturing were paried with different support structures. This study assumed that different structures will conduct heat energy differently, and thus some topologies might be more effective in removing heat faster from each layer as it is being melted, resulting in less thermal deformation. 
+The geometries chosen for this study are the same geometries that were utilized in the thesis
+[Peihsu's thesis made]. These geometries were chosen for their ease of modeling, and also to provide
+a direct line of comparison between performances of support structure using topology optimization
+and support structures created using a lattice structure. 
+
+\section{Process diagram}
+
+Comsol - topooogy and parameteric sweep - Create CAD - Import Simufact - Analyze 
+
+\missingfigure{Process diagram goes here}
+
+\section{Comparison of topologies on simple geometries}
+
+\subsection{Creating the simple geometry CAD}
+
+The components with simple geometries utilized in this study consist of a cube, three triangular
+components with different slopes, and three cylindrical components with different values of
+curvature. To reiterate, these components have the same dimensions that were used in the study of lattice
+support structure performance by Peishu \todo{reference peihsu's thesis here}. All of the CAD models
+used for the simple geometry study were created using FreeCAD, an open-source CAD software. All of the components were expoerted as .STEP files, and then they were merged with their corresponding support structures using the software nTop. The following section gives detail on the dimensions of the simple geometries, while a later section will explain the process of merging with the support structure.
+
+\subsubsection{Cubes}
+
+The first component analyzed was a simple cube, with side length of 30 mm. When imported into Simufact additive, the cube was placed above the base plate at a distance of 10 mm. The volume between the bottom surface of the cube and the base plate was used as the design space for the support structure using topology optimization.
+
+\missingfigure{Figure of cube component}
+
+\subsubsection{Triangles}
+
+Three triangles with different slopes were used in this study. All triangular components used in this study consist of a base of 30 x 30 cm$^{2}$ with varying slopes and heights. The slopes used were slopes of 15\degree, 30\degree, and 45\degree. Figures of the triangular components are shown in \todo{figure number} below.
+
+\missingfigure{Figure of trianglular components.}
+
+\subsubsection{Cylinders}
+
+\missingfigure{Figure of cylindrical geometry}
+
+\section{Design of support structure using topology optimization}
+
+
+
+\subsubsection{Design domain}
+
+\todo{Explain here that the topology optimization is ran on a 2d space, and then extended to fill up the volume between the component and the base plate.}
+
+\todo{rephrase this}All of the design domains consisted of the volume directly underneath the components, which was
+placed at a height of HEIGHT above the base plate.
+
+\subsubsection{Mathematical model}
+
+\subsubsection{Creating the support structure in COMSOL}
+
+
+
+\section{Simulation of thermal expansion}
+
+
+The software utilized to simulate the manufacturing process is Simufact Additive version 2023.2. Simufact Additive is capable of simulation building process of additive manufacturing components, and coupling thermal and stress physics to predict the temperature values of the component throughout the building process and the total stresses, strains and deformations resulting from the manufacturing process. 
+
+In order to set up Simufact correctly, the building process and the building space geometry must be specified before each simulation. The building parameters and building geometries used in this study are the same that were used in the analysis of thermal deformation using lattice support structures done by Peihsy and al. \todo{add reference here}
+
+\subsection{Merging of part with support structure}
+
+Once the CAD file of the component and the support structure has been built, it is necessary to merge them together and import them into Simufact to undergo simulation of the manufacturing process. The software used for blending the component and its support structure is nTop \todo{add version here}. nTop's interface makes it very easy to merge the part, and also allows to blend the support structure and the component, which effectively creates a fillet between the nodes of both components to allow for a smooth transition between bodies. Of course, blending the component and the support structure in this manner would not give any benefit in a real manufacturing process, as the structure and the component would not be able to be separated easily. NEvertheless, this blend radius is benefitial for the simulation since it was observed that a direct union and import of the support strcuture + component in Simufact resulted in having very small gaps between the two pieces, resulting in a non manifold geometry that would cause the finite element model to have gaps between some of its nodes. 
+
+\missingfigure{add figure of error / warning from Simufact due to import of structure with gaps. Two figures shoudl suffice here.}
+
+\subsection{Simufact simulation parameters and voxelization}
+
+\todo{add that thermomechanical process was used and explain what it is.}
+
+After the component and the support structures were merged, they were imported into Simufact. It is during this step that all the factors related to the simulation are set, which include the machine properties, material properties, and build parameters. As mentioned previously, these were chosen to be identical to the study of PeiHsu to ensure that the results of this study could be compared to the results of that one. 
+
+The first parameter to be chosen is the process properties, which determines the physics that Simufact takes into consideration to run the simulation. Simufact provides three different types of processes: mechanical, thermal, and thermomechanical. As stated in the Simufact manual \todo{insert reference to manual here}, mechanical provides a fast mechanical analysis that only uses inherent strains as the main input. This type of analysis does not take into consideration the temperature fields during the building process. The thermal process on the other hand only considers the thermal behaviour of the components, and the temperature field of the support structures, components and base can be analyzed. The thermomechanical process couples the stress and thermal analyses, and allows for the prediction of temperature, distortions and stresses of the part. This latter process is the one used in this study.
+
+\todo{Explain what this is and how it is done, and what the purpose of this is.}
+\subsection{Convergence analysis}
+
+To make sure that the results of the simulation would not depend on the voxel density of the 
+
+
+
+\section{Analysis of topology optimization on femoral component}
+
+\listoftodos
+
+\end{document}
