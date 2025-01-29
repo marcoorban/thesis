@@ -34,7 +34,7 @@ used for the simple geometry study were created using FreeCAD, an open-source CA
 
 \subsubsection{Cubes}
 
-The first component analyzed was a simple cube, with side length of 30 mm. When imported into Simufact additive, the cube was placed above the base plate at a distance of 10 mm. The volume between the bottom surface of the cube and the base plate was used as the design space for the support structure using topology optimization.
+The first component analyzed was a simple cube, with side length of 30 mm. When imported into Simufact Additive, the cube was placed above the base plate at a distance of 10 mm. The volume between the bottom surface of the cube and the base plate was used as the design space for the support structure using topology optimization.
 
 \missingfigure{Figure of cube component}
 
@@ -42,7 +42,7 @@ The first component analyzed was a simple cube, with side length of 30 mm. When 
 
 Three triangles with different slopes were used in this study. All triangular components used in this study consist of a base of 30 x 30 cm$^{2}$ with varying slopes and heights. The slopes used were slopes of 15\degree, 30\degree, and 45\degree. Figures of the triangular components are shown in \todo{figure number} below.
 
-\missingfigure{Figure of trianglular components.}
+\missingfigure{Figure of triangular components.}
 
 \subsubsection{Cylinders}
 
@@ -85,6 +85,14 @@ Once the CAD file of the component and the support structure has been built, it 
 After the component and the support structures were merged, they were imported into Simufact. It is during this step that all the factors related to the simulation are set, which include the machine properties, material properties, and build parameters. As mentioned previously, these were chosen to be identical to the study of PeiHsu to ensure that the results of this study could be compared to the results of that one. 
 
 The first parameter to be chosen is the process properties, which determines the physics that Simufact takes into consideration to run the simulation. Simufact provides three different types of processes: mechanical, thermal, and thermomechanical. As stated in the Simufact manual \todo{insert reference to manual here}, mechanical provides a fast mechanical analysis that only uses inherent strains as the main input. This type of analysis does not take into consideration the temperature fields during the building process. The thermal process on the other hand only considers the thermal behaviour of the components, and the temperature field of the support structures, components and base can be analyzed. The thermomechanical process couples the stress and thermal analyses, and allows for the prediction of temperature, distortions and stresses of the part. This latter process is the one used in this study.
+
+After choosing the process property, the machine parameters must be specified. This includes the machine build plate geometry and the laser parameters. The machine build plate chosen was a circular plate with an 80 mm radius. The build space dimensions consists of a space of 160 mm in all three x-y-z directions. As for the laser parameters, the simulations were carried out with one laser with a maximum laser power of 500 W and a maximum laser speed of 2000 mm / s, an efficiency of 25 percent, and a beam width of 25 mm. All of these parameters are summarized in the table \todo{add the table of building parameters here.}
+
+The building parameters for the process need also to be set. These include material layer parameters and any thermal parameters and temperature specifications for the build environment and base plate. The powder layer thickness was chosen to be 0.03 mm, with a recoater time of 10 s. The powder initial temperature was set to 25 \degree Celcius, with an initial base temperature of 200 degrees. \todo{explain why base plate temeprature might be used in practice, might want to add reference to 10.3390/thermo4010005}
+
+\todo{Need to add exposure time, exposure energy fraction, and volumetric expansion factors here. Need to refer to Comsol documentation to explain what these are and how they influence the results.}
+
+\todo{Need to say that no calibration was done. Explain why calibration is necessary for the manufacture of parts, but also explain the reason no calibration was done here.}
 
 \todo{Explain what this is and how it is done, and what the purpose of this is.}
 \subsection{Convergence analysis}
