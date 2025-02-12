@@ -1,0 +1,46 @@
+\documentclass[../main.tex]{subfiles}
+\graphicspath{{\subfix{../images/}}}
+
+\begin{document}
+	
+\chapter{Literature Review}
+
+\section{Additive manufacturing}
+
+Additive manufacturing is a manufacturing process that ta
+
+\section{Support structures}
+
+\section{Topology Optimization}
+
+Topology optimization is an optimization technique that seeks to find the optimal shape within a volume that satisfies certain governing equations, while at the same time satisfying specific constraints. This technique is usually utilized for the design of structures with no preconceived shape. When topology optimization is used for the purpose of designing structures, the optimal shape resulting from the analysis can be interpreted as a material distribution within the specified volume, which is called the design domain. A classical application of topology optimization is the binary compliance problem, in which regions of solid and void materials are distributed in order to minimize the work done by external forces (this is called compliance), also subject to a volume constraint \cite{liu_efficient_2014}. The problem of topology optimization can be expressed mathematically as follows \cite{lazarov_filters_2011}
+
+\begin{equation}
+  \label{eq:topopt_eq}
+  min: c(\rho) = f^T u 
+  s.t. : K(\rho)u = f 
+  V = \Sigma i \in \Omega \rho_i v_i
+\end{equation}
+
+In the above formulation, the design domain 
+
+This binary compliance problem suffers from a serious drawback; the problem is ill-posed and the solution will converge to a material distribution in the shape of a checkerboard pattern, with infinitesimal holes. To alleviate this, several restrictions must be made  and the equations used to generate the structure must be modified. 
+
+Talk here about density-based approach and SIMP 
+
+Talk here about the filters, density filters and Helmholtz filters
+
+Techniques such as perimeter control methods [] density gradient control 
+and mesh-independent density filters could be used to solve the problem of a chattering design [reference goes here, fitler in topology optimization. A filtering approach implements an algorithm that itereates over all the points in the design domain, and uses weighted values of its surroindings to determine the final density value of the point in question, effectively computing the weighted average of a point and its surroindings.
+
+Talk here about hyperbolic tangent and what it does to the fitler
+
+Here, the full equation of topology optimization using all of the above should be shown.
+
+\section{Research Purpose}
+ 
+This is something here
+
+\section{Research originality and contribution}
+
+\end{document}

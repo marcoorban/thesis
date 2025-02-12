@@ -1,0 +1,433 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global/global}
+    \entry{ElderlyDisadvantagedSituation2024}{online}{}{}
+      \list{organization}{2}{%
+        {Architecture}%
+        {Building Research Institute, Ministry of the Interior, ROC (Taiwan)}%
+      }
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labeltitlesource}{title}
+      \field{day}{10}
+      \field{langid}{english}
+      \field{month}{7}
+      \field{title}{Elderly and Disadvantaged Situation, Trend and Strategy Analysis of Living Environment in {{Taiwan}}}
+      \field{urlday}{11}
+      \field{urlmonth}{2}
+      \field{urlyear}{2025}
+      \field{year}{2024}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /home/morban/Zotero/storage/2K4B7LWF/News_Content.html
+      \endverb
+      \verb{urlraw}
+      \verb http://www.abri.gov.tw/en/News_Content.aspx?n=908&s=317737&sms=9518
+      \endverb
+      \verb{url}
+      \verb http://www.abri.gov.tw/en/News_Content.aspx?n=908&s=317737&sms=9518
+      \endverb
+    \endentry
+    \entry{varacalloTotalKneeArthroplasty2025}{incollection}{}{}
+      \name{author}{4}{}{%
+        {{hash=dcd31ff8a723ca4628ae23f74b2003b6}{%
+           family={Varacallo},
+           familyi={V\bibinitperiod},
+           given={Matthew\bibnamedelima A.},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=76113a76bea32d95cd36d3fd14c33b46}{%
+           family={Luo},
+           familyi={L\bibinitperiod},
+           given={T.\bibnamedelimi David},
+           giveni={T\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=fca700229263c69c2842997cd8def0cb}{%
+           family={Mabrouk},
+           familyi={M\bibinitperiod},
+           given={Ahmed},
+           giveni={A\bibinitperiod}}}%
+        {{hash=afa34e58bdf8eed498a008c865f3c96a}{%
+           family={Johanson},
+           familyi={J\bibinitperiod},
+           given={Norman\bibnamedelima A.},
+           giveni={N\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Treasure Island (FL)}%
+      }
+      \list{publisher}{1}{%
+        {StatPearls Publishing}%
+      }
+      \strng{namehash}{e289bde7b436b73e940326879e7c1a9d}
+      \strng{fullhash}{0ec42da8a9af00d6cf2c5fbc4d468adc}
+      \strng{fullhashraw}{0ec42da8a9af00d6cf2c5fbc4d468adc}
+      \strng{bibnamehash}{0ec42da8a9af00d6cf2c5fbc4d468adc}
+      \strng{authorbibnamehash}{0ec42da8a9af00d6cf2c5fbc4d468adc}
+      \strng{authornamehash}{e289bde7b436b73e940326879e7c1a9d}
+      \strng{authorfullhash}{0ec42da8a9af00d6cf2c5fbc4d468adc}
+      \strng{authorfullhashraw}{0ec42da8a9af00d6cf2c5fbc4d468adc}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Total knee arthroplasty (TKA) is one of the most effective, cost-efficient, and consistently successful surgeries in orthopedics. Patient-reported outcomes underscore its significant impact on pain relief, functional restoration, and improved quality of life. TKA provides reliable outcomes for patients with end-stage, tricompartmental, or degenerative osteoarthritis.~Considering osteoarthritis affects millions of people in the United States, the knee~bears the~brunt of this progressive~condition, which is characterized by a gradual degeneration and loss of articular cartilage. Estimates indicate an annual incidence of symptomatic knee osteoarthritis at 240 per 100,000 patients, with approximately 400,000 primary TKA surgeries performed annually in the United States. Although~primary osteoarthritis is the most common clinical diagnosis associated with TKA, other~potential underlying diagnoses include inflammatory arthritis, fracture (posttraumatic osteoarthritis or deformity), dysplasia, and malignancy.}
+      \field{booktitle}{{{StatPearls}}}
+      \field{eprinttype}{pmid}
+      \field{langid}{english}
+      \field{title}{Total {{Knee Arthroplasty Techniques}}}
+      \field{urlday}{11}
+      \field{urlmonth}{2}
+      \field{urlyear}{2025}
+      \field{year}{2025}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{eprint}
+      \verb 29763071
+      \endverb
+      \verb{file}
+      \verb /home/morban/Zotero/storage/86PQETBB/NBK499896.html
+      \endverb
+      \verb{urlraw}
+      \verb http://www.ncbi.nlm.nih.gov/books/NBK499896/
+      \endverb
+      \verb{url}
+      \verb http://www.ncbi.nlm.nih.gov/books/NBK499896/
+      \endverb
+    \endentry
+    \entry{linIncreaseTotalKnee2018}{article}{}{}
+      \name{author}{12}{}{%
+        {{hash=38b4a029c6af08eabcf09367ea4a7a2a}{%
+           family={Lin},
+           familyi={L\bibinitperiod},
+           given={Fu-Huang},
+           giveni={F\bibinithyphendelim H\bibinitperiod}}}%
+        {{hash=06e5ed7f5699134c1e710bb84a5d6bbc}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Hsiang-Cheng},
+           giveni={H\bibinithyphendelim C\bibinitperiod}}}%
+        {{hash=22ce19042b90bfc0405ace106881c3f9}{%
+           family={Lin},
+           familyi={L\bibinitperiod},
+           given={Chin},
+           giveni={C\bibinitperiod}}}%
+        {{hash=3ed32408938093b8e523562406899e28}{%
+           family={Chiu},
+           familyi={C\bibinitperiod},
+           given={Yu-Lung},
+           giveni={Y\bibinithyphendelim L\bibinitperiod}}}%
+        {{hash=73e85a35cf8df76001d148a44521a725}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={Herng-Sheng},
+           giveni={H\bibinithyphendelim S\bibinitperiod}}}%
+        {{hash=033f45121bb5c708c172954e30c753da}{%
+           family={Chang},
+           familyi={C\bibinitperiod},
+           given={Hung},
+           giveni={H\bibinitperiod}}}%
+        {{hash=be781f31a34cb35f5e4b073002551af7}{%
+           family={Huang},
+           familyi={H\bibinitperiod},
+           given={Guo-Shu},
+           giveni={G\bibinithyphendelim S\bibinitperiod}}}%
+        {{hash=ac342fe10a142f53cb5eb2df51651456}{%
+           family={Chang},
+           familyi={C\bibinitperiod},
+           given={Hsueh-Lu},
+           giveni={H\bibinithyphendelim L\bibinitperiod}}}%
+        {{hash=191e49a2bc31e2707ef6e96bccf99b94}{%
+           family={Yeh},
+           familyi={Y\bibinitperiod},
+           given={Shih-Jen},
+           giveni={S\bibinithyphendelim J\bibinitperiod}}}%
+        {{hash=7eda19728bf34c9a8ab544a0a4e17ccc}{%
+           family={Su},
+           familyi={S\bibinitperiod},
+           given={Wen},
+           giveni={W\bibinitperiod}}}%
+        {{hash=82cb05d012370eed9294235b13af5cea}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Chih-Chien},
+           giveni={C\bibinithyphendelim C\bibinitperiod}}}%
+        {{hash=358c6998bb91ddc8fda9ce687cbd3e7c}{%
+           family={Su},
+           familyi={S\bibinitperiod},
+           given={Sui-Lung},
+           giveni={S\bibinithyphendelim L\bibinitperiod}}}%
+      }
+      \strng{namehash}{a6e86d3f82fd3330b3c780ae66a7a44f}
+      \strng{fullhash}{8b59d68ab63e570128721dd08bcb9cca}
+      \strng{fullhashraw}{8b59d68ab63e570128721dd08bcb9cca}
+      \strng{bibnamehash}{a6e86d3f82fd3330b3c780ae66a7a44f}
+      \strng{authorbibnamehash}{a6e86d3f82fd3330b3c780ae66a7a44f}
+      \strng{authornamehash}{a6e86d3f82fd3330b3c780ae66a7a44f}
+      \strng{authorfullhash}{8b59d68ab63e570128721dd08bcb9cca}
+      \strng{authorfullhashraw}{8b59d68ab63e570128721dd08bcb9cca}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Total knee replacement (TKR) is considered as one of the most success among clinical interventions for patients with who suffering from knee osteoarthritis (OA). We sought to estimate the incidence of TKR using demographics, incidence rates, lengths of hospital stay, and costs from 1996 to 2010 by analyzing Taiwan's National Health Insurance Research Database. A total of 154,553 patients obtained primary TKR surgery between 1996 and 2010. The diagnosis code for knee OA and the procedure code for TKR were selected from the records. To compare the rate of TKR between covariables, we calculated the TKR risk ratios and 95\% confidence interval (CI) of these variables (gender, age, age group, and primary diagnoses). A 2-tailed P-value of .05 was considered statistically significant. The statistical package SPSS version 20.0 (SPSS, Chicago, IL) was used to conduct all the statistical analyzes. We analyzed 154,553 TKRs performed by surgeons in Taiwan from 1996 to 2010. The overall crude incidence increased from 26.4 to 74.55 TKR per 100,000 inhabitants from 1996 to 2010. TKR incidence for the 70 to 79 years age group increased from 227 to 505 per 100,000 people from 1996 to 2010. The age-standardized rate ratios for TKR of women to men ranged from 2.5 to 3.0. The mean average length of stay in hospital was 15 days in 1996 and decreased to 8 days in 2010. During the study period, the adjusted mean cost per patient decreased from US\$7485 to US\$4827. Health expenditures for TKR were 5\% of total National Health Insurance expenditure every year. Over the 15-year period, Taiwan's TKR incidence tripled, which is consistent with population ageing. Arthritis will be a major public health issue in the ageing population in the future.}
+      \field{day}{3}
+      \field{eprinttype}{pmid}
+      \field{issn}{0025-7974}
+      \field{journaltitle}{Medicine}
+      \field{month}{8}
+      \field{number}{31}
+      \field{shortjournal}{Medicine (Baltimore)}
+      \field{title}{The Increase in Total Knee Replacement Surgery in {{Taiwan}}}
+      \field{urlday}{11}
+      \field{urlmonth}{2}
+      \field{urlyear}{2025}
+      \field{volume}{97}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{e11749}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1097/MD.0000000000011749
+      \endverb
+      \verb{eprint}
+      \verb 30075592
+      \endverb
+      \verb{file}
+      \verb /home/morban/Zotero/storage/J6EVPIR6/Lin et al. - 2018 - The increase in total knee replacement surgery in Taiwan.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6081077/
+      \endverb
+      \verb{url}
+      \verb https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6081077/
+      \endverb
+    \endentry
+    \entry{narraAdditiveManufacturingTotal2019}{article}{}{}
+      \name{author}{4}{}{%
+        {{hash=5020c74f357c621c7c521f84a3dcb6dc}{%
+           family={Narra},
+           familyi={N\bibinitperiod},
+           given={Sneha\bibnamedelima Prabha},
+           giveni={S\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=1fe6051165155b9a2d8ed8f04ebae046}{%
+           family={Mittwede},
+           familyi={M\bibinitperiod},
+           given={Peter\bibnamedelima N.},
+           giveni={P\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+        {{hash=8775cf9df08ca7bbc1c54e73ad238762}{%
+           family={DeVincent\bibnamedelima Wolf},
+           familyi={D\bibinitperiod\bibinitdelim W\bibinitperiod},
+           given={Sandra},
+           giveni={S\bibinitperiod}}}%
+        {{hash=828f8ceb414259e23a2e4f84a14f5556}{%
+           family={Urish},
+           familyi={U\bibinitperiod},
+           given={Kenneth\bibnamedelima L.},
+           giveni={K\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \strng{namehash}{289fa5a1d28fd7b71c1927cfba6f302c}
+      \strng{fullhash}{5afdc0737a7ff0363ecbad3447d47f85}
+      \strng{fullhashraw}{5afdc0737a7ff0363ecbad3447d47f85}
+      \strng{bibnamehash}{5afdc0737a7ff0363ecbad3447d47f85}
+      \strng{authorbibnamehash}{5afdc0737a7ff0363ecbad3447d47f85}
+      \strng{authornamehash}{289fa5a1d28fd7b71c1927cfba6f302c}
+      \strng{authorfullhash}{5afdc0737a7ff0363ecbad3447d47f85}
+      \strng{authorfullhashraw}{5afdc0737a7ff0363ecbad3447d47f85}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eprinttype}{pmid}
+      \field{issn}{0030-5898}
+      \field{journaltitle}{The Orthopedic clinics of North America}
+      \field{month}{1}
+      \field{number}{1}
+      \field{shortjournal}{Orthop Clin North Am}
+      \field{title}{Additive {{Manufacturing}} in {{Total Joint Arthroplasty}}}
+      \field{urlday}{11}
+      \field{urlmonth}{2}
+      \field{urlyear}{2025}
+      \field{volume}{50}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{13\bibrangedash 20}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1016/j.ocl.2018.08.009
+      \endverb
+      \verb{eprint}
+      \verb 30477702
+      \endverb
+      \verb{file}
+      \verb /home/morban/Zotero/storage/PYQ8596R/Narra et al. - 2019 - Additive Manufacturing in Total Joint Arthroplasty.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6555404/
+      \endverb
+      \verb{url}
+      \verb https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6555404/
+      \endverb
+    \endentry
+    \entry{MetalAdditiveManufacturing}{online}{}{}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labeltitlesource}{title}
+      \field{title}{Metal {{Additive Manufacturing}}: {{Cost Competitive Beyond Low Volumes}} | {{J}}. {{Manuf}}. {{Sci}}. {{Eng}}. | {{ASME Digital Collection}}}
+      \field{urlday}{11}
+      \field{urlmonth}{2}
+      \field{urlyear}{2025}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /home/morban/Zotero/storage/FSTSS6LY/Metal-Additive-Manufacturing-Cost-Competitive.html
+      \endverb
+      \verb{urlraw}
+      \verb https://asmedigitalcollection.asme.org/manufacturingscience/article/139/8/081010/376354/Metal-Additive-Manufacturing-Cost-Competitive
+      \endverb
+      \verb{url}
+      \verb https://asmedigitalcollection.asme.org/manufacturingscience/article/139/8/081010/376354/Metal-Additive-Manufacturing-Cost-Competitive
+      \endverb
+    \endentry
+    \entry{chungpei-hsuYingYongMoNiFenXiYuShiYanSheJiFaTanTaoJingGeZhiChengJieGouYiZuiXiaoHuaXuanZeXingLeiSheRongRongZhiReBianXingStudyLattice2024}{thesis}{}{}
+      \name{author}{1}{}{%
+        {{hash=d4d9ff91ba81ddd8f1ee7d535e75329f}{%
+           family={{Chung, Pei-Hsu}},
+           familyi={C\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {國立中興大學}%
+      }
+      \list{location}{1}{%
+        {臺中市}%
+      }
+      \strng{namehash}{d4d9ff91ba81ddd8f1ee7d535e75329f}
+      \strng{fullhash}{d4d9ff91ba81ddd8f1ee7d535e75329f}
+      \strng{fullhashraw}{d4d9ff91ba81ddd8f1ee7d535e75329f}
+      \strng{bibnamehash}{d4d9ff91ba81ddd8f1ee7d535e75329f}
+      \strng{authorbibnamehash}{d4d9ff91ba81ddd8f1ee7d535e75329f}
+      \strng{authornamehash}{d4d9ff91ba81ddd8f1ee7d535e75329f}
+      \strng{authorfullhash}{d4d9ff91ba81ddd8f1ee7d535e75329f}
+      \strng{authorfullhashraw}{d4d9ff91ba81ddd8f1ee7d535e75329f}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{chi}
+      \field{title}{應用模擬分析與實驗設計法探討晶格支撐結構以最小化選擇性雷射熔融之熱變形= Study on the Lattice Support Structures to Minimize Thermal Distortion in Selective Laser Melting Using Simulation and Design of Experiments}
+      \field{year}{2024}
+      \field{dateera}{ce}
+      \keyw{Design of Experiment,Lattice Structure,Selective Laser Melting,Supporting Structure,Thermal Displacement,實驗設計法,支撐結構,晶格結構,熱誤差,選擇性雷射熔融}
+    \endentry
+    \entry{kebbachComputerbasedAnalysisDifferent2023}{article}{}{}
+      \name{author}{7}{}{%
+        {{hash=35c43a85a65d4a28380af37668098878}{%
+           family={Kebbach},
+           familyi={K\bibinitperiod},
+           given={Maeruan},
+           giveni={M\bibinitperiod}}}%
+        {{hash=e30ff1674f70a133ff80fe05106b7767}{%
+           family={Geier},
+           familyi={G\bibinitperiod},
+           given={Andreas},
+           giveni={A\bibinitperiod}}}%
+        {{hash=73eea8552e8cef891de34bf40e6a9479}{%
+           family={Darowski},
+           familyi={D\bibinitperiod},
+           given={Martin},
+           giveni={M\bibinitperiod}}}%
+        {{hash=1da72d5c2dd0fc20f6ccae67bea451fd}{%
+           family={Krueger},
+           familyi={K\bibinitperiod},
+           given={Sven},
+           giveni={S\bibinitperiod}}}%
+        {{hash=e823b9318e372c217990ba765ff1e782}{%
+           family={Schilling},
+           familyi={S\bibinitperiod},
+           given={Christoph},
+           giveni={C\bibinitperiod}}}%
+        {{hash=91d78b2f73755b896cee56e6efde5c20}{%
+           family={Grupp},
+           familyi={G\bibinitperiod},
+           given={Thomas\bibnamedelima M.},
+           giveni={T\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=3d4fc6639e2372338c22115cfeeae030}{%
+           family={Bader},
+           familyi={B\bibinitperiod},
+           given={Rainer},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{bb780a434357a982e1a32072d4293fbc}
+      \strng{fullhash}{c5bad1c584b93ee1a8bc9a56b773b4af}
+      \strng{fullhashraw}{c5bad1c584b93ee1a8bc9a56b773b4af}
+      \strng{bibnamehash}{bb780a434357a982e1a32072d4293fbc}
+      \strng{authorbibnamehash}{bb780a434357a982e1a32072d4293fbc}
+      \strng{authornamehash}{bb780a434357a982e1a32072d4293fbc}
+      \strng{authorfullhash}{c5bad1c584b93ee1a8bc9a56b773b4af}
+      \strng{authorfullhashraw}{c5bad1c584b93ee1a8bc9a56b773b4af}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{1}
+      \field{eprinttype}{pmid}
+      \field{issn}{0968-0160, 1873-5800}
+      \field{journaltitle}{The Knee}
+      \field{langid}{english}
+      \field{month}{1}
+      \field{shortjournal}{The Knee}
+      \field{title}{Computer-Based Analysis of Different Component Positions and Insert Thicknesses on Tibio-Femoral and Patello-Femoral Joint Dynamics after Cruciate-Retaining Total Knee Replacement}
+      \field{urlday}{11}
+      \field{urlmonth}{2}
+      \field{urlyear}{2025}
+      \field{volume}{40}
+      \field{year}{2023}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{152\bibrangedash 165}
+      \range{pages}{14}
+      \verb{doi}
+      \verb 10.1016/j.knee.2022.11.010
+      \endverb
+      \verb{eprint}
+      \verb 36436384
+      \endverb
+      \verb{file}
+      \verb /home/morban/Zotero/storage/XHLRCC68/Kebbach et al. - 2023 - Computer-based analysis of different component positions and insert thicknesses on tibio-femoral and.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.thekneejournal.com/article/S0968-0160(22)00181-8/fulltext
+      \endverb
+      \verb{url}
+      \verb https://www.thekneejournal.com/article/S0968-0160(22)00181-8/fulltext
+      \endverb
+      \keyw{Component positioning,Musculoskeletal multibody simulation,Patellofemoral dynamics,Tibiofemoral dynamics,Total knee replacement}
+    \endentry
+  \enddatalist
+  \missing{lazarov_filters_2011}
+  \missing{liu_efficient_2014}
+  \missing{peishu_thesis}
+\endrefsection
+\endinput
+
