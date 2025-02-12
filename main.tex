@@ -1,31 +1,41 @@
-\documentclass{article}
+\documentclass[12pt]{report}
 
-\usepackage{subfiles}
+\usepackage{xeCJK} % For Chinese font support - only works with XeLateX compiler
+\usepackage[style=ieee, backend=biber]{biblatex} % Imports biblatex package 
+\addbibresource{references.bib} % Import the bibliography file
+\usepackage{todonotes}
+
 \usepackage{graphicx}
 \graphicspath{{images/}}
 
-\usepackage{todonotes}
-\usepackage{geometry}
-\usepackage{setspace}
 \usepackage{gensymb}
+% This contols the page margin
+\usepackage[margin=3cm]{geometry} 
+% this is to control the line space
+\usepackage{setspace}
+\setstretch{1.5} 
 
-\setstretch{1.5}
-\geometry{margin=3cm}
+
+
+% delete this section after thesis is done
+\setlength{\marginparwidth}{2.5cm}
 
 \title{Morban's thesis}
 \author{Marco Orban}
-\date{text}
+\date{}
 
+\usepackage{subfiles}
 \begin{document}
-	
-	\maketitle
-	
-	\section{Literature Review}
-	
-	\subfile{sections/litreview}
-	
-	\section{Methodology}
-	
-	\subfile{sections/methodology}
-	
+  \maketitle{}
+
+  \subfileinclude{introduction/introduction}
+
+  \subfileinclude{litreview/litreview}
+
+  \subfileinclude{methodology/methodology}
+
+This is a citation \cite{lazarov_filters_2011}
+
+\printbibliography [title={References}]
+
 \end{document}
