@@ -2381,9 +2381,11 @@
     <bcf:citekey order="6" intorder="1">MetalAdditiveManufacturing</bcf:citekey>
     <bcf:citekey order="7" intorder="1">mobarakRecentAdvancesAdditive2023</bcf:citekey>
     <bcf:citekey order="8" intorder="1">pathak3DPrintingBiomedicine2023</bcf:citekey>
-    <bcf:citekey order="9" intorder="1">liuEfficient3DTopology2014</bcf:citekey>
-    <bcf:citekey order="10" intorder="1">lazarovFiltersTopologyOptimization2011</bcf:citekey>
-    <bcf:citekey order="11" intorder="1">peishu_thesis</bcf:citekey>
+    <bcf:citekey order="9" intorder="1">narraAdditiveManufacturingTotal2019</bcf:citekey>
+    <bcf:citekey order="10" intorder="1">MetalAdditiveManufacturing</bcf:citekey>
+    <bcf:citekey order="11" intorder="1">liuEfficient3DTopology2014</bcf:citekey>
+    <bcf:citekey order="12" intorder="1">lazarovFiltersTopologyOptimization2011</bcf:citekey>
+    <bcf:citekey order="13" intorder="1">peishu_thesis</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="none">

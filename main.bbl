@@ -514,8 +514,8 @@
       \strng{authornamehash}{bcddbbcb0805dc6cf2a27c742c11bb72}
       \strng{authorfullhash}{bcddbbcb0805dc6cf2a27c742c11bb72}
       \strng{authorfullhashraw}{bcddbbcb0805dc6cf2a27c742c11bb72}
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{This paper presents an efficient and compact MATLAB code to solve three-dimensional topology optimization problems. The 169 lines comprising this code include finite element analysis, sensitivity analysis, density filter, optimality criterion optimizer, and display of results. The basic code solves minimum compliance problems. A systematic approach is presented to easily modify the definition of supports and external loads. The paper also includes instructions to define multiple load cases, active and passive elements, continuation strategy, synthesis of compliant mechanisms, and heat conduction problems, as well as the theoretical and numerical elements to implement general non-linear programming strategies such as SQP and MMA. The code is intended for students and newcomers in the topology optimization. The complete code is provided in Appendix C and it can be downloaded from http://top3dapp. com.}
