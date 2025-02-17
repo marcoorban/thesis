@@ -19,34 +19,6 @@
 
 \refsection{0}
   \datalist[entry]{none/global//global/global/global}
-    \entry{ElderlyDisadvantagedSituation2024}{online}{}{}
-      \list{organization}{2}{%
-        {Architecture}%
-        {Building Research Institute, Ministry of the Interior, ROC (Taiwan)}%
-      }
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
-      \field{labeltitlesource}{title}
-      \field{day}{10}
-      \field{langid}{english}
-      \field{month}{7}
-      \field{title}{Elderly and Disadvantaged Situation, Trend and Strategy Analysis of Living Environment in {{Taiwan}}}
-      \field{urlday}{11}
-      \field{urlmonth}{2}
-      \field{urlyear}{2025}
-      \field{year}{2024}
-      \field{dateera}{ce}
-      \field{urldateera}{ce}
-      \verb{file}
-      \verb /home/morban/Zotero/storage/2K4B7LWF/News_Content.html
-      \endverb
-      \verb{urlraw}
-      \verb http://www.abri.gov.tw/en/News_Content.aspx?n=908&s=317737&sms=9518
-      \endverb
-      \verb{url}
-      \verb http://www.abri.gov.tw/en/News_Content.aspx?n=908&s=317737&sms=9518
-      \endverb
-    \endentry
     \entry{varacalloTotalKneeArthroplasty2025}{incollection}{}{}
       \name{author}{4}{}{%
         {{hash=dcd31ff8a723ca4628ae23f74b2003b6}{%
@@ -84,11 +56,11 @@
       \strng{authornamehash}{e289bde7b436b73e940326879e7c1a9d}
       \strng{authorfullhash}{0ec42da8a9af00d6cf2c5fbc4d468adc}
       \strng{authorfullhashraw}{0ec42da8a9af00d6cf2c5fbc4d468adc}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{abstract}{Total knee arthroplasty (TKA) is one of the most effective, cost-efficient, and consistently successful surgeries in orthopedics. Patient-reported outcomes underscore its significant impact on pain relief, functional restoration, and improved quality of life. TKA provides reliable outcomes for patients with end-stage, tricompartmental, or degenerative osteoarthritis.~Considering osteoarthritis affects millions of people in the United States, the knee~bears the~brunt of this progressive~condition, which is characterized by a gradual degeneration and loss of articular cartilage. Estimates indicate an annual incidence of symptomatic knee osteoarthritis at 240 per 100,000 patients, with approximately 400,000 primary TKA surgeries performed annually in the United States. Although~primary osteoarthritis is the most common clinical diagnosis associated with TKA, other~potential underlying diagnoses include inflammatory arthritis, fracture (posttraumatic osteoarthritis or deformity), dysplasia, and malignancy.}
+      \field{abstract}{Total knee arthroplasty (TKA) is one of the most effective, cost-efficient, and consistently successful surgeries in orthopedics. Patient-reported outcomes underscore its significant impact on pain relief, functional restoration, and improved quality of life. TKA provides reliable outcomes for patients with end-stage , tricompartmental, or degenerative osteoarthritis.~Considering osteoarthritis affects millions of people in the United States, the knee~bears the~brunt of this progressive~condition, which is characterized by a gradual degeneration and loss of articular cartilage. Estimates indicate an annual incidence of symptomatic knee osteoarthritis at 240 per 100,000 patients, with approximately 400,000 primary TKA surgeries performed annually in the United States. Although~primary osteoarthritis is the most common clinical diagnosis associated with TKA, other~potential underlying diagnoses include inflammatory arthritis, fracture (posttraumatic osteoarthritis or deformity), dysplasia, and malignancy.}
       \field{booktitle}{{{StatPearls}}}
       \field{eprinttype}{pmid}
       \field{langid}{english}
@@ -110,6 +82,34 @@
       \endverb
       \verb{url}
       \verb http://www.ncbi.nlm.nih.gov/books/NBK499896/
+      \endverb
+    \endentry
+    \entry{ElderlyDisadvantagedSituation2024}{online}{}{}
+      \list{organization}{2}{%
+        {Architecture}%
+        {Building Research Institute, Ministry of the Interior, ROC (Taiwan)}%
+      }
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labeltitlesource}{title}
+      \field{day}{10}
+      \field{langid}{english}
+      \field{month}{7}
+      \field{title}{Elderly and Disadvantaged Situation, Trend and Strategy Analysis of Living Environment in {{Taiwan}}}
+      \field{urlday}{11}
+      \field{urlmonth}{2}
+      \field{urlyear}{2025}
+      \field{year}{2024}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /home/morban/Zotero/storage/2K4B7LWF/News_Content.html
+      \endverb
+      \verb{urlraw}
+      \verb http://www.abri.gov.tw/en/News_Content.aspx?n=908&s=317737&sms=9518
+      \endverb
+      \verb{url}
+      \verb http://www.abri.gov.tw/en/News_Content.aspx?n=908&s=317737&sms=9518
       \endverb
     \endentry
     \entry{linIncreaseTotalKnee2018}{article}{}{}
@@ -289,8 +289,8 @@
       \endverb
     \endentry
     \entry{MetalAdditiveManufacturing}{online}{}{}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
       \field{labeltitlesource}{title}
       \field{title}{Metal {{Additive Manufacturing}}: {{Cost Competitive Beyond Low Volumes}} | {{J}}. {{Manuf}}. {{Sci}}. {{Eng}}. | {{ASME Digital Collection}}}
       \field{urlday}{11}
@@ -307,126 +307,302 @@
       \verb https://asmedigitalcollection.asme.org/manufacturingscience/article/139/8/081010/376354/Metal-Additive-Manufacturing-Cost-Competitive
       \endverb
     \endentry
-    \entry{chungpei-hsuYingYongMoNiFenXiYuShiYanSheJiFaTanTaoJingGeZhiChengJieGouYiZuiXiaoHuaXuanZeXingLeiSheRongRongZhiReBianXingStudyLattice2024}{thesis}{}{}
-      \name{author}{1}{}{%
-        {{hash=d4d9ff91ba81ddd8f1ee7d535e75329f}{%
-           family={{Chung, Pei-Hsu}},
-           familyi={C\bibinitperiod}}}%
+    \entry{mobarakRecentAdvancesAdditive2023}{article}{}{}
+      \name{author}{7}{}{%
+        {{hash=40954d8614592f1a7edfeb99a097e84b}{%
+           family={Mobarak},
+           familyi={M\bibinitperiod},
+           given={Md\bibnamedelima Hosne},
+           giveni={M\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=7b31041ba43c9e2aa8fe736ad370c11c}{%
+           family={Islam},
+           familyi={I\bibinitperiod},
+           given={Md.\bibnamedelimi Aminul},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=e42fde78e31f5b88ac1a63d695d6d7d2}{%
+           family={Hossain},
+           familyi={H\bibinitperiod},
+           given={Nayem},
+           giveni={N\bibinitperiod}}}%
+        {{hash=10d43498ce64d9287d8a0b90c7d2eda8}{%
+           family={Al\bibnamedelima Mahmud},
+           familyi={A\bibinitperiod\bibinitdelim M\bibinitperiod},
+           given={Md.\bibnamedelimi Zobair},
+           giveni={M\bibinitperiod\bibinitdelim Z\bibinitperiod}}}%
+        {{hash=b0d5acdb283f03dcb81a024d5cf4bf26}{%
+           family={Rayhan},
+           familyi={R\bibinitperiod},
+           given={Md.\bibnamedelimi Thohid},
+           giveni={M\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+        {{hash=86b96424e30227734c909d1372ce3768}{%
+           family={Nishi},
+           familyi={N\bibinitperiod},
+           given={Nushrat\bibnamedelima Jahan},
+           giveni={N\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=11f479ed293cb350cb24f7e25a03a507}{%
+           family={Chowdhury},
+           familyi={C\bibinitperiod},
+           given={Mohammad\bibnamedelima Asaduzzaman},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
       }
-      \list{institution}{1}{%
-        {國立中興大學}%
-      }
-      \list{location}{1}{%
-        {臺中市}%
-      }
-      \strng{namehash}{d4d9ff91ba81ddd8f1ee7d535e75329f}
-      \strng{fullhash}{d4d9ff91ba81ddd8f1ee7d535e75329f}
-      \strng{fullhashraw}{d4d9ff91ba81ddd8f1ee7d535e75329f}
-      \strng{bibnamehash}{d4d9ff91ba81ddd8f1ee7d535e75329f}
-      \strng{authorbibnamehash}{d4d9ff91ba81ddd8f1ee7d535e75329f}
-      \strng{authornamehash}{d4d9ff91ba81ddd8f1ee7d535e75329f}
-      \strng{authorfullhash}{d4d9ff91ba81ddd8f1ee7d535e75329f}
-      \strng{authorfullhashraw}{d4d9ff91ba81ddd8f1ee7d535e75329f}
+      \strng{namehash}{77cb8c7891198a2beda643b62f710369}
+      \strng{fullhash}{aaf55c2c08fd03803d8b1c7fdd29f270}
+      \strng{fullhashraw}{aaf55c2c08fd03803d8b1c7fdd29f270}
+      \strng{bibnamehash}{77cb8c7891198a2beda643b62f710369}
+      \strng{authorbibnamehash}{77cb8c7891198a2beda643b62f710369}
+      \strng{authornamehash}{77cb8c7891198a2beda643b62f710369}
+      \strng{authorfullhash}{aaf55c2c08fd03803d8b1c7fdd29f270}
+      \strng{authorfullhashraw}{aaf55c2c08fd03803d8b1c7fdd29f270}
       \field{sortinit}{7}
       \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{langid}{chi}
-      \field{title}{應用模擬分析與實驗設計法探討晶格支撐結構以最小化選擇性雷射熔融之熱變形= Study on the Lattice Support Structures to Minimize Thermal Distortion in Selective Laser Melting Using Simulation and Design of Experiments}
-      \field{year}{2024}
-      \field{dateera}{ce}
-      \keyw{Design of Experiment,Lattice Structure,Selective Laser Melting,Supporting Structure,Thermal Displacement,實驗設計法,支撐結構,晶格結構,熱誤差,選擇性雷射熔融}
-    \endentry
-    \entry{kebbachComputerbasedAnalysisDifferent2023}{article}{}{}
-      \name{author}{7}{}{%
-        {{hash=35c43a85a65d4a28380af37668098878}{%
-           family={Kebbach},
-           familyi={K\bibinitperiod},
-           given={Maeruan},
-           giveni={M\bibinitperiod}}}%
-        {{hash=e30ff1674f70a133ff80fe05106b7767}{%
-           family={Geier},
-           familyi={G\bibinitperiod},
-           given={Andreas},
-           giveni={A\bibinitperiod}}}%
-        {{hash=73eea8552e8cef891de34bf40e6a9479}{%
-           family={Darowski},
-           familyi={D\bibinitperiod},
-           given={Martin},
-           giveni={M\bibinitperiod}}}%
-        {{hash=1da72d5c2dd0fc20f6ccae67bea451fd}{%
-           family={Krueger},
-           familyi={K\bibinitperiod},
-           given={Sven},
-           giveni={S\bibinitperiod}}}%
-        {{hash=e823b9318e372c217990ba765ff1e782}{%
-           family={Schilling},
-           familyi={S\bibinitperiod},
-           given={Christoph},
-           giveni={C\bibinitperiod}}}%
-        {{hash=91d78b2f73755b896cee56e6efde5c20}{%
-           family={Grupp},
-           familyi={G\bibinitperiod},
-           given={Thomas\bibnamedelima M.},
-           giveni={T\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
-        {{hash=3d4fc6639e2372338c22115cfeeae030}{%
-           family={Bader},
-           familyi={B\bibinitperiod},
-           given={Rainer},
-           giveni={R\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {Elsevier}%
-      }
-      \strng{namehash}{bb780a434357a982e1a32072d4293fbc}
-      \strng{fullhash}{c5bad1c584b93ee1a8bc9a56b773b4af}
-      \strng{fullhashraw}{c5bad1c584b93ee1a8bc9a56b773b4af}
-      \strng{bibnamehash}{bb780a434357a982e1a32072d4293fbc}
-      \strng{authorbibnamehash}{bb780a434357a982e1a32072d4293fbc}
-      \strng{authornamehash}{bb780a434357a982e1a32072d4293fbc}
-      \strng{authorfullhash}{c5bad1c584b93ee1a8bc9a56b773b4af}
-      \strng{authorfullhashraw}{c5bad1c584b93ee1a8bc9a56b773b4af}
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
+      \field{abstract}{The use of additive manufacturing, or 3D printing, has progressed beyond prototyping to produce intricate and valuable finished goods. The potential of additive manufacturing has increased across numerous industries due to the expansion of materials, such as high-performance metals and polymers, and advancements in machine capabilities, such as multi-material printing. By enabling complex designs, reduced waste, and quick production, it has the potential to revolutionize the consumer goods, healthcare, automotive manufacturing, and aerospace industries. The development of specialized scaffolds has been made possible by the precise control that additive manufacturing provides over the internal structure of porous materials. This technology has revolutionized tissue engineering and regenerative medicine. Furthermore, it has made it possible to create individualized implants and prosthetics that improve patient comfort and outcomes in orthopedic and dental applications. Also, it provides flexibility in design and customization for individualized implants and prosthetics in orthopedic and dental applications. Design flexibility, waste reduction, improved biocompatibility, quick prototyping, and cost-effectiveness are benefits of additive manufacturing for implants. For personalized healthcare, regenerative medicine, and better patient outcomes, additive manufacturing holds promise as the technology develops with further advancements in printing speed , resolution, and scalability.}
       \field{day}{1}
-      \field{eprinttype}{pmid}
-      \field{issn}{0968-0160, 1873-5800}
-      \field{journaltitle}{The Knee}
-      \field{langid}{english}
-      \field{month}{1}
-      \field{shortjournal}{The Knee}
-      \field{title}{Computer-Based Analysis of Different Component Positions and Insert Thicknesses on Tibio-Femoral and Patello-Femoral Joint Dynamics after Cruciate-Retaining Total Knee Replacement}
-      \field{urlday}{11}
+      \field{issn}{2666-5239}
+      \field{journaltitle}{Applied Surface Science Advances}
+      \field{month}{12}
+      \field{shortjournal}{Applied Surface Science Advances}
+      \field{title}{Recent Advances of Additive Manufacturing in Implant Fabrication – {{ A}} Review}
+      \field{urlday}{17}
       \field{urlmonth}{2}
       \field{urlyear}{2025}
-      \field{volume}{40}
+      \field{volume}{18}
       \field{year}{2023}
       \field{dateera}{ce}
       \field{urldateera}{ce}
-      \field{pages}{152\bibrangedash 165}
-      \range{pages}{14}
+      \field{pages}{100462}
+      \range{pages}{1}
       \verb{doi}
-      \verb 10.1016/j.knee.2022.11.010
-      \endverb
-      \verb{eprint}
-      \verb 36436384
+      \verb 10.1016/j.apsadv.2023.100462
       \endverb
       \verb{file}
-      \verb /home/morban/Zotero/storage/XHLRCC68/Kebbach et al. - 2023 - Computer-based analysis of different component positions and insert thicknesses on tibio-femoral and.pdf
+      \verb /home/morban/Zotero/storage/J37DBU2V/S266652392300096X.html
       \endverb
       \verb{urlraw}
-      \verb https://www.thekneejournal.com/article/S0968-0160(22)00181-8/fulltext
+      \verb https://www.sciencedirect.com/science/article/pii/S266652392300096X
       \endverb
       \verb{url}
-      \verb https://www.thekneejournal.com/article/S0968-0160(22)00181-8/fulltext
+      \verb https://www.sciencedirect.com/science/article/pii/S266652392300096X
       \endverb
-      \keyw{Component positioning,Musculoskeletal multibody simulation,Patellofemoral dynamics,Tibiofemoral dynamics,Total knee replacement}
+      \keyw{3D printing,Additive manufacturing,Fabrication,Implant}
+    \endentry
+    \entry{pathak3DPrintingBiomedicine2023}{article}{}{}
+      \name{author}{11}{}{%
+        {{hash=35bbd39a296546b7a5a2baaeed9e8c93}{%
+           family={Pathak},
+           familyi={P\bibinitperiod},
+           given={Kalyani},
+           giveni={K\bibinitperiod}}}%
+        {{hash=5eeb2a74248c7f5d012ea8a95ed9716e}{%
+           family={Saikia},
+           familyi={S\bibinitperiod},
+           given={Riya},
+           giveni={R\bibinitperiod}}}%
+        {{hash=43f596285355432bfeafdba769d194c6}{%
+           family={Das},
+           familyi={D\bibinitperiod},
+           given={Aparoop},
+           giveni={A\bibinitperiod}}}%
+        {{hash=cdae9d19a667e7d6bfc26c9fb1e3129f}{%
+           family={Das},
+           familyi={D\bibinitperiod},
+           given={Dibyajyoti},
+           giveni={D\bibinitperiod}}}%
+        {{hash=78e37f087f3fb39ab3c94a5aa4ab2053}{%
+           family={Islam},
+           familyi={I\bibinitperiod},
+           given={Md\bibnamedelima Ariful},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=7a05062c825e8c9af9085a8abf59bbfb}{%
+           family={Pramanik},
+           familyi={P\bibinitperiod},
+           given={Pallab},
+           giveni={P\bibinitperiod}}}%
+        {{hash=33fe54d0a061372ca9489db566b86e0c}{%
+           family={Parasar},
+           familyi={P\bibinitperiod},
+           given={Abhishek},
+           giveni={A\bibinitperiod}}}%
+        {{hash=4ec5c2f95d11abe89a39d6ae4cf4fe74}{%
+           family={Borthakur},
+           familyi={B\bibinitperiod},
+           given={Partha\bibnamedelima Protim},
+           giveni={P\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=9af4868cd836f5aeade78f794e8049f2}{%
+           family={Sarmah},
+           familyi={S\bibinitperiod},
+           given={Pranjal},
+           giveni={P\bibinitperiod}}}%
+        {{hash=35361e0cf68beb06157b067aefe2fda1}{%
+           family={Saikia},
+           familyi={S\bibinitperiod},
+           given={Madhurjya},
+           giveni={M\bibinitperiod}}}%
+        {{hash=5f05490c0fbd472ec8a0be3d6b4300e7}{%
+           family={Borthakur},
+           familyi={B\bibinitperiod},
+           given={Barbie},
+           giveni={B\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Open Exploration}%
+      }
+      \strng{namehash}{21a28a22b906d6dd0778001777bd3457}
+      \strng{fullhash}{a370ea1d5791c25eb0100690c4460a09}
+      \strng{fullhashraw}{a370ea1d5791c25eb0100690c4460a09}
+      \strng{bibnamehash}{21a28a22b906d6dd0778001777bd3457}
+      \strng{authorbibnamehash}{21a28a22b906d6dd0778001777bd3457}
+      \strng{authornamehash}{21a28a22b906d6dd0778001777bd3457}
+      \strng{authorfullhash}{a370ea1d5791c25eb0100690c4460a09}
+      \strng{authorfullhashraw}{a370ea1d5791c25eb0100690c4460a09}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{The integration of three-dimensional (3D) printing techniques into the domains of biomedical research and personalized medicine highlights the evolving paradigm shifts within contemporary healthcare}
+      \field{day}{29}
+      \field{issn}{2692-3106}
+      \field{issue}{6}
+      \field{journaltitle}{Exploration of Medicine}
+      \field{langid}{english}
+      \field{month}{12}
+      \field{number}{6}
+      \field{shortjournal}{Explor Med.}
+      \field{shorttitle}{{{3D}} Printing in Biomedicine}
+      \field{title}{{{3D}} Printing in Biomedicine: Advancing Personalized Care through Additive Manufacturing}
+      \field{urlday}{17}
+      \field{urlmonth}{2}
+      \field{urlyear}{2025}
+      \field{volume}{4}
+      \field{year}{2023}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{1135\bibrangedash 1167}
+      \range{pages}{33}
+      \verb{doi}
+      \verb 10.37349/emed.2023.00200
+      \endverb
+      \verb{file}
+      \verb /home/morban/Zotero/storage/M4NRPLU7/Pathak et al. - 2023 - 3D printing in biomedicine advancing personalized care through additive manufacturing.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.explorationpub.com/Journals/em/Article/1001200
+      \endverb
+      \verb{url}
+      \verb https://www.explorationpub.com/Journals/em/Article/1001200
+      \endverb
+    \endentry
+    \entry{liuEfficient3DTopology2014}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=25b9f35fc4e73c25450ef97e7c37b292}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Kai},
+           giveni={K\bibinitperiod}}}%
+        {{hash=7b828b0ddb3332676bc026344bd5a783}{%
+           family={Tovar},
+           familyi={T\bibinitperiod},
+           given={Andrés},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{bcddbbcb0805dc6cf2a27c742c11bb72}
+      \strng{fullhash}{bcddbbcb0805dc6cf2a27c742c11bb72}
+      \strng{fullhashraw}{bcddbbcb0805dc6cf2a27c742c11bb72}
+      \strng{bibnamehash}{bcddbbcb0805dc6cf2a27c742c11bb72}
+      \strng{authorbibnamehash}{bcddbbcb0805dc6cf2a27c742c11bb72}
+      \strng{authornamehash}{bcddbbcb0805dc6cf2a27c742c11bb72}
+      \strng{authorfullhash}{bcddbbcb0805dc6cf2a27c742c11bb72}
+      \strng{authorfullhashraw}{bcddbbcb0805dc6cf2a27c742c11bb72}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This paper presents an efficient and compact MATLAB code to solve three-dimensional topology optimization problems. The 169 lines comprising this code include finite element analysis, sensitivity analysis, density filter, optimality criterion optimizer, and display of results. The basic code solves minimum compliance problems. A systematic approach is presented to easily modify the definition of supports and external loads. The paper also includes instructions to define multiple load cases, active and passive elements, continuation strategy, synthesis of compliant mechanisms, and heat conduction problems, as well as the theoretical and numerical elements to implement general non-linear programming strategies such as SQP and MMA. The code is intended for students and newcomers in the topology optimization. The complete code is provided in Appendix C and it can be downloaded from http://top3dapp. com.}
+      \field{issn}{1615-147X, 1615-1488}
+      \field{journaltitle}{Structural and Multidisciplinary Optimization}
+      \field{langid}{english}
+      \field{month}{12}
+      \field{number}{6}
+      \field{shortjournal}{Struct Multidisc Optim}
+      \field{title}{An Efficient {{3D}} Topology Optimization Code Written in {{Matlab}}}
+      \field{urlday}{17}
+      \field{urlmonth}{12}
+      \field{urlyear}{2023}
+      \field{volume}{50}
+      \field{year}{2014}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{1175\bibrangedash 1196}
+      \range{pages}{22}
+      \verb{doi}
+      \verb 10.1007/s00158-014-1107-x
+      \endverb
+      \verb{file}
+      \verb /home/morban/Zotero/storage/L4DTCVBG/Liu and Tovar - 2014 - An efficient 3D topology optimization code written.pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://link.springer.com/10.1007/s00158-014-1107-x
+      \endverb
+      \verb{url}
+      \verb http://link.springer.com/10.1007/s00158-014-1107-x
+      \endverb
+    \endentry
+    \entry{lazarovFiltersTopologyOptimization2011}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=f1e4990cd540be23c4cc1460aae047bf}{%
+           family={Lazarov},
+           familyi={L\bibinitperiod},
+           given={B.\bibnamedelimi S.},
+           giveni={B\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=8e39f252b54fbee1f97675ee90b87f23}{%
+           family={Sigmund},
+           familyi={S\bibinitperiod},
+           given={O.},
+           giveni={O\bibinitperiod}}}%
+      }
+      \strng{namehash}{e31bd936bee4b694adb98d2d40e00e89}
+      \strng{fullhash}{e31bd936bee4b694adb98d2d40e00e89}
+      \strng{fullhashraw}{e31bd936bee4b694adb98d2d40e00e89}
+      \strng{bibnamehash}{e31bd936bee4b694adb98d2d40e00e89}
+      \strng{authorbibnamehash}{e31bd936bee4b694adb98d2d40e00e89}
+      \strng{authornamehash}{e31bd936bee4b694adb98d2d40e00e89}
+      \strng{authorfullhash}{e31bd936bee4b694adb98d2d40e00e89}
+      \strng{authorfullhashraw}{e31bd936bee4b694adb98d2d40e00e89}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The aim of this paper is to apply a Helmholtz-type partial differential equation as an alternative to standard density filtering in topology optimization problems. Previously, this approach has been successfully applied as a sensitivity filter. The usual filtering techniques in topology optimization require information about the neighbor cells, which is difficult to obtain for fine meshes or complex domains and geometries. The complexity of the problem increases further in parallel computing, when the design domain is decomposed into multiple non-overlapping partitions. Obtaining information from the neighbor subdomains is an expensive operation. The proposed filter technique requires only mesh information necessary for the finite element discretization of the problem. The main idea is to define the filtered variable implicitly as a solution of a Helmholtz-type differential equation with homogeneous Neumann boundary conditions. The properties of the filter are demonstrated for various 2D and 3D topology optimization problems in linear elasticity, solved on serial and parallel computers. Copyright © 2010 John Wiley \& Sons, Ltd.}
+      \field{issn}{1097-0207}
+      \field{journaltitle}{International Journal for Numerical Methods in Engineering}
+      \field{langid}{english}
+      \field{number}{6}
+      \field{title}{Filters in Topology Optimization Based on {{Helmholtz-type}} Differential Equations}
+      \field{urlday}{14}
+      \field{urlmonth}{9}
+      \field{urlyear}{2024}
+      \field{volume}{86}
+      \field{year}{2011}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{765\bibrangedash 781}
+      \range{pages}{17}
+      \verb{doi}
+      \verb 10.1002/nme.3072
+      \endverb
+      \verb{file}
+      \verb /home/morban/Zotero/storage/EXB9WWG2/Lazarov and Sigmund - 2011 - Filters in topology optimization based on Helmholtz-type differential equations.pdf;/home/morban/Zotero/storage/FD7K9T96/nme.html
+      \endverb
+      \verb{urlraw}
+      \verb https://onlinelibrary-wiley-com.proxyone.lib.nchu.edu.tw:8443/doi/abs/10.1002/nme.3072
+      \endverb
+      \verb{url}
+      \verb https://onlinelibrary-wiley-com.proxyone.lib.nchu.edu.tw:8443/doi/abs/10.1002/nme.3072
+      \endverb
+      \keyw{density filters,parallel computing,sensitivity filters,topology optimization}
     \endentry
   \enddatalist
-  \missing{lazarov_filters_2011}
-  \missing{liu_efficient_2014}
   \missing{peishu_thesis}
 \endrefsection
 \endinput
