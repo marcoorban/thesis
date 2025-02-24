@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2025.1.30)  24 FEB 2025 17:12
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2025.1.30)  24 FEB 2025 20:21
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -845,48 +845,6 @@ Package biblatex Info: ... file 'main.bbl' found.
 
 Package biblatex Warning: The following entry could not be found
 (biblatex)                in the database:
-(biblatex)                Allaire 2001
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                Bendsoe 1995
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                Bensoe and Kikuchi 1989
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                Jog 2002
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                Martin Sigmun 1999
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                Rozvany and Zhou 1992
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
 (biblatex)                peishu_thesis
 (biblatex)                Please verify the spelling and rerun
 (biblatex)                LaTeX afterwards.
@@ -978,33 +936,6 @@ LaTeX Warning: Marginpar on page 5 moved.
 [5]
 
 [6]
-
-LaTeX Warning: Citation 'Jog 2002' on page 7 undefined on input line 51.
-
-
-LaTeX Warning: Citation 'Jog 2002' on page 7 undefined on input line 51.
-
-
-LaTeX Warning: Citation 'Bendsoe 1995' on page 7 undefined on input line 53.
-
-
-LaTeX Warning: Citation 'Allaire 2001' on page 7 undefined on input line 53.
-
-
-LaTeX Warning: Citation 'Martin Sigmun 1999' on page 7 undefined on input line 55.
-
-
-LaTeX Warning: Citation 'Bensoe and Kikuchi 1989' on page 7 undefined on input line 55.
-
-
-LaTeX Warning: Citation 'Rozvany and Zhou 1992' on page 7 undefined on input line 55.
-
-
-Overfull \hbox (38.85231pt too wide) in paragraph at lines 53--56
-[]\TU/lmr/m/n/12 A different alternative would be the utilization of a homogenization method [],
- []
-
-
 
 [7]
 
@@ -1144,27 +1075,43 @@ Overfull \hbox (14.61674pt too wide) in paragraph at lines 40--40
  []
 
 
+Overfull \hbox (11.71683pt too wide) in paragraph at lines 40--40
+\TU/lmr/m/n/12 pp. 113–137, Jan. 1986, \TU/lmr/m/sc/12 issn\TU/lmr/m/n/12 : 0010-3640, 1097-0312. \TU/lmr/m/sc/12 doi\TU/lmr/m/n/12 : $[][] [] [][][][] [] [][][] [] [][][][][][][][][][]$.
+ []
+
+
 
 [24]
 
 [25]
 
-[26] (./main.aux (./introduction/introduction.aux) (./litreview/litreview.aux) (./methodology/methodology.aux))
+[26]
+
+[27] (./main.aux (./introduction/introduction.aux) (./litreview/litreview.aux) (./methodology/methodology.aux))
  ***********
 LaTeX2e <2024-11-01> patch level 1
 L3 programming layer <2022/08/05>
  ***********
+
+
+LaTeX Warning: There were undefined references.
+
+
+Package biblatex Warning: Please (re)run Biber on the file:
+(biblatex)                main
+(biblatex)                and rerun LaTeX afterwards.
+
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 26222 strings out of 473846
- 589879 string characters out of 5729886
- 1469731 words of memory out of 5000000
- 48840 multiletter control sequences out of 15000+600000
+ 26281 strings out of 473846
+ 592518 string characters out of 5729886
+ 1469323 words of memory out of 5000000
+ 48899 multiletter control sequences out of 15000+600000
  569891 words of font info for 97 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 117i,8n,121p,2147b,5001s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 117i,8n,121p,2605b,5001s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on main.xdv (27 pages, 513640 bytes).
+Output written on main.xdv (28 pages, 548896 bytes).

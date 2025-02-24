@@ -1045,6 +1045,61 @@
       \endverb
       \keyw{FEA,Simultaneous optimization,Support locations,Topology optimization}
     \endentry
+    \entry{hornbergerFiniteElementMethod2005}{incollection}{}{}
+      \name{author}{2}{}{%
+        {{hash=80fae4b6ac5d9d8ef2f86bcb2c58fae4}{%
+           family={Hornberger},
+           familyi={H\bibinitperiod},
+           given={George},
+           giveni={G\bibinitperiod}}}%
+        {{hash=f3e3c50a8fca5b68adf97ded73511ea8}{%
+           family={Wiberg},
+           familyi={W\bibinitperiod},
+           given={Patricia},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Geophysical Union (AGU)}%
+      }
+      \strng{namehash}{3e537e5ccfa7e820daf40c2d11223ee3}
+      \strng{fullhash}{3e537e5ccfa7e820daf40c2d11223ee3}
+      \strng{fullhashraw}{3e537e5ccfa7e820daf40c2d11223ee3}
+      \strng{bibnamehash}{3e537e5ccfa7e820daf40c2d11223ee3}
+      \strng{authorbibnamehash}{3e537e5ccfa7e820daf40c2d11223ee3}
+      \strng{authornamehash}{3e537e5ccfa7e820daf40c2d11223ee3}
+      \strng{authorfullhash}{3e537e5ccfa7e820daf40c2d11223ee3}
+      \strng{authorfullhashraw}{3e537e5ccfa7e820daf40c2d11223ee3}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{This chapter contains sections titled: Background Collocation Weighted Residual Method The Finite-Element Approach: Galerkin Weighted Residual Method Steady Diffusion into Sediment Problems}
+      \field{booktitle}{Numerical {{Methods}} in the {{Hydrological Sciences}}}
+      \field{isbn}{978-1-118-70952-8}
+      \field{langid}{english}
+      \field{shorttitle}{The {{Finite Element Method}}}
+      \field{title}{The {{Finite Element Method}}: {{An Introduction}}}
+      \field{urlday}{24}
+      \field{urlmonth}{2}
+      \field{urlyear}{2025}
+      \field{year}{2005}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{1\bibrangedash 10}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1002/9781118709528.ch10
+      \endverb
+      \verb{file}
+      \verb /home/morban/Zotero/storage/FAGPBUJ2/9781118709528.html
+      \endverb
+      \verb{urlraw}
+      \verb https://onlinelibrary.wiley.com/doi/abs/10.1002/9781118709528.ch10
+      \endverb
+      \verb{url}
+      \verb https://onlinelibrary.wiley.com/doi/abs/10.1002/9781118709528.ch10
+      \endverb
+    \endentry
     \entry{lazarovFiltersTopologyOptimization2011}{article}{}{}
       \name{author}{2}{}{%
         {{hash=f1e4990cd540be23c4cc1460aae047bf}{%
@@ -1098,6 +1153,60 @@
       \verb https://onlinelibrary-wiley-com.proxyone.lib.nchu.edu.tw:8443/doi/abs/10.1002/nme.3072
       \endverb
       \keyw{density filters,parallel computing,sensitivity filters,topology optimization}
+    \endentry
+    \entry{kohnOptimalDesignRelaxation1986}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=efed0d9f0d90b38fea25e014b8a1740b}{%
+           family={Kohn},
+           familyi={K\bibinitperiod},
+           given={Robert\bibnamedelima V.},
+           giveni={R\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+        {{hash=93733dfde0c47db226efad798ab3b662}{%
+           family={Strang},
+           familyi={S\bibinitperiod},
+           given={Gilbert},
+           giveni={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{3e120e21c3727cd5a44aa58a32779ab2}
+      \strng{fullhash}{3e120e21c3727cd5a44aa58a32779ab2}
+      \strng{fullhashraw}{3e120e21c3727cd5a44aa58a32779ab2}
+      \strng{bibnamehash}{3e120e21c3727cd5a44aa58a32779ab2}
+      \strng{authorbibnamehash}{3e120e21c3727cd5a44aa58a32779ab2}
+      \strng{authornamehash}{3e120e21c3727cd5a44aa58a32779ab2}
+      \strng{authorfullhash}{3e120e21c3727cd5a44aa58a32779ab2}
+      \strng{authorfullhashraw}{3e120e21c3727cd5a44aa58a32779ab2}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0010-3640, 1097-0312}
+      \field{journaltitle}{Communications on Pure and Applied Mathematics}
+      \field{langid}{english}
+      \field{month}{1}
+      \field{number}{1}
+      \field{shortjournal}{Comm Pure Appl Math}
+      \field{title}{Optimal Design and Relaxation of Variational Problems, {{I}}}
+      \field{urlday}{24}
+      \field{urlmonth}{2}
+      \field{urlyear}{2025}
+      \field{volume}{39}
+      \field{year}{1986}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{113\bibrangedash 137}
+      \range{pages}{25}
+      \verb{doi}
+      \verb 10.1002/cpa.3160390107
+      \endverb
+      \verb{file}
+      \verb /home/morban/Zotero/storage/9NE6ZUCG/Kohn and Strang - 1986 - Optimal design and relaxation of variational problems, I.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://onlinelibrary.wiley.com/doi/10.1002/cpa.3160390107
+      \endverb
+      \verb{url}
+      \verb https://onlinelibrary.wiley.com/doi/10.1002/cpa.3160390107
+      \endverb
     \endentry
     \entry{liuEfficient3DTopology2014}{article}{}{}
       \name{author}{2}{}{%
@@ -1216,6 +1325,174 @@
       \endverb
       \keyw{Characteristic Length,Characteristic Length Scale,Design Problem,Optimal Design,Shape Optimization}
     \endentry
+    \entry{jogTopologyDesignStructures2002}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=9482edea4685d6808eb694767a5a2a5c}{%
+           family={Jog},
+           familyi={J\bibinitperiod},
+           given={C.\bibnamedelimi S.},
+           giveni={C\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \strng{namehash}{9482edea4685d6808eb694767a5a2a5c}
+      \strng{fullhash}{9482edea4685d6808eb694767a5a2a5c}
+      \strng{fullhashraw}{9482edea4685d6808eb694767a5a2a5c}
+      \strng{bibnamehash}{9482edea4685d6808eb694767a5a2a5c}
+      \strng{authorbibnamehash}{9482edea4685d6808eb694767a5a2a5c}
+      \strng{authornamehash}{9482edea4685d6808eb694767a5a2a5c}
+      \strng{authorfullhash}{9482edea4685d6808eb694767a5a2a5c}
+      \strng{authorfullhashraw}{9482edea4685d6808eb694767a5a2a5c}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Dual optimization algorithms are well suited for the topology design of continuum structures in discrete variables, since in these problems the number of constraints is small in comparison to the number of design variables. The ‘raw’ dual algorithm, which was originally proposed for the minimum compliance design problem, worked well when a perimeter constraint was added in addition to the volume constraint. However, if the perimeter constraint was gradually relaxed by increasing the upper bound on the allowable perimeter, the algorithm tended to behave erratically. Recently, a simple strategy has been suggested which modifies the raw dual algorithm to make it more robust in the absence of the perimeter constraint; in particular the problem of checkerboarding which is frequently observed with the use of lower-order finite elements is eliminated. In this work, we show how the perimeter constraint can be incorporated in this improved algorithm, so that it not only provides a designer with a control over the topology, but also generates good topologies irrespective of the value of the upper bound on the perimeter. Copyright © 2002 John Wiley \& Sons, Ltd.}
+      \field{issn}{1097-0207}
+      \field{journaltitle}{International Journal for Numerical Methods in Engineering}
+      \field{langid}{english}
+      \field{number}{7}
+      \field{title}{Topology Design of Structures Using a Dual Algorithm and a Constraint on the Perimeter}
+      \field{urlday}{24}
+      \field{urlmonth}{2}
+      \field{urlyear}{2025}
+      \field{volume}{54}
+      \field{year}{2002}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{1007\bibrangedash 1019}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.1002/nme.457
+      \endverb
+      \verb{file}
+      \verb /home/morban/Zotero/storage/BNSWZF3M/nme.html
+      \endverb
+      \verb{urlraw}
+      \verb https://onlinelibrary.wiley.com/doi/abs/10.1002/nme.457
+      \endverb
+      \verb{url}
+      \verb https://onlinelibrary.wiley.com/doi/abs/10.1002/nme.457
+      \endverb
+      \keyw{continuum structures,discrete variables,topology optimization}
+    \endentry
+    \entry{bendsoeOptimizationStructuralTopology1995}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=066757951bb74a0ccbc836e088427aea}{%
+           family={Bendsøe},
+           familyi={B\bibinitperiod},
+           given={Martin\bibnamedelima P.},
+           giveni={M\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Berlin, Heidelberg}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{066757951bb74a0ccbc836e088427aea}
+      \strng{fullhash}{066757951bb74a0ccbc836e088427aea}
+      \strng{fullhashraw}{066757951bb74a0ccbc836e088427aea}
+      \strng{bibnamehash}{066757951bb74a0ccbc836e088427aea}
+      \strng{authorbibnamehash}{066757951bb74a0ccbc836e088427aea}
+      \strng{authornamehash}{066757951bb74a0ccbc836e088427aea}
+      \strng{authorfullhash}{066757951bb74a0ccbc836e088427aea}
+      \strng{authorfullhashraw}{066757951bb74a0ccbc836e088427aea}
+      \field{extraname}{1}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-3-662-03117-9 978-3-662-03115-5}
+      \field{langid}{english}
+      \field{title}{Optimization of {{Structural Topology}}, {{Shape}}, and {{Material}}}
+      \field{urlday}{24}
+      \field{urlmonth}{2}
+      \field{urlyear}{2025}
+      \field{year}{1995}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.1007/978-3-662-03115-5
+      \endverb
+      \verb{urlraw}
+      \verb http://link.springer.com/10.1007/978-3-662-03115-5
+      \endverb
+      \verb{url}
+      \verb http://link.springer.com/10.1007/978-3-662-03115-5
+      \endverb
+      \keyw{algorithms,applied mechanics,design,design process,engineering design,Materials,Mathematical Optimization,mechanics,optimization,structural optimization,Structures,Topological,topology}
+    \endentry
+    \entry{allaireShapeOptimizationHomogenization2002}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=e689b43ac5d3242f4613a353518abfb7}{%
+           family={Allaire},
+           familyi={A\bibinitperiod},
+           given={Grégoire},
+           giveni={G\bibinitperiod}}}%
+      }
+      \name{editor}{3}{}{%
+        {{hash=c819c92b0a8ed0f6eefc936d7b9a9962}{%
+           family={Antman},
+           familyi={A\bibinitperiod},
+           given={Stuart\bibnamedelima S.},
+           giveni={S\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=a109e64d7dd72d3d3700a1a0216efd4b}{%
+           family={Marsden},
+           familyi={M\bibinitperiod},
+           given={J.\bibnamedelimi E.},
+           giveni={J\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=5d6345132a2589d627a26c0778d1b0ad}{%
+           family={Sirovich},
+           familyi={S\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York, NY}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{e689b43ac5d3242f4613a353518abfb7}
+      \strng{fullhash}{e689b43ac5d3242f4613a353518abfb7}
+      \strng{fullhashraw}{e689b43ac5d3242f4613a353518abfb7}
+      \strng{bibnamehash}{e689b43ac5d3242f4613a353518abfb7}
+      \strng{authorbibnamehash}{e689b43ac5d3242f4613a353518abfb7}
+      \strng{authornamehash}{e689b43ac5d3242f4613a353518abfb7}
+      \strng{authorfullhash}{e689b43ac5d3242f4613a353518abfb7}
+      \strng{authorfullhashraw}{e689b43ac5d3242f4613a353518abfb7}
+      \strng{editorbibnamehash}{99ecde534bac600cbdc7ce59fd22a9b5}
+      \strng{editornamehash}{b6d0d14ba6713a20064e1e4c33bdbfba}
+      \strng{editorfullhash}{99ecde534bac600cbdc7ce59fd22a9b5}
+      \strng{editorfullhashraw}{99ecde534bac600cbdc7ce59fd22a9b5}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{editortype}{redactor}
+      \field{isbn}{978-1-4419-2942-6 978-1-4684-9286-6}
+      \field{series}{Applied {{Mathematical Sciences}}}
+      \field{title}{Shape {{Optimization}} by the {{Homogenization Method}}}
+      \field{urlday}{24}
+      \field{urlmonth}{2}
+      \field{urlyear}{2025}
+      \field{volume}{146}
+      \field{year}{2002}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.1007/978-1-4684-9286-6
+      \endverb
+      \verb{file}
+      \verb /home/morban/Zotero/storage/W4HAGIV4/Allaire - 2002 - Shape Optimization by the Homogenization Method.pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://link.springer.com/10.1007/978-1-4684-9286-6
+      \endverb
+      \verb{url}
+      \verb http://link.springer.com/10.1007/978-1-4684-9286-6
+      \endverb
+      \keyw{algorithm,analysis,mathematical modeling,mathematics,mechanical engineering,model,modeling,optimization,quality,simulation,structure}
+    \endentry
     \entry{suzukiHomogenizationMethodShape1991}{article}{}{}
       \name{author}{2}{}{%
         {{hash=d2a406d4367626f0a4adfc3b6d3eb98f}{%
@@ -1237,8 +1514,8 @@
       \strng{authornamehash}{af2863d2c1fc9d95e8f0f1e6b1cc5786}
       \strng{authorfullhash}{af2863d2c1fc9d95e8f0f1e6b1cc5786}
       \strng{authorfullhashraw}{af2863d2c1fc9d95e8f0f1e6b1cc5786}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Shape and topology optimization of a linearly elastic structure is discussed using a modification of the homogenization method introduced by Bendsoe and Kikuchi together with various examples which may justify validity and strength of the present approach for plane structures.}
@@ -1297,8 +1574,8 @@
       \strng{authornamehash}{6d82db8d81496af4a86a9a38914f9866}
       \strng{authorfullhash}{a5ee141ccfa1078248f11ecaa21dc1a8}
       \strng{authorfullhashraw}{a5ee141ccfa1078248f11ecaa21dc1a8}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{In this work, an in house topology optimization (TO) solver is developed to optimize a conjugate heat transfer problem: realizing more complex and efficient coolant systems by minimizing pressure losses and maximizing the heat transfer. The TO method consists in an idealized sedimentation process in which a design variable, in this case impermeability, is iteratively updated across the domain. The optimal solution is the solidified region uniquely defined by the final distribution of impermeability. Due to the geometrical complexity of the optimal solutions obtained, this design method is not always suitable for classic manufacturing methods (molding, stamping....) On the contrary, it can be thought as an approach to better and fully exploit the flexibility offered by additive manufacturing (AM), still often used on old and less efficient design techniques. In the present article, the proposed method is developed using a Lagrangian optimization approach to minimize stagnation pressure dissipation while maximizing heat transfer between fluid and solid region. An impermeability dependent thermal conductivity is included and a smoother operator is adopted to bound thermal diffusivity gradients across solid and fluid. Simulations are performed on a straight squared duct domain. The variability of the results is shown on the basis of different weights of the objective functions. The solver builds automatically three-dimensional structures enhancing the heat transfer level between the walls and the flow through the generation of pairs of counter rotating vortices. This is consistent to solution proposed in literature like v-shaped ribs, even if the geometry generated is more complex and more efficient. It is possible to define the desired level of heat transfer and losses and obtain the closest optimal solution. It is the first time that a conjugate heat transfer optimization problem, with these constraints, has been tackled with this approach for three-dimensional geometries.}
@@ -1354,8 +1631,8 @@
       \strng{authornamehash}{994812b01771f6397b1e2119ee41a104}
       \strng{authorfullhash}{994812b01771f6397b1e2119ee41a104}
       \strng{authorfullhashraw}{994812b01771f6397b1e2119ee41a104}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{This paper presents a projection method to obtain high-resolution, manufacturable structures from efficient and coarse-scale homogenization-based topology optimization results. The presented approach bridges coarse and fine scale, such that the complex periodic microstructures can be represented by a smooth and continuous lattice on the fine mesh. A heuristic methodology allows control of the projected topology, such that a minimum length scale on both solid and void features is ensured in the final result. Numerical examples show excellent behavior of the method, where performances of the projected designs are almost equal to the homogenization-based solutions. A significant reduction in computational cost is observed compared to conventional topology optimization approaches.}
@@ -1704,13 +1981,194 @@
       \endverb
       \keyw{homogenization,laminated composites,topology optimization}
     \endentry
+    \entry{allaireHomogenizationMethodTopology2019}{article}{}{}
+      \name{author}{5}{}{%
+        {{hash=e689b43ac5d3242f4613a353518abfb7}{%
+           family={Allaire},
+           familyi={A\bibinitperiod},
+           given={Grégoire},
+           giveni={G\bibinitperiod}}}%
+        {{hash=50dee8dfe6c62fad32d39137350de38b}{%
+           family={Cavallina},
+           familyi={C\bibinitperiod},
+           given={Lorenzo},
+           giveni={L\bibinitperiod}}}%
+        {{hash=0581425acfc4be83772b3bd1403b4d5d}{%
+           family={Miyake},
+           familyi={M\bibinitperiod},
+           given={Nobuhito},
+           giveni={N\bibinitperiod}}}%
+        {{hash=58b136d21024dffd4fd0920641625310}{%
+           family={Oka},
+           familyi={O\bibinitperiod},
+           given={Tomoyuki},
+           giveni={T\bibinitperiod}}}%
+        {{hash=fc5cee095a8fc306a35d6dfc7c66c082}{%
+           family={Yachimura},
+           familyi={Y\bibinitperiod},
+           given={Toshiaki},
+           giveni={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{ae20a50c3697c204fdf1c12e629373c3}
+      \strng{fullhash}{7a508d2791fa28df377d7919abfcb102}
+      \strng{fullhashraw}{7a508d2791fa28df377d7919abfcb102}
+      \strng{bibnamehash}{7a508d2791fa28df377d7919abfcb102}
+      \strng{authorbibnamehash}{7a508d2791fa28df377d7919abfcb102}
+      \strng{authornamehash}{ae20a50c3697c204fdf1c12e629373c3}
+      \strng{authorfullhash}{7a508d2791fa28df377d7919abfcb102}
+      \strng{authorfullhashraw}{7a508d2791fa28df377d7919abfcb102}
+      \field{extraname}{3}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Topology optimization of structures is nowadays a well developed field with many different approaches and a wealth of applications. One of the earliest methods of topology optimization was the so-called homogenization method, introduced in the early eighties. It became extremely popular in its over-simplified version, called SIMP (Solid Isotropic Material with Penalisation), which retains only the notion of material density and forgets about true composite materials with optimal (possibly non isotropic) microstructures. However, the appearance of mature additive manufacturing technologies which are able to build finely graded microstructures (sometimes called lattice materials) drastically change the picture and one can see a resurrection of the homogenization method for such applications. Indeed, homogenization is the right technique to deal with microstructured materials where anisotropy plays a key role, a feature which is absent from SIMP. Homogenization theory allows to replace the microscopic details of the structure (typically a complex networks of bars, trusses and plates) by a simpler effective elasticity tensor describing the mesoscopic properties of the structure. The goal of these lecture notes is to review the necessary mathematical tools of homogenization theory and apply them to topology optimization of mechanical structures. The ultimate application, targeted here, is the topology optimization of structures built with lattice materials. Practical and numerical exercises are given, based on the finite element free software FreeFem++.}
+      \field{journaltitle}{Interdisciplinary Information Sciences}
+      \field{number}{2}
+      \field{shorttitle}{The {{Homogenization Method}} for {{Topology Optimization}} of {{Structures}}}
+      \field{title}{The {{Homogenization Method}} for {{Topology Optimization}} of {{Structures}}: {{Old}} and {{New}}}
+      \field{volume}{25}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \field{pages}{75\bibrangedash 146}
+      \range{pages}{72}
+      \verb{doi}
+      \verb 10.4036/iis.2019.B.01
+      \endverb
+      \verb{file}
+      \verb /home/morban/Zotero/storage/U6VVEZ4F/Allaire et al. - 2019 - The Homogenization Method for Topology Optimization of Structures Old and New.pdf;/home/morban/Zotero/storage/7CBAE9AY/_article.html
+      \endverb
+      \keyw{homogenization,lattice materials,structures,topology optimization}
+    \endentry
+    \entry{bendsoeOptimalShapeDesign1989}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=193e92bb57a8aeb7a8a809f2e4f7221f}{%
+           family={Bendsøe},
+           familyi={B\bibinitperiod},
+           given={M.\bibnamedelimi P.},
+           giveni={M\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+      }
+      \strng{namehash}{193e92bb57a8aeb7a8a809f2e4f7221f}
+      \strng{fullhash}{193e92bb57a8aeb7a8a809f2e4f7221f}
+      \strng{fullhashraw}{193e92bb57a8aeb7a8a809f2e4f7221f}
+      \strng{bibnamehash}{193e92bb57a8aeb7a8a809f2e4f7221f}
+      \strng{authorbibnamehash}{193e92bb57a8aeb7a8a809f2e4f7221f}
+      \strng{authornamehash}{193e92bb57a8aeb7a8a809f2e4f7221f}
+      \strng{authorfullhash}{193e92bb57a8aeb7a8a809f2e4f7221f}
+      \strng{authorfullhashraw}{193e92bb57a8aeb7a8a809f2e4f7221f}
+      \field{extraname}{2}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Shape optimization in a general setting requires the determination of the optimal spatial material distribution for given loads and boundary conditions. Every point in space is thus a material point or a void and the optimization problem is a discrete variable one. This paper describes various ways of removing this discrete nature of the problem by the introduction of a density function that is a continuous design variable. Domains of high density then define the shape of the mechanical element. For intermediate densities, material parameters given by an artificial material law can be used. Alternatively, the density can arise naturally through the introduction of periodically distributed, microscopic voids, so that effective material parameters for intermediate density values can be computed through homogenization. Several examples in two-dimensional elasticity illustrate that these methods allow a determination of the topology of a mechanical element, as required for a boundary variations shape optimization technique.}
+      \field{day}{1}
+      \field{issn}{1615-1488}
+      \field{journaltitle}{Structural optimization}
+      \field{langid}{english}
+      \field{month}{12}
+      \field{number}{4}
+      \field{shortjournal}{Structural Optimization}
+      \field{title}{Optimal Shape Design as a Material Distribution Problem}
+      \field{urlday}{24}
+      \field{urlmonth}{2}
+      \field{urlyear}{2025}
+      \field{volume}{1}
+      \field{year}{1989}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{193\bibrangedash 202}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1007/BF01650949
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1007/BF01650949
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/BF01650949
+      \endverb
+      \keyw{Boundary Variation,Material Distribution,Material Parameter,Optimal Shape,Shape Design}
+    \endentry
+    \entry{rozvanyGeneralizedShapeOptimization1992}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=2dd717bb9ecafd6aa2723e522b7aa056}{%
+           family={Rozvany},
+           familyi={R\bibinitperiod},
+           given={G.\bibnamedelimi I.\bibnamedelimi N.},
+           giveni={G\bibinitperiod\bibinitdelim I\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+        {{hash=3edb51e096c6e1b022984c9159c4df2d}{%
+           family={Zhou},
+           familyi={Z\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=4460bdd6524af7df2a4e8941cd1327f3}{%
+           family={Birker},
+           familyi={B\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{f64e871644a9c63ef013b2dd6439ec8f}
+      \strng{fullhash}{a581fe3b57e587c24cf8ce6f836e0ca5}
+      \strng{fullhashraw}{a581fe3b57e587c24cf8ce6f836e0ca5}
+      \strng{bibnamehash}{a581fe3b57e587c24cf8ce6f836e0ca5}
+      \strng{authorbibnamehash}{a581fe3b57e587c24cf8ce6f836e0ca5}
+      \strng{authornamehash}{f64e871644a9c63ef013b2dd6439ec8f}
+      \strng{authorfullhash}{a581fe3b57e587c24cf8ce6f836e0ca5}
+      \strng{authorfullhashraw}{a581fe3b57e587c24cf8ce6f836e0ca5}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Two types of solutions may be considered in generalized shape optimization. Absolute minimum weight solutions, which are rather unpractical, consist of solid, empty and porous regions. In more practical solutions of shape optimization, porous regions are suppressed and only solid and empty regions remain. This note discusses this second class of problems and shows that a solid, isotropic microstructure with an adjustable penalty for intermediate densities is efficient in generating optimal topologies.}
+      \field{day}{1}
+      \field{issn}{1615-1488}
+      \field{journaltitle}{Structural optimization}
+      \field{langid}{english}
+      \field{month}{9}
+      \field{number}{3}
+      \field{shortjournal}{Structural Optimization}
+      \field{title}{Generalized Shape Optimization without Homogenization}
+      \field{urlday}{24}
+      \field{urlmonth}{2}
+      \field{urlyear}{2025}
+      \field{volume}{4}
+      \field{year}{1992}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{250\bibrangedash 252}
+      \range{pages}{3}
+      \verb{doi}
+      \verb 10.1007/BF01742754
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1007/BF01742754
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/BF01742754
+      \endverb
+      \keyw{Civil Engineer,Microstructure,Minimum Weight,Optimal Topology,Shape Optimization}
+    \endentry
+    \entry{SIMPMethodTopologyb}{online}{}{}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labeltitlesource}{title}
+      \field{title}{{{SIMP Method}} for {{Topology Optimization}} - 2019 - {{SOLIDWORKS Help}}}
+      \field{urlday}{24}
+      \field{urlmonth}{2}
+      \field{urlyear}{2025}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /home/morban/Zotero/storage/28V7NA6V/c_simp_method_topology.html
+      \endverb
+      \verb{urlraw}
+      \verb https://help.solidworks.com/2019/english/SolidWorks/cworks/c_simp_method_topology.htm
+      \endverb
+      \verb{url}
+      \verb https://help.solidworks.com/2019/english/SolidWorks/cworks/c_simp_method_topology.htm
+      \endverb
+    \endentry
   \enddatalist
-  \missing{Allaire 2001}
-  \missing{Bendsoe 1995}
-  \missing{Bensoe and Kikuchi 1989}
-  \missing{Jog 2002}
-  \missing{Martin Sigmun 1999}
-  \missing{Rozvany and Zhou 1992}
   \missing{peishu_thesis}
 \endrefsection
 \endinput
