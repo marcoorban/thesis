@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2025.1.30)  24 FEB 2025 15:21
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2025.1.30)  24 FEB 2025 17:12
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -859,7 +859,28 @@ Package biblatex Warning: The following entry could not be found
 
 Package biblatex Warning: The following entry could not be found
 (biblatex)                in the database:
+(biblatex)                Bensoe and Kikuchi 1989
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
 (biblatex)                Jog 2002
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Martin Sigmun 1999
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Rozvany and Zhou 1992
 (biblatex)                Please verify the spelling and rerun
 (biblatex)                LaTeX afterwards.
 
@@ -970,15 +991,26 @@ LaTeX Warning: Citation 'Bendsoe 1995' on page 7 undefined on input line 53.
 LaTeX Warning: Citation 'Allaire 2001' on page 7 undefined on input line 53.
 
 
-Overfull \hbox (38.85231pt too wide) in paragraph at lines 53--54
+LaTeX Warning: Citation 'Martin Sigmun 1999' on page 7 undefined on input line 55.
+
+
+LaTeX Warning: Citation 'Bensoe and Kikuchi 1989' on page 7 undefined on input line 55.
+
+
+LaTeX Warning: Citation 'Rozvany and Zhou 1992' on page 7 undefined on input line 55.
+
+
+Overfull \hbox (38.85231pt too wide) in paragraph at lines 53--56
 []\TU/lmr/m/n/12 A different alternative would be the utilization of a homogenization method [],
  []
 
 
 
-[7])
+[7]
 
-[8]
+[8])
+
+[9]
 \openout2 = `methodology/methodology.aux'.
 
  (./methodology/methodology.tex
@@ -986,74 +1018,74 @@ Chapter 3.
 File: images/process_diagram.png Graphic file (type bmp)
 <images/process_diagram.png>
 
-LaTeX Warning: Citation 'peishu_thesis' on page 9 undefined on input line 29.
+LaTeX Warning: Citation 'peishu_thesis' on page 10 undefined on input line 29.
 
 
 
-[9
+[10
 
 
 
 
 ]
 
-[10]
+[11]
 File: images/cube.png Graphic file (type bmp)
 <images/cube.png>
 
 
-LaTeX Warning: Marginpar on page 11 moved.
+LaTeX Warning: Marginpar on page 12 moved.
 
 
-
-[11]
 
 [12]
 
 [13]
 
-LaTeX Warning: Marginpar on page 14 moved.
-
-
-LaTeX Warning: Marginpar on page 14 moved.
-
-
-LaTeX Warning: Marginpar on page 14 moved.
-
-
-LaTeX Warning: Marginpar on page 14 moved.
-
-
-
 [14]
 
+LaTeX Warning: Marginpar on page 15 moved.
+
+
+LaTeX Warning: Marginpar on page 15 moved.
+
+
+LaTeX Warning: Marginpar on page 15 moved.
+
+
+LaTeX Warning: Marginpar on page 15 moved.
+
+
+
 [15]
-Overfull \hbox (60.29135pt too wide) in paragraph at lines 140--140
-\TU/lmr/m/n/12 10.3390/thermo4010005[]  
- []
-
-
-Overfull \hbox (60.29135pt too wide) in paragraph at lines 140--140
-\TU/lmr/m/n/12 10.3390/thermo4010005[]  
- []
-
-
 
 [16]
-
-LaTeX Warning: Marginpar on page 17 moved.
-
-
-LaTeX Warning: Marginpar on page 17 moved.
+Overfull \hbox (60.29135pt too wide) in paragraph at lines 140--140
+\TU/lmr/m/n/12 10.3390/thermo4010005[]  
+ []
 
 
-LaTeX Warning: Marginpar on page 17 moved.
+Overfull \hbox (60.29135pt too wide) in paragraph at lines 140--140
+\TU/lmr/m/n/12 10.3390/thermo4010005[]  
+ []
 
 
 
-[17] (./main.tdo
+[17]
 
-[18
+LaTeX Warning: Marginpar on page 18 moved.
+
+
+LaTeX Warning: Marginpar on page 18 moved.
+
+
+LaTeX Warning: Marginpar on page 18 moved.
+
+
+
+[18] (./main.tdo
+
+[19
 
 ])
 \tf@tdo=\write5
@@ -1061,7 +1093,7 @@ LaTeX Warning: Marginpar on page 17 moved.
 
 )
 
-[19]
+[20]
 
 Package fontspec Info: 
 (fontspec)             Script 'CJK' not explicitly supported within font
@@ -1088,7 +1120,7 @@ Overfull \hbox (9.7436pt too wide) in paragraph at lines 40--40
 
 
 
-[20
+[21
 
 
 
@@ -1104,20 +1136,20 @@ Overfull \hbox (3.82832pt too wide) in paragraph at lines 40--40
 
 
 
-[21]
-
 [22]
+
+[23]
 Overfull \hbox (14.61674pt too wide) in paragraph at lines 40--40
 []\TU/lmr/m/n/12 B. S. Lazarov and O. Sigmund, “Filters in topology optimization based on Helmholtz-
  []
 
 
 
-[23]
-
 [24]
 
-[25] (./main.aux (./introduction/introduction.aux) (./litreview/litreview.aux) (./methodology/methodology.aux))
+[25]
+
+[26] (./main.aux (./introduction/introduction.aux) (./litreview/litreview.aux) (./methodology/methodology.aux))
  ***********
 LaTeX2e <2024-11-01> patch level 1
 L3 programming layer <2022/08/05>
@@ -1127,12 +1159,12 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 26221 strings out of 473846
- 589864 string characters out of 5729886
- 1470572 words of memory out of 5000000
- 48839 multiletter control sequences out of 15000+600000
+ 26222 strings out of 473846
+ 589879 string characters out of 5729886
+ 1469731 words of memory out of 5000000
+ 48840 multiletter control sequences out of 15000+600000
  569891 words of font info for 97 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  117i,8n,121p,2147b,5001s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on main.xdv (26 pages, 495456 bytes).
+Output written on main.xdv (27 pages, 513640 bytes).

@@ -51,6 +51,25 @@ where we sum over all the elements of the domain and $\bm{\rho}$ is a vector tha
 Unfortunately, the formulation above suffers from a major problems. Stated as is, the problem above is well-known to be ill-posed \todo{cite Kohn and Strang, reference in Liu paper}, as it is possible to obtain a chattering design with an infinite number of holes of infinitesimal size, thus rendering this compliace problem to be unbounded \cite{liuEfficient3DTopology2014}. To remedy this situation, several approaches have been proposed in the literature. One approach to control the chattering design is ensure that the total perimeter of the resulting structure has un upper bound \cite{haberNewApproachVariabletopology1996} \cite{Jog 2002}, but this e method suffers from several complications in implementation, and small variations in the parameters of the algorithm can lead to wildly different designs of the final structure \cite{Jog 2002}.
 
 A different alternative would be the utilization of a homogenization method \cite{Bendsoe 1995, Allaire 2001} \cite{suzukiHomogenizationMethodShape1991} in which the binary representation of the material within the design domain is relaxed and intermediate values of densities are allowed, instead of just allowing empty and filled-values. One of the difficulties with using the homogenization method is how to interpret the intermiediate densities of the material. In topology optimization problem involving the design of fluid flow media, the minimum value of the density could be interpreted as a fluid, the maximum value could be interpreted as a solid, while intermediate values could be interpreted as porous media \cite{pietropaoliThreedimensionalFluidTopology2019}. In structural problems, intermediate values could be interpreted as periodic composite materials with high-resolution microscopic features \cite{groenHomogenizationbasedTopologyOptimization2018} \cite{alexandersenTopologyOptimisationManufacturable2015}, materials that are composed of lattice structures \cite{allaireTopologyOptimizationModulated2019}, or even complex structures consisting of anisotropic fiber-reinforced composite materials \cite{kimTopologyOptimizationFunctionally2020}. Although the homogenization method is successful in solving the chattering design problem, validation of the resulting topologies using most FEM software are very computationally expensive, since the resulting microstructures requires very fine meshes with high number of elements and nodes \cite{kimComputationalHomogenizationAdditively2022}. Additionally, the use of microstructures can also lead to stress amplifications which need to be managed appropriately to avoid regions of high stress concentration that might compromise the stability or functionality of the manufactured part \cite{allaireTopologyOptimizationMinimum2004}.
+{}
+Another method that avoids the application of homogenization theory is to yet use another continuous density value with no microstructure. This type of approach is called the density-based approach, in which the mechanical properties  of the material element, such as the stiffness tensor of the structure, are determined by using a power-law interpolation function that ranges between void and solid \cite{Martin Sigmun 1999}. The main difference between this method and the intermediate densities of the homogenization method is that the power law seeks to penalize intermediate densities, and thus seeks to drive the material density within the design domain towards a void-material configuration. This type of penalization procedure is referred to as the Solid Isotropic Material Penalization (SIMP) \cite {Bensoe and Kikuchi 1989} \cite{ Rozvany and Zhou 1992}. 
+
+Take again the example of the design of a structure supporting certain loads as in equation \ref{eq:topopt_eq}. Using SIMP, the material density inside the design domain can take intermediate values, and consequently, so can the structure's Young's modulus of elasticity. The Young's modulus can be computed using the following power law:
+
+\begin{equation}
+  E_i = E_i(\rho_i) = \rho^p_i E_i,
+  \label{eq:young_simp}
+\end{equation}
+
+where $E_0$ is the modulus of elasticity of the soliud material and $p$ is the penalization factor that tries to drive the density towards its binary void and solid representations. However, since the SIMP method is usually used in conjunction with Finite Element Methods to solve for the density distribution, it is required to avoid void material configurations that would result in singularities during the numerical computation steps. Instead, we can rewrite equation \ref{eq:young_simp} as:
+
+\begin{equation}
+  E_i = E_i(\rho_i) = E_{min} + \rho_i^p (E_0 - E_{min}),
+\end{equation}
+
+in which the addition of the $E_min$ avoids singularities, and $E_0$ can be chosen to be small to represent regions of void material.
+
+
 
 Talk here about density-based approach and SIMP 
 
