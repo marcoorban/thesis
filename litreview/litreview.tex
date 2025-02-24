@@ -27,41 +27,37 @@ Topology optimization can be used for the design of the desired component itself
 
 Lee and Xie \cite{leeSimultaneouslyOptimizingSupports2021} developed an optimization algorithm that detects the best locations for supports in the boundaries of the design space, which can lead to an increase in stiffness and aid in minimizing deformation.
 
-\section{Additive manufacturing}
-
-This section needs to be more specific about how additive manufacturing works.1
-
-\section{Support structures}
-
 \section{Topology optimization}
 
-Topology optimization is an optimization technique that seeks to find the optimal shape within a volume that satisfies certain governing equations, while at the same time satisfying specific constraints. This technique is usually utilized for the design of structures with no preconceived shape. When topology optimization is used for the purpose of designing structures, the optimal shape resulting from the analysis can be interpreted as a material distribution within the specified volume, which is called the design domain. A classical application of topology optimization is the binary compliance problem, in which regions of solid and void materials are distributed in order to minimize the work done by external forces (this is called compliance), also subject to a volume constraint \cite{liuEfficient3DTopology2014}. The problem of topology optimization can be expressed mathematically as follows \cite{lazarovFiltersTopologyOptimization2011}
+Topology optimization is an optimization technique that seeks to find the optimal shape within a volume that satisfies certain governing equations while at the same time satisfying specific constraints. This technique is usually utilized for the design of structures with no preconceived shape. mathematically speaking, topology optimization seeks to find the optimal distribution of a design variable x within a design domain. The placement of x will also obey certain governing equations that are valid within the domain, and the existence of this distribution of x will also depend on a certain objective that is wished to be minimized, alongside other constraints that might be imposed in the syste. A classical example of topology optimization is the so called binary compliance problem, in which regions of solid and void material are distributed inside a volume to design a structural component that will be able to withstand certain loads applied to its boundaries, but that will have the least amount of deformation possible, while only using a certain fraction of the design volume, or keeping the total weight of the structure withing a certain limit. We can express this specific problem mathematically as:
+
+\begin{align} 
+  min: & \hspace{0.5cm} c(\bm{\rho}) = \bm{F}^T \bm{U}  \\
+  s.t.: & \hspace{0.5cm} \bm{K}(\bm{\rho})\bm{U} = \bm{F}  \\
+        & \hspace{0.5cm} V = \sum _{i \in \Omega} \rho_i v_i \leq V_c \\ 
+        & \hspace{0.5cm} 0 \leq \rho_{min} \leq \rho_i \leq 1
+\end{align}
+\label{eq:topopt_eq}
+
+where in equation \ref{eq:topopt_eq} the objective function that is to be minimized is given by $c(\rho) = f^T u$, where $\rho$ takes the value 0 or 1 depending on whether our small region in space is empty or contains material, $u$ is the displacement of piece of material and $f$ is the force applied to it. This quantity is referred to as compliance, and physicall it is the inverse of the stiffness of the structure. The deformation of this material in the design domain is controlled by Hooke's Law, which is shown in the above equation as $K(\rho) u = f$. $\bm{K}(\bm{\rho})$ is defined as a global stiffness matrix \todo{cite 19 Wilberg finite element method book}
 
 \begin{equation}
-  \label{eq:topopt_eq}
-  min: c(\rho) = f^T u 
-  s.t. : K(\rho)u = f 
-  V = \Sigma i \in \Omega \rho_i v_i
+  abc
+  \label{eq:stiffness}
 \end{equation}
 
-In the above formulation, the design domain 
+where we sum over all the elements of the domain and $\bm{\rho}$ is a vector that contains the design variables \cite{lazarovFiltersTopologyOptimization2011}. 
 
-This binary compliance problem suffers from a serious drawback; the problem is ill-posed and the solution will converge to a material distribution in the shape of a checkerboard pattern, with infinitesimal holes. To alleviate this, several restrictions must be made  and the equations used to generate the structure must be modified. 
+Unfortunately, the formulation above suffers from a major problems. Stated as is, the problem above is well-known to be ill-posed \todo{cite Kohn and Strang, reference in Liu paper}, as it is possible to obtain a chattering design with an infinite number of holes of infinitesimal size, thus rendering this compliace problem to be unbounded \cite{liuEfficient3DTopology2014}. To remedy this situation, several approaches have been proposed in the literature. One approach to control the chattering design is ensure that the total perimeter of the resulting structure has un upper bound \cite{haberNewApproachVariabletopology1996} \cite{Jog 2002}, but this e method suffers from several complications in implementation, and small variations in the parameters of the algorithm can lead to wildly different designs of the final structure \cite{Jog 2002}.
+
+A different alternative would be the utilization of a homogenization method \cite{Bendsoe 1995, Allaire 2001} \cite{suzukiHomogenizationMethodShape1991} in which the binary representation of the material within the design domain is relaxed and intermediate values of densities are allowed, instead of just allowing empty and filled-values. One of the difficulties with using the homogenization method is how to interpret the intermiediate densities of the material. In topology optimization problem involving the design of fluid flow media, the minimum value of the density could be interpreted as a fluid, the maximum value could be interpreted as a solid, while intermediate values could be interpreted as porous media \cite{pietropaoliThreedimensionalFluidTopology2019}. In structural problems, intermediate values could be interpreted as periodic composite materials with high-resolution microscopic features \cite{groenHomogenizationbasedTopologyOptimization2018} \cite{alexandersenTopologyOptimisationManufacturable2015}, materials that are composed of lattice structures \cite{allaireTopologyOptimizationModulated2019}, or even complex structures consisting of anisotropic fiber-reinforced composite materials \cite{kimTopologyOptimizationFunctionally2020}. Although the homogenization method is successful in solving the chattering design problem, validation of the resulting topologies using most FEM software are very computationally expensive, since the resulting microstructures requires very fine meshes with high number of elements and nodes \cite{kimComputationalHomogenizationAdditively2022}. Additionally, the use of microstructures can also lead to stress amplifications which need to be managed appropriately to avoid regions of high stress concentration that might compromise the stability or functionality of the manufactured part \cite{allaireTopologyOptimizationMinimum2004}.
 
 Talk here about density-based approach and SIMP 
 
 Talk here about the filters, density filters and Helmholtz filters
 
-Techniques such as perimeter control methods [] density gradient control 
-and mesh-independent density filters could be used to solve the problem of a chattering design [reference goes here, fitler in topology optimization. A filtering approach implements an algorithm that itereates over all the points in the design domain, and uses weighted values of its surroindings to determine the final density value of the point in question, effectively computing the weighted average of a point and its surroindings.
-
 Talk here about hyperbolic tangent and what it does to the fitler
 
-Here, the full equation of topology optimization using all of the above should be shown.
-
-\section{Heat transfer in supporting structures}
-
-\section{Compliance in support structures}
 
 \section{Research Purpose}
  

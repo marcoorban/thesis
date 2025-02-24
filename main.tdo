@@ -1,26 +1,28 @@
 \contentsline {todo}{maybe add more references here}{5}{}%
 \contentsline {todo}{maybe talk more about topology optimization here}{5}{}%
 \contentsline {todo}{this paragraph talks about two uses for topology optimization: for the part itself, and for support strucutres.}{5}{}%
-\contentsline {todo}{Figure: measurements of triangles.}{9}{}%
-\contentsline {todo}{Add cylinders here}{10}{}%
-\contentsline {todo}{Add figure of cylinders}{10}{}%
-\contentsline {todo}{Figure: Figure of cylindrical geometry}{10}{}%
-\contentsline {todo}{need to expand on this and make it better. need to get dimesions of components}{11}{}%
-\contentsline {todo}{Figure: figures of triangular domain}{11}{}%
-\contentsline {todo}{Add here the cylindrical component geometry}{11}{}%
-\contentsline {todo}{Write down equation of thermal conductivity for top optimiation domain here.}{12}{}%
-\contentsline {todo}{probably want to add a reference to this somewhere.}{13}{}%
-\contentsline {todo}{Write equation of compliance here}{13}{}%
-\contentsline {todo}{Merge them together to get the final objective function. Explain about the weights.}{13}{}%
-\contentsline {todo}{Talk about Helmholtz filter}{13}{}%
-\contentsline {todo}{Hyperbolic tangent}{13}{}%
-\contentsline {todo}{add version here}{14}{}%
-\contentsline {todo}{Figure: add figure of error / warning from Simufact due to import of structure with gaps. Two figures should suffice here.}{14}{}%
-\contentsline {todo}{add reference here}{15}{}%
-\contentsline {todo}{add that thermomechanical process was used and explain what it is.}{15}{}%
-\contentsline {todo}{insert reference to manual here}{15}{}%
-\contentsline {todo}{add the table of building parameters here.}{15}{}%
-\contentsline {todo}{explain why base plate temeprature might be used in practice, might want to add reference to 10.3390/thermo4010005}{16}{}%
-\contentsline {todo}{Need to add exposure time, exposure energy fraction, and volumetric expansion factors here. Need to refer to Comsol documentation to explain what these are and how they influence the results.}{16}{}%
-\contentsline {todo}{Need to say that no calibration was done. Explain why calibration is necessary for the manufacture of parts, but also explain the reason no calibration was done here.}{16}{}%
-\contentsline {todo}{Explain what this is and how it is done, and what the purpose of this is.}{16}{}%
+\contentsline {todo}{cite 19 Wilberg finite element method book}{7}{}%
+\contentsline {todo}{cite Kohn and Strang, reference in Liu paper}{7}{}%
+\contentsline {todo}{Figure: measurements of triangles.}{10}{}%
+\contentsline {todo}{Add cylinders here}{11}{}%
+\contentsline {todo}{Add figure of cylinders}{11}{}%
+\contentsline {todo}{Figure: Figure of cylindrical geometry}{11}{}%
+\contentsline {todo}{need to expand on this and make it better. need to get dimesions of components}{12}{}%
+\contentsline {todo}{Figure: figures of triangular domain}{12}{}%
+\contentsline {todo}{Add here the cylindrical component geometry}{12}{}%
+\contentsline {todo}{Write down equation of thermal conductivity for top optimiation domain here.}{13}{}%
+\contentsline {todo}{probably want to add a reference to this somewhere.}{14}{}%
+\contentsline {todo}{Write equation of compliance here}{14}{}%
+\contentsline {todo}{Merge them together to get the final objective function. Explain about the weights.}{14}{}%
+\contentsline {todo}{Talk about Helmholtz filter}{14}{}%
+\contentsline {todo}{Hyperbolic tangent}{14}{}%
+\contentsline {todo}{add version here}{15}{}%
+\contentsline {todo}{Figure: add figure of error / warning from Simufact due to import of structure with gaps. Two figures should suffice here.}{15}{}%
+\contentsline {todo}{add reference here}{16}{}%
+\contentsline {todo}{add that thermomechanical process was used and explain what it is.}{16}{}%
+\contentsline {todo}{insert reference to manual here}{16}{}%
+\contentsline {todo}{add the table of building parameters here.}{16}{}%
+\contentsline {todo}{explain why base plate temeprature might be used in practice, might want to add reference to 10.3390/thermo4010005}{17}{}%
+\contentsline {todo}{Need to add exposure time, exposure energy fraction, and volumetric expansion factors here. Need to refer to Comsol documentation to explain what these are and how they influence the results.}{17}{}%
+\contentsline {todo}{Need to say that no calibration was done. Explain why calibration is necessary for the manufacture of parts, but also explain the reason no calibration was done here.}{17}{}%
+\contentsline {todo}{Explain what this is and how it is done, and what the purpose of this is.}{17}{}%

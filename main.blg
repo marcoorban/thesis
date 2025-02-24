@@ -1,17 +1,20 @@
 [0] Config.pm:308> INFO - This is Biber 2.20
 [0] Config.pm:311> INFO - Logfile is 'main.blg'
-[43] biber:340> INFO - === Thu Feb 20, 2025, 15:50:17
-[53] Biber.pm:420> INFO - Reading 'main.bcf'
-[90] Biber.pm:994> INFO - Found 19 citekeys in bib section 0
-[97] Biber.pm:4463> INFO - Processing section 0
-[102] Biber.pm:4654> INFO - Looking for bibtex file 'references.bib' for section 0
-[105] bibtex.pm:1713> INFO - LaTeX decoding ...
-[125] bibtex.pm:1519> INFO - Found BibTeX data source 'references.bib'
-[248] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[248] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[248] Biber.pm:4283> INFO - Sorting list 'none/global//global/global/global' of type 'entry' with template 'none' and locale 'en-US'
-[248] Biber.pm:4289> INFO - No sort tailoring available for locale 'en-US'
-[257] bbl.pm:676> INFO - Writing 'main.bbl' with encoding 'UTF-8'
-[264] bbl.pm:779> INFO - Output to main.bbl
-[264] Biber.pm:131> WARN - I didn't find a database entry for 'peishu_thesis' (section 0)
-[264] Biber.pm:133> INFO - WARNINGS: 1
+[44] biber:340> INFO - === Mon Feb 24, 2025, 15:21:14
+[54] Biber.pm:420> INFO - Reading 'main.bcf'
+[91] Biber.pm:994> INFO - Found 31 citekeys in bib section 0
+[98] Biber.pm:4463> INFO - Processing section 0
+[104] Biber.pm:4654> INFO - Looking for bibtex file 'references.bib' for section 0
+[108] bibtex.pm:1713> INFO - LaTeX decoding ...
+[137] bibtex.pm:1519> INFO - Found BibTeX data source 'references.bib'
+[290] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[290] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[290] Biber.pm:4283> INFO - Sorting list 'none/global//global/global/global' of type 'entry' with template 'none' and locale 'en-US'
+[290] Biber.pm:4289> INFO - No sort tailoring available for locale 'en-US'
+[303] bbl.pm:676> INFO - Writing 'main.bbl' with encoding 'UTF-8'
+[312] bbl.pm:779> INFO - Output to main.bbl
+[312] Biber.pm:131> WARN - I didn't find a database entry for 'Jog 2002' (section 0)
+[312] Biber.pm:131> WARN - I didn't find a database entry for 'Bendsoe 1995' (section 0)
+[312] Biber.pm:131> WARN - I didn't find a database entry for 'Allaire 2001' (section 0)
+[312] Biber.pm:131> WARN - I didn't find a database entry for 'peishu_thesis' (section 0)
+[312] Biber.pm:133> INFO - WARNINGS: 4
