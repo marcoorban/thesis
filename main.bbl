@@ -60,7 +60,7 @@
       \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{abstract}{Total knee arthroplasty (TKA) is one of the most effective, cost-efficient, and consistently successful surgeries in orthopedics. Patient-reported outcomes underscore its significant impact on pain relief, functional restoration, and improved quality of life. TKA provides reliable outcomes for patients with end-stage , tricompartmental, or degenerative osteoarthritis.~Considering osteoarthritis affects millions of people in the United States, the knee~bears the~brunt of this progressive~condition, which is characterized by a gradual degeneration and loss of articular cartilage. Estimates indicate an annual incidence of symptomatic knee osteoarthritis at 240 per 100,000 patients, with approximately 400,000 primary TKA surgeries performed annually in the United States. Although~primary osteoarthritis is the most common clinical diagnosis associated with TKA, other~potential underlying diagnoses include inflammatory arthritis, fracture (posttraumatic osteoarthritis or deformity), dysplasia, and malignancy.}
+      \field{abstract}{Total knee arthroplasty (TKA) is one of the most effective, cost-efficient, and consistently successful surgeries in orthopedics. Patient-reported outcomes underscore its significant impact on pain relief, functional restoration, and improved quality of life. TKA provides reliable outcomes for patients with end-stage, tricompartmental, or degenerative osteoarthritis.~Considering osteoarthritis affects millions of people in the United States, the knee~bears the~brunt of this progressive~condition, which is characterized by a gradual degeneration and loss of articular cartilage. Estimates indicate an annual incidence of symptomatic knee osteoarthritis at 240 per 100,000 patients, with approximately 400,000 primary TKA surgeries performed annually in the United States. Although~primary osteoarthritis is the most common clinical diagnosis associated with TKA, other~potential underlying diagnoses include inflammatory arthritis, fracture (posttraumatic osteoarthritis or deformity), dysplasia, and malignancy.}
       \field{booktitle}{{{StatPearls}}}
       \field{eprinttype}{pmid}
       \field{langid}{english}
@@ -307,6 +307,64 @@
       \verb https://asmedigitalcollection.asme.org/manufacturingscience/article/139/8/081010/376354/Metal-Additive-Manufacturing-Cost-Competitive
       \endverb
     \endentry
+    \entry{marshTrendsDevelopmentsHip2021}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=8c3bb8aa0ac19852c2a169132d7b40dc}{%
+           family={Marsh},
+           familyi={M\bibinitperiod},
+           given={Martin},
+           giveni={M\bibinitperiod}}}%
+        {{hash=16f17ab86ce93b4e9205884d75437c61}{%
+           family={Newman},
+           familyi={N\bibinitperiod},
+           given={Simon},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{e35780b804a3cabf6730cfc7741bb5f3}
+      \strng{fullhash}{e35780b804a3cabf6730cfc7741bb5f3}
+      \strng{fullhashraw}{e35780b804a3cabf6730cfc7741bb5f3}
+      \strng{bibnamehash}{e35780b804a3cabf6730cfc7741bb5f3}
+      \strng{authorbibnamehash}{e35780b804a3cabf6730cfc7741bb5f3}
+      \strng{authornamehash}{e35780b804a3cabf6730cfc7741bb5f3}
+      \strng{authorfullhash}{e35780b804a3cabf6730cfc7741bb5f3}
+      \strng{authorfullhashraw}{e35780b804a3cabf6730cfc7741bb5f3}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The developments in hip and knee arthroplasty over recent years have aimed to improve outcomes, reduce complications and improve implant survival. This review describes some of the most interesting trends and developments in this important and fast-moving field. Notable developments have included ceramic hip resurfacing, mini hip stems, cementless knee replacement and the wider adoption of the dual mobility articulation for hip arthroplasty. Advances in additive manufacturing and the surface modification of joint replacements offer increasing options for more challenging arthroplasty cases. Robotic assisted surgery is one of the most interesting developments in hip and knee surgery. The recent growth in the use of this technology is providing data that will help determine whether this approach should become the standard of care for hip and knee arthroplasty in the future.}
+      \field{day}{8}
+      \field{eprinttype}{pmid}
+      \field{issn}{2055-6683}
+      \field{journaltitle}{Journal of Rehabilitation and Assistive Technologies Engineering}
+      \field{month}{2}
+      \field{shortjournal}{J Rehabil Assist Technol Eng}
+      \field{title}{Trends and Developments in Hip and Knee Arthroplasty Technology}
+      \field{urlday}{17}
+      \field{urlmonth}{2}
+      \field{urlyear}{2025}
+      \field{volume}{8}
+      \field{year}{2021}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{2055668320952043}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1177/2055668320952043
+      \endverb
+      \verb{eprint}
+      \verb 33614108
+      \endverb
+      \verb{file}
+      \verb /home/morban/Zotero/storage/YMXVLHBU/Marsh and Newman - 2021 - Trends and developments in hip and knee arthroplasty technology.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7874345/
+      \endverb
+      \verb{url}
+      \verb https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7874345/
+      \endverb
+    \endentry
     \entry{mobarakRecentAdvancesAdditive2023}{article}{}{}
       \name{author}{7}{}{%
         {{hash=40954d8614592f1a7edfeb99a097e84b}{%
@@ -353,17 +411,17 @@
       \strng{authornamehash}{77cb8c7891198a2beda643b62f710369}
       \strng{authorfullhash}{aaf55c2c08fd03803d8b1c7fdd29f270}
       \strng{authorfullhashraw}{aaf55c2c08fd03803d8b1c7fdd29f270}
-      \field{sortinit}{7}
-      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{abstract}{The use of additive manufacturing, or 3D printing, has progressed beyond prototyping to produce intricate and valuable finished goods. The potential of additive manufacturing has increased across numerous industries due to the expansion of materials, such as high-performance metals and polymers, and advancements in machine capabilities, such as multi-material printing. By enabling complex designs, reduced waste, and quick production, it has the potential to revolutionize the consumer goods, healthcare, automotive manufacturing, and aerospace industries. The development of specialized scaffolds has been made possible by the precise control that additive manufacturing provides over the internal structure of porous materials. This technology has revolutionized tissue engineering and regenerative medicine. Furthermore, it has made it possible to create individualized implants and prosthetics that improve patient comfort and outcomes in orthopedic and dental applications. Also, it provides flexibility in design and customization for individualized implants and prosthetics in orthopedic and dental applications. Design flexibility, waste reduction, improved biocompatibility, quick prototyping, and cost-effectiveness are benefits of additive manufacturing for implants. For personalized healthcare, regenerative medicine, and better patient outcomes, additive manufacturing holds promise as the technology develops with further advancements in printing speed , resolution, and scalability.}
+      \field{abstract}{The use of additive manufacturing, or 3D printing, has progressed beyond prototyping to produce intricate and valuable finished goods. The potential of additive manufacturing has increased across numerous industries due to the expansion of materials, such as high-performance metals and polymers, and advancements in machine capabilities, such as multi-material printing. By enabling complex designs, reduced waste, and quick production, it has the potential to revolutionize the consumer goods, healthcare, automotive manufacturing, and aerospace industries. The development of specialized scaffolds has been made possible by the precise control that additive manufacturing provides over the internal structure of porous materials. This technology has revolutionized tissue engineering and regenerative medicine. Furthermore, it has made it possible to create individualized implants and prosthetics that improve patient comfort and outcomes in orthopedic and dental applications. Also, it provides flexibility in design and customization for individualized implants and prosthetics in orthopedic and dental applications. Design flexibility, waste reduction, improved biocompatibility, quick prototyping, and cost-effectiveness are benefits of additive manufacturing for implants. For personalized healthcare, regenerative medicine, and better patient outcomes, additive manufacturing holds promise as the technology develops with further advancements in printing speed, resolution, and scalability.}
       \field{day}{1}
       \field{issn}{2666-5239}
       \field{journaltitle}{Applied Surface Science Advances}
       \field{month}{12}
       \field{shortjournal}{Applied Surface Science Advances}
-      \field{title}{Recent Advances of Additive Manufacturing in Implant Fabrication – {{ A}} Review}
+      \field{title}{Recent Advances of Additive Manufacturing in Implant Fabrication – {{A}} Review}
       \field{urlday}{17}
       \field{urlmonth}{2}
       \field{urlyear}{2025}
@@ -456,8 +514,8 @@
       \strng{authornamehash}{21a28a22b906d6dd0778001777bd3457}
       \strng{authorfullhash}{a370ea1d5791c25eb0100690c4460a09}
       \strng{authorfullhashraw}{a370ea1d5791c25eb0100690c4460a09}
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
       \field{abstract}{The integration of three-dimensional (3D) printing techniques into the domains of biomedical research and personalized medicine highlights the evolving paradigm shifts within contemporary healthcare}
@@ -493,6 +551,500 @@
       \verb https://www.explorationpub.com/Journals/em/Article/1001200
       \endverb
     \endentry
+    \entry{allaireOptimizingSupportsAdditive2018}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=e689b43ac5d3242f4613a353518abfb7}{%
+           family={Allaire},
+           familyi={A\bibinitperiod},
+           given={Grégoire},
+           giveni={G\bibinitperiod}}}%
+        {{hash=1a7d67fe1fe1e62b5a6682ee5b2ffc9d}{%
+           family={Bogosel},
+           familyi={B\bibinitperiod},
+           given={Beniamin},
+           giveni={B\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer Berlin Heidelberg}%
+      }
+      \strng{namehash}{3701ba1e275600918a7fbb60f046f0c3}
+      \strng{fullhash}{3701ba1e275600918a7fbb60f046f0c3}
+      \strng{fullhashraw}{3701ba1e275600918a7fbb60f046f0c3}
+      \strng{bibnamehash}{3701ba1e275600918a7fbb60f046f0c3}
+      \strng{authorbibnamehash}{3701ba1e275600918a7fbb60f046f0c3}
+      \strng{authornamehash}{3701ba1e275600918a7fbb60f046f0c3}
+      \strng{authorfullhash}{3701ba1e275600918a7fbb60f046f0c3}
+      \strng{authorfullhashraw}{3701ba1e275600918a7fbb60f046f0c3}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{In additive manufacturing process, support structures are often required to ensure the quality of the final built part. In this article, we present mathematical models and their numerical implementations in an optimization loop, which allow us to design optimal support structures. Our models are derived with the requirement that they should be as simple as possible, computationally cheap, and, yet, based on a realistic physical modelling. Supports are optimized with respect to two different physical properties. First, they must support overhanging regions of the structure for improving the stiffness of the supported structure during the building process. Second, supports can help in channeling the heat flux produced by the source term (typically a laser beam) and thus improving the cooling down of the structure during the fabrication process. Of course, more involved constraints or manufacturability conditions could be taken into account, most notably removal of supports. Our work is just a first step, proposing a general framework for support optimization. Our optimization algorithm is based on the level set method and on the computation of shape derivatives by the Hadamard method. In a first approach, only the shape and topology of the supports are optimized, for a given and fixed structure. In a second and more elaborated strategy, both the supports and the structure are optimized, which amounts to a specific multiphase optimization problem. Numerical examples are given in 2D and 3D.}
+      \field{day}{1}
+      \field{issn}{1615-1488}
+      \field{issue}{6}
+      \field{journaltitle}{Structural and Multidisciplinary Optimization}
+      \field{langid}{english}
+      \field{month}{12}
+      \field{number}{6}
+      \field{shortjournal}{Struct Multidisc Optim}
+      \field{title}{Optimizing Supports for Additive Manufacturing}
+      \field{urlday}{20}
+      \field{urlmonth}{2}
+      \field{urlyear}{2025}
+      \field{volume}{58}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{2493\bibrangedash 2515}
+      \range{pages}{23}
+      \verb{doi}
+      \verb 10.1007/s00158-018-2125-x
+      \endverb
+      \verb{file}
+      \verb /home/morban/Zotero/storage/D9P8GW4K/Allaire and Bogosel - 2018 - Optimizing supports for additive manufacturing.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://link-springer-com.proxyone.lib.nchu.edu.tw:8443/article/10.1007/s00158-018-2125-x
+      \endverb
+      \verb{url}
+      \verb https://link-springer-com.proxyone.lib.nchu.edu.tw:8443/article/10.1007/s00158-018-2125-x
+      \endverb
+    \endentry
+    \entry{zhouTopologyOptimizationThermal2019}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=26026d015d3f3eebe21c4a9e2e634bf3}{%
+           family={Zhou},
+           familyi={Z\bibinitperiod},
+           given={Mingdong},
+           giveni={M\bibinitperiod}}}%
+        {{hash=a7fef75c0ce83bb8e681f788055c8529}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Yichang},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=229cbc1cd7d4237ce87f60f91d1c962c}{%
+           family={Lin},
+           familyi={L\bibinitperiod},
+           given={Zhongqin},
+           giveni={Z\bibinitperiod}}}%
+      }
+      \strng{namehash}{8aad6fb7557598718e24141f2c8e7286}
+      \strng{fullhash}{c1cb81dfc61ace16dbb2d207cc3f8dca}
+      \strng{fullhashraw}{c1cb81dfc61ace16dbb2d207cc3f8dca}
+      \strng{bibnamehash}{c1cb81dfc61ace16dbb2d207cc3f8dca}
+      \strng{authorbibnamehash}{c1cb81dfc61ace16dbb2d207cc3f8dca}
+      \strng{authornamehash}{8aad6fb7557598718e24141f2c8e7286}
+      \strng{authorfullhash}{c1cb81dfc61ace16dbb2d207cc3f8dca}
+      \strng{authorfullhashraw}{c1cb81dfc61ace16dbb2d207cc3f8dca}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This paper presents a topology optimization approach to design support structures with efficient thermal conductive capabilities for powder-bed based laser additive manufacturing (AM). A transient heat transfer model is proposed to simulate the temperature distribution of the point-by-point and layer-upon-layer AM process. The process model is seamlessly integrated into a density based structural topology optimization method with an adjoint based sensitivity analysis and a gradient based optimization. For a given prototype shape, the layout of the corresponding support structure is designed such that the thermal energy during the fabrication process can be efficiently transferred from the laser path to a prescribed heat sink. Besides, an overhang constraint is proposed and used together with an AM filter to avoid overhang features in both the optimized support structure and the prototype, ensuring the overall manufacturability. Numerical examples and discussions are given to demonstrate its applicability.}
+      \field{day}{15}
+      \field{issn}{0045-7825}
+      \field{journaltitle}{Computer Methods in Applied Mechanics and Engineering}
+      \field{month}{8}
+      \field{shortjournal}{Computer Methods in Applied Mechanics and Engineering}
+      \field{title}{Topology Optimization of Thermal Conductive Support Structures for Laser Additive Manufacturing}
+      \field{urlday}{20}
+      \field{urlmonth}{2}
+      \field{urlyear}{2025}
+      \field{volume}{353}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{24\bibrangedash 43}
+      \range{pages}{20}
+      \verb{doi}
+      \verb 10.1016/j.cma.2019.03.054
+      \endverb
+      \verb{file}
+      \verb /home/morban/Zotero/storage/ZGL56CML/S0045782519301938.html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0045782519301938
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0045782519301938
+      \endverb
+      \keyw{AM-process simulation,Heat transfer,Laser additive manufacturing,Support structure,Topology optimization}
+    \endentry
+    \entry{kuoSupportStructureDesign2018}{article}{}{}
+      \name{author}{4}{}{%
+        {{hash=13f9e13d585c5cb76266f0b73019f6e1}{%
+           family={Kuo},
+           familyi={K\bibinitperiod},
+           given={Yu-Hsin},
+           giveni={Y\bibinithyphendelim H\bibinitperiod}}}%
+        {{hash=987997053217acecfcf3037f6aaf8c23}{%
+           family={Cheng},
+           familyi={C\bibinitperiod},
+           given={Chih-Chun},
+           giveni={C\bibinithyphendelim C\bibinitperiod}}}%
+        {{hash=273e9f85a251bb0a60dc3cbc6593eab4}{%
+           family={Lin},
+           familyi={L\bibinitperiod},
+           given={Yang-Shan},
+           giveni={Y\bibinithyphendelim S\bibinitperiod}}}%
+        {{hash=7f9e084cbe2dcb534845517b4e52045c}{%
+           family={San},
+           familyi={S\bibinitperiod},
+           given={Cheng-Hung},
+           giveni={C\bibinithyphendelim H\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer Berlin Heidelberg}%
+      }
+      \strng{namehash}{e6468b047250bbe1c6904610f311d4c8}
+      \strng{fullhash}{617402b0c6b719970e702e432654eefe}
+      \strng{fullhashraw}{617402b0c6b719970e702e432654eefe}
+      \strng{bibnamehash}{617402b0c6b719970e702e432654eefe}
+      \strng{authorbibnamehash}{617402b0c6b719970e702e432654eefe}
+      \strng{authornamehash}{e6468b047250bbe1c6904610f311d4c8}
+      \strng{authorfullhash}{617402b0c6b719970e702e432654eefe}
+      \strng{authorfullhashraw}{617402b0c6b719970e702e432654eefe}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{A support structure design technique for additive manufacturing (AM) is proposed that minimizes the deformation while using the least amount of support material, minimizes the time required to add the supports, and designs supports that are easily removed. This study presents a repulsion index (RI), which satisfies the easy removal requirement and minimizes the number of artifacts left on the specimen surface, and a weighting function, which quantifies the cost incurred by the time taken to build the supports. A multi-objective topological optimization based on the simple isotropic material with penalization method, continuous approximation of material distribution, and method of moving asymptotes is formulated that includes the proposed RI and cost formulation. Numerical simulations demonstrate that rational support layouts can be determined with the proposed cost-based formulation in the topological optimization, allowing designers to find design solutions with a compromise between specimen surface profile error and support structure costs.}
+      \field{day}{1}
+      \field{issn}{1615-1488}
+      \field{issue}{1}
+      \field{journaltitle}{Structural and Multidisciplinary Optimization}
+      \field{langid}{english}
+      \field{month}{1}
+      \field{number}{1}
+      \field{shortjournal}{Struct Multidisc Optim}
+      \field{title}{Support Structure Design in Additive Manufacturing Based on Topology Optimization}
+      \field{urlday}{20}
+      \field{urlmonth}{2}
+      \field{urlyear}{2025}
+      \field{volume}{57}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{183\bibrangedash 195}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.1007/s00158-017-1743-z
+      \endverb
+      \verb{file}
+      \verb /home/morban/Zotero/storage/786WBRIG/Kuo et al. - 2018 - Support structure design in additive manufacturing based on topology optimization.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://link-springer-com.proxyone.lib.nchu.edu.tw:8443/article/10.1007/s00158-017-1743-z
+      \endverb
+      \verb{url}
+      \verb https://link-springer-com.proxyone.lib.nchu.edu.tw:8443/article/10.1007/s00158-017-1743-z
+      \endverb
+    \endentry
+    \entry{kumarTailoredSupportStructures2020}{incollection}{}{}
+      \name{author}{5}{}{%
+        {{hash=9226e5c83d2102b81357c5972b672d76}{%
+           family={Kumar},
+           familyi={K\bibinitperiod},
+           given={Hemnath\bibnamedelima Anandan},
+           giveni={H\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=8f197d7bcfd5c319cfabc16fa08fd5d5}{%
+           family={Reginald\bibnamedelima Elvis},
+           familyi={R\bibinitperiod\bibinitdelim E\bibinitperiod},
+           given={Peter\bibnamedelima Francis},
+           giveni={P\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+        {{hash=1d0fa753c4bcfbfd6436ce74995fa26a}{%
+           family={Manoharan},
+           familyi={M\bibinitperiod},
+           given={Madhanagopal},
+           giveni={M\bibinitperiod}}}%
+        {{hash=d453b75c92475986ea57ac76312cb985}{%
+           family={Jayapal},
+           familyi={J\bibinitperiod},
+           given={Jayakrishnan},
+           giveni={J\bibinitperiod}}}%
+        {{hash=6c111de1ff4c044f93f95586e0349d69}{%
+           family={Kumaraguru},
+           familyi={K\bibinitperiod},
+           given={Senthilkumaran},
+           giveni={S\bibinitperiod}}}%
+      }
+      \name{namea}{2}{}{%
+        {{hash=0406b9cfa7cc358eba36e32aa7770fbe}{%
+           family={Shunmugam},
+           familyi={S\bibinitperiod},
+           given={M.\bibnamedelimi S.},
+           giveni={M\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=b6b92332a42bac03ea991d136a1ea5fc}{%
+           family={Kanthababu},
+           familyi={K\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Singapore}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{f6f36e1c829076d09c9fe9091b9e4c3a}
+      \strng{fullhash}{24d5776f3efc18350631c7b958ffd644}
+      \strng{fullhashraw}{24d5776f3efc18350631c7b958ffd644}
+      \strng{bibnamehash}{24d5776f3efc18350631c7b958ffd644}
+      \strng{authorbibnamehash}{24d5776f3efc18350631c7b958ffd644}
+      \strng{authornamehash}{f6f36e1c829076d09c9fe9091b9e4c3a}
+      \strng{authorfullhash}{24d5776f3efc18350631c7b958ffd644}
+      \strng{authorfullhashraw}{24d5776f3efc18350631c7b958ffd644}
+      \strng{nameabibnamehash}{5a21987b9bb4c1a0798044e131e20516}
+      \strng{nameanamehash}{5a21987b9bb4c1a0798044e131e20516}
+      \strng{nameafullhash}{5a21987b9bb4c1a0798044e131e20516}
+      \strng{nameafullhashraw}{5a21987b9bb4c1a0798044e131e20516}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{In some additive manufacturing processes, support structures are required while building parts, for structural stability as well as for some functional aspects. Support structure should be designed in a way that it should withstand the weight of the part especially overhanging features of the part to avoid distortion and mishap. This paper deals with design and fabrication of tailored support structures for some special cases. From the understanding obtained through various literature, initially, a broad classification of support structures is presented. Based on that, application-specific support structures were designed. Two different support structures were designed, analyzed and fabricated successfully. After fabrication, support structures were easily removed from the part manually.}
+      \field{booktitle}{Advances in {{Additive Manufacturing}} and {{Joining}}}
+      \field{isbn}{978-981-329-432-5}
+      \field{issn}{2522-5022}
+      \field{langid}{english}
+      \field{nameatype}{collaborator}
+      \field{series}{Lecture {{Notes}} on {{Multidisciplinary Industrial Engineering}}}
+      \field{title}{Tailored {{Support Structures}} for~{{Additive Manufacturing}}}
+      \field{year}{2020}
+      \field{dateera}{ce}
+      \field{pages}{199\bibrangedash 207}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1007/978-981-32-9433-2_17
+      \endverb
+    \endentry
+    \entry{bendsoeTopologyOptimization2002}{book}{}{}
+      \name{author}{2}{}{%
+        {{hash=066757951bb74a0ccbc836e088427aea}{%
+           family={Bendsøe},
+           familyi={B\bibinitperiod},
+           given={Martin\bibnamedelima P.},
+           giveni={M\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=8e39f252b54fbee1f97675ee90b87f23}{%
+           family={Sigmund},
+           familyi={S\bibinitperiod},
+           given={O.},
+           giveni={O\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer Berlin, Heidelberg}%
+      }
+      \strng{namehash}{7cb9d2ab7b85631232825a1645a5eb95}
+      \strng{fullhash}{7cb9d2ab7b85631232825a1645a5eb95}
+      \strng{fullhashraw}{7cb9d2ab7b85631232825a1645a5eb95}
+      \strng{bibnamehash}{7cb9d2ab7b85631232825a1645a5eb95}
+      \strng{authorbibnamehash}{7cb9d2ab7b85631232825a1645a5eb95}
+      \strng{authornamehash}{7cb9d2ab7b85631232825a1645a5eb95}
+      \strng{authorfullhash}{7cb9d2ab7b85631232825a1645a5eb95}
+      \strng{authorfullhashraw}{7cb9d2ab7b85631232825a1645a5eb95}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{10}
+      \field{edition}{2}
+      \field{isbn}{978-3-540-42992-0}
+      \field{month}{10}
+      \field{pagetotal}{XIV, 370}
+      \field{title}{Topology {{Optimization}}}
+      \field{year}{2002}
+      \field{dateera}{ce}
+    \endentry
+    \entry{yeTopologyOptimisationSelfsupporting2023}{article}{}{}
+      \name{author}{7}{}{%
+        {{hash=3737d32939a3f1581e3cba8bf0eb0adc}{%
+           family={Ye},
+           familyi={Y\bibinitperiod},
+           given={Jun},
+           giveni={J\bibinitperiod}}}%
+        {{hash=481ae5fc3bc859ed3073ac0502a3edf5}{%
+           family={Guo},
+           familyi={G\bibinitperiod},
+           given={Qichen},
+           giveni={Q\bibinitperiod}}}%
+        {{hash=ff82f455a06b3c34786ab4e11bbec2c2}{%
+           family={Lu},
+           familyi={L\bibinitperiod},
+           given={Hongjia},
+           giveni={H\bibinitperiod}}}%
+        {{hash=5482fc8848a9c884f06f6212c9d92bfb}{%
+           family={Kyvelou},
+           familyi={K\bibinitperiod},
+           given={Pinelopi},
+           giveni={P\bibinitperiod}}}%
+        {{hash=f0e7d180081df6c4c59c600f7c044474}{%
+           family={Zhao},
+           familyi={Z\bibinitperiod},
+           given={Yang},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=b3f769a66566689147a98f9385ecb02b}{%
+           family={Gardner},
+           familyi={G\bibinitperiod},
+           given={Leroy},
+           giveni={L\bibinitperiod}}}%
+        {{hash=8378d5b4061a021880b29f2f73452923}{%
+           family={Xie},
+           familyi={X\bibinitperiod},
+           given={Yi\bibnamedelima Min},
+           giveni={Y\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \strng{namehash}{aa7d2434a49e925fc034a4187e470e80}
+      \strng{fullhash}{225106aa6372265b698f4cec48c4bc50}
+      \strng{fullhashraw}{225106aa6372265b698f4cec48c4bc50}
+      \strng{bibnamehash}{aa7d2434a49e925fc034a4187e470e80}
+      \strng{authorbibnamehash}{aa7d2434a49e925fc034a4187e470e80}
+      \strng{authornamehash}{aa7d2434a49e925fc034a4187e470e80}
+      \strng{authorfullhash}{225106aa6372265b698f4cec48c4bc50}
+      \strng{authorfullhashraw}{225106aa6372265b698f4cec48c4bc50}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{ABSTRACT Although additive manufacturing (AM) continues to gain widespread adoption, the overhang problem remains a critical issue affecting printing quality. The design of self-supporting structures via topology optimisation approaches has been extensively studied. However, current optimisation research predominantly focuses on 3-axis AM machines, overlooking the more recently developed multi-axis machines. Moreover, the performance sacrifice due to overhang constraints in 3-axis AM can be significant, especially in structures with small volume fractions. To address this, we propose a two-step approach considering overhang constraints for multi-axis AM. This approach begins with a structure optimised using traditional topology optimisation. In the first step, a new optimisation problem determines printing surfaces for the given structure. If the proportion of unprintable elements isn't satisfactory, a second re-optimisation step is carried out to further reduce the unprintable proportion. Several examples demonstrate the effectiveness of the proposed approach. Notably, the significant performance sacrifice associated with the 3-axis AM approach becomes negligible when applying our multi-axis AM-based method.}
+      \field{day}{31}
+      \field{issn}{1745-2759, 1745-2767}
+      \field{journaltitle}{Virtual and Physical Prototyping}
+      \field{langid}{english}
+      \field{month}{12}
+      \field{number}{1}
+      \field{shortjournal}{Virtual and Physical Prototyping}
+      \field{title}{Topology Optimisation of Self-Supporting Structures Based on the Multi-Directional Additive Manufacturing Technique}
+      \field{urlday}{20}
+      \field{urlmonth}{2}
+      \field{urlyear}{2025}
+      \field{volume}{18}
+      \field{year}{2023}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{e2271458}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1080/17452759.2023.2271458
+      \endverb
+      \verb{file}
+      \verb /home/morban/Zotero/storage/AJJ7IJQH/Ye et al. - 2023 - Topology optimisation of self-supporting structures based on the multi-directional additive manufact.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.tandfonline.com/doi/full/10.1080/17452759.2023.2271458
+      \endverb
+      \verb{url}
+      \verb https://www.tandfonline.com/doi/full/10.1080/17452759.2023.2271458
+      \endverb
+    \endentry
+    \entry{langelaarTOPOLOGYOPTIMIZATIONADDITIVE2016}{inproceedings}{}{}
+      \name{author}{1}{}{%
+        {{hash=252f12ad906deceed3132e4839bf0aba}{%
+           family={Langelaar},
+           familyi={L\bibinitperiod},
+           given={Matthijs},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Crete Island, Greece}%
+      }
+      \list{publisher}{1}{%
+        {Institute of Structural Analysis and Antiseismic Research School of Civil Engineering National Technical University of Athens (NTUA) Greece}%
+      }
+      \strng{namehash}{252f12ad906deceed3132e4839bf0aba}
+      \strng{fullhash}{252f12ad906deceed3132e4839bf0aba}
+      \strng{fullhashraw}{252f12ad906deceed3132e4839bf0aba}
+      \strng{bibnamehash}{252f12ad906deceed3132e4839bf0aba}
+      \strng{authorbibnamehash}{252f12ad906deceed3132e4839bf0aba}
+      \strng{authornamehash}{252f12ad906deceed3132e4839bf0aba}
+      \strng{authorfullhash}{252f12ad906deceed3132e4839bf0aba}
+      \strng{authorfullhashraw}{252f12ad906deceed3132e4839bf0aba}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Advances in additive manufacturing (AM) allow economical production of components with unprecedented geometric complexity. This offers exciting opportunities for innovative designs, and particularly topology optimization has been identified as a key technique to fully exploit the capabilities of AM. However, also AM involves manufacturing restrictions, such as limitations on the inclination of overhanging parts. To deal with this problem, either sacrificial supporting structures can be added during the process, or only self-supporting designs can be considered. Both approaches have disadvantages, as support structures add material and post-processing costs, while demanding exclusively self-supporting designs may impose strong restrictions on achievable performance. With current methods, designers are limited to a choice between these two extremes. To open up a wider range of designs, this paper presents and demonstrates a topology optimization formulation that allows the designer to find trade-off solutions between design performance and support structure costs, considering both printing and removal costs}
+      \field{booktitle}{Proceedings of the {{VII European Congress}} on {{Computational Methods}} in {{Applied Sciences}} and {{Engineering}} ({{ECCOMAS Congress}} 2016)}
+      \field{eventtitle}{{{VII European Congress}} on {{Computational Methods}} in {{Applied Sciences}} and {{Engineering}}}
+      \field{isbn}{978-618-82844-0-1}
+      \field{langid}{english}
+      \field{title}{{{TOPOLOGY OPTIMIZATION FOR ADDITIVE MANUFACTURING WITH CONTROLLABLE SUPPORT STRUCTURE COSTS}}}
+      \field{urlday}{20}
+      \field{urlmonth}{2}
+      \field{urlyear}{2025}
+      \field{year}{2016}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{3689\bibrangedash 3699}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.7712/100016.2065.5873
+      \endverb
+      \verb{file}
+      \verb /home/morban/Zotero/storage/RI5U8F23/Langelaar - 2016 - TOPOLOGY OPTIMIZATION FOR ADDITIVE MANUFACTURING WITH CONTROLLABLE SUPPORT STRUCTURE COSTS.pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://www.eccomasproceedia.org/conferences/eccomas-congresses/eccomas-congress-2016/2065
+      \endverb
+      \verb{url}
+      \verb http://www.eccomasproceedia.org/conferences/eccomas-congresses/eccomas-congress-2016/2065
+      \endverb
+    \endentry
+    \entry{leeSimultaneouslyOptimizingSupports2021}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=d17dda33a3acd2616a2411713ffda98b}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={Ting-Uei},
+           giveni={T\bibinithyphendelim U\bibinitperiod}}}%
+        {{hash=8378d5b4061a021880b29f2f73452923}{%
+           family={Xie},
+           familyi={X\bibinitperiod},
+           given={Yi\bibnamedelima Min},
+           giveni={Y\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \strng{namehash}{9d22e43e01a3a3efd22ec341523d781a}
+      \strng{fullhash}{9d22e43e01a3a3efd22ec341523d781a}
+      \strng{fullhashraw}{9d22e43e01a3a3efd22ec341523d781a}
+      \strng{bibnamehash}{9d22e43e01a3a3efd22ec341523d781a}
+      \strng{authorbibnamehash}{9d22e43e01a3a3efd22ec341523d781a}
+      \strng{authornamehash}{9d22e43e01a3a3efd22ec341523d781a}
+      \strng{authorfullhash}{9d22e43e01a3a3efd22ec341523d781a}
+      \strng{authorfullhashraw}{9d22e43e01a3a3efd22ec341523d781a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Topology optimization techniques are typically performed on a design domain with pre-determined support conditions to generate efficient structures. Allowing the optimizer to simultaneously design supports and topology offers new design possibilities to achieve improved structural performance and reduce the cost of supports. However, existing simultaneous optimization techniques are limited, with most methods requiring cumbersome procedures to pre-define support conditions, which may not be easy for the end-users. This study presents a new element-based simultaneous optimization method by introducing a layer of elements to the boundaries where supports are allowed, which can be simply implemented in finite element (FE) models. Computational algorithms are developed based on a combination of an optimality criteria (OC) method and the bi-directional evolutionary structural optimization (BESO) technique to determine support locations and the structural topology, respectively. A variety of examples are presented to demonstrate the effectiveness of the new method. It is found that the number, position, and stiffness of supports may significantly influence the structural topology. A support location analysis is used to validate the new method and confirms optimal designs. This study shows that treating element-based support locations as additional design variables can effectively obtain efficient and innovative structural designs. Two 3D examples are presented to demonstrate potential practical applications of the new method.}
+      \field{day}{1}
+      \field{issn}{0168-874X}
+      \field{journaltitle}{Finite Elements in Analysis and Design}
+      \field{month}{12}
+      \field{shortjournal}{Finite Elements in Analysis and Design}
+      \field{title}{Simultaneously Optimizing Supports and Topology in Structural Design}
+      \field{urlday}{20}
+      \field{urlmonth}{2}
+      \field{urlyear}{2025}
+      \field{volume}{197}
+      \field{year}{2021}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{103633}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1016/j.finel.2021.103633
+      \endverb
+      \verb{file}
+      \verb /home/morban/Zotero/storage/H7HBWRIE/S0168874X21001177.html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0168874X21001177
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0168874X21001177
+      \endverb
+      \keyw{FEA,Simultaneous optimization,Support locations,Topology optimization}
+    \endentry
     \entry{liuEfficient3DTopology2014}{article}{}{}
       \name{author}{2}{}{%
         {{hash=25b9f35fc4e73c25450ef97e7c37b292}{%
@@ -514,8 +1066,8 @@
       \strng{authornamehash}{bcddbbcb0805dc6cf2a27c742c11bb72}
       \strng{authorfullhash}{bcddbbcb0805dc6cf2a27c742c11bb72}
       \strng{authorfullhashraw}{bcddbbcb0805dc6cf2a27c742c11bb72}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{This paper presents an efficient and compact MATLAB code to solve three-dimensional topology optimization problems. The 169 lines comprising this code include finite element analysis, sensitivity analysis, density filter, optimality criterion optimizer, and display of results. The basic code solves minimum compliance problems. A systematic approach is presented to easily modify the definition of supports and external loads. The paper also includes instructions to define multiple load cases, active and passive elements, continuation strategy, synthesis of compliant mechanisms, and heat conduction problems, as well as the theoretical and numerical elements to implement general non-linear programming strategies such as SQP and MMA. The code is intended for students and newcomers in the topology optimization. The complete code is provided in Appendix C and it can be downloaded from http://top3dapp. com.}
@@ -569,8 +1121,8 @@
       \strng{authornamehash}{e31bd936bee4b694adb98d2d40e00e89}
       \strng{authorfullhash}{e31bd936bee4b694adb98d2d40e00e89}
       \strng{authorfullhashraw}{e31bd936bee4b694adb98d2d40e00e89}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{The aim of this paper is to apply a Helmholtz-type partial differential equation as an alternative to standard density filtering in topology optimization problems. Previously, this approach has been successfully applied as a sensitivity filter. The usual filtering techniques in topology optimization require information about the neighbor cells, which is difficult to obtain for fine meshes or complex domains and geometries. The complexity of the problem increases further in parallel computing, when the design domain is decomposed into multiple non-overlapping partitions. Obtaining information from the neighbor subdomains is an expensive operation. The proposed filter technique requires only mesh information necessary for the finite element discretization of the problem. The main idea is to define the filtered variable implicitly as a solution of a Helmholtz-type differential equation with homogeneous Neumann boundary conditions. The properties of the filter are demonstrated for various 2D and 3D topology optimization problems in linear elasticity, solved on serial and parallel computers. Copyright © 2010 John Wiley \& Sons, Ltd.}

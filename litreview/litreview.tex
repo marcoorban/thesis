@@ -7,7 +7,7 @@
 
 What I need to do in the literature review is an introduction, body and conclusion. The introduction should be an overview of the topics that I am going to talk about, and probably introduce the research motivation.
 
-\subsection{introduction}
+\section{Introduction}
 
 Additive manufacturing, also known as 3D printing, is a manufaacturing process in which parts are built by stacking layers of material on top of each other until the desired geometry is created. In particular, powdered-bed fusion is a type of additive manufacturing in which the base material is composed of a metallic powdered. A bed is then filled with this powder, and a high-powered laser or electron beam is utilized to selectively add heat to locations of this powdered metal, thus melting it. As the melted portions cool, it leaves a layer of solid material, and the whole component is then built layer by layer in this manner. If a laser is used for manufacturing, the process is then known as laser powder bed fusion (LPBF).
 
@@ -19,22 +19,21 @@ The design of support structures in additive manufacturing is thus an important 
 
 Thermal conductivity is an important factor since good thermal conduction in the support structures can improve the cooling process during fabrication, which helps prevent issues caused by excessive thermal deformation such as thermal residual stresses, thermal dilation, cracks or warping \cite{allaireOptimizingSupportsAdditive2018} \cite{zhouTopologyOptimizationThermal2019}. Additionally, large portions of surfaces that are almost horizontal and that are unsupported during manufacturing tend to be heavily distorted after manufacturing \cite{allaireOptimizingSupportsAdditive2018}. These regions, which are called overhang structures, typically require support structures that will reduce the deformations and prevent warpage of overhangs. At these regions, it is crucial that support  these  support structures also require to be as stiff as possible to prevent any distortion in the built part and to be able to withstand the weight of the part itself \cite{kuoSupportStructureDesign2018}. The support structures must then also be robust enough to withstand the weight in the part, especially in these overhang areas, to prevent distortion during the build process \cite{kumarTailoredSupportStructures2020}.
 
--- Studies that try to minimize material support structures --
+Topology optimization is a method that is suitable for the creation and optimization of shapes that satisfy specific constraints while realizing certain objectives \cite{bendsoeTopologyOptimization2002}, \todo{maybe add more references here} and is a well-known technique that has been obtaining more interest from the additive manufacturing community for both the design of the components themselves and for their support structures in additive manufacturing. \todo{maybe talk more about topology optimization here}. Topology optimization has been studied for designing parts that either have as little overhang surfaces as possible, thus requiring less supporting structures, or for designing parts that are self-supporting, thus requiring no supporting structures at all. Although this aid considerably in reducing the amount of material used, these approaches do not take into consideration other effects such as the thermal dissipation of the component, require changing the geometry of the component thus impacting its functionality \cite{yeTopologyOptimisationSelfsupporting2023}, or impose geometrical constraints that can restrict the component's performance \cite{langelaarTOPOLOGYOPTIMIZATIONADDITIVE2016}.
+
+\todo{this paragraph talks about two uses for topology optimization: for the part itself, and for support strucutres.}
+Topology optimization can be used for the design of the desired component itself, as to minimize and avoid the amount of overhang structures, or to make components that are self supporting.
 
 
---- Studies using topology optimization ---
+Lee and Xie \cite{leeSimultaneouslyOptimizingSupports2021} developed an optimization algorithm that detects the best locations for supports in the boundaries of the design space, which can lead to an increase in stiffness and aid in minimizing deformation.
 
-The design of support structures therefore is not a straightforward process, and must be tailored to the specific concern of the end user, and many studies have been made to improve this stage of the manufacturing process. Lee and Xie \cite{leeSimultaneouslyOptimizingSupports2001} developed an optimization algorithm that detects the best locations for supports in the boundaries of the design space, which can lead to an increase in stiffness and aid in minimizing deformation.
-
-\subsection{Body}
-
-\subsubsection{Additive manufacturing}
+\section{Additive manufacturing}
 
 This section needs to be more specific about how additive manufacturing works.1
 
-\subsubsection{Support structures}
+\section{Support structures}
 
-\subsubsection{Topology optimization}
+\section{Topology optimization}
 
 Topology optimization is an optimization technique that seeks to find the optimal shape within a volume that satisfies certain governing equations, while at the same time satisfying specific constraints. This technique is usually utilized for the design of structures with no preconceived shape. When topology optimization is used for the purpose of designing structures, the optimal shape resulting from the analysis can be interpreted as a material distribution within the specified volume, which is called the design domain. A classical application of topology optimization is the binary compliance problem, in which regions of solid and void materials are distributed in order to minimize the work done by external forces (this is called compliance), also subject to a volume constraint \cite{liuEfficient3DTopology2014}. The problem of topology optimization can be expressed mathematically as follows \cite{lazarovFiltersTopologyOptimization2011}
 
@@ -59,6 +58,10 @@ and mesh-independent density filters could be used to solve the problem of a cha
 Talk here about hyperbolic tangent and what it does to the fitler
 
 Here, the full equation of topology optimization using all of the above should be shown.
+
+\section{Heat transfer in supporting structures}
+
+\section{Compliance in support structures}
 
 \section{Research Purpose}
  

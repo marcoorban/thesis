@@ -2379,13 +2379,23 @@
     <bcf:citekey order="4" intorder="1">narraAdditiveManufacturingTotal2019</bcf:citekey>
     <bcf:citekey order="5" intorder="1">narraAdditiveManufacturingTotal2019</bcf:citekey>
     <bcf:citekey order="6" intorder="1">MetalAdditiveManufacturing</bcf:citekey>
-    <bcf:citekey order="7" intorder="1">mobarakRecentAdvancesAdditive2023</bcf:citekey>
-    <bcf:citekey order="8" intorder="1">pathak3DPrintingBiomedicine2023</bcf:citekey>
-    <bcf:citekey order="9" intorder="1">narraAdditiveManufacturingTotal2019</bcf:citekey>
-    <bcf:citekey order="10" intorder="1">MetalAdditiveManufacturing</bcf:citekey>
-    <bcf:citekey order="11" intorder="1">liuEfficient3DTopology2014</bcf:citekey>
-    <bcf:citekey order="12" intorder="1">lazarovFiltersTopologyOptimization2011</bcf:citekey>
-    <bcf:citekey order="13" intorder="1">peishu_thesis</bcf:citekey>
+    <bcf:citekey order="7" intorder="1">marshTrendsDevelopmentsHip2021</bcf:citekey>
+    <bcf:citekey order="8" intorder="1">mobarakRecentAdvancesAdditive2023</bcf:citekey>
+    <bcf:citekey order="9" intorder="1">pathak3DPrintingBiomedicine2023</bcf:citekey>
+    <bcf:citekey order="10" intorder="1">narraAdditiveManufacturingTotal2019</bcf:citekey>
+    <bcf:citekey order="11" intorder="1">MetalAdditiveManufacturing</bcf:citekey>
+    <bcf:citekey order="12" intorder="1">allaireOptimizingSupportsAdditive2018</bcf:citekey>
+    <bcf:citekey order="13" intorder="1">zhouTopologyOptimizationThermal2019</bcf:citekey>
+    <bcf:citekey order="14" intorder="1">allaireOptimizingSupportsAdditive2018</bcf:citekey>
+    <bcf:citekey order="15" intorder="1">kuoSupportStructureDesign2018</bcf:citekey>
+    <bcf:citekey order="16" intorder="1">kumarTailoredSupportStructures2020</bcf:citekey>
+    <bcf:citekey order="17" intorder="1">bendsoeTopologyOptimization2002</bcf:citekey>
+    <bcf:citekey order="18" intorder="1">yeTopologyOptimisationSelfsupporting2023</bcf:citekey>
+    <bcf:citekey order="19" intorder="1">langelaarTOPOLOGYOPTIMIZATIONADDITIVE2016</bcf:citekey>
+    <bcf:citekey order="20" intorder="1">leeSimultaneouslyOptimizingSupports2021</bcf:citekey>
+    <bcf:citekey order="21" intorder="1">liuEfficient3DTopology2014</bcf:citekey>
+    <bcf:citekey order="22" intorder="1">lazarovFiltersTopologyOptimization2011</bcf:citekey>
+    <bcf:citekey order="23" intorder="1">peishu_thesis</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="none">
