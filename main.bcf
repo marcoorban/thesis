@@ -2414,7 +2414,11 @@
     <bcf:citekey order="39" intorder="1">bendsoeOptimalShapeDesign1989</bcf:citekey>
     <bcf:citekey order="40" intorder="1">rozvanyGeneralizedShapeOptimization1992</bcf:citekey>
     <bcf:citekey order="41" intorder="1">SIMPMethodTopologyb</bcf:citekey>
-    <bcf:citekey order="42" intorder="1">peishu_thesis</bcf:citekey>
+    <bcf:citekey order="42" intorder="1">liuEfficient3DTopology2014</bcf:citekey>
+    <bcf:citekey order="43" intorder="1">lazarovFiltersTopologyOptimization2011</bcf:citekey>
+    <bcf:citekey order="44" intorder="1">lambeTopologyOptimizationUsing2018</bcf:citekey>
+    <bcf:citekey order="45" intorder="1">PerformingTopologyOptimization</bcf:citekey>
+    <bcf:citekey order="46" intorder="1">peishu_thesis</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="none">

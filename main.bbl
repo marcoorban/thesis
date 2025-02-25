@@ -2168,6 +2168,82 @@
       \verb https://help.solidworks.com/2019/english/SolidWorks/cworks/c_simp_method_topology.htm
       \endverb
     \endentry
+    \entry{lambeTopologyOptimizationUsing2018}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=7ab53f8fd620886479f3a12efe84d37f}{%
+           family={Lambe},
+           familyi={L\bibinitperiod},
+           given={Andrew\bibnamedelima B.},
+           giveni={A\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=acefc1aa32d168feab3d51a90f3a398d}{%
+           family={Czekanski},
+           familyi={C\bibinitperiod},
+           given={Aleksander},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{502f697ee8107008b903403623611c36}
+      \strng{fullhash}{502f697ee8107008b903403623611c36}
+      \strng{fullhashraw}{502f697ee8107008b903403623611c36}
+      \strng{bibnamehash}{502f697ee8107008b903403623611c36}
+      \strng{authorbibnamehash}{502f697ee8107008b903403623611c36}
+      \strng{authornamehash}{502f697ee8107008b903403623611c36}
+      \strng{authorfullhash}{502f697ee8107008b903403623611c36}
+      \strng{authorfullhashraw}{502f697ee8107008b903403623611c36}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Summary A new method of topology optimization is introduced in which a continuous material field is combined with adaptive mesh refinement. Using a continuous material field with different analysis and design meshes allows the method to produce optimal designs that are free of numerical artifacts like checkerboard patterns and material islands. Adaptive mesh refinement is then applied to both meshes to precisely locate the optimal boundary of the final structure. A Helmholtz‐type density filter is used to prevent the appearance of small topological features as the mesh refinement proceeds. Results are presented for several test problems, including problems with geometrically complex domain boundaries.}
+      \field{day}{20}
+      \field{issn}{0029-5981, 1097-0207}
+      \field{journaltitle}{International Journal for Numerical Methods in Engineering}
+      \field{langid}{english}
+      \field{month}{1}
+      \field{number}{3}
+      \field{shortjournal}{Numerical Meth Engineering}
+      \field{title}{Topology Optimization Using a Continuous Density Field and Adaptive Mesh Refinement}
+      \field{urlday}{25}
+      \field{urlmonth}{2}
+      \field{urlyear}{2025}
+      \field{volume}{113}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{357\bibrangedash 373}
+      \range{pages}{17}
+      \verb{doi}
+      \verb 10.1002/nme.5617
+      \endverb
+      \verb{urlraw}
+      \verb https://onlinelibrary.wiley.com/doi/10.1002/nme.5617
+      \endverb
+      \verb{url}
+      \verb https://onlinelibrary.wiley.com/doi/10.1002/nme.5617
+      \endverb
+    \endentry
+    \entry{PerformingTopologyOptimization}{online}{}{}
+      \list{organization}{1}{%
+        {COMSOL}%
+      }
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labeltitlesource}{title}
+      \field{langid}{english}
+      \field{title}{Performing {{Topology Optimization}} with the {{Density Method}}}
+      \field{urlday}{25}
+      \field{urlmonth}{2}
+      \field{urlyear}{2025}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /home/morban/Zotero/storage/6FBSVYWY/performing-topology-optimization-with-the-density-method.html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.comsol.com/blogs/performing-topology-optimization-with-the-density-method
+      \endverb
+      \verb{url}
+      \verb https://www.comsol.com/blogs/performing-topology-optimization-with-the-density-method
+      \endverb
+    \endentry
   \enddatalist
   \missing{peishu_thesis}
 \endrefsection
