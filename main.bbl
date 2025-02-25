@@ -2168,6 +2168,66 @@
       \verb https://help.solidworks.com/2019/english/SolidWorks/cworks/c_simp_method_topology.htm
       \endverb
     \endentry
+    \entry{wangProjectionMethodsConvergence2011a}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=86b2febfa07ec8c15dec84b145213356}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Fengwen},
+           giveni={F\bibinitperiod}}}%
+        {{hash=5cd89b878d0caf28d27df664e57605fa}{%
+           family={Lazarov},
+           familyi={L\bibinitperiod},
+           given={Boyan\bibnamedelima Stefanov},
+           giveni={B\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=d76f1c09e8d8d06e1b7c3c254efeae1a}{%
+           family={Sigmund},
+           familyi={S\bibinitperiod},
+           given={Ole},
+           giveni={O\bibinitperiod}}}%
+      }
+      \strng{namehash}{138751995a5b739a93bf2744f4b5f5be}
+      \strng{fullhash}{ebb044e76181e7c827ba8e6a1a7af8df}
+      \strng{fullhashraw}{ebb044e76181e7c827ba8e6a1a7af8df}
+      \strng{bibnamehash}{ebb044e76181e7c827ba8e6a1a7af8df}
+      \strng{authorbibnamehash}{ebb044e76181e7c827ba8e6a1a7af8df}
+      \strng{authornamehash}{138751995a5b739a93bf2744f4b5f5be}
+      \strng{authorfullhash}{ebb044e76181e7c827ba8e6a1a7af8df}
+      \strng{authorfullhashraw}{ebb044e76181e7c827ba8e6a1a7af8df}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Mesh convergence and manufacturability of topology optimized designs have previously mainly been assured using density or sensitivity based filtering techniques. The drawback of these techniques has been gray transition regions between solid and void parts, but this problem has recently been alleviated using various projection methods. In this paper we show that simple projection methods do not ensure local mesh-convergence and propose a modified robust topology optimization formulation based on erosion, intermediate and dilation projections that ensures both global and local mesh-convergence.}
+      \field{issn}{1615-147X, 1615-1488}
+      \field{journaltitle}{Structural and Multidisciplinary Optimization}
+      \field{langid}{english}
+      \field{month}{6}
+      \field{number}{6}
+      \field{shortjournal}{Struct Multidisc Optim}
+      \field{title}{On Projection Methods, Convergence and Robust Formulations in Topology Optimization}
+      \field{urlday}{25}
+      \field{urlmonth}{2}
+      \field{urlyear}{2025}
+      \field{volume}{43}
+      \field{year}{2011}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{767\bibrangedash 784}
+      \range{pages}{18}
+      \verb{doi}
+      \verb 10.1007/s00158-010-0602-y
+      \endverb
+      \verb{file}
+      \verb /home/morban/Zotero/storage/A47NMVSQ/Wang et al. - 2011 - On projection methods, convergence and robust formulations in topology optimization.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://link.springer.com/10.1007/s00158-010-0602-y
+      \endverb
+      \verb{url}
+      \verb https://link.springer.com/10.1007/s00158-010-0602-y
+      \endverb
+    \endentry
     \entry{lambeTopologyOptimizationUsing2018}{article}{}{}
       \name{author}{2}{}{%
         {{hash=7ab53f8fd620886479f3a12efe84d37f}{%

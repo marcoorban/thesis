@@ -2,7 +2,11 @@
 \contentsline {todo}{maybe talk more about topology optimization here}{5}{}%
 \contentsline {todo}{this paragraph talks about two uses for topology optimization: for the part itself, and for support strucutres.}{5}{}%
 \contentsline {todo}{correct the math symbols here, they should be capitlized and made bold}{6}{}%
-\contentsline {todo}{Talk more about distance filtering. Can add references from liu and tovar, from bruns and tortorelli and from wang, lazarov and sigmund}{10}{}%
+\contentsline {todo}{Add the most general equations of topology optimization here and go over their terms.}{7}{}%
+\contentsline {todo}{Also be sure to talk about multiple objectives and their different weights.}{7}{}%
+\contentsline {todo}{the part below should be the last part, since the density function that is used to calculate physical properties has to be the final density function after filtering and projecting}{11}{}%
+\contentsline {todo}{add range of equations here}{11}{}%
+\contentsline {todo}{add here the general equations for the top opt problem, with multiple objectives, and the filtration and projection of the density field}{11}{}%
 \contentsline {todo}{Figure: measurements of triangles.}{13}{}%
 \contentsline {todo}{Add cylinders here}{14}{}%
 \contentsline {todo}{Add figure of cylinders}{14}{}%

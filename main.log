@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2025.1.30)  25 FEB 2025 16:07
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2025.1.30)  25 FEB 2025 18:35
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -937,13 +937,24 @@ LaTeX Warning: Marginpar on page 5 moved.
 
 [6]
 
+LaTeX Warning: Marginpar on page 7 moved.
+
+
+
 [7]
 
 [8]
 
 [9]
 
-[10])
+[10]
+
+LaTeX Warning: Marginpar on page 11 moved.
+
+
+LaTeX Warning: Marginpar on page 11 moved.
+
+)
 
 [11]
 \openout2 = `methodology/methodology.aux'.
@@ -1103,12 +1114,12 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 26299 strings out of 473846
- 593182 string characters out of 5729886
- 1470787 words of memory out of 5000000
- 48917 multiletter control sequences out of 15000+600000
+ 26336 strings out of 473846
+ 594205 string characters out of 5729886
+ 1474532 words of memory out of 5000000
+ 48954 multiletter control sequences out of 15000+600000
  569891 words of font info for 97 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  117i,11n,121p,2605b,5001s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on main.xdv (31 pages, 586380 bytes).
+Output written on main.xdv (31 pages, 620264 bytes).
