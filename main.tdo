@@ -1,32 +1,26 @@
-\contentsline {todo}{maybe add more references here}{5}{}%
-\contentsline {todo}{maybe talk more about topology optimization here}{5}{}%
-\contentsline {todo}{this paragraph talks about two uses for topology optimization: for the part itself, and for support strucutres.}{5}{}%
-\contentsline {todo}{correct the math symbols here, they should be capitlized and made bold}{6}{}%
-\contentsline {todo}{Add the most general equations of topology optimization here and go over their terms.}{7}{}%
-\contentsline {todo}{Also be sure to talk about multiple objectives and their different weights.}{7}{}%
-\contentsline {todo}{the part below should be the last part, since the density function that is used to calculate physical properties has to be the final density function after filtering and projecting}{11}{}%
-\contentsline {todo}{add range of equations here}{11}{}%
-\contentsline {todo}{add here the general equations for the top opt problem, with multiple objectives, and the filtration and projection of the density field}{11}{}%
-\contentsline {todo}{Figure: measurements of triangles.}{13}{}%
-\contentsline {todo}{Add cylinders here}{14}{}%
-\contentsline {todo}{Add figure of cylinders}{14}{}%
-\contentsline {todo}{Figure: Figure of cylindrical geometry}{14}{}%
-\contentsline {todo}{need to expand on this and make it better. need to get dimesions of components}{15}{}%
-\contentsline {todo}{Figure: figures of triangular domain}{15}{}%
-\contentsline {todo}{Add here the cylindrical component geometry}{15}{}%
-\contentsline {todo}{Write down equation of thermal conductivity for top optimiation domain here.}{16}{}%
-\contentsline {todo}{probably want to add a reference to this somewhere.}{17}{}%
-\contentsline {todo}{Write equation of compliance here}{17}{}%
-\contentsline {todo}{Merge them together to get the final objective function. Explain about the weights.}{17}{}%
-\contentsline {todo}{Talk about Helmholtz filter}{17}{}%
-\contentsline {todo}{Hyperbolic tangent}{17}{}%
-\contentsline {todo}{add version here}{18}{}%
-\contentsline {todo}{Figure: add figure of error / warning from Simufact due to import of structure with gaps. Two figures should suffice here.}{18}{}%
-\contentsline {todo}{add reference here}{19}{}%
-\contentsline {todo}{add that thermomechanical process was used and explain what it is.}{19}{}%
-\contentsline {todo}{insert reference to manual here}{19}{}%
-\contentsline {todo}{add the table of building parameters here.}{19}{}%
-\contentsline {todo}{explain why base plate temeprature might be used in practice, might want to add reference to 10.3390/thermo4010005}{20}{}%
-\contentsline {todo}{Need to add exposure time, exposure energy fraction, and volumetric expansion factors here. Need to refer to Comsol documentation to explain what these are and how they influence the results.}{20}{}%
-\contentsline {todo}{Need to say that no calibration was done. Explain why calibration is necessary for the manufacture of parts, but also explain the reason no calibration was done here.}{20}{}%
-\contentsline {todo}{Explain what this is and how it is done, and what the purpose of this is.}{20}{}%
+\contentsline {todo}{the part below should be the last part, since the density function that is used to calculate physical properties has to be the final density function after filtering and projecting}{14}{}%
+\contentsline {todo}{add here the general equations for the top opt problem, with multiple objectives, and the filtration and projection of the density field}{14}{}%
+\contentsline {todo}{Did I ever finish the intro? need to re read it and edit to complete}{14}{}%
+\contentsline {todo}{Figure: measurements of triangles.}{17}{}%
+\contentsline {todo}{Add cylinders here}{18}{}%
+\contentsline {todo}{Add figure of cylinders}{18}{}%
+\contentsline {todo}{Figure: Figure of cylindrical geometry}{18}{}%
+\contentsline {todo}{need to expand on this and make it better. need to get dimesions of components}{19}{}%
+\contentsline {todo}{Figure: figures of triangular domain}{19}{}%
+\contentsline {todo}{Add here the cylindrical component geometry}{19}{}%
+\contentsline {todo}{Write down equation of thermal conductivity for top optimiation domain here.}{20}{}%
+\contentsline {todo}{probably want to add a reference to this somewhere.}{21}{}%
+\contentsline {todo}{Write equation of compliance here}{21}{}%
+\contentsline {todo}{Merge them together to get the final objective function. Explain about the weights.}{21}{}%
+\contentsline {todo}{Talk about Helmholtz filter}{21}{}%
+\contentsline {todo}{Hyperbolic tangent}{21}{}%
+\contentsline {todo}{add version here}{22}{}%
+\contentsline {todo}{Figure: add figure of error / warning from Simufact due to import of structure with gaps. Two figures should suffice here.}{22}{}%
+\contentsline {todo}{add reference here}{23}{}%
+\contentsline {todo}{add that thermomechanical process was used and explain what it is.}{23}{}%
+\contentsline {todo}{insert reference to manual here}{23}{}%
+\contentsline {todo}{add the table of building parameters here.}{23}{}%
+\contentsline {todo}{explain why base plate temeprature might be used in practice, might want to add reference to 10.3390/thermo4010005}{24}{}%
+\contentsline {todo}{Need to add exposure time, exposure energy fraction, and volumetric expansion factors here. Need to refer to Comsol documentation to explain what these are and how they influence the results.}{24}{}%
+\contentsline {todo}{Need to say that no calibration was done. Explain why calibration is necessary for the manufacture of parts, but also explain the reason no calibration was done here.}{24}{}%
+\contentsline {todo}{Explain what this is and how it is done, and what the purpose of this is.}{24}{}%

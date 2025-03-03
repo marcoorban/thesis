@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2025.1.30)  25 FEB 2025 18:35
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2025.1.30)  3 MAR 2025 17:28
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -929,17 +929,9 @@ Chapter 2.
 
 [4]
 
-LaTeX Warning: Marginpar on page 5 moved.
-
-
-
 [5]
 
 [6]
-
-LaTeX Warning: Marginpar on page 7 moved.
-
-
 
 [7]
 
@@ -949,14 +941,37 @@ LaTeX Warning: Marginpar on page 7 moved.
 
 [10]
 
-LaTeX Warning: Marginpar on page 11 moved.
+[11]
+
+Package amsmath Warning: Cannot use `split' here;
+(amsmath)                trying to recover with `aligned' on input line 125.
 
 
-LaTeX Warning: Marginpar on page 11 moved.
+
+[12]
+File: images/eta03.png Graphic file (type bmp)
+<images/eta03.png>
+File: images/eta08.png Graphic file (type bmp)
+<images/eta08.png>
+
+
+[13]
+File: images/hyp3.jpg Graphic file (type bmp)
+<images/hyp3.jpg>
+File: images/hyp8.jpg Graphic file (type bmp)
+<images/hyp8.jpg>
+
+
+LaTeX Warning: Marginpar on page 14 moved.
+
+
+LaTeX Warning: Marginpar on page 14 moved.
 
 )
 
-[11]
+[14]
+
+[15]
 \openout2 = `methodology/methodology.aux'.
 
  (./methodology/methodology.tex
@@ -964,74 +979,74 @@ Chapter 3.
 File: images/process_diagram.png Graphic file (type bmp)
 <images/process_diagram.png>
 
-LaTeX Warning: Citation 'peishu_thesis' on page 12 undefined on input line 29.
+LaTeX Warning: Citation 'peishu_thesis' on page 16 undefined on input line 29.
 
 
 
-[12
+[16
 
 
 
 
 ]
 
-[13]
+[17]
 File: images/cube.png Graphic file (type bmp)
 <images/cube.png>
 
 
-LaTeX Warning: Marginpar on page 14 moved.
+LaTeX Warning: Marginpar on page 18 moved.
 
 
-
-[14]
-
-[15]
-
-[16]
-
-LaTeX Warning: Marginpar on page 17 moved.
-
-
-LaTeX Warning: Marginpar on page 17 moved.
-
-
-LaTeX Warning: Marginpar on page 17 moved.
-
-
-LaTeX Warning: Marginpar on page 17 moved.
-
-
-
-[17]
 
 [18]
-Overfull \hbox (60.29135pt too wide) in paragraph at lines 140--140
-\TU/lmr/m/n/12 10.3390/thermo4010005[]  
- []
-
-
-Overfull \hbox (60.29135pt too wide) in paragraph at lines 140--140
-\TU/lmr/m/n/12 10.3390/thermo4010005[]  
- []
-
-
 
 [19]
 
-LaTeX Warning: Marginpar on page 20 moved.
+[20]
+
+LaTeX Warning: Marginpar on page 21 moved.
 
 
-LaTeX Warning: Marginpar on page 20 moved.
+LaTeX Warning: Marginpar on page 21 moved.
 
 
-LaTeX Warning: Marginpar on page 20 moved.
+LaTeX Warning: Marginpar on page 21 moved.
+
+
+LaTeX Warning: Marginpar on page 21 moved.
 
 
 
-[20] (./main.tdo
+[21]
 
-[21
+[22]
+Overfull \hbox (60.29135pt too wide) in paragraph at lines 140--140
+\TU/lmr/m/n/12 10.3390/thermo4010005[]  
+ []
+
+
+Overfull \hbox (60.29135pt too wide) in paragraph at lines 140--140
+\TU/lmr/m/n/12 10.3390/thermo4010005[]  
+ []
+
+
+
+[23]
+
+LaTeX Warning: Marginpar on page 24 moved.
+
+
+LaTeX Warning: Marginpar on page 24 moved.
+
+
+LaTeX Warning: Marginpar on page 24 moved.
+
+
+
+[24] (./main.tdo
+
+[25
 
 ])
 \tf@tdo=\write5
@@ -1039,7 +1054,7 @@ LaTeX Warning: Marginpar on page 20 moved.
 
 )
 
-[22]
+[26]
 
 Package fontspec Info: 
 (fontspec)             Script 'CJK' not explicitly supported within font
@@ -1060,13 +1075,8 @@ Package fontspec Info:
 (fontspec)             <->"[FandolFang-Regular.otf]/OT:script=hani;language=dflt;"
 
 
-Overfull \hbox (9.7436pt too wide) in paragraph at lines 40--40
-\TU/lmr/m/n/12 Available: $[][][][][] [] [] [] [][][][][][][][][][][][][][][][][][][][][] [] [][][][] [] [][][] [] [][][][][][][][][][][][][][][][][][][][] []
- []
 
-
-
-[23
+[27
 
 
 
@@ -1082,29 +1092,31 @@ Overfull \hbox (3.82832pt too wide) in paragraph at lines 40--40
 
 
 
-[24]
+[28]
 
-[25]
-Overfull \hbox (14.61674pt too wide) in paragraph at lines 40--40
-[]\TU/lmr/m/n/12 B. S. Lazarov and O. Sigmund, “Filters in topology optimization based on Helmholtz-
- []
-
-
+[29]
 Overfull \hbox (11.71683pt too wide) in paragraph at lines 40--40
 \TU/lmr/m/n/12 pp. 113–137, Jan. 1986, \TU/lmr/m/sc/12 issn\TU/lmr/m/n/12 : 0010-3640, 1097-0312. \TU/lmr/m/sc/12 doi\TU/lmr/m/n/12 : $[][] [] [][][][] [] [][][] [] [][][][][][][][][][]$.
  []
 
 
 
-[26]
+[30]
 
-[27]
+[31]
 
-[28]
+[32]
 
-[29]
+[33]
+Overfull \hbox (14.61674pt too wide) in paragraph at lines 40--40
+[]\TU/lmr/m/n/12 B. S. Lazarov and O. Sigmund, “Filters in topology optimization based on Helmholtz-
+ []
 
-[30] (./main.aux (./introduction/introduction.aux) (./litreview/litreview.aux) (./methodology/methodology.aux))
+
+
+[34]
+
+[35] (./main.aux (./introduction/introduction.aux) (./litreview/litreview.aux) (./methodology/methodology.aux))
  ***********
 LaTeX2e <2024-11-01> patch level 1
 L3 programming layer <2022/08/05>
@@ -1114,12 +1126,12 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 26336 strings out of 473846
- 594205 string characters out of 5729886
- 1474532 words of memory out of 5000000
- 48954 multiletter control sequences out of 15000+600000
+ 26369 strings out of 473846
+ 595259 string characters out of 5729886
+ 1469203 words of memory out of 5000000
+ 48981 multiletter control sequences out of 15000+600000
  569891 words of font info for 97 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 117i,11n,121p,2605b,5001s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 117i,15n,121p,2599b,5001s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on main.xdv (31 pages, 620264 bytes).
+Output written on main.xdv (36 pages, 660556 bytes).

@@ -322,6 +322,14 @@ INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmbsy
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmr8.tfm
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmr6.tfm
+INPUT ./images/eta03.png
+INPUT images/eta03.png
+INPUT ./images/eta08.png
+INPUT images/eta08.png
+INPUT ./images/hyp3.jpg
+INPUT images/hyp3.jpg
+INPUT ./images/hyp8.jpg
+INPUT images/hyp8.jpg
 INPUT ./methodology/methodology.tex
 INPUT ./methodology/methodology.tex
 OUTPUT methodology/methodology.aux
