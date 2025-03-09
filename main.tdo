@@ -1,23 +1,23 @@
-\contentsline {todo}{Figure: measurements of triangles.}{21}{}%
-\contentsline {todo}{Add cylinders here}{22}{}%
-\contentsline {todo}{Add figure of cylinders}{22}{}%
-\contentsline {todo}{Figure: Figure of cylindrical geometry}{22}{}%
-\contentsline {todo}{need to expand on this and make it better. need to get dimesions of components}{23}{}%
-\contentsline {todo}{Figure: figures of triangular domain}{23}{}%
-\contentsline {todo}{Add here the cylindrical component geometry}{23}{}%
-\contentsline {todo}{Write down equation of thermal conductivity for top optimiation domain here.}{24}{}%
-\contentsline {todo}{probably want to add a reference to this somewhere.}{25}{}%
-\contentsline {todo}{Write equation of compliance here}{25}{}%
-\contentsline {todo}{Merge them together to get the final objective function. Explain about the weights.}{25}{}%
-\contentsline {todo}{Talk about Helmholtz filter}{25}{}%
-\contentsline {todo}{Hyperbolic tangent}{25}{}%
-\contentsline {todo}{add version here}{26}{}%
-\contentsline {todo}{Figure: add figure of error / warning from Simufact due to import of structure with gaps. Two figures should suffice here.}{26}{}%
-\contentsline {todo}{add reference here}{27}{}%
-\contentsline {todo}{add that thermomechanical process was used and explain what it is.}{27}{}%
-\contentsline {todo}{insert reference to manual here}{27}{}%
-\contentsline {todo}{add the table of building parameters here.}{27}{}%
-\contentsline {todo}{explain why base plate temeprature might be used in practice, might want to add reference to 10.3390/thermo4010005}{28}{}%
-\contentsline {todo}{Need to add exposure time, exposure energy fraction, and volumetric expansion factors here. Need to refer to Comsol documentation to explain what these are and how they influence the results.}{28}{}%
-\contentsline {todo}{Need to say that no calibration was done. Explain why calibration is necessary for the manufacture of parts, but also explain the reason no calibration was done here.}{28}{}%
-\contentsline {todo}{Explain what this is and how it is done, and what the purpose of this is.}{28}{}%
+\contentsline {todo}{Figure: measurements of triangles.}{22}{}%
+\contentsline {todo}{Add cylinders here}{23}{}%
+\contentsline {todo}{Add figure of cylinders}{23}{}%
+\contentsline {todo}{Figure: Figure of cylindrical geometry}{23}{}%
+\contentsline {todo}{need to expand on this and make it better. need to get dimesions of components}{24}{}%
+\contentsline {todo}{Figure: figures of triangular domain}{24}{}%
+\contentsline {todo}{Add here the cylindrical component geometry}{24}{}%
+\contentsline {todo}{Write down equation of thermal conductivity for top optimiation domain here.}{25}{}%
+\contentsline {todo}{probably want to add a reference to this somewhere.}{26}{}%
+\contentsline {todo}{Write equation of compliance here}{26}{}%
+\contentsline {todo}{Merge them together to get the final objective function. Explain about the weights.}{26}{}%
+\contentsline {todo}{Talk about Helmholtz filter}{26}{}%
+\contentsline {todo}{Hyperbolic tangent}{26}{}%
+\contentsline {todo}{add version here}{27}{}%
+\contentsline {todo}{Figure: add figure of error / warning from Simufact due to import of structure with gaps. Two figures should suffice here.}{27}{}%
+\contentsline {todo}{add reference here}{28}{}%
+\contentsline {todo}{add that thermomechanical process was used and explain what it is.}{28}{}%
+\contentsline {todo}{insert reference to manual here}{28}{}%
+\contentsline {todo}{add the table of building parameters here.}{28}{}%
+\contentsline {todo}{explain why base plate temeprature might be used in practice, might want to add reference to 10.3390/thermo4010005}{29}{}%
+\contentsline {todo}{Need to add exposure time, exposure energy fraction, and volumetric expansion factors here. Need to refer to Comsol documentation to explain what these are and how they influence the results.}{29}{}%
+\contentsline {todo}{Need to say that no calibration was done. Explain why calibration is necessary for the manufacture of parts, but also explain the reason no calibration was done here.}{29}{}%
+\contentsline {todo}{Explain what this is and how it is done, and what the purpose of this is.}{29}{}%

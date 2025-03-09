@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2025.1.30)  9 MAR 2025 18:52
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2025.1.30)  9 MAR 2025 19:05
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -940,23 +940,23 @@ Chapter 1.
 [1
 
 
-])
+]
 
-[2]
+[2])
+
+[3]
 \openout2 = `litreview/litreview.aux'.
 
  (./litreview/litreview.tex
 Chapter 2.
 
 
-[3
+[4
 
 
 
 
 ]
-
-[4]
 
 [5]
 
@@ -972,26 +972,26 @@ Chapter 2.
 
 [11]
 
+[12]
+
 Package amsmath Warning: Cannot use `split' here;
 (amsmath)                trying to recover with `aligned' on input line 125.
 
 
 
-[12]
+[13]
 File: images/eta03.png Graphic file (type bmp)
 <images/eta03.png>
 File: images/eta08.png Graphic file (type bmp)
 <images/eta08.png>
 
 
-[13]
+[14]
 File: images/hyp3.jpg Graphic file (type bmp)
 <images/hyp3.jpg>
 File: images/hyp8.jpg Graphic file (type bmp)
 <images/hyp8.jpg>
 
-
-[14]
 
 [15]
 
@@ -999,9 +999,11 @@ File: images/hyp8.jpg Graphic file (type bmp)
 
 [17]
 
-[18])
+[18]
 
-[19]
+[19])
+
+[20]
 \openout2 = `methodology/methodology.aux'.
 
  (./methodology/methodology.tex
@@ -1009,74 +1011,74 @@ Chapter 3.
 File: images/process_diagram.png Graphic file (type bmp)
 <images/process_diagram.png>
 
-LaTeX Warning: Citation 'peishu_thesis' on page 20 undefined on input line 29.
+LaTeX Warning: Citation 'peishu_thesis' on page 21 undefined on input line 29.
 
 
 
-[20
+[21
 
 
 
 
 ]
 
-[21]
+[22]
 File: images/cube.png Graphic file (type bmp)
 <images/cube.png>
 
 
-LaTeX Warning: Marginpar on page 22 moved.
+LaTeX Warning: Marginpar on page 23 moved.
 
 
-
-[22]
 
 [23]
 
 [24]
 
-LaTeX Warning: Marginpar on page 25 moved.
-
-
-LaTeX Warning: Marginpar on page 25 moved.
-
-
-LaTeX Warning: Marginpar on page 25 moved.
-
-
-LaTeX Warning: Marginpar on page 25 moved.
-
-
-
 [25]
 
+LaTeX Warning: Marginpar on page 26 moved.
+
+
+LaTeX Warning: Marginpar on page 26 moved.
+
+
+LaTeX Warning: Marginpar on page 26 moved.
+
+
+LaTeX Warning: Marginpar on page 26 moved.
+
+
+
 [26]
-Overfull \hbox (60.29135pt too wide) in paragraph at lines 140--140
-\TU/lmr/m/n/12 10.3390/thermo4010005[]  
- []
-
-
-Overfull \hbox (60.29135pt too wide) in paragraph at lines 140--140
-\TU/lmr/m/n/12 10.3390/thermo4010005[]  
- []
-
-
 
 [27]
-
-LaTeX Warning: Marginpar on page 28 moved.
-
-
-LaTeX Warning: Marginpar on page 28 moved.
+Overfull \hbox (60.29135pt too wide) in paragraph at lines 140--140
+\TU/lmr/m/n/12 10.3390/thermo4010005[]  
+ []
 
 
-LaTeX Warning: Marginpar on page 28 moved.
+Overfull \hbox (60.29135pt too wide) in paragraph at lines 140--140
+\TU/lmr/m/n/12 10.3390/thermo4010005[]  
+ []
 
 
 
-[28] (./main.tdo
+[28]
 
-[29
+LaTeX Warning: Marginpar on page 29 moved.
+
+
+LaTeX Warning: Marginpar on page 29 moved.
+
+
+LaTeX Warning: Marginpar on page 29 moved.
+
+
+
+[29] (./main.tdo
+
+[30
 
 ])
 \tf@tdo=\write5
@@ -1084,7 +1086,7 @@ LaTeX Warning: Marginpar on page 28 moved.
 
 )
 
-[30]
+[31]
 
 Package fontspec Info: 
 (fontspec)             Script 'CJK' not explicitly supported within font
@@ -1106,7 +1108,7 @@ Package fontspec Info:
 
 
 
-[31
+[32
 
 
 
@@ -1122,45 +1124,45 @@ Overfull \hbox (3.82832pt too wide) in paragraph at lines 56--56
 
 
 
-[32]
-
 [33]
+
+[34]
 Overfull \hbox (11.71683pt too wide) in paragraph at lines 56--56
 \TU/lmr/m/n/12 pp. 113–137, Jan. 1986, \TU/lmr/m/sc/12 issn\TU/lmr/m/n/12 : 0010-3640, 1097-0312. \TU/lmr/m/sc/12 doi\TU/lmr/m/n/12 : $[][] [] [][][][] [] [][][] [] [][][][][][][][][][]$.
  []
 
 
 
-[34]
-
 [35]
 
 [36]
 
 [37]
+
+[38]
 Overfull \hbox (14.61674pt too wide) in paragraph at lines 56--56
 []\TU/lmr/m/n/12 B. S. Lazarov and O. Sigmund, “Filters in topology optimization based on Helmholtz-
  []
 
 
 
-[38]
+[39]
 Overfull \hbox (4.90543pt too wide) in paragraph at lines 56--56
 \TU/lmr/m/n/12 ditive manufacturing,” \TU/lmr/m/it/12 Finite Elements in Analysis and Design\TU/lmr/m/n/12 , vol. 193, p. 103 558,
  []
 
 
 
-[39]
+[40]
 Overfull \hbox (19.22655pt too wide) in paragraph at lines 56--56
 \TU/lmr/m/n/12 pp. 2721–2732, May 1, 2009, \TU/lmr/m/sc/12 issn\TU/lmr/m/n/12 : 0017-9310. \TU/lmr/m/sc/12 doi\TU/lmr/m/n/12 : $[][] [] [][][][] [] [] [] [][][][][][][][][][][][][][][][][][] []
  []
 
 
 
-[40]
+[41]
 
-[41] (./main.aux (./introduction/introduction.aux) (./litreview/litreview.aux) (./methodology/methodology.aux))
+[42] (./main.aux (./introduction/introduction.aux) (./litreview/litreview.aux) (./methodology/methodology.aux))
  ***********
 LaTeX2e <2024-11-01> patch level 1
 L3 programming layer <2022/08/05>
@@ -1172,10 +1174,10 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 Here is how much of TeX's memory you used:
  27265 strings out of 473846
  609299 string characters out of 5729886
- 1474195 words of memory out of 5000000
+ 1475195 words of memory out of 5000000
  49852 multiletter control sequences out of 15000+600000
  572385 words of font info for 112 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  117i,15n,121p,2599b,5005s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on main.xdv (42 pages, 794808 bytes).
+Output written on main.xdv (43 pages, 805640 bytes).
