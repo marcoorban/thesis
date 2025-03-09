@@ -256,6 +256,8 @@ INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/subfiles/subfiles.sty
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/subfiles/subfiles.sty
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/import/import.sty
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/import/import.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/titlesec/titlesec.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/titlesec/titlesec.sty
 INPUT ./main.aux
 INPUT ./main.aux
 INPUT main.aux
