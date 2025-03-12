@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2025.1.30)  9 MAR 2025 20:02
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2025.1.30)  12 MAR 2025 19:10
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -774,7 +774,7 @@ Package fontspec Info:
 
 \@quotelevel=\count462
 \@quotereset=\count463
-(./main.aux (./introduction/introduction.aux) (./litreview/litreview.aux) (./methodology/methodology.aux))
+(./main.aux (./introduction/introduction.aux) (./litreview/litreview.aux) (./methodology/methodology.aux) (./results/results.aux) (./conclusion/conclusion.aux))
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 47.
@@ -863,15 +863,7 @@ Package biblatex Info: Automatic encoding selection.
 
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'main.bbl' found.
- (./main.bbl
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                peishu_thesis
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-)
+ (./main.bbl)
 Package biblatex Info: Reference section=0 on input line 47.
 Package biblatex Info: Reference segment=0 on input line 47.
 LaTeX Info: Redefining \celsius on input line 47.
@@ -1011,9 +1003,6 @@ Chapter 3.
 File: images/process_diagram.png Graphic file (type bmp)
 <images/process_diagram.png>
 
-LaTeX Warning: Citation 'peishu_thesis' on page 21 undefined on input line 29.
-
-
 
 [21
 
@@ -1027,42 +1016,26 @@ File: images/cube.png Graphic file (type bmp)
 <images/cube.png>
 
 
-LaTeX Warning: Marginpar on page 23 moved.
-
-
-
 [23]
 
 [24]
 
+LaTeX Warning: Marginpar on page 25 moved.
+
+
+LaTeX Warning: Marginpar on page 25 moved.
+
+
+
 [25]
-
-LaTeX Warning: Marginpar on page 26 moved.
-
-
-LaTeX Warning: Marginpar on page 26 moved.
-
-
-LaTeX Warning: Marginpar on page 26 moved.
-
-
-LaTeX Warning: Marginpar on page 26 moved.
-
-
 
 [26]
 
+LaTeX Warning: Marginpar on page 27 moved.
+
+
+
 [27]
-Overfull \hbox (60.29135pt too wide) in paragraph at lines 140--140
-\TU/lmr/m/n/12 10.3390/thermo4010005[]  
- []
-
-
-Overfull \hbox (60.29135pt too wide) in paragraph at lines 140--140
-\TU/lmr/m/n/12 10.3390/thermo4010005[]  
- []
-
-
 
 [28]
 
@@ -1075,10 +1048,47 @@ LaTeX Warning: Marginpar on page 29 moved.
 LaTeX Warning: Marginpar on page 29 moved.
 
 
+LaTeX Warning: Marginpar on page 29 moved.
 
-[29] (./main.tdo
 
-[30
+
+[29]
+
+[30]
+
+[31]
+Overfull \hbox (60.29135pt too wide) in paragraph at lines 168--168
+\TU/lmr/m/n/12 10.3390/thermo4010005[]  
+ []
+
+
+Overfull \hbox (60.29135pt too wide) in paragraph at lines 168--168
+\TU/lmr/m/n/12 10.3390/thermo4010005[]  
+ []
+
+
+LaTeX Warning: Marginpar on page 32 moved.
+
+
+LaTeX Warning: Marginpar on page 32 moved.
+
+
+LaTeX Warning: Marginpar on page 32 moved.
+
+
+LaTeX Warning: Marginpar on page 32 moved.
+
+
+LaTeX Warning: Marginpar on page 32 moved.
+
+
+LaTeX Warning: Marginpar on page 32 moved.
+
+
+
+[32] (./main.tdo
+
+[33
 
 ])
 \tf@tdo=\write5
@@ -1086,7 +1096,31 @@ LaTeX Warning: Marginpar on page 29 moved.
 
 )
 
-[31]
+[34]
+\openout2 = `results/results.aux'.
+
+ (./results/results.tex
+Chapter 4.
+)
+
+[35
+
+
+
+
+]
+\openout2 = `conclusion/conclusion.aux'.
+
+ (./conclusion/conclusion.tex
+Chapter 5.
+)
+
+[36
+
+
+
+
+]
 
 Package fontspec Info: 
 (fontspec)             Script 'CJK' not explicitly supported within font
@@ -1108,61 +1142,61 @@ Package fontspec Info:
 
 
 
-[32
+[37
 
 
 
 ]
-Overfull \hbox (3.2862pt too wide) in paragraph at lines 56--56
+Overfull \hbox (3.2862pt too wide) in paragraph at lines 60--60
 []\TU/lmr/m/n/12 K. Pathak et al., “3D printing in biomedicine: Advancing personalized care through
  []
 
 
-Overfull \hbox (3.82832pt too wide) in paragraph at lines 56--56
+Overfull \hbox (3.82832pt too wide) in paragraph at lines 60--60
 \TU/lmr/m/n/12 Feb. 17, 2025. [Online]. Available: $[][][][][] [] [] [] [][][] [] [][][][][][][][][][][][][][] [] [][][] [] [][][][][][][][] []
  []
 
 
 
-[33]
+[38]
 
-[34]
-Overfull \hbox (11.71683pt too wide) in paragraph at lines 56--56
+[39]
+Overfull \hbox (11.71683pt too wide) in paragraph at lines 60--60
 \TU/lmr/m/n/12 pp. 113–137, Jan. 1986, \TU/lmr/m/sc/12 issn\TU/lmr/m/n/12 : 0010-3640, 1097-0312. \TU/lmr/m/sc/12 doi\TU/lmr/m/n/12 : $[][] [] [][][][] [] [][][] [] [][][][][][][][][][]$.
  []
 
 
 
-[35]
+[40]
 
-[36]
+[41]
 
-[37]
+[42]
 
-[38]
-Overfull \hbox (14.61674pt too wide) in paragraph at lines 56--56
+[43]
+Overfull \hbox (14.61674pt too wide) in paragraph at lines 60--60
 []\TU/lmr/m/n/12 B. S. Lazarov and O. Sigmund, “Filters in topology optimization based on Helmholtz-
  []
 
 
 
-[39]
-Overfull \hbox (4.90543pt too wide) in paragraph at lines 56--56
+[44]
+Overfull \hbox (4.90543pt too wide) in paragraph at lines 60--60
 \TU/lmr/m/n/12 ditive manufacturing,” \TU/lmr/m/it/12 Finite Elements in Analysis and Design\TU/lmr/m/n/12 , vol. 193, p. 103 558,
  []
 
 
 
-[40]
-Overfull \hbox (19.22655pt too wide) in paragraph at lines 56--56
+[45]
+Overfull \hbox (19.22655pt too wide) in paragraph at lines 60--60
 \TU/lmr/m/n/12 pp. 2721–2732, May 1, 2009, \TU/lmr/m/sc/12 issn\TU/lmr/m/n/12 : 0017-9310. \TU/lmr/m/sc/12 doi\TU/lmr/m/n/12 : $[][] [] [][][][] [] [] [] [][][][][][][][][][][][][][][][][][] []
  []
 
 
 
-[41]
+[46]
 
-[42] (./main.aux (./introduction/introduction.aux) (./litreview/litreview.aux) (./methodology/methodology.aux))
+[47] (./main.aux (./introduction/introduction.aux) (./litreview/litreview.aux) (./methodology/methodology.aux) (./results/results.aux) (./conclusion/conclusion.aux))
  ***********
 LaTeX2e <2024-11-01> patch level 1
 L3 programming layer <2022/08/05>
@@ -1172,12 +1206,12 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 27265 strings out of 473846
- 609299 string characters out of 5729886
- 1474195 words of memory out of 5000000
- 49852 multiletter control sequences out of 15000+600000
+ 27372 strings out of 473846
+ 612284 string characters out of 5729886
+ 1486003 words of memory out of 5000000
+ 49941 multiletter control sequences out of 15000+600000
  572385 words of font info for 112 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  117i,15n,121p,2599b,5005s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on main.xdv (43 pages, 805668 bytes).
+Output written on main.xdv (48 pages, 892964 bytes).
