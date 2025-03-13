@@ -173,14 +173,108 @@ The building parameters for the process need also to be set. These include mater
 
 \todo{Explain what this is and how it is done, and what the purpose of this is.}
 
-\subsection{Voxelization and numerical parameters}
+\begin{table}
+  \centering
+  \begin{tabular}{ |c|c| }
+    \hline
+    laser power & 200W \\
+    \hline
+    laser speed & 1000 mm/s \\
+    \hline
+    efficiency & 25\% \\
+    \hline
+    beam width & 100 $\mu$m \\
+    \hline
+    layer thickness & 30 $\mu$m \\
+    \hline
+    recoater time & 10 s \\
+    \hline
+  \end{tabular}
+  \caption{Laser parameters}
+  \label{tab:laser_params}
+\end{table}
 
-Need to talk about the voxel size and about the solver used
+\begin{table}
+  \centering
+  \begin{tabular}{ |c|c| }
+    \hline
+    scan width & 20 mm \\
+    \hline
+    scan overlap & 0 mm \\
+    \hline
+    hatch distance & 0.07 mm \\
+    \hline
+    pause time & 0 s \\
+    \hline
+  \end{tabular}
+  \caption{Scanner parameters}
+  \label{tab:scanner_params}
+\end{table}
+
+\begin{table}
+  \centering
+  \begin{tabular}{ |c|c| }
+    \hline
+    powder temperature & 25 \degree C \\
+    \hline
+    chamber temperature & 50 \degree C \\
+    \hline
+    base plate temperature & 200 \degree C \\
+    \hline
+  \end{tabular}
+  \caption{Thermal parameters}
+  \label{tab:thermal_params}
+\end{table}
+
+\begin{table}
+  \centering
+  \begin{tabular}{ |c|c| }
+    \hline
+    Part / Support emissivity & 0.85 \\
+    \hline
+    Part / Support heat transfer coefficient & 12.0 $W/(m^2 K)$ \\
+    \hline
+    Base plate emissivity & 0.6 \\
+    \hline
+    Base plate heat transfer coefficient & 20 $W/(m^2 K)$ \\
+    \hline
+    Base plate contact heat transfer coefficient & 100 $W/(m^2 K)$\\
+    \hline
+  \end{tabular}
+  \caption{Advanced thermal parameters}
+  \label{tab:adv_thermal_params}
+\end{table}
 
 \subsection{Convergence analysis}
 
-\todo{Talk about convergence analysis}
-To make sure that the results of the simulation would not depend on the voxel density of the 
+To ensure that FEM results were not dependent on the voxel size of the voxel mesh, a convergence analysis was first performed on one of the simple geometries. For this analysis, the results of three projects were compared. The details of the projects are shown in table \todo{reference to table here}. The convergence test proved highly successful, as there is very little difference in the results of the FEM simulations between the different voxel sizes of each project. The results of the convergence test are shown in figure \ref{fig:convergence}. The graphs shows the average and max node deformation of the part's surface, as the voxel size is varied from 1 mm to 0.5 mm. We can see that the variability of surface results due to the voxel size is at most 0.01 mm. In subsequent analyses, the difference between average node displacements of parts with different support structures would be of an order of magnitude bigger ( > 0.1 mm), and thus we can discard the possibility that differences in results are caused or are dependent on the voxel mesh size.
+
+\begin{table}[h!]
+  \centering
+  \begin{tabular}{ |c|c|c|c|c| }
+    \hline
+    Name & Vol frac & $tanh(\theta)$ & Weights & Boundary cond \\
+    \hline
+    Cube 1 & 50\% & 0\degree & w1=w2=0.5 & Solid\\
+    \hline 
+    Cube 2 & 75\% & 4\degree & w1=w2=0.5 & Void\\
+    \hline
+    Triangle 15\degree & 50\% & 0\degree & w1=w2=0.5 & Solid \\
+    \hline
+  \end{tabular}
+  \caption{Parameters of support structures and geometries for convergence study.}
+  \label{tab:convergence}
+\end{table}
+
+\begin{figure}
+  \includegraphics[width=.50\textwidth]{conv_average.png} \hfill
+  \includegraphics[width=.50\textwidth]{conv_max.png} \hfill
+  \caption{Results of convergence test on selected parts.}\label{fig:convergence}
+
+\end{figure}  
+\subsection{Voxelization and numerical parameters}
+
+Need to talk about the voxel size and about the solver used
 
 \subsection{Data export}
 

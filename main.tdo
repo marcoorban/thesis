@@ -1,34 +1,34 @@
-\contentsline {todo}{rewrite introduction}{21}{}%
-\contentsline {todo}{Fix this process diagram}{21}{}%
-\contentsline {todo}{Figure: measurements of triangles.}{22}{}%
-\contentsline {todo}{Figure: pictures of cylinders}{23}{}%
-\contentsline {todo}{Explain that design of femoral components is already done and is proprietary.}{23}{}%
-\contentsline {todo}{thermal compliance equation goes here}{25}{}%
-\contentsline {todo}{equation for compliance here.}{25}{}%
-\contentsline {todo}{symbols of compliance}{25}{}%
-\contentsline {todo}{Sum of objectives here}{25}{}%
-\contentsline {todo}{Write the equqations here again. Remove reference of equation in previous paragraph.}{25}{}%
-\contentsline {todo}{Figure: Mesh of 2d design domain}{26}{}%
-\contentsline {todo}{Figure: Mesh of fem component support structure}{26}{}%
-\contentsline {todo}{Do this part}{27}{}%
-\contentsline {todo}{Add material information here}{27}{}%
-\contentsline {todo}{Correct equations and figures in the above paragraph.}{27}{}%
-\contentsline {todo}{Figure: Graph of power heat cycle}{27}{}%
-\contentsline {todo}{Finish objective function weight explanation}{29}{}%
-\contentsline {todo}{Explain what the effect of hyp tan is and why the values were used. Explain that after theta = 8, all subsequejt values are the same, so this was the upper limit used.}{29}{}%
-\contentsline {todo}{add table reference here}{29}{}%
-\contentsline {todo}{Add tables of parameters here}{29}{}%
-\contentsline {todo}{Figure: examples of comsol simulation}{29}{}%
-\contentsline {todo}{add version here}{29}{}%
-\contentsline {todo}{Figure: Figures of support structures with parts}{30}{}%
-\contentsline {todo}{add reference here}{30}{}%
-\contentsline {todo}{Figure: Need simulation process here: process properites -> build -> part import -> voxelization -> numerical parameters }{30}{}%
-\contentsline {todo}{add that thermomechanical process was used and explain what it is.}{31}{}%
-\contentsline {todo}{insert reference to manual here}{31}{}%
-\contentsline {todo}{add the table of building parameters here.}{32}{}%
-\contentsline {todo}{explain why base plate temeprature might be used in practice, might want to add reference to 10.3390/thermo4010005}{32}{}%
-\contentsline {todo}{Need to add exposure time, exposure energy fraction, and volumetric expansion factors here. Need to refer to Comsol documentation to explain what these are and how they influence the results.}{32}{}%
-\contentsline {todo}{Need to say that no calibration was done. Explain why calibration is necessary for the manufacture of parts, but also explain the reason no calibration was done here.}{32}{}%
-\contentsline {todo}{Explain what this is and how it is done, and what the purpose of this is.}{32}{}%
-\contentsline {todo}{Talk about convergence analysis}{32}{}%
-\contentsline {todo}{Talk about how the data was analyzed, what software and what statistical methods used.}{32}{}%
+\contentsline {todo}{rewrite introduction}{23}{}%
+\contentsline {todo}{Fix this process diagram}{23}{}%
+\contentsline {todo}{Figure: measurements of triangles.}{24}{}%
+\contentsline {todo}{Figure: pictures of cylinders}{25}{}%
+\contentsline {todo}{Explain that design of femoral components is already done and is proprietary.}{25}{}%
+\contentsline {todo}{thermal compliance equation goes here}{27}{}%
+\contentsline {todo}{equation for compliance here.}{27}{}%
+\contentsline {todo}{symbols of compliance}{27}{}%
+\contentsline {todo}{Sum of objectives here}{27}{}%
+\contentsline {todo}{Write the equqations here again. Remove reference of equation in previous paragraph.}{27}{}%
+\contentsline {todo}{Figure: Mesh of 2d design domain}{28}{}%
+\contentsline {todo}{Figure: Mesh of fem component support structure}{28}{}%
+\contentsline {todo}{Do this part}{29}{}%
+\contentsline {todo}{Add material information here}{29}{}%
+\contentsline {todo}{Correct equations and figures in the above paragraph.}{29}{}%
+\contentsline {todo}{Figure: Graph of power heat cycle}{29}{}%
+\contentsline {todo}{Finish objective function weight explanation}{31}{}%
+\contentsline {todo}{Explain what the effect of hyp tan is and why the values were used. Explain that after theta = 8, all subsequejt values are the same, so this was the upper limit used.}{31}{}%
+\contentsline {todo}{add table reference here}{31}{}%
+\contentsline {todo}{Add tables of parameters here}{31}{}%
+\contentsline {todo}{Figure: examples of comsol simulation}{31}{}%
+\contentsline {todo}{add version here}{31}{}%
+\contentsline {todo}{Figure: Figures of support structures with parts}{32}{}%
+\contentsline {todo}{add reference here}{32}{}%
+\contentsline {todo}{Figure: Need simulation process here: process properites -> build -> part import -> voxelization -> numerical parameters }{32}{}%
+\contentsline {todo}{add that thermomechanical process was used and explain what it is.}{33}{}%
+\contentsline {todo}{insert reference to manual here}{33}{}%
+\contentsline {todo}{add the table of building parameters here.}{34}{}%
+\contentsline {todo}{explain why base plate temeprature might be used in practice, might want to add reference to 10.3390/thermo4010005}{34}{}%
+\contentsline {todo}{Need to add exposure time, exposure energy fraction, and volumetric expansion factors here. Need to refer to Comsol documentation to explain what these are and how they influence the results.}{34}{}%
+\contentsline {todo}{Need to say that no calibration was done. Explain why calibration is necessary for the manufacture of parts, but also explain the reason no calibration was done here.}{34}{}%
+\contentsline {todo}{Explain what this is and how it is done, and what the purpose of this is.}{34}{}%
+\contentsline {todo}{reference to table here}{35}{}%
+\contentsline {todo}{Talk about how the data was analyzed, what software and what statistical methods used.}{36}{}%
