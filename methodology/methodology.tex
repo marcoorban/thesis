@@ -6,26 +6,20 @@
 \chapter{Methodology}
 \section{Introduction}
 
+To evaluate the performance of various support structures developed through topology optimization, a comparative study was conducted in which components fabricated via additive manufacturing were paired with distinct support structures. This investigation assumed that different structural configurations would exhibit varying thermal conductivity, thereby influencing the efficiency of heat dissipation from each material layer during the manufacturing process. Enhanced thermal conduction is anticipated to mitigate overall thermal deformation, as the manufactured component would experience reduced expansion due to a shorter duration of exposure to elevated temperatures.
 
-\todo{rewrite introduction}
+This section will explain the full process employeds to run the simulations and analyze the resultant data. An overview of the procedural framework is illustrated in Figure~\ref{fig:process_diagram}. The process starts from the creation of the CAD for the manufactured components, followed by the design and CAD creation of the corresponding support structures. The components and the support structures are then merged, and imported into the additive manufacturing software to simulate the results of manufacture. The results obtained from the manufacturing simulation are then subjected to analysis through graphical representations and statistical methods.
 
-To analyze the performance of different support structures created using topology optimization, a comparison study was made in which parts created by additive manufacturing were paired with different support structures. This study assumed that different structures will conduct heat energy differently, and thus some topologies might be more effective in removing heat faster from each material layer as it is being processed. This increased thermal conduction would then result in less overall thermal deformation, as the manufactured component would expand less due to the decreased time in high temperatures. 
-
-This section will explain the full process taken to run the simulations and analyze the data. An overview of the process can be seen in Figure~\ref{fig:process_diagram}. The process starts from the creation of the CAD for the manufactured components, followed by the design and CAD creation of the support structures. The components and the support structures are then merged, and imported into the additive manufacturing software to simulate the results of manufacture. The results from the manufacturing simulation are then analyzed by means of graphs and statistical methods. 
-
-\todo{Fix this process diagram}
 \begin{figure}
   \begin{center}
-    \includegraphics[width=0.95\textwidth]{process_diagram.png}
+    \includegraphics[width=0.90\textwidth]{process_diagram.png}
   \end{center}
   \caption{Process diagram.}\label{fig:process_diagram}
 \end{figure}
 
 The subsequent sections explain in detail each stage of this process.
 
-\section{Component CAD creation}
-
-\subsection{Simple geometry}
+\section{Component CAD}
 
 The components with simple geometries utilized in this study consist of a cube, three triangular
 components with different slopes, and three cylindrical components with different values of
@@ -33,9 +27,9 @@ curvature. These shapes with these dimenions were chosen to ease the comparison 
 used for the simple geometry study were created using FreeCAD, an open-source CAD software. The components were exported as .STEP files, and then were merged with their corresponding support structures using the software nTop. The geometries used for this preliminary study are the following:
 
 \begin{itemize}
-  \item A cube with side length of 30 mm (Figure \ref{fig:cube}).
-  \item Three triangular components with varying slopes. All triangular components have a base of 30 x 30 $mm^2$, with slopes of 15 \degree, 30  \degree and 45 \degree. The measurements are shown in figure. \missingfigure{measurements of triangles.}
-  \item Three prisms with rounded edge of different radii. The radii used were 20mm, 30mm, and 40mm. These rounded prisms also have a base of 30 x 30 $cm^2$. \missingfigure{pictures of cylinders}
+  \item A cube with side length of 30 mm, as shown in figure \ref{fig:cube}.
+  \item Three triangular components with varying slopes. All triangular components have a base of 30 x 30 mm$^2$, with slopes of 15\degree, 30\degree and 45 \degree. The measurements are shown in figures \ref{fig:tri15}, \ref{fig:tri30},  and \ref{fig:tri45}.
+  \item Three prisms with fillets of different. The radii used were 20 mm, 30 mm, and 40 mm. These rounded prisms also have a base of 30 x 30 cm$^2$. They are shown in figures \ref{fig:cyl20}, \ref{fig:cyl30}, and \ref{fig:cyl40}.
 \end{itemize}
 
 \begin{figure}
@@ -44,8 +38,60 @@ used for the simple geometry study were created using FreeCAD, an open-source CA
 	\end{center}
 	\caption{Dimensions of cube component.}\label{fig:cube}
 \end{figure}
+\begin{figure}
+	\begin{center}
+		\includegraphics[width=0.45\textwidth]{triangle15.png}
+	\end{center}
+	\caption{15\degree triangle.}\label{fig:tri15}
+\end{figure}
+\begin{figure}
+	\begin{center}
+		\includegraphics[width=0.45\textwidth]{triangle30.png}
+	\end{center}
+	\caption{30\degree triangle.}\label{fig:tri30}
+\end{figure}
+\begin{figure}
+	\begin{center}
+		\includegraphics[width=0.45\textwidth]{triangle45.png}
+	\end{center}
+	\caption{45\degree triangle.}\label{fig:tri45}
+\end{figure}
+\begin{figure}
+	\begin{center}
+		\includegraphics[width=0.45\textwidth]{cyl20.png}
+	\end{center}
+	\caption{Part with R20 mm fillet.}\label{fig:cyl20}
+\end{figure}
+\begin{figure}
+	\begin{center}
+		\includegraphics[width=0.45\textwidth]{cyl30.png}
+	\end{center}
+	\caption{Part with R30 mm fillet.}\label{fig:cyl30}
+\end{figure}
+\begin{figure}
+	\begin{center}
+		\includegraphics[width=0.45\textwidth]{cyl40.png}
+	\end{center}
+	\caption{Part with R40 mm fillet.}\label{fig:cyl40}
+\end{figure}
 
-\todo{Explain that design of femoral components is already done and is proprietary.}
+Apart from the parts above, a CAD model for a femoral component was also employed. The femoral component is one of the prostethic components used in total knee arthroplasty, and is the piece that is directly connected to the patient's femur. This is shown in figure \ref{fig:fem1} and \ref{fig:fem2}.
+
+\begin{figure}
+  \begin{center}
+  \includegraphics[width=0.45\textwidth]{femoral.png}
+\end{center}
+  \caption{Components of total knee arthroplasty prothesis. Taken from \cite{leopoldMinimallyInvasiveTotal2009}.}
+  \label{fig:fem1}
+\end{figure}
+
+\begin{figure}
+  \begin{center}
+  \includegraphics[width=0.45\textwidth]{femoral2.png}
+\end{center}
+  \caption{CAD model of femoral component.}
+  \label{fig:fem2}
+\end{figure}
 
 \section{Topology optimization model}
 
@@ -94,16 +140,20 @@ need to do this.
 
 To run the topology optimization algorithm and obtain a solution, the design domain must be divided into finite element methods for computation. For the 2D design domains of the simple geometry elements, free triangular meshes were utilized, using a predefined mesh element size of "finer". This resulted in about 2000-3000 elements for each of the design domains, depending on the geometry of the domain. These mesh parameters were chosen to produce fast results and to obtain a general idea of how the simulation parameteres affected the solution of the topology optimization problem.
 
-\missingfigure{Mesh of 2d design domain}
+\begin{figure}
+  \includegraphics{mesh1.png}
+\end{figure}
 
 On the other hand, For the 3D design domain of the femoral component support structure, the mesh sizing parameters were chosen with more deliberation. The maximum and minimum element sizes of the mesh were determined based on the minimum element size achievable by the selective laser melting (SLM) machine utilized in this study, which is approximately 0.2 millimeters. However, employing a mesh with an element size of 0.2 millimeters results in excessively fine meshes that significantly prolong computational solving times. Consequently, the maximum and minimum mesh sizes were adjusted to be 8 and 4 times the minimum feature size, resulting in values of approximately 1.6 millimeters and 0.8 millimeters, respectively. This resulted in meshes with approximately 164,000 elements.
+
+\begin{figure}
+  \includegraphics{femmesh.png}
+\end{figure}
 
 \missingfigure{Mesh of fem component support structure}
 
 
 \subsection{Physical parameters}
-
-\todo{Do this part}
 
 For the topology optimization solution to be useful, realistic thermal and stress load should be used. The thermal load was based on the maximum wattage and efficiency of the laser achievable by the selective laser melting machine used in this work. The laser's power is 200W, with an efficiency of 25\%. This value cannot be used for the thermal load, since the laser is only activated for a small amount of time. From the FEM software building process parameters, each layer is heated for approximately 154 ms. Therefore, with an effective power of 200W x 0.25 = 50W, the total amount of energy added to the layer during the heating time is 50W x 154ms = 7.7 J. But each layer heating time occurs periodically, with a period of approximately 440s. Therefore, the average power input to the system per cycle is calculated to be 0.0175W. The approximate area of the top surface of the support structure design domain is approximately 30mm x 30mm = 900mm2. Diving the power per cycle by this area yields a heat flux of about 19.4 W/mm2, which was rounded up to 20.0 W/m2 for the topology optimization problem. For the heat flux used in the femoral component calculation, the difference is in the area of the top surface of the design domain. This area is about 1690 mm2, and thus the heat flux used for the support structure design in accounts to be about 10.37 W/m2, which was rounded to 10 W/m2.
 
@@ -137,19 +187,17 @@ Explain that two boundary conditions were used for simple geometry, void and no 
 
 \missingfigure{examples of comsol simulation}
 
-\section{Creation of support structure CAD and merging with part}
+\section{Support structure design and merging with part}
 
 After COMSOL was used to generate the possible topologies for the support structure, the topology was exported to image files, in the case of the 2D problem, and to an .STL file, in the case of the 3D structure. These were then converted to 3D .stp file with the aid of FreeCAD. nTop Software was then used to merge the resulting support structure with the manufactured components. Once the support structure and the part were joined, they were exported as .stl files to be used in the SLM finite element simulation.
 
-Once the CAD file of the component and the support structure has been built, it is necessary to merge them together and import them into Simufact to undergo simulation of the manufacturing process. The software used for blending the component and its support structure is nTop \todo{add version here}. nTop's interface makes it very easy to merge the part, and also allows to blend the support structure and the component, which effectively creates a fillet between the nodes of both components to allow for a smooth transition between bodies. Of course, blending the component and the support structure in this manner would not give any benefit in a real manufacturing process, as the structure and the component would not be able to be separated easily. NEvertheless, this blend radius is beneficial for the simulation since it was observed that a direct union and import of the support structure + component in Simufact resulted in having very small gaps between the two pieces, resulting in a non manifold geometry that would cause the finite element model to have gaps between some of its nodes. 
+Once the CAD file of the component and the support structure has been built, it is necessary to merge them together and import them into Simufact to undergo simulation of the manufacturing process. The software used for blending the component and its support structure is nTop version 5.17.2. nTop's interface makes it very easy to merge the part, and also allows to blend the support structure and the component, which effectively creates a fillet between the nodes of both components to allow for a smooth transition between bodies. Of course, blending the component and the support structure in this manner would not give any benefit in a real manufacturing process, as the structure and the component would not be able to be separated easily. NEvertheless, this blend radius is beneficial for the simulation since it was observed that a direct union and import of the support structure + component in Simufact resulted in having very small gaps between the two pieces, resulting in a non manifold geometry that would cause the finite element model to have gaps between some of its nodes. 
 
 \missingfigure{Figures of support structures with parts}
 
 \section{Simulation of manufacturing process}
 
 The software utilized to simulate the manufacturing process is Simufact Additive version 2023.2. Simufact Additive is capable of simulation building process of additive manufacturing components, and coupling thermal and stress physics to predict the temperature values of the component throughout the building process and the total stresses, strains and deformations resulting from the manufacturing process. 
-
-In order to set up Simufact correctly, the building process and the building space geometry must be specified before each simulation. The building parameters and building geometries used in this study are the same that were used in the analysis of thermal deformation using lattice support structures done by Peihsy and al. \todo{add reference here}
 
 \missingfigure{Need simulation process here: process properites -> build -> part import -> voxelization -> numerical parameters }
 
@@ -162,6 +210,8 @@ After the component and the support structures were merged, they were imported i
 The first parameter to be chosen is the process properties, which determines the physics that Simufact takes into consideration to run the simulation. Simufact provides three different types of processes: mechanical, thermal, and thermomechanical. As stated in the Simufact manual \todo{insert reference to manual here}, mechanical provides a fast mechanical analysis that only uses inherent strains as the main input. This type of analysis does not take into consideration the temperature fields during the building process. The thermal process on the other hand only considers the thermal behaviour of the components, and the temperature field of the support structures, components and base can be analyzed. The thermomechanical process couples the stress and thermal analyses, and allows for the prediction of temperature, distortions and stresses of the part. This latter process is the one used in this study.
 
 \subsection{Machine and build parameters}
+
+\todo{need to specify what type of machine it is (the model and stuff)}
 
 After choosing the process property, the machine parameters must be specified. This includes the machine build plate geometry and the laser parameters. The machine build plate chosen was a circular plate with an 80 mm radius. The build space dimensions consists of a space of 160 mm in all three x-y-z directions. As for the laser parameters, the simulations were carried out with one laser with a maximum laser power of 500 W and a maximum laser speed of 2000 mm / s, an efficiency of 25 percent, and a beam width of 25 mm. All of these parameters are summarized in the table \todo{add the table of building parameters here.}
 
@@ -274,16 +324,11 @@ To ensure that FEM results were not dependent on the voxel size of the voxel mes
 \end{figure}  
 \subsection{Voxelization and numerical parameters}
 
-Need to talk about the voxel size and about the solver used
+All of the simulations run on Simufact used voxel meshes with sizes ranging from 0.8 mm to 1.5 mm, depending on the complexity of the geometry of the part. The voxelization of the components was performed with Simufact's default voxelization engine. The voxel meshes of the components were uniform in size, while the base plate voxel mesh used adaptive meshing, with 2 levels of coarsening. The solver used for all simulations was the MUMPS Parallel Direct Solver, with 14 time steps for each voxel layer.
 
-\subsection{Data export}
+\section{Results export and analysis}
 
-\textit{This section will detail how I collected the data from Simufact and what software and methods I used to organize it an analyze it. The actual results will go in the following chapter, aptly named results, duh}
-
-\section{Analysis of data}
-
-\todo{Talk about how the data was analyzed, what software and what statistical methods used.}
-
+After the simulation was run, the node displacement and stress data of last time increment was exported to a .csv file using a Python script. The .csv file was then read and parsed using R, and the data was used to obtain statistical values and graphs. Python code and the R scripts have been included in the Code chapter of this work. 
 
 \listoftodos
 
