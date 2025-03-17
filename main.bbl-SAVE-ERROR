@@ -196,13 +196,9 @@
       \field{number}{31}
       \field{shortjournal}{Medicine (Baltimore)}
       \field{title}{The Increase in Total Knee Replacement Surgery in {{Taiwan}}}
-      \field{urlday}{11}
-      \field{urlmonth}{2}
-      \field{urlyear}{2025}
       \field{volume}{97}
       \field{year}{2018}
       \field{dateera}{ce}
-      \field{urldateera}{ce}
       \field{pages}{e11749}
       \range{pages}{-1}
       \verb{doi}
@@ -213,12 +209,6 @@
       \endverb
       \verb{file}
       \verb /home/morban/Zotero/storage/J6EVPIR6/Lin et al. - 2018 - The increase in total knee replacement surgery in Taiwan.pdf
-      \endverb
-      \verb{urlraw}
-      \verb https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6081077/
-      \endverb
-      \verb{url}
-      \verb https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6081077/
       \endverb
     \endentry
     \entry{narraAdditiveManufacturingTotal2019}{article}{}{}
@@ -263,13 +253,9 @@
       \field{number}{1}
       \field{shortjournal}{Orthop Clin North Am}
       \field{title}{Additive {{Manufacturing}} in {{Total Joint Arthroplasty}}}
-      \field{urlday}{11}
-      \field{urlmonth}{2}
-      \field{urlyear}{2025}
       \field{volume}{50}
       \field{year}{2019}
       \field{dateera}{ce}
-      \field{urldateera}{ce}
       \field{pages}{13\bibrangedash 20}
       \range{pages}{8}
       \verb{doi}
@@ -280,12 +266,6 @@
       \endverb
       \verb{file}
       \verb /home/morban/Zotero/storage/PYQ8596R/Narra et al. - 2019 - Additive Manufacturing in Total Joint Arthroplasty.pdf
-      \endverb
-      \verb{urlraw}
-      \verb https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6555404/
-      \endverb
-      \verb{url}
-      \verb https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6555404/
       \endverb
     \endentry
     \entry{valinoAdvances3DPrinting2019}{article}{}{}
@@ -340,13 +320,9 @@
       \field{month}{11}
       \field{shortjournal}{Progress in Polymer Science}
       \field{title}{Advances in {{3D}} Printing of Thermoplastic Polymer Composites and Nanocomposites}
-      \field{urlday}{27}
-      \field{urlmonth}{2}
-      \field{urlyear}{2025}
       \field{volume}{98}
       \field{year}{2019}
       \field{dateera}{ce}
-      \field{urldateera}{ce}
       \field{pages}{101162}
       \range{pages}{1}
       \verb{doi}
@@ -354,12 +330,6 @@
       \endverb
       \verb{file}
       \verb /home/morban/Zotero/storage/V7P9FI47/S0079670018303976.html
-      \endverb
-      \verb{urlraw}
-      \verb https://www.sciencedirect.com/science/article/pii/S0079670018303976
-      \endverb
-      \verb{url}
-      \verb https://www.sciencedirect.com/science/article/pii/S0079670018303976
       \endverb
       \keyw{3D printing,Additive manufacturing,Polymer blends,Processing techniques,Thermoplastic composites}
     \endentry
@@ -396,13 +366,9 @@
       \field{month}{2}
       \field{shortjournal}{J Rehabil Assist Technol Eng}
       \field{title}{Trends and Developments in Hip and Knee Arthroplasty Technology}
-      \field{urlday}{17}
-      \field{urlmonth}{2}
-      \field{urlyear}{2025}
       \field{volume}{8}
       \field{year}{2021}
       \field{dateera}{ce}
-      \field{urldateera}{ce}
       \field{pages}{2055668320952043}
       \range{pages}{1}
       \verb{doi}
@@ -413,12 +379,6 @@
       \endverb
       \verb{file}
       \verb /home/morban/Zotero/storage/YMXVLHBU/Marsh and Newman - 2021 - Trends and developments in hip and knee arthroplasty technology.pdf
-      \endverb
-      \verb{urlraw}
-      \verb https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7874345/
-      \endverb
-      \verb{url}
-      \verb https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7874345/
       \endverb
     \endentry
     \entry{mobarakRecentAdvancesAdditive2023}{article}{}{}
@@ -478,13 +438,9 @@
       \field{month}{12}
       \field{shortjournal}{Applied Surface Science Advances}
       \field{title}{Recent Advances of Additive Manufacturing in Implant Fabrication – {{A}} Review}
-      \field{urlday}{17}
-      \field{urlmonth}{2}
-      \field{urlyear}{2025}
       \field{volume}{18}
       \field{year}{2023}
       \field{dateera}{ce}
-      \field{urldateera}{ce}
       \field{pages}{100462}
       \range{pages}{1}
       \verb{doi}
@@ -492,12 +448,6 @@
       \endverb
       \verb{file}
       \verb /home/morban/Zotero/storage/J37DBU2V/S266652392300096X.html
-      \endverb
-      \verb{urlraw}
-      \verb https://www.sciencedirect.com/science/article/pii/S266652392300096X
-      \endverb
-      \verb{url}
-      \verb https://www.sciencedirect.com/science/article/pii/S266652392300096X
       \endverb
       \keyw{3D printing,Additive manufacturing,Fabrication,Implant}
     \endentry
@@ -585,13 +535,9 @@
       \field{shortjournal}{Explor Med.}
       \field{shorttitle}{{{3D}} Printing in Biomedicine}
       \field{title}{{{3D}} Printing in Biomedicine: Advancing Personalized Care through Additive Manufacturing}
-      \field{urlday}{17}
-      \field{urlmonth}{2}
-      \field{urlyear}{2025}
       \field{volume}{4}
       \field{year}{2023}
       \field{dateera}{ce}
-      \field{urldateera}{ce}
       \field{pages}{1135\bibrangedash 1167}
       \range{pages}{33}
       \verb{doi}
@@ -599,12 +545,6 @@
       \endverb
       \verb{file}
       \verb /home/morban/Zotero/storage/M4NRPLU7/Pathak et al. - 2023 - 3D printing in biomedicine advancing personalized care through additive manufacturing.pdf
-      \endverb
-      \verb{urlraw}
-      \verb https://www.explorationpub.com/Journals/em/Article/1001200
-      \endverb
-      \verb{url}
-      \verb https://www.explorationpub.com/Journals/em/Article/1001200
       \endverb
     \endentry
     \entry{jonaetPredictionResidualStress2021}{article}{}{}
@@ -650,13 +590,9 @@
       \field{number}{7}
       \field{shortjournal}{Int J Adv Manuf Technol}
       \field{title}{Prediction of Residual Stress and Deformation Based on the Temperature Distribution in {{3D-printed}} Parts}
-      \field{urlday}{1}
-      \field{urlmonth}{3}
-      \field{urlyear}{2025}
       \field{volume}{113}
       \field{year}{2021}
       \field{dateera}{ce}
-      \field{urldateera}{ce}
       \field{pages}{2227\bibrangedash 2242}
       \range{pages}{16}
       \verb{doi}
@@ -664,12 +600,6 @@
       \endverb
       \verb{file}
       \verb /home/morban/Zotero/storage/5XTTSNIY/Jonaet et al. - 2021 - Prediction of residual stress and deformation based on the temperature distribution in 3D-printed pa.pdf
-      \endverb
-      \verb{urlraw}
-      \verb https://link-springer-com.proxyone.lib.nchu.edu.tw:8443/article/10.1007/s00170-021-06711-5
-      \endverb
-      \verb{url}
-      \verb https://link-springer-com.proxyone.lib.nchu.edu.tw:8443/article/10.1007/s00170-021-06711-5
       \endverb
     \endentry
     \entry{laureijsMetalAdditiveManufacturing}{online}{}{}
@@ -781,13 +711,9 @@
       \field{number}{6}
       \field{shortjournal}{Struct Multidisc Optim}
       \field{title}{Optimizing Supports for Additive Manufacturing}
-      \field{urlday}{20}
-      \field{urlmonth}{2}
-      \field{urlyear}{2025}
       \field{volume}{58}
       \field{year}{2018}
       \field{dateera}{ce}
-      \field{urldateera}{ce}
       \field{pages}{2493\bibrangedash 2515}
       \range{pages}{23}
       \verb{doi}
@@ -795,12 +721,6 @@
       \endverb
       \verb{file}
       \verb /home/morban/Zotero/storage/D9P8GW4K/Allaire and Bogosel - 2018 - Optimizing supports for additive manufacturing.pdf
-      \endverb
-      \verb{urlraw}
-      \verb https://link-springer-com.proxyone.lib.nchu.edu.tw:8443/article/10.1007/s00158-018-2125-x
-      \endverb
-      \verb{url}
-      \verb https://link-springer-com.proxyone.lib.nchu.edu.tw:8443/article/10.1007/s00158-018-2125-x
       \endverb
     \endentry
     \entry{kuoSupportStructureDesign2018}{article}{}{}
@@ -851,13 +771,9 @@
       \field{number}{1}
       \field{shortjournal}{Struct Multidisc Optim}
       \field{title}{Support Structure Design in Additive Manufacturing Based on Topology Optimization}
-      \field{urlday}{20}
-      \field{urlmonth}{2}
-      \field{urlyear}{2025}
       \field{volume}{57}
       \field{year}{2018}
       \field{dateera}{ce}
-      \field{urldateera}{ce}
       \field{pages}{183\bibrangedash 195}
       \range{pages}{13}
       \verb{doi}
@@ -865,12 +781,6 @@
       \endverb
       \verb{file}
       \verb /home/morban/Zotero/storage/786WBRIG/Kuo et al. - 2018 - Support structure design in additive manufacturing based on topology optimization.pdf
-      \endverb
-      \verb{urlraw}
-      \verb https://link-springer-com.proxyone.lib.nchu.edu.tw:8443/article/10.1007/s00158-017-1743-z
-      \endverb
-      \verb{url}
-      \verb https://link-springer-com.proxyone.lib.nchu.edu.tw:8443/article/10.1007/s00158-017-1743-z
       \endverb
     \endentry
     \entry{kumarTailoredSupportStructures2020}{incollection}{}{}
@@ -988,13 +898,9 @@
       \field{month}{8}
       \field{shortjournal}{Computer Methods in Applied Mechanics and Engineering}
       \field{title}{Topology Optimization of Thermal Conductive Support Structures for Laser Additive Manufacturing}
-      \field{urlday}{20}
-      \field{urlmonth}{2}
-      \field{urlyear}{2025}
       \field{volume}{353}
       \field{year}{2019}
       \field{dateera}{ce}
-      \field{urldateera}{ce}
       \field{pages}{24\bibrangedash 43}
       \range{pages}{20}
       \verb{doi}
@@ -1002,12 +908,6 @@
       \endverb
       \verb{file}
       \verb /home/morban/Zotero/storage/ZGL56CML/S0045782519301938.html
-      \endverb
-      \verb{urlraw}
-      \verb https://www.sciencedirect.com/science/article/pii/S0045782519301938
-      \endverb
-      \verb{url}
-      \verb https://www.sciencedirect.com/science/article/pii/S0045782519301938
       \endverb
       \keyw{AM-process simulation,Heat transfer,Laser additive manufacturing,Support structure,Topology optimization}
     \endentry
@@ -1035,6 +935,7 @@
       \strng{authornamehash}{7cb9d2ab7b85631232825a1645a5eb95}
       \strng{authorfullhash}{7cb9d2ab7b85631232825a1645a5eb95}
       \strng{authorfullhashraw}{7cb9d2ab7b85631232825a1645a5eb95}
+      \field{extraname}{1}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
@@ -1107,13 +1008,9 @@
       \field{number}{1}
       \field{shortjournal}{Virtual and Physical Prototyping}
       \field{title}{Topology Optimisation of Self-Supporting Structures Based on the Multi-Directional Additive Manufacturing Technique}
-      \field{urlday}{20}
-      \field{urlmonth}{2}
-      \field{urlyear}{2025}
       \field{volume}{18}
       \field{year}{2023}
       \field{dateera}{ce}
-      \field{urldateera}{ce}
       \field{pages}{e2271458}
       \range{pages}{-1}
       \verb{doi}
@@ -1121,12 +1018,6 @@
       \endverb
       \verb{file}
       \verb /home/morban/Zotero/storage/AJJ7IJQH/Ye et al. - 2023 - Topology optimisation of self-supporting structures based on the multi-directional additive manufact.pdf
-      \endverb
-      \verb{urlraw}
-      \verb https://www.tandfonline.com/doi/full/10.1080/17452759.2023.2271458
-      \endverb
-      \verb{url}
-      \verb https://www.tandfonline.com/doi/full/10.1080/17452759.2023.2271458
       \endverb
     \endentry
     \entry{langelaarTOPOLOGYOPTIMIZATIONADDITIVE2016}{inproceedings}{}{}
@@ -1161,12 +1052,8 @@
       \field{isbn}{978-618-82844-0-1}
       \field{langid}{english}
       \field{title}{{{TOPOLOGY OPTIMIZATION FOR ADDITIVE MANUFACTURING WITH CONTROLLABLE SUPPORT STRUCTURE COSTS}}}
-      \field{urlday}{20}
-      \field{urlmonth}{2}
-      \field{urlyear}{2025}
       \field{year}{2016}
       \field{dateera}{ce}
-      \field{urldateera}{ce}
       \field{pages}{3689\bibrangedash 3699}
       \range{pages}{11}
       \verb{doi}
@@ -1174,12 +1061,6 @@
       \endverb
       \verb{file}
       \verb /home/morban/Zotero/storage/RI5U8F23/Langelaar - 2016 - TOPOLOGY OPTIMIZATION FOR ADDITIVE MANUFACTURING WITH CONTROLLABLE SUPPORT STRUCTURE COSTS.pdf
-      \endverb
-      \verb{urlraw}
-      \verb http://www.eccomasproceedia.org/conferences/eccomas-congresses/eccomas-congress-2016/2065
-      \endverb
-      \verb{url}
-      \verb http://www.eccomasproceedia.org/conferences/eccomas-congresses/eccomas-congress-2016/2065
       \endverb
     \endentry
     \entry{hornbergerFiniteElementMethod2005}{incollection}{}{}
@@ -1216,12 +1097,8 @@
       \field{langid}{english}
       \field{shorttitle}{The {{Finite Element Method}}}
       \field{title}{The {{Finite Element Method}}: {{An Introduction}}}
-      \field{urlday}{24}
-      \field{urlmonth}{2}
-      \field{urlyear}{2025}
       \field{year}{2005}
       \field{dateera}{ce}
-      \field{urldateera}{ce}
       \field{pages}{1\bibrangedash 10}
       \range{pages}{10}
       \verb{doi}
@@ -1229,12 +1106,6 @@
       \endverb
       \verb{file}
       \verb /home/morban/Zotero/storage/FAGPBUJ2/9781118709528.html
-      \endverb
-      \verb{urlraw}
-      \verb https://onlinelibrary.wiley.com/doi/abs/10.1002/9781118709528.ch10
-      \endverb
-      \verb{url}
-      \verb https://onlinelibrary.wiley.com/doi/abs/10.1002/9781118709528.ch10
       \endverb
     \endentry
     \entry{kohnOptimalDesignRelaxation1986}{article}{}{}
@@ -1269,13 +1140,9 @@
       \field{number}{1}
       \field{shortjournal}{Comm Pure Appl Math}
       \field{title}{Optimal Design and Relaxation of Variational Problems, {{I}}}
-      \field{urlday}{24}
-      \field{urlmonth}{2}
-      \field{urlyear}{2025}
       \field{volume}{39}
       \field{year}{1986}
       \field{dateera}{ce}
-      \field{urldateera}{ce}
       \field{pages}{113\bibrangedash 137}
       \range{pages}{25}
       \verb{doi}
@@ -1283,12 +1150,6 @@
       \endverb
       \verb{file}
       \verb /home/morban/Zotero/storage/9NE6ZUCG/Kohn and Strang - 1986 - Optimal design and relaxation of variational problems, I.pdf
-      \endverb
-      \verb{urlraw}
-      \verb https://onlinelibrary.wiley.com/doi/10.1002/cpa.3160390107
-      \endverb
-      \verb{url}
-      \verb https://onlinelibrary.wiley.com/doi/10.1002/cpa.3160390107
       \endverb
     \endentry
     \entry{liuEfficient3DTopology2014}{article}{}{}
@@ -1324,13 +1185,9 @@
       \field{number}{6}
       \field{shortjournal}{Struct Multidisc Optim}
       \field{title}{An Efficient {{3D}} Topology Optimization Code Written in {{Matlab}}}
-      \field{urlday}{17}
-      \field{urlmonth}{12}
-      \field{urlyear}{2023}
       \field{volume}{50}
       \field{year}{2014}
       \field{dateera}{ce}
-      \field{urldateera}{ce}
       \field{pages}{1175\bibrangedash 1196}
       \range{pages}{22}
       \verb{doi}
@@ -1338,12 +1195,6 @@
       \endverb
       \verb{file}
       \verb /home/morban/Zotero/storage/L4DTCVBG/Liu and Tovar - 2014 - An efficient 3D topology optimization code written.pdf
-      \endverb
-      \verb{urlraw}
-      \verb http://link.springer.com/10.1007/s00158-014-1107-x
-      \endverb
-      \verb{url}
-      \verb http://link.springer.com/10.1007/s00158-014-1107-x
       \endverb
     \endentry
     \entry{haberNewApproachVariabletopology1996}{article}{}{}
@@ -1385,13 +1236,9 @@
       \field{number}{1}
       \field{shortjournal}{Structural Optimization}
       \field{title}{A New Approach to Variable-Topology Shape Design Using a Constraint on Perimeter}
-      \field{urlday}{12}
-      \field{urlmonth}{9}
-      \field{urlyear}{2024}
       \field{volume}{11}
       \field{year}{1996}
       \field{dateera}{ce}
-      \field{urldateera}{ce}
       \field{pages}{1\bibrangedash 12}
       \range{pages}{12}
       \verb{doi}
@@ -1399,12 +1246,6 @@
       \endverb
       \verb{file}
       \verb /home/morban/Zotero/storage/PMFPVMYI/Haber et al. - 1996 - A new approach to variable-topology shape design using a constraint on perimeter.pdf
-      \endverb
-      \verb{urlraw}
-      \verb https://doi.org/10.1007/BF01279647
-      \endverb
-      \verb{url}
-      \verb https://doi.org/10.1007/BF01279647
       \endverb
       \keyw{Characteristic Length,Characteristic Length Scale,Design Problem,Optimal Design,Shape Optimization}
     \endentry
@@ -1434,13 +1275,9 @@
       \field{langid}{english}
       \field{number}{7}
       \field{title}{Topology Design of Structures Using a Dual Algorithm and a Constraint on the Perimeter}
-      \field{urlday}{24}
-      \field{urlmonth}{2}
-      \field{urlyear}{2025}
       \field{volume}{54}
       \field{year}{2002}
       \field{dateera}{ce}
-      \field{urldateera}{ce}
       \field{pages}{1007\bibrangedash 1019}
       \range{pages}{13}
       \verb{doi}
@@ -1448,12 +1285,6 @@
       \endverb
       \verb{file}
       \verb /home/morban/Zotero/storage/BNSWZF3M/nme.html
-      \endverb
-      \verb{urlraw}
-      \verb https://onlinelibrary.wiley.com/doi/abs/10.1002/nme.457
-      \endverb
-      \verb{url}
-      \verb https://onlinelibrary.wiley.com/doi/abs/10.1002/nme.457
       \endverb
       \keyw{continuum structures,discrete variables,topology optimization}
     \endentry
@@ -1487,20 +1318,10 @@
       \field{isbn}{978-3-662-03117-9 978-3-662-03115-5}
       \field{langid}{english}
       \field{title}{Optimization of {{Structural Topology}}, {{Shape}}, and {{Material}}}
-      \field{urlday}{24}
-      \field{urlmonth}{2}
-      \field{urlyear}{2025}
       \field{year}{1995}
       \field{dateera}{ce}
-      \field{urldateera}{ce}
       \verb{doi}
       \verb 10.1007/978-3-662-03115-5
-      \endverb
-      \verb{urlraw}
-      \verb http://link.springer.com/10.1007/978-3-662-03115-5
-      \endverb
-      \verb{url}
-      \verb http://link.springer.com/10.1007/978-3-662-03115-5
       \endverb
       \keyw{algorithms,applied mechanics,design,design process,engineering design,Materials,Mathematical Optimization,mechanics,optimization,structural optimization,Structures,Topological,topology}
     \endentry
@@ -1555,24 +1376,14 @@
       \field{isbn}{978-1-4419-2942-6 978-1-4684-9286-6}
       \field{series}{Applied {{Mathematical Sciences}}}
       \field{title}{Shape {{Optimization}} by the {{Homogenization Method}}}
-      \field{urlday}{24}
-      \field{urlmonth}{2}
-      \field{urlyear}{2025}
       \field{volume}{146}
       \field{year}{2002}
       \field{dateera}{ce}
-      \field{urldateera}{ce}
       \verb{doi}
       \verb 10.1007/978-1-4684-9286-6
       \endverb
       \verb{file}
       \verb /home/morban/Zotero/storage/W4HAGIV4/Allaire - 2002 - Shape Optimization by the Homogenization Method.pdf
-      \endverb
-      \verb{urlraw}
-      \verb http://link.springer.com/10.1007/978-1-4684-9286-6
-      \endverb
-      \verb{url}
-      \verb http://link.springer.com/10.1007/978-1-4684-9286-6
       \endverb
       \keyw{algorithm,analysis,mathematical modeling,mathematics,mechanical engineering,model,modeling,optimization,quality,simulation,structure}
     \endentry
@@ -1609,13 +1420,9 @@
       \field{number}{3}
       \field{shortjournal}{Computer Methods in Applied Mechanics and Engineering}
       \field{title}{A Homogenization Method for Shape and Topology Optimization}
-      \field{urlday}{24}
-      \field{urlmonth}{2}
-      \field{urlyear}{2025}
       \field{volume}{93}
       \field{year}{1991}
       \field{dateera}{ce}
-      \field{urldateera}{ce}
       \field{pages}{291\bibrangedash 318}
       \range{pages}{28}
       \verb{doi}
@@ -1623,12 +1430,6 @@
       \endverb
       \verb{file}
       \verb /home/morban/Zotero/storage/3ZCQK9DR/Suzuki and Kikuchi - 1991 - A homogenization method for shape and topology optimization.pdf;/home/morban/Zotero/storage/RUY9XZJW/0045782591902452.html
-      \endverb
-      \verb{urlraw}
-      \verb https://www.sciencedirect.com/science/article/pii/0045782591902452
-      \endverb
-      \verb{url}
-      \verb https://www.sciencedirect.com/science/article/pii/0045782591902452
       \endverb
     \endentry
     \entry{pietropaoliThreedimensionalFluidTopology2019}{article}{}{}
@@ -1670,13 +1471,9 @@
       \field{number}{3}
       \field{shortjournal}{Struct Multidisc Optim}
       \field{title}{Three-Dimensional Fluid Topology Optimization for Heat Transfer}
-      \field{urlday}{21}
-      \field{urlmonth}{12}
-      \field{urlyear}{2024}
       \field{volume}{59}
       \field{year}{2019}
       \field{dateera}{ce}
-      \field{urldateera}{ce}
       \field{pages}{801\bibrangedash 812}
       \range{pages}{12}
       \verb{doi}
@@ -1684,12 +1481,6 @@
       \endverb
       \verb{file}
       \verb /home/morban/Zotero/storage/K6XNEGKZ/Pietropaoli et al. - 2019 - Three-dimensional fluid topology optimization for heat transfer.pdf
-      \endverb
-      \verb{urlraw}
-      \verb https://doi.org/10.1007/s00158-018-2102-4
-      \endverb
-      \verb{url}
-      \verb https://doi.org/10.1007/s00158-018-2102-4
       \endverb
       \keyw{Additive manufacturing,Conjugate heat transfer,Gas turbine coolant system,Topology optimization}
     \endentry
@@ -1727,13 +1518,9 @@
       \field{number}{8}
       \field{shortjournal}{Numerical Meth Engineering}
       \field{title}{Homogenization‐based Topology Optimization for High‐resolution Manufacturable Microstructures}
-      \field{urlday}{24}
-      \field{urlmonth}{2}
-      \field{urlyear}{2025}
       \field{volume}{113}
       \field{year}{2018}
       \field{dateera}{ce}
-      \field{urldateera}{ce}
       \field{pages}{1148\bibrangedash 1163}
       \range{pages}{16}
       \verb{doi}
@@ -1741,12 +1528,6 @@
       \endverb
       \verb{file}
       \verb /home/morban/Zotero/storage/XUHKWG59/Groen and Sigmund - 2018 - Homogenization‐based topology optimization for high‐resolution manufacturable microstructures.pdf
-      \endverb
-      \verb{urlraw}
-      \verb https://onlinelibrary.wiley.com/doi/10.1002/nme.5575
-      \endverb
-      \verb{url}
-      \verb https://onlinelibrary.wiley.com/doi/10.1002/nme.5575
       \endverb
     \endentry
     \entry{alexandersenTopologyOptimisationManufacturable2015}{article}{}{}
@@ -1781,13 +1562,9 @@
       \field{month}{6}
       \field{shortjournal}{Computer Methods in Applied Mechanics and Engineering}
       \field{title}{Topology Optimisation of Manufacturable Microstructural Details without Length Scale Separation Using a Spectral Coarse Basis Preconditioner}
-      \field{urlday}{24}
-      \field{urlmonth}{2}
-      \field{urlyear}{2025}
       \field{volume}{290}
       \field{year}{2015}
       \field{dateera}{ce}
-      \field{urldateera}{ce}
       \field{pages}{156\bibrangedash 182}
       \range{pages}{27}
       \verb{doi}
@@ -1795,12 +1572,6 @@
       \endverb
       \verb{file}
       \verb /home/morban/Zotero/storage/JGIN46NU/Alexandersen and Lazarov - 2015 - Topology optimisation of manufacturable microstructural details without length scale separation usin.pdf;/home/morban/Zotero/storage/U98QS3PW/S0045782515000924.html
-      \endverb
-      \verb{urlraw}
-      \verb https://www.sciencedirect.com/science/article/pii/S0045782515000924
-      \endverb
-      \verb{url}
-      \verb https://www.sciencedirect.com/science/article/pii/S0045782515000924
       \endverb
       \keyw{Manufacturability,Microstructure,Multiscale design,Multiscale FEM,Spectral preconditioner,Topology optimisation}
     \endentry
@@ -1844,13 +1615,9 @@
       \field{series}{Simulation for {{Additive Manufacturing}}}
       \field{shortjournal}{Computers \& Mathematics with Applications}
       \field{title}{Topology Optimization of Modulated and Oriented Periodic Microstructures by the Homogenization Method}
-      \field{urlday}{24}
-      \field{urlmonth}{2}
-      \field{urlyear}{2025}
       \field{volume}{78}
       \field{year}{2019}
       \field{dateera}{ce}
-      \field{urldateera}{ce}
       \field{pages}{2197\bibrangedash 2229}
       \range{pages}{33}
       \verb{doi}
@@ -1858,12 +1625,6 @@
       \endverb
       \verb{file}
       \verb /home/morban/Zotero/storage/WICM8MLW/Allaire et al. - 2019 - Topology optimization of modulated and oriented periodic microstructures by the homogenization metho.pdf;/home/morban/Zotero/storage/EW5RL7PI/S0898122118304255.html
-      \endverb
-      \verb{urlraw}
-      \verb https://www.sciencedirect.com/science/article/pii/S0898122118304255
-      \endverb
-      \verb{url}
-      \verb https://www.sciencedirect.com/science/article/pii/S0898122118304255
       \endverb
       \keyw{Homogenization,Lattice materials,Topology optimization}
     \endentry
@@ -1920,13 +1681,9 @@
       \field{month}{9}
       \field{shortjournal}{Computer Methods in Applied Mechanics and Engineering}
       \field{title}{Topology Optimization of Functionally Graded Anisotropic Composite Structures Using Homogenization Design Method}
-      \field{urlday}{24}
-      \field{urlmonth}{2}
-      \field{urlyear}{2025}
       \field{volume}{369}
       \field{year}{2020}
       \field{dateera}{ce}
-      \field{urldateera}{ce}
       \field{pages}{113220}
       \range{pages}{1}
       \verb{doi}
@@ -1934,12 +1691,6 @@
       \endverb
       \verb{file}
       \verb /home/morban/Zotero/storage/FSIVKSLU/S0045782520304059.html
-      \endverb
-      \verb{urlraw}
-      \verb https://www.sciencedirect.com/science/article/pii/S0045782520304059
-      \endverb
-      \verb{url}
-      \verb https://www.sciencedirect.com/science/article/pii/S0045782520304059
       \endverb
       \keyw{Compliance minimization,Functionally graded anisotropic composite,Homogenization design method,Topology optimization}
     \endentry
@@ -1982,13 +1733,9 @@
       \field{month}{9}
       \field{number}{5}
       \field{title}{Computational Homogenization of Additively Manufactured Lightweight Structures with Multiscale Topology Optimization}
-      \field{urlday}{24}
-      \field{urlmonth}{2}
-      \field{urlyear}{2025}
       \field{volume}{9}
       \field{year}{2022}
       \field{dateera}{ce}
-      \field{urldateera}{ce}
       \field{pages}{1602\bibrangedash 1615}
       \range{pages}{14}
       \verb{doi}
@@ -1996,12 +1743,6 @@
       \endverb
       \verb{file}
       \verb /home/morban/Zotero/storage/CE4HDTF3/Kim et al. - 2022 - Computational homogenization of additively manufactured lightweight structures with multiscale topol.pdf
-      \endverb
-      \verb{urlraw}
-      \verb https://academic.oup.com/jcde/article/9/5/1602/6660651
-      \endverb
-      \verb{url}
-      \verb https://academic.oup.com/jcde/article/9/5/1602/6660651
       \endverb
     \endentry
     \entry{allaireTopologyOptimizationMinimum2004}{article}{}{}
@@ -2044,23 +1785,13 @@
       \field{number}{2}
       \field{shortjournal}{Struct Multidisc Optim}
       \field{title}{Topology Optimization for Minimum Stress Design with the Homogenization Method}
-      \field{urlday}{24}
-      \field{urlmonth}{2}
-      \field{urlyear}{2025}
       \field{volume}{28}
       \field{year}{2004}
       \field{dateera}{ce}
-      \field{urldateera}{ce}
       \field{pages}{87\bibrangedash 98}
       \range{pages}{12}
       \verb{doi}
       \verb 10.1007/s00158-004-0442-8
-      \endverb
-      \verb{urlraw}
-      \verb https://doi.org/10.1007/s00158-004-0442-8
-      \endverb
-      \verb{url}
-      \verb https://doi.org/10.1007/s00158-004-0442-8
       \endverb
       \keyw{homogenization,laminated composites,topology optimization}
     \endentry
@@ -2153,23 +1884,13 @@
       \field{number}{4}
       \field{shortjournal}{Structural Optimization}
       \field{title}{Optimal Shape Design as a Material Distribution Problem}
-      \field{urlday}{24}
-      \field{urlmonth}{2}
-      \field{urlyear}{2025}
       \field{volume}{1}
       \field{year}{1989}
       \field{dateera}{ce}
-      \field{urldateera}{ce}
       \field{pages}{193\bibrangedash 202}
       \range{pages}{10}
       \verb{doi}
       \verb 10.1007/BF01650949
-      \endverb
-      \verb{urlraw}
-      \verb https://doi.org/10.1007/BF01650949
-      \endverb
-      \verb{url}
-      \verb https://doi.org/10.1007/BF01650949
       \endverb
       \keyw{Boundary Variation,Material Distribution,Material Parameter,Optimal Shape,Shape Design}
     \endentry
@@ -2212,23 +1933,13 @@
       \field{number}{3}
       \field{shortjournal}{Structural Optimization}
       \field{title}{Generalized Shape Optimization without Homogenization}
-      \field{urlday}{24}
-      \field{urlmonth}{2}
-      \field{urlyear}{2025}
       \field{volume}{4}
       \field{year}{1992}
       \field{dateera}{ce}
-      \field{urldateera}{ce}
       \field{pages}{250\bibrangedash 252}
       \range{pages}{3}
       \verb{doi}
       \verb 10.1007/BF01742754
-      \endverb
-      \verb{urlraw}
-      \verb https://doi.org/10.1007/BF01742754
-      \endverb
-      \verb{url}
-      \verb https://doi.org/10.1007/BF01742754
       \endverb
       \keyw{Civil Engineer,Microstructure,Minimum Weight,Optimal Topology,Shape Optimization}
     \endentry
@@ -2289,13 +2000,9 @@
       \field{number}{6}
       \field{shortjournal}{Struct Multidisc Optim}
       \field{title}{On Projection Methods, Convergence and Robust Formulations in Topology Optimization}
-      \field{urlday}{25}
-      \field{urlmonth}{2}
-      \field{urlyear}{2025}
       \field{volume}{43}
       \field{year}{2011}
       \field{dateera}{ce}
-      \field{urldateera}{ce}
       \field{pages}{767\bibrangedash 784}
       \range{pages}{18}
       \verb{doi}
@@ -2303,12 +2010,6 @@
       \endverb
       \verb{file}
       \verb /home/morban/Zotero/storage/A47NMVSQ/Wang et al. - 2011 - On projection methods, convergence and robust formulations in topology optimization.pdf
-      \endverb
-      \verb{urlraw}
-      \verb https://link.springer.com/10.1007/s00158-010-0602-y
-      \endverb
-      \verb{url}
-      \verb https://link.springer.com/10.1007/s00158-010-0602-y
       \endverb
     \endentry
     \entry{lazarovFiltersTopologyOptimization2011}{article}{}{}
@@ -2342,13 +2043,9 @@
       \field{langid}{english}
       \field{number}{6}
       \field{title}{Filters in Topology Optimization Based on {{Helmholtz-type}} Differential Equations}
-      \field{urlday}{14}
-      \field{urlmonth}{9}
-      \field{urlyear}{2024}
       \field{volume}{86}
       \field{year}{2011}
       \field{dateera}{ce}
-      \field{urldateera}{ce}
       \field{pages}{765\bibrangedash 781}
       \range{pages}{17}
       \verb{doi}
@@ -2356,12 +2053,6 @@
       \endverb
       \verb{file}
       \verb /home/morban/Zotero/storage/EXB9WWG2/Lazarov and Sigmund - 2011 - Filters in topology optimization based on Helmholtz-type differential equations.pdf;/home/morban/Zotero/storage/FD7K9T96/nme.html
-      \endverb
-      \verb{urlraw}
-      \verb https://onlinelibrary-wiley-com.proxyone.lib.nchu.edu.tw:8443/doi/abs/10.1002/nme.3072
-      \endverb
-      \verb{url}
-      \verb https://onlinelibrary-wiley-com.proxyone.lib.nchu.edu.tw:8443/doi/abs/10.1002/nme.3072
       \endverb
       \keyw{density filters,parallel computing,sensitivity filters,topology optimization}
     \endentry
@@ -2399,23 +2090,13 @@
       \field{number}{3}
       \field{shortjournal}{Numerical Meth Engineering}
       \field{title}{Topology Optimization Using a Continuous Density Field and Adaptive Mesh Refinement}
-      \field{urlday}{25}
-      \field{urlmonth}{2}
-      \field{urlyear}{2025}
       \field{volume}{113}
       \field{year}{2018}
       \field{dateera}{ce}
-      \field{urldateera}{ce}
       \field{pages}{357\bibrangedash 373}
       \range{pages}{17}
       \verb{doi}
       \verb 10.1002/nme.5617
-      \endverb
-      \verb{urlraw}
-      \verb https://onlinelibrary.wiley.com/doi/10.1002/nme.5617
-      \endverb
-      \verb{url}
-      \verb https://onlinelibrary.wiley.com/doi/10.1002/nme.5617
       \endverb
     \endentry
     \entry{PerformingTopologyOptimization}{online}{}{}
@@ -2470,6 +2151,7 @@
       \strng{authornamehash}{7952c0e871837dc135427b9bd23b0f66}
       \strng{authorfullhash}{a04f459f767dfefb0f93ed44f7aff81d}
       \strng{authorfullhashraw}{a04f459f767dfefb0f93ed44f7aff81d}
+      \field{extraname}{1}
       \field{sortinit}{5}
       \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{labelnamesource}{author}
@@ -2484,13 +2166,9 @@
       \field{number}{4}
       \field{shortjournal}{Struct Multidisc Optim}
       \field{title}{Volume Preserving Nonlinear Density Filter Based on Heaviside Functions}
-      \field{urlday}{27}
-      \field{urlmonth}{2}
-      \field{urlyear}{2025}
       \field{volume}{41}
       \field{year}{2010}
       \field{dateera}{ce}
-      \field{urldateera}{ce}
       \field{pages}{495\bibrangedash 505}
       \range{pages}{11}
       \verb{doi}
@@ -2499,11 +2177,537 @@
       \verb{file}
       \verb /home/morban/Zotero/storage/BYQDE5XB/Xu et al. - 2010 - Volume preserving nonlinear density filter based on heaviside functions.pdf
       \endverb
-      \verb{urlraw}
-      \verb https://link-springer-com.proxyone.lib.nchu.edu.tw:8443/article/10.1007/s00158-009-0452-7
+    \endentry
+    \entry{bendsoeGeneratingOptimalTopologies1988}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=98d3b25fbc7c0c4f72bc274f68c9a705}{%
+           family={Bendsøe},
+           familyi={B\bibinitperiod},
+           given={Martin\bibnamedelima Philip},
+           giveni={M\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=a76119010369dea475552b407ae8c3c0}{%
+           family={Kikuchi},
+           familyi={K\bibinitperiod},
+           given={Noboru},
+           giveni={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{97a2ed0b27e78a3a4c50980973627aae}
+      \strng{fullhash}{97a2ed0b27e78a3a4c50980973627aae}
+      \strng{fullhashraw}{97a2ed0b27e78a3a4c50980973627aae}
+      \strng{bibnamehash}{97a2ed0b27e78a3a4c50980973627aae}
+      \strng{authorbibnamehash}{97a2ed0b27e78a3a4c50980973627aae}
+      \strng{authornamehash}{97a2ed0b27e78a3a4c50980973627aae}
+      \strng{authorfullhash}{97a2ed0b27e78a3a4c50980973627aae}
+      \strng{authorfullhashraw}{97a2ed0b27e78a3a4c50980973627aae}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Optimal shape design of structural elements based on boundary variations results in final designs that are topologically equivalent to the initial choice of design, and general, stable computational schemes for this approach often require some kind of remeshing of the finite element approximation of the analysis problem. This paper presents a methodology for optimal shape design where both these drawbacks can be avoided. The method is related to modern production techniques and consists of computing the optimal distribution in space of an anisotropic material that is constructed by introducing an infimum of periodically distributed small holes in a given homogeneous, isotropic material, with the requirement that the resulting structure can carry the given loads as well as satisfy other design requirements. The computation of effective material properties for the anisotropic material is carried out using the method of homogenization. Computational results are presented and compared with results obtained by boundary variations.}
+      \field{day}{1}
+      \field{issn}{0045-7825}
+      \field{journaltitle}{Computer Methods in Applied Mechanics and Engineering}
+      \field{month}{11}
+      \field{number}{2}
+      \field{shortjournal}{Computer Methods in Applied Mechanics and Engineering}
+      \field{title}{Generating Optimal Topologies in Structural Design Using a Homogenization Method}
+      \field{volume}{71}
+      \field{year}{1988}
+      \field{dateera}{ce}
+      \field{pages}{197\bibrangedash 224}
+      \range{pages}{28}
+      \verb{doi}
+      \verb 10.1016/0045-7825(88)90086-2
       \endverb
-      \verb{url}
-      \verb https://link-springer-com.proxyone.lib.nchu.edu.tw:8443/article/10.1007/s00158-009-0452-7
+      \verb{file}
+      \verb /home/morban/Zotero/storage/WX7LYVL5/Bendsøe and Kikuchi - 1988 - Generating optimal topologies in structural design using a homogenization method.pdf;/home/morban/Zotero/storage/BIE4T6YY/0045782588900862.html
+      \endverb
+    \endentry
+    \entry{bendsoeMaterialInterpolationSchemes1999}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=066757951bb74a0ccbc836e088427aea}{%
+           family={Bendsøe},
+           familyi={B\bibinitperiod},
+           given={Martin\bibnamedelima P.},
+           giveni={M\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=d76f1c09e8d8d06e1b7c3c254efeae1a}{%
+           family={Sigmund},
+           familyi={S\bibinitperiod},
+           given={Ole},
+           giveni={O\bibinitperiod}}}%
+      }
+      \strng{namehash}{3d5875a2890550ef236660822a299231}
+      \strng{fullhash}{3d5875a2890550ef236660822a299231}
+      \strng{fullhashraw}{3d5875a2890550ef236660822a299231}
+      \strng{bibnamehash}{3d5875a2890550ef236660822a299231}
+      \strng{authorbibnamehash}{3d5875a2890550ef236660822a299231}
+      \strng{authornamehash}{3d5875a2890550ef236660822a299231}
+      \strng{authorfullhash}{3d5875a2890550ef236660822a299231}
+      \strng{authorfullhashraw}{3d5875a2890550ef236660822a299231}
+      \field{extraname}{2}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0939-1533}
+      \field{journaltitle}{Archive of Applied Mechanics}
+      \field{title}{Material {{Interpolation Schemes}} in {{Topology Optimization}}}
+      \field{volume}{69}
+      \field{year}{1999}
+      \field{dateera}{ce}
+      \field{pages}{635\bibrangedash 654}
+      \range{pages}{20}
+    \endentry
+    \entry{mikiTopologyOptimizationConsidering2021}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=8ec34e72054c2884bd2a4485328ee393}{%
+           family={Miki},
+           familyi={M\bibinitperiod},
+           given={Takao},
+           giveni={T\bibinitperiod}}}%
+        {{hash=4952302e996cd6a15ac0af598734fa3a}{%
+           family={Yamada},
+           familyi={Y\bibinitperiod},
+           given={Takayuki},
+           giveni={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{fd524f5bdbffa48b4d297731b972287d}
+      \strng{fullhash}{fd524f5bdbffa48b4d297731b972287d}
+      \strng{fullhashraw}{fd524f5bdbffa48b4d297731b972287d}
+      \strng{bibnamehash}{fd524f5bdbffa48b4d297731b972287d}
+      \strng{authorbibnamehash}{fd524f5bdbffa48b4d297731b972287d}
+      \strng{authornamehash}{fd524f5bdbffa48b4d297731b972287d}
+      \strng{authorfullhash}{fd524f5bdbffa48b4d297731b972287d}
+      \strng{authorfullhashraw}{fd524f5bdbffa48b4d297731b972287d}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Additive manufacturing is a free-form manufacturing technique in which parts are built in a layer-by-layer manner. Laser powder bed fusion is one of the popular techniques used to fabricate metal parts. However, it induces residual stress and distortion during fabrication that adversely affects the mechanical properties and dimensional accuracy of the manufactured parts. Therefore, predicting and avoiding the residual stress and distortion are critical issues. In this study, we propose a topology optimization method that accounts for the distortion. First, we propose a computationally inexpensive analytical model for additive manufacturing that uses laser powder bed fusion and formulated an optimization problem. Next, we approximate the topological derivative of the objective function using an adjoint variable method that is then utilized to update the level set function via a time evolutionary reaction-diffusion equation. Finally, the validity and effectiveness of the proposed optimization method was established using two-dimensional design examples.}
+      \field{issn}{0168874X}
+      \field{journaltitle}{Finite Elements in Analysis and Design}
+      \field{langid}{english}
+      \field{month}{10}
+      \field{shortjournal}{Finite Elements in Analysis and Design}
+      \field{title}{Topology Optimization Considering the Distortion in Additive Manufacturing}
+      \field{volume}{193}
+      \field{year}{2021}
+      \field{dateera}{ce}
+      \field{pages}{103558}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1016/j.finel.2021.103558
+      \endverb
+      \verb{file}
+      \verb /home/morban/Zotero/storage/DACWM87X/Miki and Yamada - 2021 - Topology optimization considering the distortion i.pdf
+      \endverb
+    \endentry
+    \entry{misiunTopologyOptimizationAdditive2021}{article}{}{}
+      \name{author}{7}{}{%
+        {{hash=face4b05a12dcae2ef6b5dee3e5323e0}{%
+           family={Misiun},
+           familyi={M\bibinitperiod},
+           given={Grzegorz},
+           giveni={G\bibinitperiod}}}%
+        {{useprefix=true,hash=38e9a48cd3c66e89db863e96643fc920}{%
+           family={Ven},
+           familyi={V\bibinitperiod},
+           given={Emiel},
+           giveni={E\bibinitperiod},
+           prefix={van\bibnamedelima de},
+           prefixi={v\bibinitperiod\bibinitdelim d\bibinitperiod}}}%
+        {{hash=252f12ad906deceed3132e4839bf0aba}{%
+           family={Langelaar},
+           familyi={L\bibinitperiod},
+           given={Matthijs},
+           giveni={M\bibinitperiod}}}%
+        {{hash=a9b45d5d7c09b61a0ec5a301bc1294af}{%
+           family={Geijselaers},
+           familyi={G\bibinitperiod},
+           given={Hubert},
+           giveni={H\bibinitperiod}}}%
+        {{useprefix=true,hash=fced7f35e3ed00611970d9aa7179fda2}{%
+           family={Keulen},
+           familyi={K\bibinitperiod},
+           given={Fred},
+           giveni={F\bibinitperiod},
+           prefix={van},
+           prefixi={v\bibinitperiod}}}%
+        {{useprefix=true,hash=06b95195cbc9c37829a2ff57787536a6}{%
+           family={Boogaard},
+           familyi={B\bibinitperiod},
+           given={Ton},
+           giveni={T\bibinitperiod},
+           prefix={van\bibnamedelima den},
+           prefixi={v\bibinitperiod\bibinitdelim d\bibinitperiod}}}%
+        {{hash=dcdb979e37726b85a5d113fa080cb664}{%
+           family={Ayas},
+           familyi={A\bibinitperiod},
+           given={Can},
+           giveni={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{4c392eb5fb0bf80c8dc2563fd0e25e13}
+      \strng{fullhash}{f472475379dbd39d91c746f2947c129c}
+      \strng{fullhashraw}{f472475379dbd39d91c746f2947c129c}
+      \strng{bibnamehash}{4c392eb5fb0bf80c8dc2563fd0e25e13}
+      \strng{authorbibnamehash}{4c392eb5fb0bf80c8dc2563fd0e25e13}
+      \strng{authornamehash}{4c392eb5fb0bf80c8dc2563fd0e25e13}
+      \strng{authorfullhash}{f472475379dbd39d91c746f2947c129c}
+      \strng{authorfullhashraw}{f472475379dbd39d91c746f2947c129c}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{An important cause of failure in powder bed additive manufacturing is the distortion of the part due to thermal shrinkage during printing and the relaxation of residual stresses after its release from the base plate. In this paper, Additive Manufacturing simulations are coupled with Topology Optimization in order to generate designs that are not susceptible to failure associated with distortion. Two possible causes of failure are accounted for: recoater collision and global distortion of the product. Both are considered by simulation of the build process and defined as constraints in the context of a Solid Isotropic Material with Penalization method based topological optimization. The adjoint method is used to derive the sensitivities of the additive manufacturing constraints. The method is demonstrated with the 2D and 3D optimization of a bracket. Next to global topological changes, the obtained designs show features that are aimed at facilitating the printing process. These features resemble supports that are routinely applied to powder bed additive manufacturing. The formulated constraints were found to prevent excessive part distortion and associated build failures in all cases, against a modest increase in the compliance of the bracket.}
+      \field{day}{1}
+      \field{issn}{0045-7825}
+      \field{journaltitle}{Computer Methods in Applied Mechanics and Engineering}
+      \field{month}{12}
+      \field{shortjournal}{Computer Methods in Applied Mechanics and Engineering}
+      \field{title}{Topology {{Optimization}} for Additive Manufacturing with Distortion Constraints}
+      \field{volume}{386}
+      \field{year}{2021}
+      \field{dateera}{ce}
+      \field{pages}{114095}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1016/j.cma.2021.114095
+      \endverb
+      \verb{file}
+      \verb /home/morban/Zotero/storage/TEJ4MDBJ/Misiun et al. - 2021 - Topology Optimization for additive manufacturing with distortion constraints.pdf;/home/morban/Zotero/storage/W537N6YW/S0045782521004266.html
+      \endverb
+      \keyw{Additive manufacturing,Inherent strains,Recoater collision,Shape distortions,Topology Optimization}
+    \endentry
+    \entry{kominiRobustTopologyOptimization2023}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=984a05618ba37934f84fb1396a992156}{%
+           family={Komini},
+           familyi={K\bibinitperiod},
+           given={Ludian},
+           giveni={L\bibinitperiod}}}%
+        {{hash=252f12ad906deceed3132e4839bf0aba}{%
+           family={Langelaar},
+           familyi={L\bibinitperiod},
+           given={Matthijs},
+           giveni={M\bibinitperiod}}}%
+        {{hash=fa16cc7e54e5c5f4c9280f4a46120af4}{%
+           family={Kriegesmann},
+           familyi={K\bibinitperiod},
+           given={Benedikt},
+           giveni={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{7f7487561499d539c825d0bedcc50fc1}
+      \strng{fullhash}{d9eba525d1ff25a28120b1d019f40916}
+      \strng{fullhashraw}{d9eba525d1ff25a28120b1d019f40916}
+      \strng{bibnamehash}{d9eba525d1ff25a28120b1d019f40916}
+      \strng{authorbibnamehash}{d9eba525d1ff25a28120b1d019f40916}
+      \strng{authornamehash}{7f7487561499d539c825d0bedcc50fc1}
+      \strng{authorfullhash}{d9eba525d1ff25a28120b1d019f40916}
+      \strng{authorfullhashraw}{d9eba525d1ff25a28120b1d019f40916}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This paper presents a method to consider uncertainties in the distortion prediction of additive manufacturing processes within robust topology optimization. The random variable of the stochastic additive manufacturing process is the inherent thermomechanical strain, typically determined by process characterization experiments. The value of the inherent strain per se encompasses uncertainty due to differences between characterization and production geometries, uncontrolled process variations, hatching pattern choices, and other effects not captured in layer-by-layer part-scale additive manufacturing simulation. These effects can be represented by different inherent strains for each realized layer, therefore, model the variability in part distortion. Instead of employing a more detailed simulation approach, requiring significantly more process data and computation time, our method aims at generating a robust design in this setting, to obtain parts exhibiting reduced distortion regardless of uncertainties in distortion prediction. The formulation benefits from the superposition potential within the employed process simulation. For robust optimization, the expected part distortion and its estimated variance are included in the standard density-based topology optimization algorithm’s objective function. The effectiveness of the approach is demonstrated by simultaneously optimizing structural performance combined with a minimized additive manufacturing part distortion under uncertain process conditions.}
+      \field{issn}{09659978}
+      \field{journaltitle}{Advances in Engineering Software}
+      \field{langid}{english}
+      \field{month}{12}
+      \field{shortjournal}{Advances in Engineering Software}
+      \field{title}{Robust Topology Optimization Considering Part Distortion and Process Variability in Additive Manufacturing}
+      \field{volume}{186}
+      \field{year}{2023}
+      \field{dateera}{ce}
+      \field{pages}{103551}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1016/j.advengsoft.2023.103551
+      \endverb
+      \verb{file}
+      \verb /home/morban/Zotero/storage/43JJYJ7N/Komini et al. - 2023 - Robust topology optimization considering part distortion and process variability in additive manufac.pdf
+      \endverb
+    \endentry
+    \entry{guoSelfsupportingStructureDesign2017}{article}{}{}
+      \name{author}{6}{}{%
+        {{hash=991f97b5b245ece2a1c7daba022fff1c}{%
+           family={Guo},
+           familyi={G\bibinitperiod},
+           given={Xu},
+           giveni={X\bibinitperiod}}}%
+        {{hash=1fab7ef93901c26fc351f93031649cfb}{%
+           family={Zhou},
+           familyi={Z\bibinitperiod},
+           given={Jianhua},
+           giveni={J\bibinitperiod}}}%
+        {{hash=787d2f5c7c2d13159e310e5f1f9097d7}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Weisheng},
+           giveni={W\bibinitperiod}}}%
+        {{hash=2bf269973a03f039e6f9151e065225a8}{%
+           family={Du},
+           familyi={D\bibinitperiod},
+           given={Zongliang},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=9d9ac6815e27331ba6620def723e357f}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Chang},
+           giveni={C\bibinitperiod}}}%
+        {{hash=d16056932a393b93367a5223974b55f6}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Ying},
+           giveni={Y\bibinitperiod}}}%
+      }
+      \strng{namehash}{4a34b08b64cda81f5acfbd5a6c1aaf1c}
+      \strng{fullhash}{5245c92becead32791af0a1813cd9b3d}
+      \strng{fullhashraw}{5245c92becead32791af0a1813cd9b3d}
+      \strng{bibnamehash}{5245c92becead32791af0a1813cd9b3d}
+      \strng{authorbibnamehash}{5245c92becead32791af0a1813cd9b3d}
+      \strng{authornamehash}{4a34b08b64cda81f5acfbd5a6c1aaf1c}
+      \strng{authorfullhash}{5245c92becead32791af0a1813cd9b3d}
+      \strng{authorfullhashraw}{5245c92becead32791af0a1813cd9b3d}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{One of the challenging issues in additive manufacturing (AM) oriented topology optimization is how to design structures that are self-supportive in a manufacture process without introducing additional supporting materials. In the present contribution, it is intended to resolve this problem under an explicit topology optimization framework where optimal structural topology can be found by optimizing a set of explicit geometry parameters. Two solution approaches established based on the Moving Morphable Components (MMC) and Moving Morphable Voids (MMV) frameworks, respectively, are proposed and some theoretical issues associated with AM oriented topology optimization are also analyzed. Numerical examples provided demonstrate the effectiveness of the proposed methods.}
+      \field{day}{15}
+      \field{issn}{0045-7825}
+      \field{journaltitle}{Computer Methods in Applied Mechanics and Engineering}
+      \field{month}{8}
+      \field{shortjournal}{Computer Methods in Applied Mechanics and Engineering}
+      \field{title}{Self-Supporting Structure Design in Additive Manufacturing through Explicit Topology Optimization}
+      \field{volume}{323}
+      \field{year}{2017}
+      \field{dateera}{ce}
+      \field{pages}{27\bibrangedash 63}
+      \range{pages}{37}
+      \verb{doi}
+      \verb 10.1016/j.cma.2017.05.003
+      \endverb
+      \verb{file}
+      \verb /home/morban/Zotero/storage/WJX5V99N/Guo et al. - 2017 - Self-supporting structure design in additive manufacturing through explicit topology optimization.pdf;/home/morban/Zotero/storage/PBQKZ35P/S004578251631564X.html
+      \endverb
+      \keyw{Additive manufacturing,Moving Morphable Component (MMC),Moving Morphable Void (MMV),Self-supporting structures,Topology optimization}
+    \endentry
+    \entry{zhengTopologyOptimizationSelfsupporting2024}{article}{}{}
+      \name{author}{4}{}{%
+        {{hash=1ff7808c20697070a56a67174ce26b2a}{%
+           family={Zheng},
+           familyi={Z\bibinitperiod},
+           given={Nan},
+           giveni={N\bibinitperiod}}}%
+        {{hash=63d42e8eb8a77fafe23491488ac5d072}{%
+           family={Zhai},
+           familyi={Z\bibinitperiod},
+           given={Xiaoya},
+           giveni={X\bibinitperiod}}}%
+        {{hash=f5767fae3eee1859fd793016b8419073}{%
+           family={Jiang},
+           familyi={J\bibinitperiod},
+           given={Jingchao},
+           giveni={J\bibinitperiod}}}%
+        {{hash=3e0844e51fdb4562788ac00a841baa21}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Falai},
+           giveni={F\bibinitperiod}}}%
+      }
+      \strng{namehash}{c9916a091bf7b70c82640b09042dd0df}
+      \strng{fullhash}{da3acd19211bd2bd2545975c1f9d5468}
+      \strng{fullhashraw}{da3acd19211bd2bd2545975c1f9d5468}
+      \strng{bibnamehash}{da3acd19211bd2bd2545975c1f9d5468}
+      \strng{authorbibnamehash}{da3acd19211bd2bd2545975c1f9d5468}
+      \strng{authornamehash}{c9916a091bf7b70c82640b09042dd0df}
+      \strng{authorfullhash}{da3acd19211bd2bd2545975c1f9d5468}
+      \strng{authorfullhashraw}{da3acd19211bd2bd2545975c1f9d5468}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Owing to the rapid development in additive manufacturing, the potential to fabricate intricate structures has become a reality, emphasizing the importance of designing structures conducive to additive manufacturing processes. A crucial consideration is the ability to design structures requiring no additional support during manufacturing. This paper employs implicit B-spline representations for self-supporting structure design by integrating a topology optimization model with self-supporting constraints derived analytically from the implicit representation. This analytical derivation for detecting overhang regions enables accurate and efficient calculation of constraints, outperforming other B-spline-based methods. Compared to the traditional voxel-based methods, the implicit B-spline representation significantly expedites the optimization process by reducing the number of design variables. Additionally, several acceleration techniques are implemented to enhance the efficiency of our method, allowing simulations of 3D models with millions of finite elements to be completed within one and half an hour, excelling other B-spline-based methods and voxel-based methods. Various numerical experiments validate its excellent performance, confirming the effectiveness and efficiency of the proposed algorithm.}
+      \field{day}{1}
+      \field{issn}{0010-4485}
+      \field{journaltitle}{Computer-Aided Design}
+      \field{month}{10}
+      \field{shortjournal}{Computer-Aided Design}
+      \field{title}{Topology {{Optimization}} of {{Self-supporting Structures}} for {{Additive Manufacturing}} via {{Implicit B-spline Representations}}}
+      \field{volume}{175}
+      \field{year}{2024}
+      \field{dateera}{ce}
+      \field{pages}{103745}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1016/j.cad.2024.103745
+      \endverb
+      \verb{file}
+      \verb /home/morban/Zotero/storage/SVK4FUPF/S0010448524000721.html
+      \endverb
+      \keyw{Additive manufacturing,Self-supporting structure,Topology optimization}
+    \endentry
+    \entry{zhangTopologyOptimizationSelfsupporting2018}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=1703058ac1e82b63641879518d53a9de}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Weihong},
+           giveni={W\bibinitperiod}}}%
+        {{hash=b72846c7bce9dc4527c22588488d735a}{%
+           family={Zhou},
+           familyi={Z\bibinitperiod},
+           given={Lu},
+           giveni={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{99efafd1941c1cd1f2025cb9fd7cb484}
+      \strng{fullhash}{99efafd1941c1cd1f2025cb9fd7cb484}
+      \strng{fullhashraw}{99efafd1941c1cd1f2025cb9fd7cb484}
+      \strng{bibnamehash}{99efafd1941c1cd1f2025cb9fd7cb484}
+      \strng{authorbibnamehash}{99efafd1941c1cd1f2025cb9fd7cb484}
+      \strng{authornamehash}{99efafd1941c1cd1f2025cb9fd7cb484}
+      \strng{authorfullhash}{99efafd1941c1cd1f2025cb9fd7cb484}
+      \strng{authorfullhashraw}{99efafd1941c1cd1f2025cb9fd7cb484}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This work aims at developing a topology optimization method for the design of self-supporting structures that can be directly realized by additive manufacturing (AM). In the proposed method, polygon-featured holes are introduced as basic design primitives whose movements, deformations and intersections allow to control the structural topology. In addition, overhang constraints are introduced directly into the geometry description, so that the inclined angles along the overhang boundaries are not less than the critical overhang angle (COA). Meanwhile, unprintable V-shaped areas caused by polygon intersections are gradually eliminated through polygon modifications and re-optimization. Numerical examples are tested to demonstrate the effectiveness of the proposed method.}
+      \field{day}{1}
+      \field{issn}{0045-7825}
+      \field{journaltitle}{Computer Methods in Applied Mechanics and Engineering}
+      \field{month}{6}
+      \field{shortjournal}{Computer Methods in Applied Mechanics and Engineering}
+      \field{title}{Topology Optimization of Self-Supporting Structures with Polygon Features for Additive Manufacturing}
+      \field{volume}{334}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \field{pages}{56\bibrangedash 78}
+      \range{pages}{23}
+      \verb{doi}
+      \verb 10.1016/j.cma.2018.01.037
+      \endverb
+      \verb{file}
+      \verb /home/morban/Zotero/storage/5HGR4TJP/S0045782518300392.html
+      \endverb
+      \keyw{Additive manufacturing,Polygon feature,Self-supporting,Topology optimization,V-shaped area}
+    \endentry
+    \entry{ameenSelfsupportingOverhangStructures2019}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=22e7f05d7307d3dc0ff93af2b975dd89}{%
+           family={Ameen},
+           familyi={A\bibinitperiod},
+           given={Wadea},
+           giveni={W\bibinitperiod}}}%
+        {{hash=d9f20d9c9799de3977f003130cfc1b0b}{%
+           family={Al-Ahmari},
+           familyi={A\bibinithyphendelim A\bibinitperiod},
+           given={Abdulrahman},
+           giveni={A\bibinitperiod}}}%
+        {{hash=0f6b48e2d053d5985dab6a9902818d59}{%
+           family={Mohammed},
+           familyi={M\bibinitperiod},
+           given={Muneer\bibnamedelima Khan},
+           giveni={M\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer London}%
+      }
+      \strng{namehash}{fd9c7fe2f4d52cf08ebfade7cb4e3476}
+      \strng{fullhash}{647ad57167d0129c68a66002cf781565}
+      \strng{fullhashraw}{647ad57167d0129c68a66002cf781565}
+      \strng{bibnamehash}{647ad57167d0129c68a66002cf781565}
+      \strng{authorbibnamehash}{647ad57167d0129c68a66002cf781565}
+      \strng{authornamehash}{fd9c7fe2f4d52cf08ebfade7cb4e3476}
+      \strng{authorfullhash}{647ad57167d0129c68a66002cf781565}
+      \strng{authorfullhashraw}{647ad57167d0129c68a66002cf781565}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The aim of this study is to identify the limitations of self-supporting structures and evaluate the deformations associated with overhang structures fabricated without support structures. To achieve these objectives, a series of experiments involving different overhang geometries were designed, fabricated, and evaluated. The formation of defects during the fabrication of overhanging structures is detailed, and the self-supporting limits for different overhangs are established. A segmentation strategy for the support structure addition is proposed and evaluated in different configurations for ledge overhangs to reduce the amount of support structures without affecting the overhang accuracy. Based on the inferences of this study, design rules are proposed for producing overhang structures through electron beam melting. The results identified the self-supporting limits for different overhang geometries. In addition, the proposed segmentation strategy for support generation in ledge overhangs resulted in reduction of support structure materials and post-processing time without any effect on the quality of the fabricated overhang.}
+      \field{day}{1}
+      \field{issn}{1433-3015}
+      \field{issue}{5}
+      \field{journaltitle}{The International Journal of Advanced Manufacturing Technology}
+      \field{langid}{english}
+      \field{month}{10}
+      \field{number}{5}
+      \field{shortjournal}{Int J Adv Manuf Technol}
+      \field{title}{Self-Supporting Overhang Structures Produced by Additive Manufacturing through Electron Beam Melting}
+      \field{volume}{104}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \field{pages}{2215\bibrangedash 2232}
+      \range{pages}{18}
+      \verb{doi}
+      \verb 10.1007/s00170-019-04007-3
+      \endverb
+    \endentry
+    \entry{xuSupportStructureTopology2024}{article}{}{}
+      \name{author}{5}{}{%
+        {{hash=3213555ca4e571b65750392976712b93}{%
+           family={Xu},
+           familyi={X\bibinitperiod},
+           given={Shuzhi},
+           giveni={S\bibinitperiod}}}%
+        {{hash=6b881d188740fd2dde41d38a7cafb850}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Jikai},
+           giveni={J\bibinitperiod}}}%
+        {{hash=992e63d76e54da52390a6e3de4b60eb5}{%
+           family={Sun},
+           familyi={S\bibinitperiod},
+           given={Yiding},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=ae84b1bbe5936f974a6548558e122a39}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Xinming},
+           giveni={X\bibinitperiod}}}%
+        {{hash=eb2f00942169c13400e19dce1861b826}{%
+           family={Ma},
+           familyi={M\bibinitperiod},
+           given={Yongsheng},
+           giveni={Y\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer Berlin Heidelberg}%
+      }
+      \strng{namehash}{93ff256edc8bc48e0d2400e27cc916a5}
+      \strng{fullhash}{2639c549d1d0337a094b9a15306b6555}
+      \strng{fullhashraw}{2639c549d1d0337a094b9a15306b6555}
+      \strng{bibnamehash}{2639c549d1d0337a094b9a15306b6555}
+      \strng{authorbibnamehash}{2639c549d1d0337a094b9a15306b6555}
+      \strng{authornamehash}{93ff256edc8bc48e0d2400e27cc916a5}
+      \strng{authorfullhash}{2639c549d1d0337a094b9a15306b6555}
+      \strng{authorfullhashraw}{2639c549d1d0337a094b9a15306b6555}
+      \field{extraname}{2}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This paper proposes a support structure topology optimization method for laser powder bed fusion-processed metal parts, which could effectively avoid part failures caused by over-distortions. Multiple additive manufacturing issues are considered and overcome with the proposed method, including the self-support issue, minimum length scale control, and support structure easy removal. Specifically, a finite element analysis model based on the inherent strain method is proposed to simulate the complex mechanical behavior in the additive manufacturing process. Then, according to the layer-by-layer inherent strain-based fast simulation model, the gravity compliance and residual distortion minimization topology optimization problem incorporating the self-support constraint, mass fraction constraint, minimum length-scale control, and support easy-removal constraint is formulated. Accordingly the critical sensitivity information is derived through the adjoint analysis. Finally, the proposed method is applied to several 2D and 3D benchmark examples to demonstrate the effectiveness on residual distortion control. The influences of different optimization strategies, weighting parameters, and minimum length-scale limits are comparatively explored. A comprehensive discussion is presented at the end to summarize the numerical phenomena.}
+      \field{day}{1}
+      \field{issn}{1615-1488}
+      \field{issue}{10}
+      \field{journaltitle}{Structural and Multidisciplinary Optimization}
+      \field{langid}{english}
+      \field{month}{10}
+      \field{number}{10}
+      \field{shortjournal}{Struct Multidisc Optim}
+      \field{title}{Support Structure Topology Optimization Considering the Residual Distortion for Laser Powder Bed Fusion Metal Additive Manufacturing}
+      \field{volume}{67}
+      \field{year}{2024}
+      \field{dateera}{ce}
+      \field{pages}{1\bibrangedash 20}
+      \range{pages}{20}
+      \verb{doi}
+      \verb 10.1007/s00158-024-03883-y
+      \endverb
+      \verb{file}
+      \verb /home/morban/Zotero/storage/ZCF33F2K/Xu et al. - 2024 - Support structure topology optimization considering the residual distortion for laser powder bed fus.pdf
       \endverb
     \endentry
     \entry{leeSimultaneouslyOptimizingSupports2021}{article}{}{}
@@ -2527,8 +2731,8 @@
       \strng{authornamehash}{9d22e43e01a3a3efd22ec341523d781a}
       \strng{authorfullhash}{9d22e43e01a3a3efd22ec341523d781a}
       \strng{authorfullhashraw}{9d22e43e01a3a3efd22ec341523d781a}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Topology optimization techniques are typically performed on a design domain with pre-determined support conditions to generate efficient structures. Allowing the optimizer to simultaneously design supports and topology offers new design possibilities to achieve improved structural performance and reduce the cost of supports. However, existing simultaneous optimization techniques are limited, with most methods requiring cumbersome procedures to pre-define support conditions, which may not be easy for the end-users. This study presents a new element-based simultaneous optimization method by introducing a layer of elements to the boundaries where supports are allowed, which can be simply implemented in finite element (FE) models. Computational algorithms are developed based on a combination of an optimality criteria (OC) method and the bi-directional evolutionary structural optimization (BESO) technique to determine support locations and the structural topology, respectively. A variety of examples are presented to demonstrate the effectiveness of the new method. It is found that the number, position, and stiffness of supports may significantly influence the structural topology. A support location analysis is used to validate the new method and confirms optimal designs. This study shows that treating element-based support locations as additional design variables can effectively obtain efficient and innovative structural designs. Two 3D examples are presented to demonstrate potential practical applications of the new method.}
@@ -2538,13 +2742,9 @@
       \field{month}{12}
       \field{shortjournal}{Finite Elements in Analysis and Design}
       \field{title}{Simultaneously Optimizing Supports and Topology in Structural Design}
-      \field{urlday}{20}
-      \field{urlmonth}{2}
-      \field{urlyear}{2025}
       \field{volume}{197}
       \field{year}{2021}
       \field{dateera}{ce}
-      \field{urldateera}{ce}
       \field{pages}{103633}
       \range{pages}{1}
       \verb{doi}
@@ -2553,16 +2753,525 @@
       \verb{file}
       \verb /home/morban/Zotero/storage/H7HBWRIE/S0168874X21001177.html
       \endverb
-      \verb{urlraw}
-      \verb https://www.sciencedirect.com/science/article/pii/S0168874X21001177
-      \endverb
-      \verb{url}
-      \verb https://www.sciencedirect.com/science/article/pii/S0168874X21001177
-      \endverb
       \keyw{FEA,Simultaneous optimization,Support locations,Topology optimization}
     \endentry
+    \entry{lohanStudyPracticalObjectives2020}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=5c895e45d66db8b9751773427df3c1f1}{%
+           family={Lohan},
+           familyi={L\bibinitperiod},
+           given={Danny\bibnamedelima J.},
+           giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=1ccd7b7a1fc0cdeeca4830fb01f49811}{%
+           family={Dede},
+           familyi={D\bibinitperiod},
+           given={Ercan\bibnamedelima M.},
+           giveni={E\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=de8ed499f90f8a18c2eb056e1ccda175}{%
+           family={Allison},
+           familyi={A\bibinitperiod},
+           given={James\bibnamedelima T.},
+           giveni={J\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer Berlin Heidelberg}%
+      }
+      \strng{namehash}{97a1b49c8fdea69908d8a245338466f8}
+      \strng{fullhash}{5b4e6386b9f0bd075337ad0475916a3f}
+      \strng{fullhashraw}{5b4e6386b9f0bd075337ad0475916a3f}
+      \strng{bibnamehash}{5b4e6386b9f0bd075337ad0475916a3f}
+      \strng{authorbibnamehash}{5b4e6386b9f0bd075337ad0475916a3f}
+      \strng{authornamehash}{97a1b49c8fdea69908d8a245338466f8}
+      \strng{authorfullhash}{5b4e6386b9f0bd075337ad0475916a3f}
+      \strng{authorfullhashraw}{5b4e6386b9f0bd075337ad0475916a3f}
+      \field{extraname}{1}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This paper presents some practical formulations for heat conduction topology optimization problems. In post-optimization analysis, temperature metrics are often used to compare the performance of optimized structures, yet are not used generally as optimization objectives. In this article, SIMP-based topology optimization is used to explore several objective functions related to electronics applications to demonstrate clearly the impact of improper objective selection. Performance variations over 100\% were observed when comparing key metrics between optimized structures. Findings here are extended to problems in electronics domains, where temperature optimization may be used in unconventional ways to capture more realistic design considerations. This includes an investigation in the combinatorial use of objectives and constraints to satisfy electronics requirements. Four case studies are presented where topology optimization methods are used to maximize system performance metrics while satisfying temperature constraints.}
+      \field{day}{1}
+      \field{issn}{1615-1488}
+      \field{issue}{2}
+      \field{journaltitle}{Structural and Multidisciplinary Optimization}
+      \field{langid}{english}
+      \field{month}{2}
+      \field{number}{2}
+      \field{shortjournal}{Struct Multidisc Optim}
+      \field{title}{A Study on Practical Objectives and Constraints for Heat Conduction Topology Optimization}
+      \field{volume}{61}
+      \field{year}{2020}
+      \field{dateera}{ce}
+      \field{pages}{475\bibrangedash 489}
+      \range{pages}{15}
+      \verb{doi}
+      \verb 10.1007/s00158-019-02369-6
+      \endverb
+      \verb{file}
+      \verb /home/morban/Zotero/storage/CGSM4M2Q/Lohan et al. - 2020 - A study on practical objectives and constraints for heat conduction topology optimization.pdf
+      \endverb
+    \endentry
+    \entry{lohanTopologyOptimizationHeat2017}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=5c895e45d66db8b9751773427df3c1f1}{%
+           family={Lohan},
+           familyi={L\bibinitperiod},
+           given={Danny\bibnamedelima J.},
+           giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=1ccd7b7a1fc0cdeeca4830fb01f49811}{%
+           family={Dede},
+           familyi={D\bibinitperiod},
+           given={Ercan\bibnamedelima M.},
+           giveni={E\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=de8ed499f90f8a18c2eb056e1ccda175}{%
+           family={Allison},
+           familyi={A\bibinitperiod},
+           given={James\bibnamedelima T.},
+           giveni={J\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+      }
+      \strng{namehash}{97a1b49c8fdea69908d8a245338466f8}
+      \strng{fullhash}{5b4e6386b9f0bd075337ad0475916a3f}
+      \strng{fullhashraw}{5b4e6386b9f0bd075337ad0475916a3f}
+      \strng{bibnamehash}{5b4e6386b9f0bd075337ad0475916a3f}
+      \strng{authorbibnamehash}{5b4e6386b9f0bd075337ad0475916a3f}
+      \strng{authornamehash}{97a1b49c8fdea69908d8a245338466f8}
+      \strng{authorfullhash}{5b4e6386b9f0bd075337ad0475916a3f}
+      \strng{authorfullhashraw}{5b4e6386b9f0bd075337ad0475916a3f}
+      \field{extraname}{2}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{In this article we present a new approach to topological design for steady-state heat conduction. The method capitalizes on the use of a generative algorithm to represent topology, resulting in a decrease in the number of variables in the design description. Using a generative algorithm as a design abstraction, the optimization technique is targeted to dendritic topologies that are known to perform well for heat conduction. Specifically, a traditional topology optimization technique (SIMP) is confirmed to produce branching characteristics in optimal designs. The Space Colonization Algorithm, which can generate similar topological patterns, is selected for in-depth investigation. A genetic algorithm drives generation of design candidates, providing a highly diversified search of the target design space. Finally, several synthesized optimal designs for steady-state heat conduction, derived using the described algorithms, are compared using commercial finite element software.}
+      \field{day}{1}
+      \field{issn}{1615-1488}
+      \field{journaltitle}{Structural and Multidisciplinary Optimization}
+      \field{langid}{english}
+      \field{month}{3}
+      \field{number}{3}
+      \field{shortjournal}{Struct Multidisc Optim}
+      \field{title}{Topology Optimization for Heat Conduction Using Generative Design Algorithms}
+      \field{volume}{55}
+      \field{year}{2017}
+      \field{dateera}{ce}
+      \field{pages}{1063\bibrangedash 1077}
+      \range{pages}{15}
+      \verb{doi}
+      \verb 10.1007/s00158-016-1563-6
+      \endverb
+      \verb{file}
+      \verb /home/morban/Zotero/storage/H8VPS84T/Lohan et al. - 2017 - Topology optimization for heat conduction using ge.pdf
+      \endverb
+      \keyw{Conductive heat transfer,Generative algorithms,Topology optimization}
+    \endentry
+    \entry{igaTopologyOptimizationThermal2009}{article}{}{}
+      \name{author}{4}{}{%
+        {{hash=d6c56ff347720f9a9bc892382b0aba8d}{%
+           family={Iga},
+           familyi={I\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=a02929af1a4147288186b7d160a64e64}{%
+           family={Nishiwaki},
+           familyi={N\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=12c0db340c46c106cd913d80425add3d}{%
+           family={Izui},
+           familyi={I\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod}}}%
+        {{hash=81e3285aab431b2dbd6682cc80421392}{%
+           family={Yoshimura},
+           familyi={Y\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{43aeabc7652fe7fa628a9a48f698f7da}
+      \strng{fullhash}{61e9b11b4d69d7f89c38bb09ffe8f9da}
+      \strng{fullhashraw}{61e9b11b4d69d7f89c38bb09ffe8f9da}
+      \strng{bibnamehash}{61e9b11b4d69d7f89c38bb09ffe8f9da}
+      \strng{authorbibnamehash}{61e9b11b4d69d7f89c38bb09ffe8f9da}
+      \strng{authornamehash}{43aeabc7652fe7fa628a9a48f698f7da}
+      \strng{authorfullhash}{61e9b11b4d69d7f89c38bb09ffe8f9da}
+      \strng{authorfullhashraw}{61e9b11b4d69d7f89c38bb09ffe8f9da}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{In structural designs considering thermal loading, in addition to heat conduction within the structure, the heat convection upon the structure’s surface can significantly influence optimal design configurations. In this paper, we focus on the influence of design-dependent effects upon heat convection and internal heat generation for optimal designs developed using a topology optimization scheme. The method for extracting the structural boundaries for heat convection loads is constructed using a Hat function, and heat convection shape dependencies are taken into account in the heat transfer coefficient using a surrogate model. Several numerical examples are presented to confirm the usefulness of the proposed method.}
+      \field{day}{1}
+      \field{issn}{0017-9310}
+      \field{journaltitle}{International Journal of Heat and Mass Transfer}
+      \field{month}{5}
+      \field{number}{11}
+      \field{shortjournal}{International Journal of Heat and Mass Transfer}
+      \field{title}{Topology Optimization for Thermal Conductors Considering Design-Dependent Effects, Including Heat Conduction and Convection}
+      \field{volume}{52}
+      \field{year}{2009}
+      \field{dateera}{ce}
+      \field{pages}{2721\bibrangedash 2732}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1016/j.ijheatmasstransfer.2008.12.013
+      \endverb
+      \keyw{Heat conduction,Heat convection,Homogenization theory,Structural analysis,Topology optimization}
+    \endentry
+    \entry{huangTopologyOptimizationLattice2020}{article}{}{}
+      \name{author}{4}{}{%
+        {{hash=94873b1e8e9cd3eb738737476af9b4f7}{%
+           family={Huang},
+           familyi={H\bibinitperiod},
+           given={Renkai},
+           giveni={R\bibinitperiod}}}%
+        {{hash=7cbe1c6cbd85cceaafcc34d0a22ec27a}{%
+           family={Dai},
+           familyi={D\bibinitperiod},
+           given={Ning},
+           giveni={N\bibinitperiod}}}%
+        {{hash=ad2f8d7365783c6a61b1976a87a30a3b}{%
+           family={Cheng},
+           familyi={C\bibinitperiod},
+           given={Xiaosheng},
+           giveni={X\bibinitperiod}}}%
+        {{hash=1f647bb6da8304b7be380ec58eb6373a}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Lei},
+           giveni={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{df884b98e724a08b0ca2d466d1422967}
+      \strng{fullhash}{dce048c38b45ef4ec98d5820798ffc81}
+      \strng{fullhashraw}{dce048c38b45ef4ec98d5820798ffc81}
+      \strng{bibnamehash}{dce048c38b45ef4ec98d5820798ffc81}
+      \strng{authorbibnamehash}{dce048c38b45ef4ec98d5820798ffc81}
+      \strng{authornamehash}{df884b98e724a08b0ca2d466d1422967}
+      \strng{authorfullhash}{dce048c38b45ef4ec98d5820798ffc81}
+      \strng{authorfullhashraw}{dce048c38b45ef4ec98d5820798ffc81}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0268-3768, 1433-3015}
+      \field{journaltitle}{The International Journal of Advanced Manufacturing Technology}
+      \field{langid}{english}
+      \field{month}{8}
+      \field{number}{7--8}
+      \field{shortjournal}{Int J Adv Manuf Technol}
+      \field{title}{Topology Optimization of Lattice Support Structures for Heat Conduction in Selective Laser Melting}
+      \field{volume}{109}
+      \field{year}{2020}
+      \field{dateera}{ce}
+      \field{pages}{1841\bibrangedash 1851}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1007/s00170-020-05741-9
+      \endverb
+      \verb{file}
+      \verb /home/morban/Zotero/storage/ZTHMZRH7/Huang et al. - 2020 - Topology optimization of lattice support structure.pdf
+      \endverb
+    \endentry
+    \entry{ogawaTopologyOptimizationTransient2022}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=b6428d7f5b9a2e6ac9ad30a30c7055cc}{%
+           family={Ogawa},
+           familyi={O\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=3e55500c2cafb5343f2392843802d57c}{%
+           family={Yamada},
+           familyi={Y\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{176a55514f369f1c32056d9ffb1c8ddd}
+      \strng{fullhash}{176a55514f369f1c32056d9ffb1c8ddd}
+      \strng{fullhashraw}{176a55514f369f1c32056d9ffb1c8ddd}
+      \strng{bibnamehash}{176a55514f369f1c32056d9ffb1c8ddd}
+      \strng{authorbibnamehash}{176a55514f369f1c32056d9ffb1c8ddd}
+      \strng{authornamehash}{176a55514f369f1c32056d9ffb1c8ddd}
+      \strng{authorfullhash}{176a55514f369f1c32056d9ffb1c8ddd}
+      \strng{authorfullhashraw}{176a55514f369f1c32056d9ffb1c8ddd}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{A topology optimization method is proposed for transient response problems involving thermoelastic models, where the objective is to optimize the structure considering time-dependent dynamic and thermal loads. The proposed method can be applied to problems involving thermal deformation and stress, which damage heated machine parts. This paper presents a transient response analysis of a thermoelastic model subjected to mechanical and thermal loads having arbitrary profiles with respect to time. This can be formulated as a multi-objective optimization problem to obtain a structure that minimizes the deformation and maximum stress. A sensitivity analysis was conducted by using the adjoint variable method and the discretize-then-differentiate approach. The proposed method was applied to numerical examples for validation.}
+      \field{day}{1}
+      \field{issn}{0168-874X}
+      \field{journaltitle}{Finite Elements in Analysis and Design}
+      \field{month}{4}
+      \field{shortjournal}{Finite Elements in Analysis and Design}
+      \field{title}{Topology Optimization for Transient Response Problems Involving Thermoelastic Materials}
+      \field{volume}{201}
+      \field{year}{2022}
+      \field{dateera}{ce}
+      \field{pages}{103695}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1016/j.finel.2021.103695
+      \endverb
+      \verb{file}
+      \verb /home/morban/Zotero/storage/C9YC9LFJ/Ogawa 與 Yamada - 2022 - Topology optimization for transient response probl.pdf;/home/morban/Zotero/storage/YH47AQUP/S0168874X21001694.html
+      \endverb
+      \keyw{Adjoint sensitivity analysis,Dynamics analysis,Multi-objective optimization,Stress minimization,Thermoelasticity,Topology optimization}
+    \endentry
+    \entry{leopoldMinimallyInvasiveTotal2009}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=60758917d65fad6b88d1201f27d6a42c}{%
+           family={Leopold},
+           familyi={L\bibinitperiod},
+           given={Seth},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{60758917d65fad6b88d1201f27d6a42c}
+      \strng{fullhash}{60758917d65fad6b88d1201f27d6a42c}
+      \strng{fullhashraw}{60758917d65fad6b88d1201f27d6a42c}
+      \strng{bibnamehash}{60758917d65fad6b88d1201f27d6a42c}
+      \strng{authorbibnamehash}{60758917d65fad6b88d1201f27d6a42c}
+      \strng{authornamehash}{60758917d65fad6b88d1201f27d6a42c}
+      \strng{authorfullhash}{60758917d65fad6b88d1201f27d6a42c}
+      \strng{authorfullhashraw}{60758917d65fad6b88d1201f27d6a42c}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{A 65-year-old woman with osteoarthritis of her right knee is referred by her primary care physician for orthopedic consultation. She is healthy except for some well-controlled hypertension. She is 5 ft 5 in. tall (165 cm) and weighs 160 lb (73 kg), so her body-mass index (the weight in kilograms divided by the square of the height in meters) is 26.6. Her arthritis is not limited to one part of her knee but is diffuse and severe. She has minimal joint deformity and good bone quality. For several years, she was able to control the pain in her right knee with indomethacin, but recently this has been insufficient. An intraarticular corticosteroid injection was performed several months ago, with limited effect. The surgeon recommends total knee arthroplasty. The patient has a friend who has told her that his surgeon used a "minimally invasive" approach for his total knee replacement, and it went well. The patient has investigated this approach on the Internet, and she isn't sure what to do. She asks her primary care physician whether he recommends that she consider "minimally invasive" surgery.}
+      \field{day}{1}
+      \field{journaltitle}{The New England journal of medicine}
+      \field{month}{5}
+      \field{shortjournal}{The New England journal of medicine}
+      \field{title}{Minimally {{Invasive Total Knee Arthroplasty}} for {{Osteoarthritis}}}
+      \field{volume}{360}
+      \field{year}{2009}
+      \field{dateera}{ce}
+      \field{pages}{1749\bibrangedash 58}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1056/NEJMct0806027
+      \endverb
+    \endentry
+    \entry{leeObjectiveFunctionTopology2021}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=4a971daae3c48e8701db6629d1215f23}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={Gilho},
+           giveni={G\bibinitperiod}}}%
+        {{hash=23d0e8be5c3c7a7457c6b61390308f3d}{%
+           family={Joo},
+           familyi={J\bibinitperiod},
+           given={Younghwan},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=523e1c2553651fef7c7d31f9fe21e453}{%
+           family={Kim},
+           familyi={K\bibinitperiod},
+           given={Sung\bibnamedelima Jin},
+           giveni={S\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \strng{namehash}{3d67f40b13bdfb92d40c6ab09852beec}
+      \strng{fullhash}{30526278fc5b607d6c64724a8ec5a056}
+      \strng{fullhashraw}{30526278fc5b607d6c64724a8ec5a056}
+      \strng{bibnamehash}{30526278fc5b607d6c64724a8ec5a056}
+      \strng{authorbibnamehash}{30526278fc5b607d6c64724a8ec5a056}
+      \strng{authornamehash}{3d67f40b13bdfb92d40c6ab09852beec}
+      \strng{authorfullhash}{30526278fc5b607d6c64724a8ec5a056}
+      \strng{authorfullhashraw}{30526278fc5b607d6c64724a8ec5a056}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{In topology optimization, the optimal layout of the structure is obtained through an iterative update of the geometry. Since this update procedure utilizes the gradient of the objective function, it is important to select an appropriate objective function in order to obtain a meaningful geometry. From this point of view, the mathematical definition and physical meaning of the objective functions for topology optimization of heat sinks are reviewed in this article. For this, studies from conductive heat transfer problems to recent computational fluid dynamics (CFD)-based conjugate heat transfer problems are covered. In most of the studies, the objective functions are defined in order to minimize the thermal resistance of the heat sink or to minimize the maximum temperature of the heat source. In place of thermal resistance, thermal compliance is commonly used as the objective function. However, it is worth noting that minimization of the thermal compliance may lead to considerable deviation of the design from that based on the minimum thermal resistance. This is because the thermal compliance is linearly proportional to the average temperature of the heat source in the computational domain, and the average temperature of the heat source is usually different from the maximum temperature of the heat source. In heat conduction problems, the difference between the maximum temperature and the average temperature becomes large when the thermal conductivity of the solid material becomes low. In convection problems, the difference becomes large when the streamwise fluid temperature variation becomes large due to the low heat capacity rate of the fluid.}
+      \field{eventtitle}{{{IEEE Transactions}} on {{Components}}, {{Packaging}} and {{Manufacturing Technology}}}
+      \field{issn}{2156-3985}
+      \field{journaltitle}{IEEE Transactions on Components, Packaging and Manufacturing Technology}
+      \field{month}{11}
+      \field{number}{11}
+      \field{title}{On the {{Objective Function}} for {{Topology Optimization}} of {{Heat Sinks}}}
+      \field{volume}{11}
+      \field{year}{2021}
+      \field{dateera}{ce}
+      \field{pages}{1776\bibrangedash 1782}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.1109/TCPMT.2021.3120383
+      \endverb
+      \verb{file}
+      \verb /home/morban/Zotero/storage/L5D48V9F/9576508.html
+      \endverb
+      \keyw{Geometry,Heat sink,Heat sinks,objective function,Optimization,Temperature distribution,Thermal resistance,Topology,topology optimization}
+    \endentry
+    \entry{yoonTopologicalDesignHeat2010}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=9c72fe92ed269d1ddad00825c536d63f}{%
+           family={Yoon},
+           familyi={Y\bibinitperiod},
+           given={Gil\bibnamedelima Ho},
+           giveni={G\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Korean Society of Mechanical Engineers}%
+      }
+      \strng{namehash}{9c72fe92ed269d1ddad00825c536d63f}
+      \strng{fullhash}{9c72fe92ed269d1ddad00825c536d63f}
+      \strng{fullhashraw}{9c72fe92ed269d1ddad00825c536d63f}
+      \strng{bibnamehash}{9c72fe92ed269d1ddad00825c536d63f}
+      \strng{authorbibnamehash}{9c72fe92ed269d1ddad00825c536d63f}
+      \strng{authornamehash}{9c72fe92ed269d1ddad00825c536d63f}
+      \strng{authorfullhash}{9c72fe92ed269d1ddad00825c536d63f}
+      \strng{authorfullhashraw}{9c72fe92ed269d1ddad00825c536d63f}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This paper discusses the use of the topology optimization formulation for designing a heat dissipating structure that utilizes forced convective heat transfer. In addition to forced convection, there is also natural convection due to natural buoyancy forces induced by local heating inside fluid. In the present study, the temperature distribution due to forced convection, neglecting buoyancy and viscous dissipation inside fluid, was simulated and optimized. In order to analyze the heat transfer equation with forced convective heat loss and the Navier-Stokes equation, a common sequential computational procedure for this thermo/hydraulic characteristic was implemented. For topology optimization, four material properties were interpolated with respect to spatially defined density design variables: the inverse permeability in the Navier-Stokes equation, the conductivity, density, and the specific heat capacity of the heat transfer equation. From numerical examples, it was found that the balance between the conduction and convection of fluid is of central importance to the design of heat dissipating structures.}
+      \field{day}{1}
+      \field{issn}{1976-3824}
+      \field{issue}{6}
+      \field{journaltitle}{Journal of Mechanical Science and Technology}
+      \field{langid}{english}
+      \field{month}{6}
+      \field{number}{6}
+      \field{shortjournal}{J Mech Sci Technol}
+      \field{title}{Topological Design of Heat Dissipating Structure with Forced Convective Heat Transfer}
+      \field{volume}{24}
+      \field{year}{2010}
+      \field{dateera}{ce}
+      \field{pages}{1225\bibrangedash 1233}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1007/s12206-010-0328-1
+      \endverb
+      \verb{file}
+      \verb /home/morban/Zotero/storage/DZPRB6YX/Yoon - 2010 - Topological design of heat dissipating structure with forced convective heat transfer.pdf
+      \endverb
+    \endentry
+    \entry{brunsTopologyOptimizationConvectiondominated2007}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=4124b4f964412c730152e7081804435d}{%
+           family={Bruns},
+           familyi={B\bibinitperiod},
+           given={T.\bibnamedelimi E.},
+           giveni={T\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \strng{namehash}{4124b4f964412c730152e7081804435d}
+      \strng{fullhash}{4124b4f964412c730152e7081804435d}
+      \strng{fullhashraw}{4124b4f964412c730152e7081804435d}
+      \strng{bibnamehash}{4124b4f964412c730152e7081804435d}
+      \strng{authorbibnamehash}{4124b4f964412c730152e7081804435d}
+      \strng{authornamehash}{4124b4f964412c730152e7081804435d}
+      \strng{authorfullhash}{4124b4f964412c730152e7081804435d}
+      \strng{authorfullhashraw}{4124b4f964412c730152e7081804435d}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The current push in the topology optimization community is to apply topology optimization to mechanics problems beyond typical structural design to other physical domains. Here, a framework for topology optimization of nonlinear steady-state heat transfer with conduction, convection, and radiation without explicitly accounting for fluid motion is evaluated. Convection-dominated diffusion problems are susceptible to numerical instabilities that, unless they are handled properly in the analysis, can severely affect the optimization. This numerical instability issue is the focus of this work, its origin is discussed in the context of density-design-variable-based topology optimization, and a method for avoiding such instabilities is described. Several design examples demonstrate the approach.}
+      \field{day}{1}
+      \field{issn}{0017-9310}
+      \field{journaltitle}{International Journal of Heat and Mass Transfer}
+      \field{month}{7}
+      \field{number}{15}
+      \field{shortjournal}{International Journal of Heat and Mass Transfer}
+      \field{title}{Topology Optimization of Convection-Dominated, Steady-State Heat Transfer Problems}
+      \field{volume}{50}
+      \field{year}{2007}
+      \field{dateera}{ce}
+      \field{pages}{2859\bibrangedash 2873}
+      \range{pages}{15}
+      \verb{doi}
+      \verb 10.1016/j.ijheatmasstransfer.2007.01.039
+      \endverb
+      \verb{file}
+      \verb /home/morban/Zotero/storage/P5CX84KV/S0017931007001330.html
+      \endverb
+      \keyw{Conduction,Convection,Heat transfer,Topology optimization}
+    \endentry
+    \entry{davisComprehensiveReviewMetallic2022}{article}{}{}
+      \name{author}{9}{}{%
+        {{hash=f8a5741d421d40e23d551d6828c221f1}{%
+           family={Davis},
+           familyi={D\bibinitperiod},
+           given={Rahul},
+           giveni={R\bibinitperiod}}}%
+        {{hash=ea1f2bcf60809ab80264614320310cb8}{%
+           family={Singh},
+           familyi={S\bibinitperiod},
+           given={Abhishek},
+           giveni={A\bibinitperiod}}}%
+        {{hash=ad741b183c64adea8c1c84fe20208e54}{%
+           family={Jackson},
+           familyi={J\bibinitperiod},
+           given={Mark\bibnamedelima James},
+           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=91fa23d2ec34755a113073ba7ba5ddd9}{%
+           family={Coelho},
+           familyi={C\bibinitperiod},
+           given={Reginaldo\bibnamedelima Teixeira},
+           giveni={R\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+        {{hash=d86c42a5a74b450f30772474bcb8e48f}{%
+           family={Prakash},
+           familyi={P\bibinitperiod},
+           given={Divya},
+           giveni={D\bibinitperiod}}}%
+        {{hash=b58389b2ccfca9e9aa317434468e549c}{%
+           family={Charalambous},
+           familyi={C\bibinitperiod},
+           given={Charalambos\bibnamedelima Panayiotou},
+           giveni={C\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=58e5df3b74f8c92cbe25aff07b136877}{%
+           family={Ahmed},
+           familyi={A\bibinitperiod},
+           given={Waqar},
+           giveni={W\bibinitperiod}}}%
+        {{useprefix=true,hash=b4cc6e9b0a11edb783a75df29cc4a5b5}{%
+           family={Silva},
+           familyi={S\bibinitperiod},
+           given={Leonardo\bibnamedelimb Rosa\bibnamedelima Ribeiro},
+           giveni={L\bibinitperiod\bibinitdelim R\bibinitperiod\bibinitdelim R\bibinitperiod},
+           prefix={da},
+           prefixi={d\bibinitperiod}}}%
+        {{hash=0ce93e523d196330f70a2f03e694ada6}{%
+           family={Lawrence},
+           familyi={L\bibinitperiod},
+           given={Abner\bibnamedelima Ankit},
+           giveni={A\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \strng{namehash}{22d021b6eb30be5237cf2aec9f1fa90d}
+      \strng{fullhash}{70dfbc330215afc0284e346ac5711461}
+      \strng{fullhashraw}{70dfbc330215afc0284e346ac5711461}
+      \strng{bibnamehash}{22d021b6eb30be5237cf2aec9f1fa90d}
+      \strng{authorbibnamehash}{22d021b6eb30be5237cf2aec9f1fa90d}
+      \strng{authornamehash}{22d021b6eb30be5237cf2aec9f1fa90d}
+      \strng{authorfullhash}{70dfbc330215afc0284e346ac5711461}
+      \strng{authorfullhashraw}{70dfbc330215afc0284e346ac5711461}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{There is a tremendous increase in the demand for converting biomaterials into high-quality industrially manufactured human body parts, also known as medical implants. Drug delivery systems, bone plates, screws, cranial, and dental devices are the~popular examples of these implants - the~potential alternatives for human life survival. However, the processing techniques of an engineered implant largely determine its preciseness, surface characteristics, and interactive ability with the adjacent tissue(s) in a particular biological environment. Moreover, the~high cost-effective manufacturing of an implant under tight tolerances remains a challenge. In this regard, several subtractive or additive manufacturing techniques are employed to manufacture patient-specific implants, depending primarily on the required biocompatibility, bioactivity, surface integrity, and fatigue strength. The present paper reviews numerous non-degradable and degradable metallic implant biomaterials such as stainless steel (SS), titanium (Ti)-based, cobalt (Co)-based, nickel-titanium (NiTi), and magnesium (Mg)-based alloys, followed by their processing via traditional turning, drilling, and~milling including the~high-speed multi-axis CNC machining, and non-traditional ~abrasive water jet machining (AWJM), laser beam machining (LBM), ultrasonic machining (USM), and electric discharge machining (EDM) types of subtractive manufacturing techniques. However, the review further funnels down its primary focus on Mg, NiTi, and Ti-based alloys on the basis of the increasing trend of their implant applications in the last decade due to some of their outstanding properties. In the~recent years, the incorporation of cryogenic coolant-assisted traditional subtraction of biomaterials has gained researchers’ attention due to its sustainability, environment-friendly nature, performance, and superior biocompatible and functional outcomes fitting for medical applications. However, some of the latest studies reported that the~medical implant manufacturing requirements could be more remarkably met using the~non-traditional subtractive manufacturing approaches. Altogether, cryogenic~ machining among the traditional routes and EDM among the non-traditional means along with~their variants, were identified as some of the most effective subtractive manufacturing techniques for achieving the dimensionally accurate and biocompatible metallic~medical implants with significantly modified surfaces.}
+      \field{eprinttype}{pmid}
+      \field{issn}{0268-3768}
+      \field{journaltitle}{The International Journal, Advanced Manufacturing Technology}
+      \field{number}{3--4}
+      \field{shortjournal}{Int J Adv Manuf Technol}
+      \field{title}{A Comprehensive Review on Metallic Implant Biomaterials and Their Subtractive Manufacturing}
+      \field{volume}{120}
+      \field{year}{2022}
+      \field{dateera}{ce}
+      \field{pages}{1473\bibrangedash 1530}
+      \range{pages}{58}
+      \verb{doi}
+      \verb 10.1007/s00170-022-08770-8
+      \endverb
+      \verb{eprint}
+      \verb 35228769
+      \endverb
+      \verb{file}
+      \verb /home/morban/Zotero/storage/AKNII4GK/Davis et al. - 2022 - A comprehensive review on metallic implant biomaterials and their subtractive manufacturing.pdf
+      \endverb
+    \endentry
   \enddatalist
-  \missing{peishu_thesis}
 \endrefsection
 \endinput
 

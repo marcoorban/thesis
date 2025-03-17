@@ -1,17 +1,17 @@
 # Fdb version 4
-["biber main"] 1741932142.36102 "main.bcf" "main.bbl" "main" 1741933804.411 0
-  "main.bcf" 1741933802.57465 115138 851038561783844d72adc787cf14cf3c "xelatex"
-  "references.bib" 1741931377.79746 101022 20ade19979b9f68f70174216563e33e1 ""
+["biber main"] 1742196026.34936 "main.bcf" "main.bbl" "main" 1742196539.97244 0
+  "main.bcf" 1742196537.27674 115596 5e716c61cd245c22db58bf0329a3f913 "xelatex"
+  "references.bib" 1742190305.0256 106349 0682ae722041c71e80cc2367f99c9234 ""
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["xdvipdfmx"] 1741933802.64103 "main.xdv" "main.pdf" "main" 1741933804.41347 0
-  "main.xdv" 1741933802.57595 895040 feea85d42695d8a8c70efd52e1ae5229 "xelatex"
+["xdvipdfmx"] 1742196537.33819 "main.xdv" "main.pdf" "main" 1742196539.97443 0
+  "main.xdv" 1742196537.27765 842548 aad09603bac86d6740d02be91b60d78b "xelatex"
   (generated)
   "main.pdf"
   (rewritten before read)
-["xelatex"] 1741933800.07863 "main.tex" "main.xdv" "main" 1741933804.41113 0
+["xelatex"] 1742196535.16874 "main.tex" "main.xdv" "main" 1742196539.97251 0
   "/usr/local/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmbsy6.tfm" 1246382020 1124 14ccf5552bc7f77ca02a8a402bea8bfb ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmbsy7.tfm" 1246382020 1120 7f9f170e8aa57527ad6c49feafd45d54 ""
@@ -32,6 +32,7 @@
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmbx7.tfm" 1136768653 1336 3125ccb448c1a09074e3aa4a9832f130 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmbx8.tfm" 1136768653 1332 1fde11373e221473104d6cc5993f046e ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmex10.tfm" 1136768653 992 662f679a0b3d2d53c1b94050fdaa3f50 ""
+  "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm" 1136768653 1528 abec98dbc43e172678c11b3b9031252a ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm" 1136768653 1524 4414a8315f39513458b80dfc63bff03a ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmmi6.tfm" 1136768653 1512 f21f83efb36853c0b70002322c1ab3ad ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmmi8.tfm" 1136768653 1520 eccf95517727cb11801f4f1aee3a21b4 ""
@@ -132,6 +133,9 @@
   "/usr/local/texlive/2024/texmf-dist/tex/latex/biblatex/blx-unicode.def" 1609451401 3786 1f89d14780f0ad89ab94652b37f4e9b8 ""
   "/usr/local/texlive/2024/texmf-dist/tex/latex/biblatex/cbx/numeric-verb.cbx" 1463430410 2572 a3d826c7f13332f510994e94197e914a ""
   "/usr/local/texlive/2024/texmf-dist/tex/latex/biblatex/lbx/english.lbx" 1711143581 40021 daa5a82ed0967f3ac4b77cb8384cac55 ""
+  "/usr/local/texlive/2024/texmf-dist/tex/latex/caption/caption.sty" 1696191071 56128 c2ccf1a29d78c33bc553880402e4fb9a ""
+  "/usr/local/texlive/2024/texmf-dist/tex/latex/caption/caption3.sty" 1696191071 72619 ee90b6612147680fd73c3b1406a74245 ""
+  "/usr/local/texlive/2024/texmf-dist/tex/latex/caption/subcaption.sty" 1690576852 12494 0c0cdb824278a4d51cefeb2e79901315 ""
   "/usr/local/texlive/2024/texmf-dist/tex/latex/cjk/texinput/CJKfntef.sty" 1634853225 12851 25a9b5cc006609feb5c9a20ce24a5392 ""
   "/usr/local/texlive/2024/texmf-dist/tex/latex/ctex/ctexhook.sty" 1657829894 6505 33157acfddefdd8fd513e2308e07a435 ""
   "/usr/local/texlive/2024/texmf-dist/tex/latex/etoolbox/etoolbox.sty" 1601931149 46845 3b58f70c6e861a13d927bff09d35ecbc ""
@@ -182,7 +186,7 @@
   "/usr/local/texlive/2024/texmf-dist/web2c/texmf.cnf" 1727217670 42021 a58d36c7ede3d2fc9f93da62d691ddff ""
   "/usr/local/texlive/2024/texmf-var/web2c/xetex/xelatex.fmt" 1738170045 5904805 a4da87844a2d5a70084d10800ae3677d ""
   "/usr/local/texlive/2024/texmf.cnf" 1738169979.56888 455 5b996dcaa0eb4ef14a83b026bc0a008c ""
-  "conclusion/conclusion.aux" 1741933801.91571 3944 a4329ddf4775511a91f284c9f845106a "xelatex"
+  "conclusion/conclusion.aux" 1742196536.70021 4056 46fe9eb90dacbaf2fd2e540a27a5e79d "xelatex"
   "conclusion/conclusion.tex" 1741777843.06697 155 bec6871f3649ab4d4169dd332b8cd5ae ""
   "images/conv_average.png" 1741851890.09587 202265 063dcad5fb7f4c4b35464a6b206ab53c ""
   "images/conv_max.png" 1741851937.62674 189773 1124e3a7570d0881fddad5f07de0eb65 ""
@@ -190,6 +194,8 @@
   "images/cyl20.png" 1741922803.75545 103002 2fa1d76464812ac7a0c850b0e7afb8cf ""
   "images/cyl30.png" 1741922970.2941 86265 b24b28d0030a8370a371a22bb226922a ""
   "images/cyl40.png" 1741923070.36846 86746 6968eb43648297c5d3d8fbdab79fce45 ""
+  "images/designdomain2d.png" 1742196090.53531 45616 855111005355e62eed410f82cc7d248c ""
+  "images/designdomain3d.png" 1742189233.49445 589527 eef785838826e6d3420491868ccc0671 ""
   "images/eta03.png" 1740990564.89503 65290 ac8fa8871889db4976dc12a6c58b87fc ""
   "images/eta08.png" 1740990540.64234 65039 8d273c25a7e86fc2325732366eeea099 ""
   "images/femmesh.png" 1741933304 98012 8f0537e81a9a6857d17c6ebf819d728a ""
@@ -202,18 +208,19 @@
   "images/triangle15.png" 1741930147.54066 128705 adfd195e400dc9607514a68fb72f10cc ""
   "images/triangle30.png" 1741929940.22389 103184 d8acb786515525300bd6e6138b0ce810 ""
   "images/triangle45.png" 1741930427.06774 70346 b25b5e26eb7f9017b0c56dc49ba4c56c ""
-  "introduction/introduction.aux" 1741933801.14585 4045 ecfd1c0ed5d1368c84168edba5b3bc91 "xelatex"
+  "images/voxel.png" 1742180351.23458 2138910 b90a6813437d6d25292bb721e4b36cb0 ""
+  "introduction/introduction.aux" 1742196536.13982 4157 5eea8c6989f2e6cdf986a562bb124ebc "xelatex"
   "introduction/introduction.tex" 1741521756.55108 4549 0f7263dbbfe841272cb86827dc384bd4 ""
-  "litreview/litreview.aux" 1741933801.47402 7018 7605e822a5d85ac9a1078a656307c0df "xelatex"
-  "litreview/litreview.tex" 1741854576.69288 37908 6007bccd7ee0b6f12ff2bea8a271c9ed ""
-  "main.aux" 1741933802.55965 18123 ac9526a39656dd94c47bbd74f5eba6db "xelatex"
-  "main.bbl" 1741932143.74979 190778 64046d9fd7b503dea6dd5bc2e0ce1b01 "biber main"
-  "main.run.xml" 1741933802.57595 2437 c81361f07ee8b285e6eff88de5a61f4b "xelatex"
-  "main.tdo" 1741933802.57595 2345 a2d763c1559778c7748ff75173e090b5 "xelatex"
-  "main.tex" 1741777821.10718 1218 a46c33b1845d6522fa5374f2bf04f4e8 ""
-  "methodology/methodology.aux" 1741933801.90917 12923 e38830e7f456209865b2bc724ebdf416 "xelatex"
-  "methodology/methodology.tex" 1741933797.23389 23491 ff94d63294e30901b5b5f05fbb8b280b ""
-  "results/results.aux" 1741933801.91279 3934 f2c384de8a333a7d9d256fd13ddd7e89 "xelatex"
+  "litreview/litreview.aux" 1742196536.40871 7273 b71127874688f4c27328a6d10e2aa79f "xelatex"
+  "litreview/litreview.tex" 1742189888.0976 37928 609a67b0b1548c2c51e1ae98984159b1 ""
+  "main.aux" 1742196537.26074 17750 fbe0562a9c4f70f94f32638a645253a7 "xelatex"
+  "main.bbl" 1742196027.40537 195071 72cc1b031470f81e94944ac1b9fe9a21 "biber main"
+  "main.run.xml" 1742196537.27765 2437 c81361f07ee8b285e6eff88de5a61f4b "xelatex"
+  "main.tdo" 1742196537.27765 1475 40d4e9ad07d25e56ef88c81864c317d2 "xelatex"
+  "main.tex" 1742194265.18894 1242 5f1cda635b3090284118b183df476d0e ""
+  "methodology/methodology.aux" 1742196536.69502 12926 406c2f369343e4064c03c2c9e6bae13b "xelatex"
+  "methodology/methodology.tex" 1742196531.93681 28561 5d989fd6e33379b04b6297b631647bd3 ""
+  "results/results.aux" 1742196536.69772 4046 d9d4c4d1a71307bb298e5639cbc3bfe6 "xelatex"
   "results/results.tex" 1741777765.88722 127 1a4d86b0c8ce4765a915fb2d405237ad ""
   (generated)
   "conclusion/conclusion.aux"

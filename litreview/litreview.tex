@@ -112,7 +112,7 @@ Another alternative to using equation \ref{eq:young_filtered} is to instead defi
 
 where $r$ is the filter radius. The solution of this equation is a function that decays monotonically as is desired, and also preserves the volume of the design domain after the filtering process is completed. Additionally, equation \ref{eq:Helmholtz} can be solved within the same finite element solver that is utilized for the solution of the whole topological optimization problem, and it requires no extra information beyond the mesh connectivity around each volume or mesh element \cite{lambeTopologyOptimizationUsing2018}. It is also important to note that when the Helmholtz filter or any other filtering function is implemented into a finite element solver, the filter radius $r$ must be bigger than the mesh edge size in order to obtain mesh independent results \cite{PerformingTopologyOptimization}.
 
-\subsection{Threshold projection}
+\subsection{Threshold projection}\label{ch:threshold}
 
 Even though filtering is effective at solving the checkerboard design pathology, the structure that is designed can also suffer from intermediate density values. To try and converge these intermediate values into a void/solid configuration, projection functions can be used to map the results of the filtered density field into 0/1. One method proposed by Xu et al. \cite{xuVolumePreservingNonlinear2010} is a volume-preserving, modified continuous Heaviside function which takes the following form
 
