@@ -133,10 +133,10 @@ Thermal conduction is given by Fourier's law as:
 
 \begin{equation}
   \label{eq:Fourier Law}
-  q = -\kappa \nabla T
+  \bm{Q} = -\kappa \nabla T
 \end{equation}
 
-where $q$ is the heat conduction through the material, $\kappa$ is the material's thermal conductivity and $\nabla T$ is the thermal gradient. For use in a finite element solver, the objective function $c_t$ and Fourier's law can be written using matrix notation as:
+where $\bm{Q}$ is the heat conduction through the material, $\kappa$ is the material's thermal conductivity and $\nabla T$ is the thermal gradient. For use in a finite element solver, the objective function $c_t$ and Fourier's law can be written using matrix notation as:
 
 \begin{align}
   \text{minimize} \hspace{0.5cm} & c_t = \bm{T^T} \bm{Q} \\
@@ -148,10 +148,10 @@ where $\bm{\kappa}$ is the global thermal conductivity matrix, $\bm{T}$ is the t
 At the same time, stiffness of the support structure should be be maximized to avoid considerable deformations that might affect the part geometry. The geometry resulting from the thermal optimization could result in thin, dendrite-like structures, which could buckle and collapse under the component's weight, causing the whole manufacturing process to fail. Assuming small deformations, we can express the displacement of the material by using Hook's law,
 
 \begin{equation}
-  F = k u,
+  \bm{F} = k\bm{U},
 \end{equation}
 
-where $F$ is the force applied, $k$ is the stiffness of a small element, and $u$ is the displacement of the element from its equilibrium position. For finite element analysis, the minimization of the compliance $c$ of the structure and its mechanical behavior can be expressed as:
+where $\bm{F}$ is the force applied, $k$ is the stiffness of a small element, and $\bm{U}$ is the displacement of the element from its equilibrium position. For finite element analysis, the minimization of the compliance $c$ of the structure and its mechanical behavior can be expressed as:
 
 \begin{align}
   \text{minimize} \hspace{0.5cm} & c = \bm{U^T} \bm{F} \\
@@ -201,11 +201,9 @@ On the other hand, For the 3D design domain of the femoral component support str
   \label{fig:mesh3d}
 \end{figure}
 
-
-
 \subsection{Physical parameters}
 
-For the topology optimization solution to be useful, realistic thermal and stress load should be used. The thermal load was based on the maximum wattage and efficiency of the laser achievable by the selective laser melting machine used in this work. The laser's power is 200 W, with an efficiency of 25\%. This value cannot be used for the thermal load, since the laser is only activated for a small amount of time. From the FEM software building process parameters, each layer is heated for approximately 154 ms. Therefore, with an effective power of 200 W x 0.25\% = 50W, the total amount of energy added to the layer during the heating time is 50 W x 154 ms = 7.7 J. But each layer heating time occurs periodically, with a period of approximately 440 s. Therefore, the average power input to the system per cycle is calculated to be 0.0175 W. The approximate area of the top surface of the support structure design domain is approximately 30 mm x 30 mm = 900 mm$^2$. Diving the power per cycle by this area yields a heat flux of about 19.4 W/mm$^2$, which was rounded up to 20.0 W/m$^2$. For the heat flux used in the femoral component calculation, the difference is in the area of the top surface of the design domain. This area is about 1690 mm$^2$, and thus the heat flux used for the support structure design in accounts to be about 10.37 W/m$^2$, which was rounded to 10 W/m$^2$.
+For the topology optimization solution to be useful, realistic thermal and stress load should be used. The thermal load was based on the maximum wattage and efficiency of the laser achievable by the selective laser melting machine used in this work. The laser's power is 200 W, with an efficiency of 25\%. This value cannot be used for the thermal load, since the laser is only activated for a small amount of time. From the FEM software building process parameters, each layer is heated for approximately 154 ms. Therefore, with an effective power of 200 W x 0.25\% = 50W, the total amount of energy added to the layer during the heating time is 50 W x 154 ms = 7.7 J. But each layer heating time occurs periodically, with a period of approximately 440 s. Therefore, the average power input to the system per cycle is calculated to be 0.0175 W. The approximate area of the top surface of the support structure design domain is approximately 30 mm x 30 mm = 900 mm$^2$. Diving the power per cycle by this area yields a heat flux of about 19.4 W/mm$^2$, which was rounded up to 20.0 W/m$^2$. For the heat flux used in the femoral component calculation, the difference is in the area of the top surface of the design domain. This area is about 1690 mm$^2$, and thus the heat flux used for the support structure design in accounts to be about 10.37 W/m$^2$, which was rounded to 10 W/m$^2$. A graphical representation of this calculation is shown in Figure \ref{fig:heating}.
 
 The material used in all simulations was 316L stainless steel. This material is often used for medical implants due to its superior mechanical, fatigue, wear and corrosion properties \cite{davisComprehensiveReviewMetallic2022}. The mechanical and thermal properties of 316L steel relevant to this study are shown in Table \ref{tab:316l}.
 
@@ -213,13 +211,13 @@ The material used in all simulations was 316L stainless steel. This material is 
   \centering
   \begin{tabular} { |c | c| }
     \hline
-    Density & 8.0 g / cm$^3$ \\
+    \textbf{Density} & 8.0 g / cm$^3$ \\
     \hline
-    Thermal conductivity & 15 W / (m$\cdot$K) \\
+    \textbf{Thermal conductivity} & 15 W / (m$\cdot$K) \\
     \hline
-    Heat capacity & 500 J / (kg$\cdot$K) \\
+    \textbf{Heat capacity} & 500 J / (kg$\cdot$K) \\
     \hline
-    Young's Modulus & 200 GPa \\
+    \textbf{Young's Modulus} & 200 GPa \\
     \hline
   \end{tabular}
   \caption{Phyiscal properites of 316L steel.}
@@ -228,7 +226,11 @@ The material used in all simulations was 316L stainless steel. This material is 
 
 It should be noted that the physical properties of stainless steel shown above are average properties at 20\degree C. These are subject to change during the building process, as the material is repeatedly heated above its melting point and cooled down, but for the purpose of simplifying the simulation process, these constant values were employed for the topology optimization problem. 
 
-\missingfigure{Graph of power heat cycle}
+\begin{figure}
+  \includegraphics[width=\textwidth]{heating.png}
+  \caption{Layer heating cycle.}
+  \label{fig:heating}
+\end{figure}
 
 For the calculation of compliance, the structural load was also calculated by using the weight of each component and dividing it by the top area of the design domain. All of the components were modeled using the density of 316L steel, which is approximately 7.93 g/cm$^3$. This was then multiplied by the volume of each component to obtain the mass. For example, the. The volume of the femoral component was calculated to be about 32800 mm$^3$, and therefore the mass of the femoral component amounted to 0.263 kg. This was then divided by the top area of the design domain. Taking again the example of the femoral component's support structure, the area of the top surface is about 1690 mm$^2$, and so the average stress value of the top surface is calculated as (0.263 kg)$g$ /1690 mm$^2$ = 1560 N/m$^2$, where $g$ is the gravitational constant. 
 
@@ -240,19 +242,23 @@ Volume fraction is defined as the maximum amount of volume that the topology can
 
 Finally, the hyperbolic tangent angle projection was also varied. The hyperbolic tangent was varied from a value of 0.001\degree to 8\degree, in steps in 2\degree. The variation was stopped at 8\degree since it was noticed that for $\theta \geq$ 8\degree there would be no discernible differences between results.
 
-Finally, the objective functions weights were also varied for the design of topologies for the simple geometry parts. The pairings of weight used were (0.2, 0.8), (0.5 , 0.5), and (0.2, 0.8), where the first weight in each pair corresponds to the weight of the thermal compliance objective and the second corresponds to the weight of the mechanical compliance objective. All of these parameters are summarized below in Table \ref{tab:params}.
+Finally, the objective functions weights were also varied for the design of topologies for the simple geometry parts. The pairings of weight used were (0.2, 0.8), (0.5 , 0.5), and (0.2, 0.8), where the first weight in each pair corresponds to the weight of the thermal compliance objective and the second corresponds to the weight of the mechanical compliance objective. All of these parameters are summarized in Table \ref{tab:params}.
 
 \begin{table}
   \centering
-  \begin{tabular} { |c| c| }
+  \begin{tabular} { |c| c| c|}
     \hline
-  Parameter & Values \\
+    \textbf{Parameter} & \multicolumn{2}{|c|}{\textbf{Values}} \\
   \hline
-  Volume fraction & asdf \\
+  \multirow{2}{10em}
+    {\textbf{Volume fraction}} & Simple geometry & 0.50, 0.75 \\
+                    & Femoral component & 0.25, 0.33, 0.40, 0.50, 0.75 \\
   \hline
-  Hyperbolic tangent angle & asdfasd \\
+    \multirow{2}{10em}{\textbf{Hyperbolic tangent angle}} & Simple geometry & 0.001\degree, 2\degree, 4\degree, 8\degree \\
+                                               & Femoral component & 0.001\degree, 2\degree, 4\degree, 8\degree \\
   \hline
-  Objective weights & adfasdf \\
+    \multirow{2}{10em}{\textbf{Objective weights}} & Simple geometry & (0.2, 0.8), (0.5, 0.5), (0.8, 0.2) \\
+                                        & Femoral component & (1.0, 0.0)\\
   \hline
 \end{tabular}
 \caption{Variation of parameters.}
@@ -261,51 +267,99 @@ Finally, the objective functions weights were also varied for the design of topo
 
 \subsection{Boundary conditions}
 
-\todo{Finish this part}
+It is possible to change the material boundary conditions in COMSOL when solving the topology optimization problem. As an extra study parameter, the material boundary condition of several edges of the design domain were also varied for this study. For the 2D design domains, different topologies were obtained by having either a prescribed material or void boundary in the side elements of the design domain. For the femoral component, there was no variation in the density of the design domain boundary. Figures \ref{fig:solid} and \ref{fig:void} showcase the difference in topologies by varying the prescribed density on the support structure of the cube part.
 
-Explain that two boundary conditions were used for simple geometry, void and no void boundary.
+\begin{figure}
+  \begin{subfigure}{0.45\textwidth}
+    \includegraphics[width=\linewidth]{side_mat_volfrac20.png}
+    \caption{Topology with solid material density.}
+    \label{fig:solid}
+  \end{subfigure}
+  \begin{subfigure}{0.45\textwidth}
+    \includegraphics[width=\linewidth]{side_void_volfrac20.png}
+    \caption{Topology with void material density.}
+    \label{fig:void}
+  \end{subfigure}
+  \caption{Variation in topology due to material prescribed density at the side boundary of design domain.}
+\end{figure}
 
-\subsection{Toberenamed: final comsol details}
+The heat transfer and solid mechanics boundary conditions must also be specified. The heat transfer problem boundary conditions consisted of a heat flux through the upper surface of 20 W / (m$^2$$\cdot$K) and 10 W / (m$^2$$\cdot$K) for the simple geometry parts and femoral component respectively. The inferior surface was set at a constant temperature of 200\degree K, and the sides were kept insulated.
 
-\todo{Explain here and show the setup of comsol simulation.}
+\begin{figure}[h!]
+  \centering
+  \includegraphics{boundaryconds.png}
+  \caption{Boundary condition examples for design domain of cube component.}
+\end{figure}
 
-\missingfigure{examples of comsol simulation}
+The solid mechanics boundary conditions consisted of a load corresponding to the part's weight on the top surface. The bottom surface was constrained to be a fixed surface with no displacement, and the sides were set to be free surfaces.
+
+\subsection{COMSOL implementation final details}
+
+Once all the physical and material parameters, the topology optimization model and parameters, boundary conditions, and parametric study have been set up, the solver will have all the information needed to obtain a solution. For this project, the solver algorithm utilized the method of moving asymptotes (MMA) \cite{svanbergMethodMovingAsymptotes1987}, with a maximum iteration number of 50. The optimality tolerance was also set to COMSOL's default value of 0.001. Lastly, the penalty factor for the SIMP method was set to p=3.
+
+\begin{figure}
+  \begin{subfigure}{0.45\textwidth}
+    \includegraphics[width=\linewidth]{excube.png}
+  \end{subfigure}
+  \begin{subfigure}{0.45\textwidth}
+      \includegraphics[width=\linewidth]{extriangle.png}
+    \end{subfigure}
+    \caption{Examples of resulting topologies from COMSOL.}
+  \end{figure}
+
+\begin{figure}
+  \begin{subfigure}{0.45\textwidth}
+    \includegraphics[width=\linewidth]{exround.png}
+  \end{subfigure}
+  \begin{subfigure}{0.45\textwidth}
+      \includegraphics[width=\linewidth]{exfemoral.png}
+    \end{subfigure}
+  \caption{More examples.}
+\end{figure}
 
 \section{Support structure design and merging with part}
 
 After COMSOL was used to generate the possible topologies for the support structure, the topology was exported to image files, in the case of the 2D problem, and to an .STL file, in the case of the 3D structure. These were then converted to 3D .stp file with the aid of FreeCAD. nTop Software was then used to merge the resulting support structure with the manufactured components. Once the support structure and the part were joined, they were exported as .stl files to be used in the SLM finite element simulation.
 
-Once the CAD file of the component and the support structure has been built, it is necessary to merge them together and import them into Simufact to undergo simulation of the manufacturing process. The software used for blending the component and its support structure is nTop version 5.17.2. nTop's interface makes it very easy to merge the part, and also allows to blend the support structure and the component, which effectively creates a fillet between the nodes of both components to allow for a smooth transition between bodies. Of course, blending the component and the support structure in this manner would not give any benefit in a real manufacturing process, as the structure and the component would not be able to be separated easily. NEvertheless, this blend radius is beneficial for the simulation since it was observed that a direct union and import of the support structure + component in Simufact resulted in having very small gaps between the two pieces, resulting in a non manifold geometry that would cause the finite element model to have gaps between some of its nodes. 
+Once the CAD file of the component and the support structure has been built, it is necessary to merge them together and import them into Simufact to undergo simulation of the manufacturing process. The software used for blending the component and its support structure is nTop version 5.17.2. nTop's interface makes it very easy to merge the part, and also allows to blend the support structure and the component, which effectively creates a fillet between the nodes of both components to allow for a smooth transition between bodies. Of course, blending the component and the support structure in this manner would not give any benefit in a real manufacturing process, as the structure and the component would not be able to be separated easily. Nevertheless, this blend radius is beneficial for the simulation since it was observed that a direct union and import of the support structure + component in Simufact resulted in having very small gaps between the two pieces, resulting in a non manifold geometry that would cause the finite element model to have gaps between some of its nodes.
 
-\missingfigure{Figures of support structures with parts}
+\begin{figure}
+  \begin{subfigure}{0.45\textwidth}
+    \includegraphics[width=\linewidth]{meldcube.png}
+  \end{subfigure}
+  \begin{subfigure}{0.45\textwidth}
+      \includegraphics[width=\linewidth]{meldround.png}
+    \end{subfigure}
+    \caption{Melds of support structures for cube and rounded part.}
+  \end{figure}
+
+\begin{figure}
+  \begin{subfigure}{0.45\textwidth}
+    \includegraphics[width=\linewidth]{meldfemoral1.png}
+  \end{subfigure}
+  \begin{subfigure}{0.45\textwidth}
+      \includegraphics[width=\linewidth]{meldfemoral2.png}
+    \end{subfigure}
+  \caption{Meld of supporting structure for femoral component.}
+\end{figure}
 
 \section{Simulation of manufacturing process}
 
 The software utilized to simulate the manufacturing process is Simufact Additive version 2023.2. Simufact Additive is capable of simulation building process of additive manufacturing components, and coupling thermal and stress physics to predict the temperature values of the component throughout the building process and the total stresses, strains and deformations resulting from the manufacturing process. 
 
-\missingfigure{Need simulation process here: process properites -> build -> part import -> voxelization -> numerical parameters }
-
 \subsection{Process properties}
 
-\todo{add that thermomechanical process was used and explain what it is.}
+After the component and the support structures were merged, they were imported into Simufact. It is during this step that all the factors related to the simulation are set, which include the machine properties, material properties, and build parameters. 
 
-After the component and the support structures were merged, they were imported into Simufact. It is during this step that all the factors related to the simulation are set, which include the machine properties, material properties, and build parameters. As mentioned previously, these were chosen to be identical to the study of PeiHsu to ensure that the results of this study could be compared to the results of that one. 
-
-The first parameter to be chosen is the process properties, which determines the physics that Simufact takes into consideration to run the simulation. Simufact provides three different types of processes: mechanical, thermal, and thermomechanical. As stated in the Simufact manual \todo{insert reference to manual here}, mechanical provides a fast mechanical analysis that only uses inherent strains as the main input. This type of analysis does not take into consideration the temperature fields during the building process. The thermal process on the other hand only considers the thermal behaviour of the components, and the temperature field of the support structures, components and base can be analyzed. The thermomechanical process couples the stress and thermal analyses, and allows for the prediction of temperature, distortions and stresses of the part. This latter process is the one used in this study.
+The first parameter to be chosen is the process properties, which determines the physics that Simufact takes into consideration to run the simulation. Simufact provides three different types of processes: mechanical, thermal, and thermomechanical. As stated in the Simufact manual \cite{ProcessPropertiesInfosheet}, mechanical provides a fast mechanical analysis that only uses inherent strains as the main input. This type of analysis does not take into consideration the temperature fields during the building process. The thermal process on the other hand only considers the thermal behaviour of the components, and the temperature field of the support structures, components and base can be analyzed. The thermomechanical process couples the stress and thermal analyses, and allows for the prediction of temperature, distortions and stresses of the part. This latter thermomechanical process is the process utilized throughout this study.
 
 \subsection{Machine and build parameters}
 
-\todo{need to specify what type of machine it is (the model and stuff)}
+After choosing the process property, the machine parameters must be specified. This includes the machine build plate geometry and the laser parameters. The machine build plate chosen was a circular plate with an 80 mm radius. The build space dimensions consists of a space of 160 mm in all three x-y-z directions. As for the laser parameters, the simulations were carried out with one laser with a maximum laser power of 500 W and a maximum laser speed of 2000 mm / s, an efficiency of 25\%, and a beam width of 25 mm. These machine parameters were modeled after an AMP-160 SLM machine, manufactured by TongTai Machine \& Tool Company, Taiwan, that has been used in simular studies \cite{chungpei-hsuStudyLatticeSupport2024}, \cite{chungEvaluationPredictionThermal2024a}.
 
-After choosing the process property, the machine parameters must be specified. This includes the machine build plate geometry and the laser parameters. The machine build plate chosen was a circular plate with an 80 mm radius. The build space dimensions consists of a space of 160 mm in all three x-y-z directions. As for the laser parameters, the simulations were carried out with one laser with a maximum laser power of 500 W and a maximum laser speed of 2000 mm / s, an efficiency of 25\%, and a beam width of 25 mm. All of these parameters are summarized in the table \todo{add the table of building parameters here.}
+The building parameters for the process need also to be set. These include material layer parameters and any thermal parameters and temperature specifications for the build environment and base plate. The powder layer thickness was chosen to be 0.03 mm, with a recoater time of 10 s. The powder initial temperature was set to 25\degree C, with an initial base temperature of 200\degree C. Preheating is important in SLM since it can influence the quality of the microstructure of the component. It has been suggested that a temperature of 200\degree C exhibits higher cooling rates and smaller grain sizes of the microstructure \cite{chowdhuryEffectsPreheatingThermal2024}.
 
-The building parameters for the process need also to be set. These include material layer parameters and any thermal parameters and temperature specifications for the build environment and base plate. The powder layer thickness was chosen to be 0.03 mm, with a recoater time of 10 s. The powder initial temperature was set to 25\degree C, with an initial base temperature of 200\degree C. \todo{explain why base plate temeprature might be used in practice, might want to add reference to 10.3390/thermo4010005}
-
-\todo{Need to add exposure time, exposure energy fraction, and volumetric expansion factors here. Need to refer to Comsol documentation to explain what these are and how they influence the results.}
-
-\todo{Need to say that no calibration was done. Explain why calibration is necessary for the manufacture of parts, but also explain the reason no calibration was done here.}
-
-\todo{Explain what this is and how it is done, and what the purpose of this is.}
+All of the above parameters plus more are summarized in Tables \ref{tab:laser_params}, \ref{tab:scanner_params}, \ref{tab:thermal_params}, and \ref{tab:adv_thermal_params}.
 
 \begin{table}
   \centering
@@ -385,11 +439,11 @@ To ensure that FEM results were not dependent on the voxel size of the voxel mes
 
 \begin{table}[h!]
   \centering
-  \begin{tabular}{ |c|c|c|c|c| }
+  \begin{tabular}{|c|c|c|c|c|}
     \hline
-    Name & Vol frac & $tanh(\theta)$ & Weights & Boundary cond \\
+    \textbf{Part} & \textbf{Volfrac} & \textbf{tanh($\theta$)} & \textbf{Objective weights} & \textbf{Side density} \\
     \hline
-    Cube 1 & 50\% & 0\degree & w1=w2=0.5 & Solid\\
+   Cube 1 & 50\% & 0\degree & w1=w2=0.5 & Solid\\
     \hline 
     Cube 2 & 75\% & 4\degree & w1=w2=0.5 & Void\\
     \hline
@@ -404,18 +458,22 @@ To ensure that FEM results were not dependent on the voxel size of the voxel mes
   \includegraphics[width=.50\textwidth]{conv_average.png} \hfill
   \includegraphics[width=.50\textwidth]{conv_max.png} \hfill
   \caption{Results of convergence test on selected parts.}\label{fig:convergence}
+\end{figure} 
 
-\end{figure}  
 \subsection{Voxelization and numerical parameters}
 
-All of the simulations run on Simufact used voxel meshes with sizes ranging from 0.8 mm to 1.5 mm, depending on the complexity of the geometry of the part. The voxelization of the components was performed with Simufact's default voxelization engine. The voxel meshes of the components were uniform in size, while the base plate voxel mesh used adaptive meshing, with 2 levels of coarsening. The solver used for all simulations was the MUMPS Parallel Direct Solver, with 14 time steps for each voxel layer.
+All of the simulations run on Simufact used voxel meshes with sizes ranging from 0.8 mm to 1.5 mm, depending on the complexity of the geometry of the part. The voxelization of the components was performed with Simufact's default voxelization engine. The voxel meshes of the components were uniform in size, while the base plate voxel mesh used adaptive meshing, with 2 levels of coarsening. The solver used for all simulations was the MUMPS Parallel Direct Solver, with 14 time steps for each voxel layer. The voxelization of the femoral component can be seen in Figure \ref{fig:femvox}.
 
 \begin{figure}[h!]
+  \centering
   \includegraphics[width=0.8\textwidth]{voxel.png}
+  \caption{Voxelization of femoral component in Simufact.}
+  \label{fig:femvox}
 \end{figure}
+
 \section{Results export and analysis}
 
-After the simulation was run, the node displacement and stress data of last time increment was exported to a .csv file using a Python script. The .csv file was then read and parsed using R, and the data was used to obtain statistical values and graphs. Python code and the R scripts have been included in the Code chapter of this work. 
+After the simulation was run, the node displacement and stress data of last time increment was exported to a .csv file using a Python script. The .csv file was then read and parsed using R, and the data was used to obtain statistical values and graphs. Python code and the R scripts have been included in the Code chapter of this work. \todo{Add this chapter and the code}
 
 \listoftodos
 

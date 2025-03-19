@@ -1,18 +1,9 @@
 [0] Config.pm:308> INFO - This is Biber 2.20
 [0] Config.pm:311> INFO - Logfile is 'main.blg'
-[43] biber:340> INFO - === Mon Mar 17, 2025, 15:20:26
-[52] Biber.pm:420> INFO - Reading 'main.bcf'
-[93] Biber.pm:994> INFO - Found 63 citekeys in bib section 0
-[100] Biber.pm:4463> INFO - Processing section 0
-[106] Biber.pm:4654> INFO - Looking for bibtex file 'references.bib' for section 0
-[112] bibtex.pm:1713> INFO - LaTeX decoding ...
-[171] bibtex.pm:1519> INFO - Found BibTeX data source 'references.bib'
-[480] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[480] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[480] Biber.pm:4283> INFO - Sorting list 'none/global//global/global/global' of type 'entry' with template 'none' and locale 'en-US'
-[480] Biber.pm:4289> INFO - No sort tailoring available for locale 'en-US'
-[504] bbl.pm:676> INFO - Writing 'main.bbl' with encoding 'UTF-8'
-[524] bbl.pm:779> INFO - Output to main.bbl
-[524] Biber.pm:131> WARN - ISBN '978-3-662-03117-9 978-3-662-03115-5' in entry 'bendsoeOptimizationStructuralTopology1995' is invalid - run biber with '--validate_datamodel' for details.
-[524] Biber.pm:131> WARN - ISBN '978-1-4419-2942-6 978-1-4684-9286-6' in entry 'allaireShapeOptimizationHomogenization2002' is invalid - run biber with '--validate_datamodel' for details.
-[524] Biber.pm:133> INFO - WARNINGS: 2
+[34] biber:340> INFO - === Wed Mar 19, 2025, 17:07:50
+[42] Biber.pm:420> INFO - Reading 'main.bcf'
+[83] Biber.pm:994> INFO - Found 67 citekeys in bib section 0
+[90] Biber.pm:4463> INFO - Processing section 0
+[96] Biber.pm:4654> INFO - Looking for bibtex file 'references.bib' for section 0
+[102] bibtex.pm:1713> INFO - LaTeX decoding ...
+[164] bibtex.pm:1519> INFO - Found BibTeX data source 'references.bib'

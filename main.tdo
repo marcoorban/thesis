@@ -1,14 +1,1 @@
-\contentsline {todo}{Figure: Graph of power heat cycle}{31}{}%
-\contentsline {todo}{Finish this part}{33}{}%
-\contentsline {todo}{Explain here and show the setup of comsol simulation.}{33}{}%
-\contentsline {todo}{Figure: examples of comsol simulation}{33}{}%
-\contentsline {todo}{Figure: Figures of support structures with parts}{34}{}%
-\contentsline {todo}{Figure: Need simulation process here: process properites -> build -> part import -> voxelization -> numerical parameters }{34}{}%
-\contentsline {todo}{add that thermomechanical process was used and explain what it is.}{35}{}%
-\contentsline {todo}{insert reference to manual here}{35}{}%
-\contentsline {todo}{need to specify what type of machine it is (the model and stuff)}{35}{}%
-\contentsline {todo}{add the table of building parameters here.}{36}{}%
-\contentsline {todo}{explain why base plate temeprature might be used in practice, might want to add reference to 10.3390/thermo4010005}{36}{}%
-\contentsline {todo}{Need to add exposure time, exposure energy fraction, and volumetric expansion factors here. Need to refer to Comsol documentation to explain what these are and how they influence the results.}{36}{}%
-\contentsline {todo}{Need to say that no calibration was done. Explain why calibration is necessary for the manufacture of parts, but also explain the reason no calibration was done here.}{36}{}%
-\contentsline {todo}{Explain what this is and how it is done, and what the purpose of this is.}{36}{}%
+\contentsline {todo}{Add this chapter and the code}{45}{}%

@@ -3271,6 +3271,152 @@
       \verb /home/morban/Zotero/storage/AKNII4GK/Davis et al. - 2022 - A comprehensive review on metallic implant biomaterials and their subtractive manufacturing.pdf
       \endverb
     \endentry
+    \entry{svanbergMethodMovingAsymptotes1987}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=4c3f01f4598088ac379577d4d80943b7}{%
+           family={Svanberg},
+           familyi={S\bibinitperiod},
+           given={Krister},
+           giveni={K\bibinitperiod}}}%
+      }
+      \strng{namehash}{4c3f01f4598088ac379577d4d80943b7}
+      \strng{fullhash}{4c3f01f4598088ac379577d4d80943b7}
+      \strng{fullhashraw}{4c3f01f4598088ac379577d4d80943b7}
+      \strng{bibnamehash}{4c3f01f4598088ac379577d4d80943b7}
+      \strng{authorbibnamehash}{4c3f01f4598088ac379577d4d80943b7}
+      \strng{authornamehash}{4c3f01f4598088ac379577d4d80943b7}
+      \strng{authorfullhash}{4c3f01f4598088ac379577d4d80943b7}
+      \strng{authorfullhashraw}{4c3f01f4598088ac379577d4d80943b7}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{A new method for non-linear programming in general and structural optimization in particular is presented. In each step of the iterative process, a strictly convex approximating subproblem is generated and solved. The generation of these subproblems is controlled by so called ‘moving asymptotes’, which may both stabilize and speed up the convergence of the general process.}
+      \field{issn}{1097-0207}
+      \field{journaltitle}{International Journal for Numerical Methods in Engineering}
+      \field{langid}{english}
+      \field{number}{2}
+      \field{title}{The Method of Moving Asymptotes—a New Method for Structural Optimization}
+      \field{volume}{24}
+      \field{year}{1987}
+      \field{dateera}{ce}
+      \field{pages}{359\bibrangedash 373}
+      \range{pages}{15}
+      \verb{doi}
+      \verb 10.1002/nme.1620240207
+      \endverb
+      \verb{file}
+      \verb /home/morban/Zotero/storage/9ZBEHZ96/nme.html
+      \endverb
+    \endentry
+    \entry{chungEvaluationPredictionThermal2024a}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=04e16f0ed0a8162ac5d14836e322c3c6}{%
+           family={Chung},
+           familyi={C\bibinitperiod},
+           given={Pei-Hsu},
+           giveni={P\bibinithyphendelim H\bibinitperiod}}}%
+        {{hash=bac73c50b7b636ad1ec192bbbcb90de5}{%
+           family={Zhuang},
+           familyi={Z\bibinitperiod},
+           given={Jyun-Rong},
+           giveni={J\bibinithyphendelim R\bibinitperiod}}}%
+        {{hash=137c373db88777e390eb35218d8686b9}{%
+           family={Pan},
+           familyi={P\bibinitperiod},
+           given={Chi-Hung},
+           giveni={C\bibinithyphendelim H\bibinitperiod}}}%
+      }
+      \strng{namehash}{1b8ca324f3c80abc4f205843b2fa89e1}
+      \strng{fullhash}{ea2e6b53a0af7df4c8e370f330c0bf9c}
+      \strng{fullhashraw}{ea2e6b53a0af7df4c8e370f330c0bf9c}
+      \strng{bibnamehash}{ea2e6b53a0af7df4c8e370f330c0bf9c}
+      \strng{authorbibnamehash}{ea2e6b53a0af7df4c8e370f330c0bf9c}
+      \strng{authornamehash}{1b8ca324f3c80abc4f205843b2fa89e1}
+      \strng{authorfullhash}{ea2e6b53a0af7df4c8e370f330c0bf9c}
+      \strng{authorfullhashraw}{ea2e6b53a0af7df4c8e370f330c0bf9c}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Selective laser melting (SLM) is crucial for fabricating complex geometries, such as the tibial component of an artificial knee joint. However, its inherent high-temperature gradients often induce thermal defects and deformations, compromising product accuracy. This study addressed these challenges by using a multifaceted approach in which finite element method (FEM) simulations, Taguchi method analysis, and deep neural network (DNN) prediction were combined. Initially, a transient thermal model was developed using the FEM to analyze the thermal behavior of a tibial component during and after SLM; the model was then validated through experiments. Subsequently, the Taguchi method was employed to evaluate the thermal influence of various SLM parameters on deformation and stress. Furthermore, a K-means-based exploration method was developed and used to identify critical thermal areas affecting a component’s size and quality. Finally, a DNN model was developed for rapid prediction of thermal deformation by leveraging an FEM proxy modeling methodology to facilitate efficient monitoring in a digital-twin framework. The FEM analysis revealed average deformation errors of 3.26\% during SLM and 0.05~mm after SLM. The optimal SLM parameters for minimizing thermal deformation and stress for a tibial component were identified. The DNN model, trained on the proxy database, achieved error margins of only 5.47\% and 4.62\% in comparison with the FEM and experimental results, respectively, but took substantially less computation time than did the FEM. This study integrated FEM simulations, the Taguchi method, and DNN prediction to enhance the accuracy of SLM manufacturing of tibial components.}
+      \field{day}{1}
+      \field{issn}{1433-3015}
+      \field{journaltitle}{The International Journal of Advanced Manufacturing Technology}
+      \field{langid}{english}
+      \field{month}{9}
+      \field{number}{1}
+      \field{shortjournal}{Int J Adv Manuf Technol}
+      \field{title}{Evaluation and Prediction of Thermal Defects in {{SLM-manufactured}} Tibial Components Using {{FEM-based}} Deep Learning and Statistic Methods}
+      \field{volume}{134}
+      \field{year}{2024}
+      \field{dateera}{ce}
+      \field{pages}{691\bibrangedash 709}
+      \range{pages}{19}
+      \verb{doi}
+      \verb 10.1007/s00170-024-14139-w
+      \endverb
+      \keyw{Deep learning,Digital twin,Finite element analysis,Selective laser melting,Thermal deformation,Tibial component}
+    \endentry
+    \entry{chowdhuryEffectsPreheatingThermal2024}{article}{}{}
+      \name{author}{4}{}{%
+        {{hash=99e66697aadf4ca4d2461210a03c7319}{%
+           family={Chowdhury},
+           familyi={C\bibinitperiod},
+           given={Hasina\bibnamedelima Tabassum},
+           giveni={H\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+        {{hash=f66562656e365e68777275338f6cd490}{%
+           family={Palleda},
+           familyi={P\bibinitperiod},
+           given={Thaviti\bibnamedelima Naidu},
+           giveni={T\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+        {{hash=38ee7cba0e4751aa3c0f688d2d8c4b91}{%
+           family={Kakuta},
+           familyi={K\bibinitperiod},
+           given={Naoto},
+           giveni={N\bibinitperiod}}}%
+        {{hash=e048a8a0e891f01387d8cc25d359e617}{%
+           family={Kakehi},
+           familyi={K\bibinitperiod},
+           given={Koji},
+           giveni={K\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Multidisciplinary Digital Publishing Institute}%
+      }
+      \strng{namehash}{cb93c7d91d399d4ad3d76a9fdf489f74}
+      \strng{fullhash}{a3076698289b34ded3ae78a54f453dc9}
+      \strng{fullhashraw}{a3076698289b34ded3ae78a54f453dc9}
+      \strng{bibnamehash}{a3076698289b34ded3ae78a54f453dc9}
+      \strng{authorbibnamehash}{a3076698289b34ded3ae78a54f453dc9}
+      \strng{authornamehash}{cb93c7d91d399d4ad3d76a9fdf489f74}
+      \strng{authorfullhash}{a3076698289b34ded3ae78a54f453dc9}
+      \strng{authorfullhashraw}{a3076698289b34ded3ae78a54f453dc9}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Preheating is important to improve the mechanical properties of nickel-based superalloys processed by additive manufacturing. The microstructure of IN718 was found to be influenced by the preheating temperature. Different preheating temperatures affect mechanical properties by changing microstructures. This work aims to clarify the thermal behavior for two preheated base plate temperatures (200 °C and 600 °C) on the IN718 superalloy built by the selective laser melting (SLM) process using the finite element method and experiments. The simulation findings indicate that the preheated 600 °C model has a deeper melt pool, a slower transformation of liquid to solid, and a slower cooling rate compared to the 200 °C model. As a result, the interdendritic Niobium (Nb) segregation of IN718 is reduced, thus improving the mechanical properties of additive-manufactured IN718 using the laser. The solidification map derived from the simulation indicates a columnar microstructure for the IN718 superalloy. Preheating increased the size of the dendrite structure and reduced elemental segregation, but it did not affect the morphology or size of crystal grains. We focused on comparing the temperature gradient and cooling rate for the two preheated base plate temperatures using the solidification map of IN718. The simulation confirmed that preheating does not affect the grain structure.}
+      \field{issn}{2673-7264}
+      \field{issue}{1}
+      \field{journaltitle}{Thermo}
+      \field{langid}{english}
+      \field{month}{3}
+      \field{number}{1}
+      \field{title}{Effects of {{Preheating}} on {{Thermal Behavior}} in {{Inconel}} 718 {{Processed}} by {{Additive Manufacturing}}}
+      \field{volume}{4}
+      \field{year}{2024}
+      \field{dateera}{ce}
+      \field{pages}{48\bibrangedash 64}
+      \range{pages}{17}
+      \verb{doi}
+      \verb 10.3390/thermo4010005
+      \endverb
+      \verb{file}
+      \verb /home/morban/Zotero/storage/GBLIF7GY/Chowdhury et al. - 2024 - Effects of Preheating on Thermal Behavior in Inconel 718 Processed by Additive Manufacturing.pdf
+      \endverb
+      \keyw{additive manufacturing,cooling rate,IN718,preheating,simulation,solidification map,temperature gradient}
+    \endentry
   \enddatalist
 \endrefsection
 \endinput
