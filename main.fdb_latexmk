@@ -1,12 +1,17 @@
 # Fdb version 4
-["biber main"] 1742375051.41407 "main.bcf" "main.bbl" "main" 1742375052.8808 2
-  "main.bcf" 1742375051.62048 116045 890cc76ef78ffb7ced506089b09d3611 "xelatex"
-  "references.bib" 1742371854.69468 111960 5146cd7d7703460d94610d44f3499dae ""
+["biber main"] 1742378369.29194 "main.bcf" "main.bbl" "main" 1742378380.31301 0
+  "main.bcf" 1742378376.6228 116054 2569c730fbd92cf860636fe53b6715bc "xelatex"
+  "references.bib" 1742378350.34557 111969 89a4c6703fda3276b583676fae36b103 ""
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["xelatex"] 1742375044.50126 "main.tex" "main.pdf" "main" 1742375052.8811 0
+["xdvipdfmx"] 1742378376.68404 "main.xdv" "main.pdf" "main" 1742378380.31489 0
+  "main.xdv" 1742378376.62425 827596 26c10fed57cc997c1070c1704a0d75ac "xelatex"
+  (generated)
+  "main.pdf"
+  (rewritten before read)
+["xelatex"] 1742378374.61406 "main.tex" "main.xdv" "main" 1742378380.31309 0
   "/usr/local/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmbsy6.tfm" 1246382020 1124 14ccf5552bc7f77ca02a8a402bea8bfb ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmbsy7.tfm" 1246382020 1120 7f9f170e8aa57527ad6c49feafd45d54 ""
@@ -182,7 +187,7 @@
   "/usr/local/texlive/2024/texmf-dist/web2c/texmf.cnf" 1727217670 42021 a58d36c7ede3d2fc9f93da62d691ddff ""
   "/usr/local/texlive/2024/texmf-var/web2c/xetex/xelatex.fmt" 1738170045 5904805 a4da87844a2d5a70084d10800ae3677d ""
   "/usr/local/texlive/2024/texmf.cnf" 1738169979.56888 455 5b996dcaa0eb4ef14a83b026bc0a008c ""
-  "conclusion/conclusion.aux" 1742375051.59748 4054 f9eb60d9fecf625f5e7a823da1f7ac00 "xelatex"
+  "conclusion/conclusion.aux" 1742378376.02697 4055 4edb68fc0752af4d1db89a6858ac8155 "xelatex"
   "conclusion/conclusion.tex" 1741777843.06697 155 bec6871f3649ab4d4169dd332b8cd5ae ""
   "images/boundaryconds.png" 1742273230.59952 50860 ab1d4e63ce50a5307c4016efe0391ff9 ""
   "images/conv_average.png" 1741851890.09587 202265 063dcad5fb7f4c4b35464a6b206ab53c ""
@@ -217,18 +222,18 @@
   "images/triangle30.png" 1741929940.22389 103184 d8acb786515525300bd6e6138b0ce810 ""
   "images/triangle45.png" 1741930427.06774 70346 b25b5e26eb7f9017b0c56dc49ba4c56c ""
   "images/voxel.png" 1742180351.23458 2138910 b90a6813437d6d25292bb721e4b36cb0 ""
-  "introduction/introduction.aux" 1742375049.62644 4157 5abc8d74e22d27398e1d546a32243508 "xelatex"
+  "introduction/introduction.aux" 1742378375.57782 4157 5eea8c6989f2e6cdf986a562bb124ebc "xelatex"
   "introduction/introduction.tex" 1741521756.55108 4549 0f7263dbbfe841272cb86827dc384bd4 ""
-  "litreview/litreview.aux" 1742375050.13345 7273 3bc812e5fc356d82a10ac32dc2157fec "xelatex"
+  "litreview/litreview.aux" 1742378375.84191 7273 b71127874688f4c27328a6d10e2aa79f "xelatex"
   "litreview/litreview.tex" 1742189888.0976 37928 609a67b0b1548c2c51e1ae98984159b1 ""
-  "main.aux" 1742375051.60348 10643 53db34c63a4c2a9d394696bf6d914480 "xelatex"
-  "main.bbl" 1742375052.06649 0 d41d8cd98f00b204e9800998ecf8427e "biber main"
-  "main.run.xml" 1742375051.62159 2437 6007fecd19a9a9daf8b08082e508187a "xelatex"
-  "main.tdo" 1742375051.62159 59 e0d095f8fc7e8e90855517890b6f563d "xelatex"
+  "main.aux" 1742378376.6058 17516 35eabfe844aacbce20cbdbf2cc61ecef "xelatex"
+  "main.bbl" 1742378370.38491 205761 b7bb358cbcef771eeb794787e4bb9100 "biber main"
+  "main.run.xml" 1742378376.62425 2437 c81361f07ee8b285e6eff88de5a61f4b "xelatex"
+  "main.tdo" 1742378376.62425 59 f8b65b737a234ea7bcba352ed382972a "xelatex"
   "main.tex" 1742267673.67318 1363 7383bf54c6fc664021fbbc880209d5f0 ""
-  "methodology/methodology.aux" 1742375051.59048 12679 311bf89a1747848d59a86824093ff5b3 "xelatex"
-  "methodology/methodology.tex" 1742374831.39133 32645 735d6ed492f47863792f0674f96dd9e6 ""
-  "results/results.aux" 1742375051.59548 4044 44a1782bb7418bba0597c9ecbf60d813 "xelatex"
+  "methodology/methodology.aux" 1742378376.02183 12680 9ef80ea5067f0a78da779614b68cd05a "xelatex"
+  "methodology/methodology.tex" 1742378377.50778 32654 719b72030a6a64b456a69c2a7e54a9b4 ""
+  "results/results.aux" 1742378376.0244 4045 5efe7b62cabc8f06f17a1fec9a217f6e "xelatex"
   "results/results.tex" 1741777765.88722 127 1a4d86b0c8ce4765a915fb2d405237ad ""
   (generated)
   "conclusion/conclusion.aux"
@@ -237,7 +242,6 @@
   "main.aux"
   "main.bcf"
   "main.log"
-  "main.pdf"
   "main.run.xml"
   "main.tdo"
   "main.xdv"
