@@ -1,18 +1,18 @@
 [0] Config.pm:308> INFO - This is Biber 2.20
 [0] Config.pm:311> INFO - Logfile is 'main.blg'
-[43] biber:340> INFO - === Wed Mar 19, 2025, 17:59:29
-[53] Biber.pm:420> INFO - Reading 'main.bcf'
-[94] Biber.pm:994> INFO - Found 67 citekeys in bib section 0
-[101] Biber.pm:4463> INFO - Processing section 0
-[107] Biber.pm:4654> INFO - Looking for bibtex file 'references.bib' for section 0
-[114] bibtex.pm:1713> INFO - LaTeX decoding ...
+[47] biber:340> INFO - === Tue Apr  1, 2025, 14:12:23
+[56] Biber.pm:420> INFO - Reading 'main.bcf'
+[96] Biber.pm:994> INFO - Found 67 citekeys in bib section 0
+[103] Biber.pm:4463> INFO - Processing section 0
+[109] Biber.pm:4654> INFO - Looking for bibtex file 'references.bib' for section 0
+[116] bibtex.pm:1713> INFO - LaTeX decoding ...
 [177] bibtex.pm:1519> INFO - Found BibTeX data source 'references.bib'
-[504] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[504] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[504] Biber.pm:4283> INFO - Sorting list 'none/global//global/global/global' of type 'entry' with template 'none' and locale 'en-US'
-[504] Biber.pm:4289> INFO - No sort tailoring available for locale 'en-US'
-[529] bbl.pm:676> INFO - Writing 'main.bbl' with encoding 'UTF-8'
-[551] bbl.pm:779> INFO - Output to main.bbl
-[551] Biber.pm:131> WARN - ISBN '978-3-662-03117-9 978-3-662-03115-5' in entry 'bendsoeOptimizationStructuralTopology1995' is invalid - run biber with '--validate_datamodel' for details.
-[551] Biber.pm:131> WARN - ISBN '978-1-4419-2942-6 978-1-4684-9286-6' in entry 'allaireShapeOptimizationHomogenization2002' is invalid - run biber with '--validate_datamodel' for details.
-[551] Biber.pm:133> INFO - WARNINGS: 2
+[492] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[492] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[492] Biber.pm:4283> INFO - Sorting list 'none/global//global/global/global' of type 'entry' with template 'none' and locale 'en-US'
+[492] Biber.pm:4289> INFO - No sort tailoring available for locale 'en-US'
+[516] bbl.pm:676> INFO - Writing 'main.bbl' with encoding 'UTF-8'
+[537] bbl.pm:779> INFO - Output to main.bbl
+[537] Biber.pm:131> WARN - ISBN '978-3-662-03117-9 978-3-662-03115-5' in entry 'bendsoeOptimizationStructuralTopology1995' is invalid - run biber with '--validate_datamodel' for details.
+[537] Biber.pm:131> WARN - ISBN '978-1-4419-2942-6 978-1-4684-9286-6' in entry 'allaireShapeOptimizationHomogenization2002' is invalid - run biber with '--validate_datamodel' for details.
+[537] Biber.pm:133> INFO - WARNINGS: 2

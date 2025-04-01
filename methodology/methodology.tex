@@ -455,8 +455,9 @@ To ensure that FEM results were not dependent on the voxel size of the voxel mes
 \end{table}
 
 \begin{figure}
-  \includegraphics[width=.50\textwidth]{conv_average.png} \hfill
-  \includegraphics[width=.50\textwidth]{conv_max.png} \hfill
+  \centering
+  \includegraphics[width=.75\textwidth]{conv_average.png} \hfill
+  \includegraphics[width=.75\textwidth]{conv_max.png} \hfill
   \caption{Results of convergence test on selected parts.}\label{fig:convergence}
 \end{figure} 
 
@@ -473,8 +474,6 @@ All of the simulations run on Simufact used voxel meshes with sizes ranging from
 
 \section{Results export and analysis}
 
-After the simulation was run, the node displacement and stress data of last time increment was exported to a .csv file using a Python script. The .csv file was then read and parsed using R, and the data was used to obtain statistical values and graphs. Python code and the R scripts have been included in the Code chapter of this work. \todo{Add this chapter and the code}
-
-\listoftodos
+After the simulation was run, the node displacement and stress data of last time increment was exported to a .csv file using a Python script. The .csv file was then read and parsed using R, and the data was used to obtain statistical values and graphs. 
 
 \end{document}
