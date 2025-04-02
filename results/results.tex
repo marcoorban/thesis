@@ -86,14 +86,22 @@ Lastly, all of the following trends can be succintly visualized using a box and 
 \clearpage
 \subsection{Stress analysis}
 
-To analyze the differences in internal stresses caused by the topologies, we inspect the node stress density distributions. In contrast with the displacement density distribution, there is very little variability between groups. On the other hand, across groups we can see differences in the spread of stress. For example, the stress are most densely concentrated around the peak of the 25\% group compared to the groups with higher volume fractions, such as 50\% and 75\%. This indicates that some groups have smaller standard deviations, with values more closely packed together. 
+To analyze the differences in internal stresses caused by the topologies, we inspect the node stress density distributions. In contrast with the displacement density distribution, there is very little variability between groups. On the other hand, across groups we can see differences in the spread of stress. For example, the stress are most densely concentrated around the peak of the 25\% group compared to the groups with higher volume fractions, such as 50\% and 75\%. This indicates that some groups have smaller standard deviations, with values more closely packed together. This can be confirmed by looking at the statistics in  
+Figure \ref{fig:stress_stats}, where we can see slight differences in the standard deviation of topologies.
 
 \begin{figure}[h!]
   \centering
   \includegraphics[width=0.75\textwidth]{images/results/plots/femoral/stress/stress_density_ridges.png}
 \end{figure}
 
-Next, we inspect the average deformation of the topologies. 
+\begin{figure}[h!]
+  \centering
+  \includegraphics[width=0.75\textwidth]{images/results/plots/femoral/stress/stress_stats.png}
+  \caption{Statistics of nodal stresses; all topologies}
+  \label{fig:stress_stats}
+\end{figure}
+
+Next, we inspect the average deformation of the simulation results. We can see that the baseline case has the smallest average stresses, but as soon as topologies with lower volume fraction are used, the average stresses rises more than 20\%, from a baseline value of 400 MPa to over 485 MPa. The average stress does not change considerably from topology to topology, which is similar to what was noticed for the average nodal diplacement. Looking at the maximum stress yields a very interesting result; namely, that all of the topologies have a near constant maximum stress. This result is clear from looking at both graphs in Figure \ref{fig:maximum_stresses}.
 
 \begin{figure}[h!]
   \centering
@@ -113,9 +121,13 @@ Next, we inspect the average deformation of the topologies.
   \label{fig:maximum_stresses}
 \end{figure}
 
+Lastly, the box-whisker plot of Figure \ref{fig:stress_boxwhisker} shows a succint summary of all the statistics discussed in this section.
+
 \begin{figure}[h!]
   \centering
   \includegraphics[width=0.8\textwidth]{images/results/plots/femoral/stress/boxplots.png}
+  \caption{Box-and-whisker plot of nodal stress values of topologies of femoral component.}
+  \label{fig:stress_boxwhisker}
 \end{figure}
 
 

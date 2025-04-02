@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2025.1.30)  1 APR 2025 17:43
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2025.1.30)  2 APR 2025 13:24
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1237,49 +1237,52 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 [49]
 File: images/results/plots/femoral/stress/stress_density_ridges.png Graphic file (type bmp)
 <images/results/plots/femoral/stress/stress_density_ridges.png>
-File: images/results/plots/femoral/stress/average_stress.png Graphic file (type bmp)
-<images/results/plots/femoral/stress/average_stress.png>
-File: images/results/plots/femoral/stress/femoral_average_group_stress.png Graphic file (type bmp)
-<images/results/plots/femoral/stress/femoral_average_group_stress.png>
+File: images/results/plots/femoral/stress/stress_stats.png Graphic file (type bmp)
+<images/results/plots/femoral/stress/stress_stats.png>
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-File: images/results/plots/femoral/stress/maximum_stress.png Graphic file (type bmp)
-<images/results/plots/femoral/stress/maximum_stress.png>
-File: images/results/plots/femoral/stress/femoral_max_group_stress.png Graphic file (type bmp)
-<images/results/plots/femoral/stress/femoral_max_group_stress.png>
 
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-File: images/results/plots/femoral/stress/boxplots.png Graphic file (type bmp)
-<images/results/plots/femoral/stress/boxplots.png>
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-)
 
 [50
 
 ]
 
 [51]
+File: images/results/plots/femoral/stress/average_stress.png Graphic file (type bmp)
+<images/results/plots/femoral/stress/average_stress.png>
+File: images/results/plots/femoral/stress/femoral_average_group_stress.png Graphic file (type bmp)
+<images/results/plots/femoral/stress/femoral_average_group_stress.png>
+File: images/results/plots/femoral/stress/maximum_stress.png Graphic file (type bmp)
+<images/results/plots/femoral/stress/maximum_stress.png>
+File: images/results/plots/femoral/stress/femoral_max_group_stress.png Graphic file (type bmp)
+<images/results/plots/femoral/stress/femoral_max_group_stress.png>
+File: images/results/plots/femoral/stress/boxplots.png Graphic file (type bmp)
+<images/results/plots/femoral/stress/boxplots.png>
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+)
 
 [52]
+
+[53]
 \openout2 = `conclusion/conclusion.aux'.
 
  (./conclusion/conclusion.tex
 Chapter 5.
-)
-
-[53
 
 
+[54
 
 
-]
 
-[54]
+
+])
+
+[55]
 
 Package fontspec Info: 
 (fontspec)             Script 'CJK' not explicitly supported within font
@@ -1301,7 +1304,7 @@ Package fontspec Info:
 
 
 
-[55
+[56
 
 
 
@@ -1312,34 +1315,34 @@ Overfull \hbox (3.2862pt too wide) in paragraph at lines 66--66
 
 
 
-[56]
-
 [57]
+
+[58]
 Overfull \hbox (11.71703pt too wide) in paragraph at lines 66--66
 \TU/lmr/m/n/12 pp. 113–137, Jan. 1986, \TU/lmr/m/sc/12 issn\TU/lmr/m/n/12 : 0010-3640, 1097-0312. \TU/lmr/m/sc/12 doi\TU/lmr/m/n/12 : $[][] [] [][][][] [] [][][] [] [][][][][][][][][][]$. 
  []
 
 
 
-[58]
-
 [59]
+
+[60]
 Overfull \hbox (14.61674pt too wide) in paragraph at lines 66--66
 []\TU/lmr/m/n/12 B. S. Lazarov and O. Sigmund, “Filters in topology optimization based on Helmholtz-
  []
 
 
 
-[60]
+[61]
 Overfull \hbox (4.90543pt too wide) in paragraph at lines 66--66
 \TU/lmr/m/n/12 ditive manufacturing,” \TU/lmr/m/it/12 Finite Elements in Analysis and Design\TU/lmr/m/n/12 , vol. 193, p. 103 558,
  []
 
 
 
-[61]
-
 [62]
+
+[63]
 Overfull \hbox (19.22655pt too wide) in paragraph at lines 66--66
 \TU/lmr/m/n/12 pp. 2721–2732, May 1, 2009, \TU/lmr/m/sc/12 issn\TU/lmr/m/n/12 : 0017-9310. \TU/lmr/m/sc/12 doi\TU/lmr/m/n/12 : $[][] [] [][][][] [] [] [] [][][][][][][][][][][][][][][][][][] []
  []
@@ -1351,9 +1354,9 @@ Overfull \hbox (51.7125pt too wide) in paragraph at lines 66--66
 
 
 
-[63]
+[64]
 
-[64] (./main.aux (./introduction/introduction.aux) (./litreview/litreview.aux) (./methodology/methodology.aux) (./results/results.aux) (./conclusion/conclusion.aux))
+[65] (./main.aux (./introduction/introduction.aux) (./litreview/litreview.aux) (./methodology/methodology.aux) (./results/results.aux) (./conclusion/conclusion.aux))
  ***********
 LaTeX2e <2024-11-01> patch level 1
 L3 programming layer <2022/08/05>
@@ -1363,12 +1366,12 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 29122 strings out of 473846
- 654426 string characters out of 5729886
- 1482278 words of memory out of 5000000
- 51632 multiletter control sequences out of 15000+600000
+ 29239 strings out of 473846
+ 657437 string characters out of 5729886
+ 1483512 words of memory out of 5000000
+ 51748 multiletter control sequences out of 15000+600000
  574862 words of font info for 122 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  117i,15n,131p,2617b,5003s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on main.xdv (65 pages, 900564 bytes).
+Output written on main.xdv (66 pages, 915148 bytes).

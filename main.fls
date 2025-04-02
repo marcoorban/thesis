@@ -479,6 +479,9 @@ INPUT images/results/plots/femoral/displacement/boxplots.png
 INPUT ./images/results/plots/femoral/stress/stress_density_ridges.png
 INPUT ./images/results/plots/femoral/stress/stress_density_ridges.png
 INPUT images/results/plots/femoral/stress/stress_density_ridges.png
+INPUT ./images/results/plots/femoral/stress/stress_stats.png
+INPUT ./images/results/plots/femoral/stress/stress_stats.png
+INPUT images/results/plots/femoral/stress/stress_stats.png
 INPUT ./images/results/plots/femoral/stress/average_stress.png
 INPUT ./images/results/plots/femoral/stress/average_stress.png
 INPUT images/results/plots/femoral/stress/average_stress.png
