@@ -8,7 +8,7 @@
 
 To evaluate the performance of various support structures developed through topology optimization, a comparative study was conducted in which components fabricated via additive manufacturing were paired with distinct support structures. This investigation assumed that different structural configurations would exhibit varying thermal conductivity, thereby influencing the efficiency of heat dissipation from each material layer during the manufacturing process. Enhanced thermal conduction is anticipated to mitigate overall thermal deformation, as the manufactured component would experience reduced expansion due to a shorter duration of exposure to elevated temperatures.
 
-This section will explain the full process employeds to run the simulations and analyze the resultant data. An overview of the procedural framework is illustrated in Figure~\ref{fig:process_diagram}. The process starts from the creation of the CAD for the manufactured components, followed by the design and CAD creation of the corresponding support structures. The components and the support structures are then merged, and imported into the additive manufacturing software to simulate the results of manufacture. The results obtained from the manufacturing simulation are then subjected to analysis through graphical representations and statistical methods.
+This section will explain the full process employed to run the simulations and analyze the resultant data. An overview of the procedural framework is illustrated in Figure~\ref{fig:process_diagram}. The process starts from the creation of the CAD for the manufactured components, followed by the design and CAD creation of the corresponding support structures. The components and the support structures are then merged, and imported into the additive manufacturing software to simulate the results of manufacture. The results obtained from the manufacturing simulation are then subjected to analysis through graphical representations and statistical methods.
 
 \begin{figure}
   \begin{center}
@@ -19,12 +19,12 @@ This section will explain the full process employeds to run the simulations and 
 
 The subsequent sections explain in detail each stage of this process.
 
-\section{Component CAD}
+\section{Component CAD}\label{ch:cad}
 
 The components with simple geometries utilized in this study consist of a cube, three triangular
 components with different slopes, and three cylindrical components with different values of
-curvature. These shapes with these dimenions were chosen to ease the comparison of results between this study and the study of Peishu \cite{chungpei-hsuStudyLatticeSupport2024}. All the CAD models
-used for the simple geometry study were created using FreeCAD, an open-source CAD software. The components were exported as .STP files, and then were merged with their corresponding support structures using the software nTop. The geometries used for this preliminary study are the following:
+curvature. These shapes with these dimensions were chosen to ease the comparison of results between this study and the study of Peishu \cite{chungpei-hsuStudyLatticeSupport2024}. All the CAD models
+used for the simple geometry study were created using FreeCAD, an open-source CAD software. The components were exported as .stp files, and then were merged with their corresponding support structures using the software nTop. The geometries used for this preliminary study are the following:
 
 \begin{itemize}
   \item A cube with side length of 30 mm, as shown in Figure \ref{fig:cube}.
@@ -83,13 +83,13 @@ used for the simple geometry study were created using FreeCAD, an open-source CA
 \caption{Dimensions of rounded parts.}
 \end{figure}
 
-Apart from the parts above, a CAD model for a femoral component was also employed. The femoral component is one of the prostethic components used in total knee arthroplasty, and is the piece that is directly connected to the patient's femur. This is shown in Figures \ref{fig:fem1} and \ref{fig:fem2}.
+Apart from the parts above, a CAD model for a femoral component was also employed. The femoral component is one of the prosthetic components used in total knee arthroplasty, and is the piece that is directly connected to the patient's femur. This is shown in Figures \ref{fig:fem1} and \ref{fig:fem2}.
 
 \begin{figure}
   \begin{center}
   \includegraphics[width=0.45\textwidth]{femoral.png}
 \end{center}
-  \caption{Components of total knee arthroplasty prothesis. Taken from \cite{leopoldMinimallyInvasiveTotal2009}.}
+  \caption{Components of total knee arthroplasty prosthesis. Taken from \cite{leopoldMinimallyInvasiveTotal2009}.}
   \label{fig:fem1}
 \end{figure}
 
@@ -143,7 +143,7 @@ where $\bm{Q}$ is the heat conduction through the material, $\kappa$ is the mate
            & \bm{\kappa}\bm{T}  = \bm{Q},
 \end{align}
 
-where $\bm{\kappa}$ is the global thermal conductivity matrix, $\bm{T}$ is the temperature vector, and $\bm{Q}$ is the thermal load, or heat flux, vector. Thermal compliance $c_t$ can be thought of the thermal analogy to the stiffness of a structure. In structural problems, the objective is to maximize the stiffness, or mimize the compliance, as compliance is the inverse of stifness. Similarly, in thermal problems, the objective is to maximize the thermal conductivity, or alternatively, minimize the thermal compliance, which can be though of as the inverse of conductivity. Thermal compliance has extensively been used in other topology optimization problems such as \cite{leeObjectiveFunctionTopology2021}, \cite{yoonTopologicalDesignHeat2010}, and \cite{brunsTopologyOptimizationConvectiondominated2007}.
+where $\bm{\kappa}$ is the global thermal conductivity matrix, $\bm{T}$ is the temperature vector, and $\bm{Q}$ is the thermal load, or heat flux, vector. Thermal compliance $c_t$ can be thought of the thermal analogy to the stiffness of a structure. In structural problems, the objective is to maximize the stiffness, or minimize the compliance, as compliance is the inverse of stiffness. Similarly, in thermal problems, the objective is to maximize the thermal conductivity, or alternatively, minimize the thermal compliance, which can be though of as the inverse of conductivity. Thermal compliance has extensively been used in other topology optimization problems such as \cite{leeObjectiveFunctionTopology2021}, \cite{yoonTopologicalDesignHeat2010}, and \cite{brunsTopologyOptimizationConvectiondominated2007}.
 
 At the same time, stiffness of the support structure should be be maximized to avoid considerable deformations that might affect the part geometry. The geometry resulting from the thermal optimization could result in thin, dendrite-like structures, which could buckle and collapse under the component's weight, causing the whole manufacturing process to fail. Assuming small deformations, we can express the displacement of the material by using Hook's law,
 
@@ -162,13 +162,13 @@ where $\bm{K}$ is the global stiffness matrix, $\bm{U}$ is the vector of nodal d
 
 We can therefore combine these two together to obtain the objective function for the topology optimization problem, with $\omega_1$ and $\omega_2$ the weight coefficients that encapsulate the relative importance of each objective:
 
-\begin{equation}
+\begin{align*}
   \text{minimize} \hspace{0.5cm} \omega_1 \bm{T^T} \bm{Q} + \omega_2 \bm{U^T} \bm{F}.
-\end{equation}
+\end{align*}
 
 \subsection{Topology optimization equations}
 
-Having decided the governing equations and objective function for the system, the topology optimzation model must be chosen. For this study, the SIMP approach with a hyperbolic tangent projection has been employed, utilizing a volume fraction restriction. Mathematically, the topology optimization problem can be formulated as follows:
+Having decided the governing equations and objective function for the system, the topology optimization model must be chosen. For this study, the SIMP approach with a hyperbolic tangent projection has been employed, utilizing a volume fraction restriction. Mathematically, the topology optimization problem can be formulated as follows:
 
 \begin{align}
   \text{minimize}  & \hspace{0.5cm} X_{obj} = \omega_1 \bm{T}^T \bm{Q} + w_2 \bm{U}^T \bm{F}  \\ 
@@ -179,13 +179,19 @@ Having decided the governing equations and objective function for the system, th
     & \hspace{0.5cm} \omega_1 + \omega_2 = 1,  
  \end{align}
 
- where the density $\tilde{\rho}$ has been defined using the hyperbolic tangent projection function as defined in section \ref{ch:threshold}.
+where the density $\tilde{\rho}$ has been defined using the hyperbolic tangent projection function as defined in section \ref{ch:threshold}.
+
+\begin{figure}[h!]
+  \centering
+  \includegraphics{boundaryconds.png}
+  \caption{Boundary condition examples for design domain of cube component.}
+\end{figure}
 
 \section{COMSOL implementation}
 
 \subsection{Mesh}
 
-To run the topology optimization algorithm and obtain a solution, the design domain must be divided into finite element methods for computation. For the 2D design domains of the simple geometry elements, free triangular meshes were utilized, using a predefined mesh element size of "finer". This resulted in about 2000-3000 elements for each of the design domains, depending on the geometry of the domain. These mesh parameters were chosen to produce fast results and to obtain a general idea of how the simulation parameteres affected the solution of the topology optimization problem. An example of 2D mesh can be seen in Figure \ref{fig:mesh2d}.
+To run the topology optimization algorithm and obtain a solution, the design domain must be divided into finite element methods for computation. For the 2D design domains of the simple geometry elements, free triangular meshes were utilized, using a predefined mesh element size of "finer". This resulted in about 2000-3000 elements for each of the design domains, depending on the geometry of the domain. These mesh parameters were chosen to produce fast results and to obtain a general idea of how the simulation parameters affected the solution of the topology optimization problem. An example of 2D mesh can be seen in Figure \ref{fig:mesh2d}.
 
 \begin{figure}[h!]
   \includegraphics[width=\textwidth]{mesh1.png}
@@ -220,7 +226,7 @@ The material used in all simulations was 316L stainless steel. This material is 
     \textbf{Young's Modulus} & 200 GPa \\
     \hline
   \end{tabular}
-  \caption{Phyiscal properites of 316L steel.}
+  \caption{Physical properties of 316L steel.}
   \label{tab:316l}
 \end{table}
 
@@ -238,7 +244,7 @@ For the calculation of compliance, the structural load was also calculated by us
 
 The topology optimization problem was solved using COMSOL Multiphysics 6.2 software. COMSOL allows the creation of parametric studies that allow to run a simulation with a list of parameters to be varied, in order to study the influence of different values on the solution of a system. For this study, the values of volume fraction, objective function weights, and hyperbolic tangent angle were chosen as the parameters to be varied.
 
-Volume fraction is defined as the maximum amount of volume that the topology can cover within the design domain. This criteria is chosen because we seek to use less material for the supporting structure, as long as we can maintain the total deformation of the manufacturing componont beneath a threshold. For the simple geometries 50\% and 75\% of volume fraction were considered. For the femoral component study, volume fractions of 25\%, 33\%, 40\%, 50\% and 75\% were considered. 
+Volume fraction is defined as the maximum amount of volume that the topology can cover within the design domain. This criteria is chosen because we seek to use less material for the supporting structure, as long as we can maintain the total deformation of the manufacturing component beneath a threshold. For the simple geometries 50\% and 75\% of volume fraction were considered. For the femoral component study, volume fractions of 25\%, 33\%, 40\%, 50\% and 75\% were considered. 
 
 Finally, the hyperbolic tangent angle projection was also varied. The hyperbolic tangent was varied from a value of 0.001\degree to 8\degree, in steps in 2\degree. The variation was stopped at 8\degree since it was noticed that for $\theta \geq$ 8\degree there would be no discernible differences between results.
 
@@ -285,14 +291,6 @@ It is possible to change the material boundary conditions in COMSOL when solving
 
 The heat transfer and solid mechanics boundary conditions must also be specified. The heat transfer problem boundary conditions consisted of a heat flux through the upper surface of 20 W / (m$^2$$\cdot$K) and 10 W / (m$^2$$\cdot$K) for the simple geometry parts and femoral component respectively. The inferior surface was set at a constant temperature of 200\degree K, and the sides were kept insulated.
 
-\begin{figure}[h!]
-  \centering
-  \includegraphics{boundaryconds.png}
-  \caption{Boundary condition examples for design domain of cube component.}
-\end{figure}
-
-The solid mechanics boundary conditions consisted of a load corresponding to the part's weight on the top surface. The bottom surface was constrained to be a fixed surface with no displacement, and the sides were set to be free surfaces.
-
 \subsection{COMSOL implementation final details}
 
 Once all the physical and material parameters, the topology optimization model and parameters, boundary conditions, and parametric study have been set up, the solver will have all the information needed to obtain a solution. For this project, the solver algorithm utilized the method of moving asymptotes (MMA) \cite{svanbergMethodMovingAsymptotes1987}, with a maximum iteration number of 50. The optimality tolerance was also set to COMSOL's default value of 0.001. Lastly, the penalty factor for the SIMP method was set to p=3.
@@ -319,7 +317,7 @@ Once all the physical and material parameters, the topology optimization model a
 
 \section{Support structure design and merging with part}
 
-After COMSOL was used to generate the possible topologies for the support structure, the topology was exported to image files, in the case of the 2D problem, and to an .STL file, in the case of the 3D structure. These were then converted to 3D .stp file with the aid of FreeCAD. nTop Software was then used to merge the resulting support structure with the manufactured components. Once the support structure and the part were joined, they were exported as .stl files to be used in the SLM finite element simulation.
+After COMSOL was used to generate the possible topologies for the support structure, the topology was exported to image files, in the case of the 2D problem, and to an .stl file, in the case of the 3D structure. These were then converted to 3D .stp file with the aid of FreeCAD. nTop Software was then used to merge the resulting support structure with the manufactured components. Once the support structure and the part were joined, they were exported as .stl files to be used in the SLM finite element simulation.
 
 Once the CAD file of the component and the support structure has been built, it is necessary to merge them together and import them into Simufact to undergo simulation of the manufacturing process. The software used for blending the component and its support structure is nTop version 5.17.2. nTop's interface makes it very easy to merge the part, and also allows to blend the support structure and the component, which effectively creates a fillet between the nodes of both components to allow for a smooth transition between bodies. Of course, blending the component and the support structure in this manner would not give any benefit in a real manufacturing process, as the structure and the component would not be able to be separated easily. Nevertheless, this blend radius is beneficial for the simulation since it was observed that a direct union and import of the support structure + component in Simufact resulted in having very small gaps between the two pieces, resulting in a non manifold geometry that would cause the finite element model to have gaps between some of its nodes.
 
@@ -353,9 +351,9 @@ After the component and the support structures were merged, they were imported i
 
 The first parameter to be chosen is the process properties, which determines the physics that Simufact takes into consideration to run the simulation. Simufact provides three different types of processes: mechanical, thermal, and thermomechanical. As stated in the Simufact manual \cite{hexagonabProcessPropertiesInfosheet}, mechanical provides a fast mechanical analysis that only uses inherent strains as the main input. This type of analysis does not take into consideration the temperature fields during the building process. The thermal process on the other hand only considers the thermal behaviour of the components, and the temperature field of the support structures, components and base can be analyzed. The thermomechanical process couples the stress and thermal analyses, and allows for the prediction of temperature, distortions and stresses of the part. This latter thermomechanical process is the process utilized throughout this study.
 
-\subsection{Machine and build parameters}
+\subsection{Machine and build parameters}\label{ch:params}
 
-After choosing the process property, the machine parameters must be specified. This includes the machine build plate geometry and the laser parameters. The machine build plate chosen was a circular plate with an 80 mm radius. The build space dimensions consists of a space of 160 mm in all three x-y-z directions. As for the laser parameters, the simulations were carried out with one laser with a maximum laser power of 500 W and a maximum laser speed of 2000 mm / s, an efficiency of 25\%, and a beam width of 25 mm. These machine parameters were modeled after an AMP-160 SLM machine, manufactured by TongTai Machine \& Tool Company, Taiwan, that has been used in simular studies \cite{chungpei-hsuStudyLatticeSupport2024}, \cite{chungEvaluationPredictionThermal2024a}.
+After choosing the process property, the machine parameters must be specified. This includes the machine build plate geometry and the laser parameters. The machine build plate chosen was a circular plate with an 80 mm radius. The build space dimensions consists of a space of 160 mm in all three x-y-z directions. As for the laser parameters, the simulations were carried out with one laser with a maximum laser power of 500 W and a maximum laser speed of 2000 mm / s, an efficiency of 25\%, and a beam width of 25 mm. These machine parameters were modeled after an AMP-160 SLM machine, manufactured by TongTai Machine \& Tool Company, Taiwan, that has been used in similar studies \cite{chungpei-hsuStudyLatticeSupport2024}, \cite{chungEvaluationPredictionThermal2024a}.
 
 The building parameters for the process need also to be set. These include material layer parameters and any thermal parameters and temperature specifications for the build environment and base plate. The powder layer thickness was chosen to be 0.03 mm, with a recoater time of 10 s. The powder initial temperature was set to 25\degree C, with an initial base temperature of 200\degree C. Preheating is important in SLM since it can influence the quality of the microstructure of the component. It has been suggested that a temperature of 200\degree C exhibits higher cooling rates and smaller grain sizes of the microstructure \cite{chowdhuryEffectsPreheatingThermal2024}.
 
@@ -474,6 +472,8 @@ All of the simulations run on Simufact used voxel meshes with sizes ranging from
 
 \section{Results export and analysis}
 
-After the simulation was run, the node displacement and stress data of last time increment was exported to a .csv file using a Python script. The .csv file was then read and parsed using R, and the data was used to obtain statistical values and graphs. 
+After the simulation was run, the node displacement and stress data of last time increment was exported to a .csv file using a Python script. The .csv file was then read and parsed using R, and the data was used to obtain statistical values and graphs. The results are summarized in the next chapter.
+
+
 
 \end{document}

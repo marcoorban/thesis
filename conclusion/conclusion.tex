@@ -5,19 +5,32 @@
 
 \chapter{Discussion and conclusions}
 
-\todo{summary of all the stuff that I have done should go here}
+\section{Conclusions}
 
-This is the conclusion
-
-The following are the main conclusions that this study has been able to draw:
 \begin{enumerate}
 
-  \item The conclusion is that topology optimization can help us reduce the volume of the supporting structure with minimal penalty to the overall deformation of the component. 
-  \item Additionally, the right topology can also help use minimize the maximum deformation of the component. Why this happens could be because there is less material that expands (the total delta of thermal expansion is proportional to the amount of material present, no?)
-  \item The study also shows that reducing the volume fraction too much might be a detriment to the thermal deformation. My hypothesis is that this occurs because heat has a harder time leaving the support structure since there aren’t as many good paths, which creates a high thermal gradient that makes the material expand more than usual.n
-  \item Additionally, from the simple geometry results, we can conclude that hyperbolic tangent angle is not directly correlated to the total deformation.
-  \item From the simple geometry results, we can also conclude that mechanical compliance has no effect on results. This is because the dominating effect on the physics of the system is thermal transfer only; the part is not heavy enough to create excessive deformation on the supporting structure.
-  \item Additionally, the judicious use of topology optimization with moderate volume fractions does not result in regions with stress greater than the maximum mechanical stress of the material, meaning that there is no fear of collapse.
+  \item The findings of this study demonstrate the efficacy of topology optimization in reducing the volume of supporting structures while minimizing the overall deformation of the component. The results indicate that the judicious selection of optimal topologies can play a significant role in mitigating the maximum deformation experienced by the component. This phenomenon may be attributed to the principle that the total thermal expansion is proportional to the amount of material present. Topologies that minimize the volume of the supporting structure could potentially reduce the total thermal expansion, leading to lower maximum deformations.  
+  \item Furthermore, the investigation reveals that excessively reducing the volume fraction of the supporting structure may be detrimental to the thermal deformation performance, when using maximum displacement as a performance metric. The study of the maximum nodal deformation of the femoral component showed that excessive volume fraction reduction led to high maximum deformations. This observation leads to the hypothesis that a reduction in material volume can hinder the heat transfer pathways, creating higher thermal gradients within the structure and resulting in increased thermal expansion. 
+  \item The results from the simple geometric configurations suggest that the hyperbolic tangent angle and variation of boundary conditions are not directly correlated with the overall deformation and stress of the structure. Additionally, the analysis indicates that mechanical compliance has a negligible effect on the observed outcomes, as the dominant physical phenomenon governing the system appears to be thermal transfer rather than mechanical loading. This is likely due to the relatively low magnitude of the mechanical loads, which are primarily driven by the weight of the component itself.
+  \item Overall, the insights gained from this study highlight the potential of topology optimization to enhance the design of supporting structures, balancing the competing objectives of material reduction and thermal deformation control. The understanding of the underlying physical mechanisms, such as the role of thermal expansion and heat transfer, can guide the development of more efficient and reliable structural designs. In particular, in this study it was observed that mechanical compliance was not influential, but this methodology could still be applied to other systems were the boundary loads might have a bigger influence, such as loads and stresses encountered in heat exchangers or turbomachinery.
+  
+\end{enumerate}
+
+\section{Future research}
+
+Here are some ideas that could be developed in future research to improve and refine the current method and address some of its deficiencies:
+
+\begin{enumerate}
+
+  \item One potential area of improvement is the integration of topology optimization with lattice structures. By merging these two design strategies, it may be possible to achieve even greater reductions in the volume of the supporting structure while maintaining the desired deformation characteristics. The use of lattice structures could introduce additional design flexibility and potentially lead to further material savings.
+
+  \item Additionally, a crucial aspect of accurate thermomechanical simulation is the proper calibration of thermal parameters. Unfortunately, the standard operating procedures for obtaining the correct thermal calibration parameters are not well-defined, and this can be a challenging task. In the current study, the thermal calibration was not accounted for, which means that while the general trends observed are likely accurate, the specific numerical values of displacements and stresses may not fully reflect realistic conditions. To ensure a more precise prediction of the component's behavior, future studies should prioritize the careful calibration of thermal parameters, following established or newly developed protocols. This additional step would help confirm that the results obtained are truly representative of the expected real-world performance.
+
+  \item In addition to the statistical analysis of average and maximum values, the current study could be enhanced by incorporating a more comprehensive 3D visualization approach. By layering the displacement and stress distributions directly onto the 3D geometry of the component, it would be possible to gain a deeper understanding of the spatial distribution of deformation and stress within the structure. This level of detail could provide insights into the specific regions experiencing the highest levels of deformation and stress, which may not be readily apparent from the summary statistics alone.
+
+  \item Continuing from the previous point comparing the 3D visualization results with the original CAD model could pinpoint the critical areas that require particular attention. Identifying these high-stress or high-deformation regions could inform post-processing decisions, such as targeted machining or reinforcement, to optimize the final design and reduce manufacturing costs. Additionally, this detailed spatial analysis may lead to a better understanding of the underlying design factors that contribute to the observed deformation patterns, guiding future iterations of the topology optimization process.
 
 \end{enumerate}
+
+
 \end{document}

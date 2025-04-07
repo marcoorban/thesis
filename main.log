@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2025.1.30)  2 APR 2025 13:24
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2025.1.30)  7 APR 2025 16:22
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -729,18 +729,27 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 \Gm@dimlist=\toks37
 ) (/usr/local/texlive/2024/texmf-dist/tex/latex/setspace/setspace.sty
 Package: setspace 2022/12/04 v6.7b set line spacing
-) (/usr/local/texlive/2024/texmf-dist/tex/latex/subfiles/subfiles.sty
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count462
+\float@exts=\toks38
+\float@box=\box68
+\@float@everytoks=\toks39
+\@floatcapt=\box69
+)
+\@float@every@table=\toks40
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/subfiles/subfiles.sty
 Package: subfiles 2020/11/14 v2.2 Multi-file projects (package)
  (/usr/local/texlive/2024/texmf-dist/tex/latex/import/import.sty
 Package: import 2020/04/01  v 6.2
 )) (/usr/local/texlive/2024/texmf-dist/tex/latex/titlesec/titlesec.sty
 Package: titlesec 2025/01/04 v2.17 Sectioning titles
-\ttl@box=\box68
+\ttl@box=\box70
 \beforetitleunit=\skip86
 \aftertitleunit=\skip87
 \ttl@plus=\dimen299
 \ttl@minus=\dimen300
-\ttl@toksa=\toks38
+\ttl@toksa=\toks41
 \titlewidth=\dimen301
 \titlewidthlast=\dimen302
 \titlewidthfirst=\dimen303
@@ -760,17 +769,18 @@ Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
 \caption@hangindent=\dimen311
 Package caption Info: Standard document class detected.
 )
-\c@caption@flags=\count462
-\c@continuedfloat=\count463
+\c@caption@flags=\count463
+\c@continuedfloat=\count464
+Package caption Info: float package is loaded.
 )
 Package caption Info: New subtype `subfigure' on input line 238.
-\c@subfigure=\count464
+\c@subfigure=\count465
 Package caption Info: New subtype `subtable' on input line 238.
-\c@subtable=\count465
+\c@subtable=\count466
 ) (/usr/local/texlive/2024/texmf-dist/tex/latex/multirow/multirow.sty
 Package: multirow 2024/11/12 v2.9 Span multiple rows of a table
 \multirow@colwidth=\skip88
-\multirow@cntb=\count466
+\multirow@cntb=\count467
 \multirow@dima=\skip89
 \bigstrutjot=\dimen312
 )
@@ -801,9 +811,172 @@ Package fontspec Info:
 (fontspec)             - 'italic' (m/it) with NFSS spec.:
 (fontspec)             <->"[FandolKai-Regular.otf]/OT:script=hani;language=dflt;"
 
-\@quotelevel=\count467
-\@quotereset=\count468
-(./main.aux (./introduction/introduction.aux) (./litreview/litreview.aux) (./methodology/methodology.aux) (./results/results.aux) (./conclusion/conclusion.aux))
+\@quotelevel=\count468
+\@quotereset=\count469
+(./main.aux (./abs/abs.aux) (./introduction/introduction.aux) (./litreview/litreview.aux) (./methodology/methodology.aux) (./results/results.aux
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `sub@' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `sub@' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `sub@' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `sub@' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `sub@' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `sub@' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `sub@' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `sub@' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `sub@' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `sub@' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `sub@' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `sub@' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `sub@' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `sub@' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `sub@' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `sub@' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `sub@' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `sub@' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `sub@' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `sub@' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `sub@' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `sub@' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `sub@' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `sub@' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `sub@' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `sub@' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `sub@' multiply defined.
+
+) (./conclusion/conclusion.aux))
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 53.
@@ -954,18 +1127,36 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 [1
 
 ]
+\openout2 = `abs/abs.aux'.
+
+ (./abs/abs.tex)
+
+[1
+
+
+] (./main.toc
+
+[2
+
+
+
+])
+\tf@toc=\write5
+\openout5 = `main.toc'.
+
+
+
+[1]
 \openout2 = `introduction/introduction.aux'.
 
  (./introduction/introduction.tex
 Chapter 1.
 
 
-[1
+[2
 
 
-]
-
-[2])
+])
 
 [3]
 \openout2 = `litreview/litreview.aux'.
@@ -1056,14 +1247,13 @@ File: images/cyl40.png Graphic file (type bmp)
 <images/cyl40.png>
 File: images/femoral.png Graphic file (type bmp)
 <images/femoral.png>
+File: images/femoral2.png Graphic file (type bmp)
+<images/femoral2.png>
 
 
 [22]
 
 [23]
-File: images/femoral2.png Graphic file (type bmp)
-<images/femoral2.png>
-
 
 [24]
 File: images/designdomain3d.png Graphic file (type bmp)
@@ -1081,14 +1271,23 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 [26]
 
 [27]
+File: images/boundaryconds.png Graphic file (type bmp)
+<images/boundaryconds.png>
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+
+[28]
 File: images/mesh1.png Graphic file (type bmp)
 <images/mesh1.png>
 
 
-[28]
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
 File: images/femmesh.png Graphic file (type bmp)
 <images/femmesh.png>
-
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
@@ -1097,14 +1296,14 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 [29]
 
 [30]
+
+[31]
 File: images/heating.png Graphic file (type bmp)
 <images/heating.png>
 
 
-[31]
-
 [32]
-Overfull \hbox (3.22966pt too wide) in paragraph at lines 249--264
+Overfull \hbox (3.22966pt too wide) in paragraph at lines 255--270
  [][] 
  []
 
@@ -1115,12 +1314,9 @@ File: images/side_mat_volfrac20.png Graphic file (type bmp)
 <images/side_mat_volfrac20.png>
 File: images/side_void_volfrac20.png Graphic file (type bmp)
 <images/side_void_volfrac20.png>
-File: images/boundaryconds.png Graphic file (type bmp)
-<images/boundaryconds.png>
 
 
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
+[34]
 File: images/excube.png Graphic file (type bmp)
 <images/excube.png>
 File: images/extriangle.png Graphic file (type bmp)
@@ -1131,11 +1327,7 @@ File: images/exfemoral.png Graphic file (type bmp)
 <images/exfemoral.png>
 
 
-[34]
-
 [35]
-
-[36]
 File: images/meldcube.png Graphic file (type bmp)
 <images/meldcube.png>
 File: images/meldround.png Graphic file (type bmp)
@@ -1145,6 +1337,8 @@ File: images/meldfemoral1.png Graphic file (type bmp)
 File: images/meldfemoral2.png Graphic file (type bmp)
 <images/meldfemoral2.png>
 
+
+[36]
 
 [37]
 
@@ -1159,18 +1353,18 @@ File: images/conv_max.png Graphic file (type bmp)
 <images/conv_max.png>
 
 
-LaTeX Warning: Float too large for page by 66.63174pt on input line 462.
+LaTeX Warning: Float too large for page by 66.63174pt on input line 460.
 
 File: images/voxel.png Graphic file (type bmp)
 <images/voxel.png>
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-)
+
 
 [41]
 
-[42]
+[42])
 
 [43]
 \openout2 = `results/results.aux'.
@@ -1185,15 +1379,109 @@ Chapter 4.
 
 
 ]
+
+[45]
+File: images/cube _disp3.png Graphic file (type bmp)
+<images/cube _disp3.png>
+File: images/cube _dispmax3.png Graphic file (type bmp)
+<images/cube _dispmax3.png>
+File: images/cube _stress3.png Graphic file (type bmp)
+<images/cube _stress3.png>
+File: images/cube _stressmax3.png Graphic file (type bmp)
+<images/cube _stressmax3.png>
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+File: images/T15 _disp3.png Graphic file (type bmp)
+<images/T15 _disp3.png>
+File: images/T15 _dispmax3.png Graphic file (type bmp)
+<images/T15 _dispmax3.png>
+File: images/T15 _stress3.png Graphic file (type bmp)
+<images/T15 _stress3.png>
+File: images/T15 _stressmax3.png Graphic file (type bmp)
+<images/T15 _stressmax3.png>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+File: images/T30 _disp3.png Graphic file (type bmp)
+<images/T30 _disp3.png>
+File: images/T30 _dispmax3.png Graphic file (type bmp)
+<images/T30 _dispmax3.png>
+File: images/T30 _stress3.png Graphic file (type bmp)
+<images/T30 _stress3.png>
+File: images/T30 _stressmax3.png Graphic file (type bmp)
+<images/T30 _stressmax3.png>
+File: images/T45 _disp3.png Graphic file (type bmp)
+<images/T45 _disp3.png>
+File: images/T45 _dispmax3.png Graphic file (type bmp)
+<images/T45 _dispmax3.png>
+File: images/T45 _stress3.png Graphic file (type bmp)
+<images/T45 _stress3.png>
+File: images/T45 _stressmax3.png Graphic file (type bmp)
+<images/T45 _stressmax3.png>
+File: images/R20 _disp3.png Graphic file (type bmp)
+<images/R20 _disp3.png>
+File: images/R20 _dispmax3.png Graphic file (type bmp)
+<images/R20 _dispmax3.png>
+File: images/R20 _stress3.png Graphic file (type bmp)
+<images/R20 _stress3.png>
+File: images/R20 _stressmax3.png Graphic file (type bmp)
+<images/R20 _stressmax3.png>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+File: images/R30 _disp3.png Graphic file (type bmp)
+<images/R30 _disp3.png>
+File: images/R30 _dispmax3.png Graphic file (type bmp)
+<images/R30 _dispmax3.png>
+File: images/R30 _stress3.png Graphic file (type bmp)
+<images/R30 _stress3.png>
+File: images/R30 _stressmax3.png Graphic file (type bmp)
+<images/R30 _stressmax3.png>
+File: images/R40 _disp3.png Graphic file (type bmp)
+<images/R40 _disp3.png>
+File: images/R40 _dispmax3.png Graphic file (type bmp)
+<images/R40 _dispmax3.png>
+File: images/R40 _stress3.png Graphic file (type bmp)
+<images/R40 _stress3.png>
+File: images/R40 _stressmax3.png Graphic file (type bmp)
+<images/R40 _stressmax3.png>
+
+
+[46]
+
+[47]
+
+[48]
+
+[49]
+
+[50]
+
+[51]
+
+[52]
+
+[53]
 File: images/results/plots/femoral/displacement/disp_density_ridges.png Graphic file (type bmp)
 <images/results/plots/femoral/displacement/disp_density_ridges.png>
 
 
-[45]
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
 File: images/results/plots/femoral/displacement/femoral_average.png Graphic file (type bmp)
 <images/results/plots/femoral/displacement/femoral_average.png>
 File: images/results/plots/femoral/displacement/femoral_average_group.png Graphic file (type bmp)
 <images/results/plots/femoral/displacement/femoral_average_group.png>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+
+[54
+
+]
 File: images/results/plots/femoral/displacement/femoral_max_bad.png Graphic file (type bmp)
 <images/results/plots/femoral/displacement/femoral_max_bad.png>
 
@@ -1207,7 +1495,9 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 
-[46]
+[55]
+
+[56]
 File: images/results/plots/femoral/displacement/bins.png Graphic file (type bmp)
 <images/results/plots/femoral/displacement/bins.png>
 
@@ -1221,20 +1511,25 @@ File: images/results/plots/femoral/displacement/femoral_max_group.png Graphic fi
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-
-
-[47]
 File: images/results/plots/femoral/displacement/boxplots.png Graphic file (type bmp)
 <images/results/plots/femoral/displacement/boxplots.png>
 
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+File: images/results/plots/femoral/displacement/statistics.png Graphic file (type bmp)
+<images/results/plots/femoral/displacement/statistics.png>
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 
-[48]
+[57]
 
-[49]
+[58]
+
+[59]
+
+[60]
 File: images/results/plots/femoral/stress/stress_density_ridges.png Graphic file (type bmp)
 <images/results/plots/femoral/stress/stress_density_ridges.png>
 File: images/results/plots/femoral/stress/stress_stats.png Graphic file (type bmp)
@@ -1245,11 +1540,11 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 
-[50
+[61
 
 ]
 
-[51]
+[62]
 File: images/results/plots/femoral/stress/average_stress.png Graphic file (type bmp)
 <images/results/plots/femoral/stress/average_stress.png>
 File: images/results/plots/femoral/stress/femoral_average_group_stress.png Graphic file (type bmp)
@@ -1266,23 +1561,25 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 )
 
-[52]
+[63]
 
-[53]
+[64]
 \openout2 = `conclusion/conclusion.aux'.
 
  (./conclusion/conclusion.tex
 Chapter 5.
 
 
-[54
+[65
 
 
 
 
-])
+]
 
-[55]
+[66])
+
+[67]
 
 Package fontspec Info: 
 (fontspec)             Script 'CJK' not explicitly supported within font
@@ -1304,74 +1601,78 @@ Package fontspec Info:
 
 
 
-[56
+[68
 
 
 
 ]
-Overfull \hbox (3.2862pt too wide) in paragraph at lines 66--66
+Overfull \hbox (3.2862pt too wide) in paragraph at lines 68--68
 []\TU/lmr/m/n/12 K. Pathak et al., “3D printing in biomedicine: Advancing personalized care through
  []
 
 
 
-[57]
-
-[58]
-Overfull \hbox (11.71703pt too wide) in paragraph at lines 66--66
+[69]
+Overfull \hbox (11.71703pt too wide) in paragraph at lines 68--68
 \TU/lmr/m/n/12 pp. 113–137, Jan. 1986, \TU/lmr/m/sc/12 issn\TU/lmr/m/n/12 : 0010-3640, 1097-0312. \TU/lmr/m/sc/12 doi\TU/lmr/m/n/12 : $[][] [] [][][][] [] [][][] [] [][][][][][][][][][]$. 
  []
 
 
 
-[59]
+[70]
 
-[60]
-Overfull \hbox (14.61674pt too wide) in paragraph at lines 66--66
+[71]
+
+[72]
+Overfull \hbox (14.61674pt too wide) in paragraph at lines 68--68
 []\TU/lmr/m/n/12 B. S. Lazarov and O. Sigmund, “Filters in topology optimization based on Helmholtz-
  []
 
 
 
-[61]
-Overfull \hbox (4.90543pt too wide) in paragraph at lines 66--66
+[73]
+Overfull \hbox (4.90543pt too wide) in paragraph at lines 68--68
 \TU/lmr/m/n/12 ditive manufacturing,” \TU/lmr/m/it/12 Finite Elements in Analysis and Design\TU/lmr/m/n/12 , vol. 193, p. 103 558,
  []
 
 
 
-[62]
+[74]
 
-[63]
-Overfull \hbox (19.22655pt too wide) in paragraph at lines 66--66
+[75]
+Overfull \hbox (19.22655pt too wide) in paragraph at lines 68--68
 \TU/lmr/m/n/12 pp. 2721–2732, May 1, 2009, \TU/lmr/m/sc/12 issn\TU/lmr/m/n/12 : 0017-9310. \TU/lmr/m/sc/12 doi\TU/lmr/m/n/12 : $[][] [] [][][][] [] [] [] [][][][][][][][][][][][][][][][][][] []
  []
 
 
-Overfull \hbox (51.7125pt too wide) in paragraph at lines 66--66
+Overfull \hbox (51.7125pt too wide) in paragraph at lines 68--68
 \TU/lmr/m/n/12 no. 15, pp. 2859–2873, Jul. 1, 2007, \TU/lmr/m/sc/12 issn\TU/lmr/m/n/12 : 0017-9310. \TU/lmr/m/sc/12 doi\TU/lmr/m/n/12 : $[][] [] [][][][] [] [] [] [][][][][][][][][][][][][][][][][][] []
  []
 
 
 
-[64]
+[76]
 
-[65] (./main.aux (./introduction/introduction.aux) (./litreview/litreview.aux) (./methodology/methodology.aux) (./results/results.aux) (./conclusion/conclusion.aux))
+[77] (./main.aux (./abs/abs.aux) (./introduction/introduction.aux) (./litreview/litreview.aux) (./methodology/methodology.aux) (./results/results.aux) (./conclusion/conclusion.aux))
  ***********
 LaTeX2e <2024-11-01> patch level 1
 L3 programming layer <2022/08/05>
  ***********
+
+
+LaTeX Warning: There were multiply-defined labels.
+
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 29239 strings out of 473846
- 657437 string characters out of 5729886
- 1483512 words of memory out of 5000000
- 51748 multiletter control sequences out of 15000+600000
+ 29543 strings out of 473846
+ 664723 string characters out of 5729886
+ 1486651 words of memory out of 5000000
+ 52007 multiletter control sequences out of 15000+600000
  574862 words of font info for 122 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 117i,15n,131p,2617b,5003s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 117i,15n,131p,2617b,5001s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on main.xdv (66 pages, 915148 bytes).
+Output written on main.xdv (80 pages, 1080448 bytes).

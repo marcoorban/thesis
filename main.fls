@@ -252,6 +252,8 @@ INPUT /usr/local/texlive/2024/texmf-dist/tex/generic/iftex/ifvtex.sty
 INPUT /usr/local/texlive/2024/texmf-dist/tex/generic/iftex/ifvtex.sty
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/setspace/setspace.sty
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/setspace/setspace.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/float/float.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/float/float.sty
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/subfiles/subfiles.sty
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/subfiles/subfiles.sty
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/import/import.sty
@@ -269,6 +271,9 @@ INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/multirow/multirow.sty
 INPUT ./main.aux
 INPUT ./main.aux
 INPUT main.aux
+INPUT ./abs/abs.aux
+INPUT ./abs/abs.aux
+INPUT abs/abs.aux
 INPUT ./introduction/introduction.aux
 INPUT ./introduction/introduction.aux
 INPUT introduction/introduction.aux
@@ -319,20 +324,16 @@ INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmbsy10.tfm
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmbsy7.tfm
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
 OUTPUT main.xdv
-INPUT ./introduction/introduction.tex
-INPUT ./introduction/introduction.tex
-OUTPUT introduction/introduction.aux
-INPUT ./introduction/introduction.tex
-INPUT ./introduction/introduction.tex
-INPUT introduction/introduction.tex
-INPUT introduction/introduction.tex
-INPUT ./litreview/litreview.tex
-INPUT ./litreview/litreview.tex
-OUTPUT litreview/litreview.aux
-INPUT ./litreview/litreview.tex
-INPUT ./litreview/litreview.tex
-INPUT litreview/litreview.tex
-INPUT litreview/litreview.tex
+INPUT ./abs/abs.tex
+INPUT ./abs/abs.tex
+OUTPUT abs/abs.aux
+INPUT ./abs/abs.tex
+INPUT ./abs/abs.tex
+INPUT abs/abs.tex
+INPUT abs/abs.tex
+INPUT ./main.toc
+INPUT ./main.toc
+INPUT main.toc
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmmi8.tfm
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmmi6.tfm
@@ -360,6 +361,21 @@ INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmbsy
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmr8.tfm
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmr6.tfm
+OUTPUT main.toc
+INPUT ./introduction/introduction.tex
+INPUT ./introduction/introduction.tex
+OUTPUT introduction/introduction.aux
+INPUT ./introduction/introduction.tex
+INPUT ./introduction/introduction.tex
+INPUT introduction/introduction.tex
+INPUT introduction/introduction.tex
+INPUT ./litreview/litreview.tex
+INPUT ./litreview/litreview.tex
+OUTPUT litreview/litreview.aux
+INPUT ./litreview/litreview.tex
+INPUT ./litreview/litreview.tex
+INPUT litreview/litreview.tex
+INPUT litreview/litreview.tex
 INPUT ./images/eta03.png
 INPUT images/eta03.png
 INPUT ./images/eta08.png
@@ -408,6 +424,8 @@ INPUT ./images/designdomain3d.png
 INPUT images/designdomain3d.png
 INPUT ./images/designdomain2d.png
 INPUT images/designdomain2d.png
+INPUT ./images/boundaryconds.png
+INPUT images/boundaryconds.png
 INPUT ./images/mesh1.png
 INPUT images/mesh1.png
 INPUT ./images/femmesh.png
@@ -418,8 +436,6 @@ INPUT ./images/side_mat_volfrac20.png
 INPUT images/side_mat_volfrac20.png
 INPUT ./images/side_void_volfrac20.png
 INPUT images/side_void_volfrac20.png
-INPUT ./images/boundaryconds.png
-INPUT images/boundaryconds.png
 INPUT ./images/excube.png
 INPUT images/excube.png
 INPUT ./images/extriangle.png
@@ -449,6 +465,62 @@ INPUT ./results/results.tex
 INPUT ./results/results.tex
 INPUT results/results.tex
 INPUT results/results.tex
+INPUT ./images/cube _disp3.png
+INPUT images/cube _disp3.png
+INPUT ./images/cube _dispmax3.png
+INPUT images/cube _dispmax3.png
+INPUT ./images/cube _stress3.png
+INPUT images/cube _stress3.png
+INPUT ./images/cube _stressmax3.png
+INPUT images/cube _stressmax3.png
+INPUT ./images/T15 _disp3.png
+INPUT images/T15 _disp3.png
+INPUT ./images/T15 _dispmax3.png
+INPUT images/T15 _dispmax3.png
+INPUT ./images/T15 _stress3.png
+INPUT images/T15 _stress3.png
+INPUT ./images/T15 _stressmax3.png
+INPUT images/T15 _stressmax3.png
+INPUT ./images/T30 _disp3.png
+INPUT images/T30 _disp3.png
+INPUT ./images/T30 _dispmax3.png
+INPUT images/T30 _dispmax3.png
+INPUT ./images/T30 _stress3.png
+INPUT images/T30 _stress3.png
+INPUT ./images/T30 _stressmax3.png
+INPUT images/T30 _stressmax3.png
+INPUT ./images/T45 _disp3.png
+INPUT images/T45 _disp3.png
+INPUT ./images/T45 _dispmax3.png
+INPUT images/T45 _dispmax3.png
+INPUT ./images/T45 _stress3.png
+INPUT images/T45 _stress3.png
+INPUT ./images/T45 _stressmax3.png
+INPUT images/T45 _stressmax3.png
+INPUT ./images/R20 _disp3.png
+INPUT images/R20 _disp3.png
+INPUT ./images/R20 _dispmax3.png
+INPUT images/R20 _dispmax3.png
+INPUT ./images/R20 _stress3.png
+INPUT images/R20 _stress3.png
+INPUT ./images/R20 _stressmax3.png
+INPUT images/R20 _stressmax3.png
+INPUT ./images/R30 _disp3.png
+INPUT images/R30 _disp3.png
+INPUT ./images/R30 _dispmax3.png
+INPUT images/R30 _dispmax3.png
+INPUT ./images/R30 _stress3.png
+INPUT images/R30 _stress3.png
+INPUT ./images/R30 _stressmax3.png
+INPUT images/R30 _stressmax3.png
+INPUT ./images/R40 _disp3.png
+INPUT images/R40 _disp3.png
+INPUT ./images/R40 _dispmax3.png
+INPUT images/R40 _dispmax3.png
+INPUT ./images/R40 _stress3.png
+INPUT images/R40 _stress3.png
+INPUT ./images/R40 _stressmax3.png
+INPUT images/R40 _stressmax3.png
 INPUT ./images/results/plots/femoral/displacement/disp_density_ridges.png
 INPUT ./images/results/plots/femoral/displacement/disp_density_ridges.png
 INPUT images/results/plots/femoral/displacement/disp_density_ridges.png
@@ -476,6 +548,9 @@ INPUT images/results/plots/femoral/displacement/femoral_max_group.png
 INPUT ./images/results/plots/femoral/displacement/boxplots.png
 INPUT ./images/results/plots/femoral/displacement/boxplots.png
 INPUT images/results/plots/femoral/displacement/boxplots.png
+INPUT ./images/results/plots/femoral/displacement/statistics.png
+INPUT ./images/results/plots/femoral/displacement/statistics.png
+INPUT images/results/plots/femoral/displacement/statistics.png
 INPUT ./images/results/plots/femoral/stress/stress_density_ridges.png
 INPUT ./images/results/plots/femoral/stress/stress_density_ridges.png
 INPUT images/results/plots/femoral/stress/stress_density_ridges.png
@@ -505,6 +580,9 @@ INPUT ./conclusion/conclusion.tex
 INPUT conclusion/conclusion.tex
 INPUT conclusion/conclusion.tex
 INPUT main.aux
+INPUT ./abs/abs.aux
+INPUT ./abs/abs.aux
+INPUT abs/abs.aux
 INPUT ./introduction/introduction.aux
 INPUT ./introduction/introduction.aux
 INPUT introduction/introduction.aux

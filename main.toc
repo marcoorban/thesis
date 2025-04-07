@@ -1,0 +1,39 @@
+\contentsline {chapter}{\numberline {1}Introduction}{2}{}%
+\contentsline {chapter}{\numberline {2}Literature Review}{4}{}%
+\contentsline {section}{\numberline {2.1}Introduction}{4}{}%
+\contentsline {section}{\numberline {2.2}Topology optimization}{7}{}%
+\contentsline {subsection}{\numberline {2.2.1}Formulation}{7}{}%
+\contentsline {subsection}{\numberline {2.2.2}Homogenization and SIMP}{9}{}%
+\contentsline {subsection}{\numberline {2.2.3}Filtering techniques}{11}{}%
+\contentsline {subsection}{\numberline {2.2.4}Threshold projection}{13}{}%
+\contentsline {subsection}{\numberline {2.2.5}Final formulation of the topology optimization problem}{15}{}%
+\contentsline {section}{\numberline {2.3}Summary of literature}{17}{}%
+\contentsline {section}{\numberline {2.4}Research purpose, originality, and contribution}{18}{}%
+\contentsline {chapter}{\numberline {3}Methodology}{21}{}%
+\contentsline {section}{\numberline {3.1}Introduction}{21}{}%
+\contentsline {section}{\numberline {3.2}Component CAD}{21}{}%
+\contentsline {section}{\numberline {3.3}Topology optimization model}{25}{}%
+\contentsline {subsection}{\numberline {3.3.1}Design domain}{25}{}%
+\contentsline {subsection}{\numberline {3.3.2}Objective functions}{25}{}%
+\contentsline {subsection}{\numberline {3.3.3}Topology optimization equations}{28}{}%
+\contentsline {section}{\numberline {3.4}COMSOL implementation}{28}{}%
+\contentsline {subsection}{\numberline {3.4.1}Mesh}{28}{}%
+\contentsline {subsection}{\numberline {3.4.2}Physical parameters}{30}{}%
+\contentsline {subsection}{\numberline {3.4.3}Parametric study}{33}{}%
+\contentsline {subsection}{\numberline {3.4.4}Boundary conditions}{34}{}%
+\contentsline {subsection}{\numberline {3.4.5}COMSOL implementation final details}{35}{}%
+\contentsline {section}{\numberline {3.5}Support structure design and merging with part}{35}{}%
+\contentsline {section}{\numberline {3.6}Simulation of manufacturing process}{38}{}%
+\contentsline {subsection}{\numberline {3.6.1}Process properties}{38}{}%
+\contentsline {subsection}{\numberline {3.6.2}Machine and build parameters}{38}{}%
+\contentsline {subsection}{\numberline {3.6.3}Convergence analysis}{39}{}%
+\contentsline {subsection}{\numberline {3.6.4}Voxelization and numerical parameters}{41}{}%
+\contentsline {section}{\numberline {3.7}Results export and analysis}{43}{}%
+\contentsline {chapter}{\numberline {4}Results}{44}{}%
+\contentsline {section}{\numberline {4.1}Results of simple geometry simulations}{45}{}%
+\contentsline {section}{\numberline {4.2}Results of femoral components}{54}{}%
+\contentsline {subsection}{\numberline {4.2.1}Displacement analysis}{54}{}%
+\contentsline {subsection}{\numberline {4.2.2}Stress analysis}{61}{}%
+\contentsline {chapter}{\numberline {5}Discussion and conclusions}{65}{}%
+\contentsline {section}{\numberline {5.1}Conclusions}{65}{}%
+\contentsline {section}{\numberline {5.2}Future research}{66}{}%

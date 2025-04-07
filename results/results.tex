@@ -5,17 +5,232 @@
 
 \chapter{Results}
 
+After the simulation ended, the displacement and stress results of the surface and volume meshes were exported as a .csv file. The surface mesh was utilized to gather statistics on the displacement of the part, to understand its overall deformation. The volume mesh was used to analyze the stress distribution within the component. R consisted of the node displacement and stress values. This information was then analyzed using R, and various plots were created using the ggplot library. 
+
+The values that are most important for this study are the average values and the maximum values, as both of these could be taken to be different criteria to compare performances. Obviously, a part with lower average displacement or lower stress will be more desirable, but it is also important to consider maximum displacement and maximum stress as well, as a part with lower average displacement but with a few nodes with very high displacement could still be considered a failed component, as it is the portions with highest deformation that will need to be processed with additional machining, or cause high discomfort in patients. Additionally, regions of maximum stress should be considered because the stress at this regions might be greater than the ultimate stress of the material, causing the component to break and fail.
+
+It was also found that varying the objective function parameters in the COMSOL simulations did not result in any noticeable differences in the resulting topologies. This suggests that the choice of objective function had little impact on the final structural configurations. Upon closer examination, it was found that the thermal compliance, rather than the mechanical compliance, was the dominant factor driving the topology optimization. This indicates that for the given loading conditions, where the primary load is the weight of the component itself, the mechanical compliance does not play a significant role in the optimization process. The thermal effects appear to be the governing factor, likely due to the relatively low magnitude of the mechanical loads. These findings suggest that a multi-objective function approach may not be necessary for this particular study, as the thermal compliance alone seems to be the primary driver of the optimal topologies. This simplification could be advantageous for future design optimization efforts, as it reduces the complexity of the problem and allows for a more focused exploration of the thermal-driven structural behavior.
+
 \section{Results of simple geometry simulations}
 
-\subsection{Cube}
+This section shows the results for the simple geometry simulations, composed of a cube, three triangles with different angles, and three cubes with fillets, as explained in Chapter \ref{ch:cad}.
 
-\subsection{Triangles}
 
-\subsection{Chamfered}
+The results of the analysis indicate that there is no apparent relationship between the hyperbolic angle or boundary conditions and the observed node displacements. The average node displacements for each topology and each project appear to be relatively stable, with no stark differences observed between the various topologies. The differences in node displacements between the topologies fall well within the uncertainty bounds of the convergence results, suggesting that the choice of topology does not have a significant impact on the overall structural behavior. These findings imply that the design parameters under investigation, such as the hyperbolic angle and boundary conditions, do not play a dominant role in driving the global structural response, at least within the range of values considered in this study. 
+
+In addition to the node displacements, the analysis also examined the average node stress and maximum node stress for each topology and project. These stress metrics were found to follow a similar trend as the average node displacements, exhibiting relatively stable values across the different topologies with no clear relationship between topology and stress levels. The differences in both average and maximum node stresses between the various topologies fall within the uncertainty bounds of the convergence results, suggesting that the choice of topology does not have a significant impact on the overall stress state of the structure. This further reinforces the conclusion that the design parameters investigated, such as the hyperbolic angle and boundary conditions, do not play a dominant role in driving the global structural response in terms of both displacements and stresses. The consistent stress and displacement behavior across topologies indicates a level of robustness in the structural performance that may be advantageous for design applications where flexibility and insensitivity to specific design choices are desirable.
+
+While the overall trends indicate a general stability in the average node displacements and stresses across the different topologies, the analysis also revealed some notable exceptions. Specifically, certain topologies were found to result in significantly higher maximum node displacements that could not be attributed solely to the uncertainty of the convergence results. This behavior was most pronounced in the 15\degree, 30\degree, and 45\degree triangle components, where some topologies exhibited much greater maximum displacements compared to others. The fillet components showed the most obvious differences, with variations in maximum nodal displacement of up to 0.2 mm between certain topologies. In contrast, the cube components did not display this trend as strongly, suggesting that the sensitivity to topology may be more pronounced in certain geometric configurations. These findings indicate that while the average structural response may be relatively insensitive to topology, the choice of topology can have a significant impact on the localized maximum displacements in specific regions of the structure. This information may be valuable for design optimization efforts that prioritize limiting peak displacements or stresses in critical areas.
+
+One final note before finishing this section. When the parameters of geometry were varied according to the tables in Chapter \ref{ch:params}, some of the resulting topologies were very similar to each other, and others were deemed to be undesirable, due to very small thin supports. These repeated and faulty topologies were discarded and were not used for the manufacturing simulation. This resulted in different groups being used for each geometry study, as can be seen in the members of each graph.
+
+\begin{figure}[h!]
+  \centering 
+  \begin{subfigure}[b]{0.45\textwidth}
+    \centering 
+    \includegraphics[width=\textwidth]{cube _disp3.png}
+    \caption{Average node displacement.}
+    \label{}
+  \end{subfigure}
+  \begin{subfigure}[b]{0.45\textwidth}
+    \centering 
+    \includegraphics[width=\textwidth]{cube _dispmax3.png}
+    \caption{Max node displacement.}
+    \label{}
+  \end{subfigure}
+  \begin{subfigure}[b]{0.45\textwidth}
+    \centering 
+    \includegraphics[width=\textwidth]{cube _stress3.png}
+    \caption{Average node stress.}
+    \label{}
+  \end{subfigure}
+  \begin{subfigure}[b]{0.45\textwidth}
+    \centering 
+    \includegraphics[width=\textwidth]{cube _stressmax3.png}
+    \caption{Max node stress.}
+    \label{}
+  \end{subfigure}
+  \caption{Results of cube.}
+  \label{fig:cuberesults}
+\end{figure}
+
+\begin{figure}[h!]
+  \centering 
+  \begin{subfigure}[b]{0.45\textwidth}
+    \centering 
+    \includegraphics[width=\textwidth]{T15 _disp3.png}
+    \caption{Average node displacement.}
+    \label{}
+  \end{subfigure}
+  \begin{subfigure}[b]{0.45\textwidth}
+    \centering 
+    \includegraphics[width=\textwidth]{T15 _dispmax3.png}
+    \caption{Max node displacement.}
+    \label{}
+  \end{subfigure}
+  \begin{subfigure}[b]{0.45\textwidth}
+    \centering 
+    \includegraphics[width=\textwidth]{T15 _stress3.png}
+    \caption{Average node stress.}
+    \label{}
+  \end{subfigure}
+  \begin{subfigure}[b]{0.45\textwidth}
+    \centering 
+    \includegraphics[width=\textwidth]{T15 _stressmax3.png}
+    \caption{Max node stress.}
+    \label{}
+  \end{subfigure}
+  \caption{Results of 15\degree triangle.}
+\end{figure}
+
+\begin{figure}
+  \centering 
+  \begin{subfigure}[b]{0.45\textwidth}
+    \centering 
+    \includegraphics[width=\textwidth]{T30 _disp3.png}
+    \caption{Average node displacement.}
+    \label{}
+  \end{subfigure}
+  \begin{subfigure}[b]{0.45\textwidth}
+    \centering 
+    \includegraphics[width=\textwidth]{T30 _dispmax3.png}
+    \caption{Max node displacement.}
+    \label{}
+  \end{subfigure}
+  \begin{subfigure}[b]{0.45\textwidth}
+    \centering 
+    \includegraphics[width=\textwidth]{T30 _stress3.png}
+    \caption{Average node stress.}
+    \label{}
+  \end{subfigure}
+  \begin{subfigure}[b]{0.45\textwidth}
+    \centering 
+    \includegraphics[width=\textwidth]{T30 _stressmax3.png}
+    \caption{Max node stress.}
+    \label{}
+  \end{subfigure}
+  \caption{Results of 30\degree triangle.}
+\end{figure}
+
+\begin{figure}
+  \centering 
+  \begin{subfigure}[b]{0.45\textwidth}
+    \centering 
+    \includegraphics[width=\textwidth]{T45 _disp3.png}
+    \caption{Average node displacement.}
+    \label{}
+  \end{subfigure}
+  \begin{subfigure}[b]{0.45\textwidth}
+    \centering 
+    \includegraphics[width=\textwidth]{T45 _dispmax3.png}
+    \caption{Max node displacement.}
+    \label{}
+  \end{subfigure}
+  \begin{subfigure}[b]{0.45\textwidth}
+    \centering 
+    \includegraphics[width=\textwidth]{T45 _stress3.png}
+    \caption{Average node stress.}
+    \label{}
+  \end{subfigure}
+  \begin{subfigure}[b]{0.45\textwidth}
+    \centering 
+    \includegraphics[width=\textwidth]{T45 _stressmax3.png}
+    \caption{Max node stress.}
+    \label{}
+  \end{subfigure}
+  \caption{Results of 45\degree triangle.}
+\end{figure}
+
+\begin{figure}[h!]
+  \centering 
+  \begin{subfigure}[b]{0.45\textwidth}
+    \centering 
+    \includegraphics[width=\textwidth]{R20 _disp3.png}
+    \caption{Average node displacement.}
+    \label{}
+  \end{subfigure}
+  \begin{subfigure}[b]{0.45\textwidth}
+    \centering 
+    \includegraphics[width=\textwidth]{R20 _dispmax3.png}
+    \caption{Max node displacement.}
+    \label{}
+  \end{subfigure}
+  \begin{subfigure}[b]{0.45\textwidth}
+    \centering 
+    \includegraphics[width=\textwidth]{R20 _stress3.png}
+    \caption{Average node stress.}
+    \label{}
+  \end{subfigure}
+  \begin{subfigure}[b]{0.45\textwidth}
+    \centering 
+    \includegraphics[width=\textwidth]{R20 _stressmax3.png}
+    \caption{Max node stress.}
+    \label{}
+  \end{subfigure}
+  \caption{Results of 20R fillet.}
+\end{figure}
+
+\begin{figure}
+  \centering 
+  \begin{subfigure}[b]{0.45\textwidth}
+    \centering 
+    \includegraphics[width=\textwidth]{R30 _disp3.png}
+    \caption{Average node displacement.}
+    \label{}
+  \end{subfigure}
+  \begin{subfigure}[b]{0.45\textwidth}
+    \centering 
+    \includegraphics[width=\textwidth]{R30 _dispmax3.png}
+    \caption{Max node displacement.}
+    \label{}
+  \end{subfigure}
+  \begin{subfigure}[b]{0.45\textwidth}
+    \centering 
+    \includegraphics[width=\textwidth]{R30 _stress3.png}
+    \caption{Average node stress.}
+    \label{}
+  \end{subfigure}
+  \begin{subfigure}[b]{0.45\textwidth}
+    \centering 
+    \includegraphics[width=\textwidth]{R30 _stressmax3.png}
+    \caption{Max node stress.}
+    \label{}
+  \end{subfigure}
+  \caption{Results of 30R fillet.}
+\end{figure}
+
+\begin{figure}
+  \centering 
+  \begin{subfigure}[b]{0.45\textwidth}
+    \centering 
+    \includegraphics[width=\textwidth]{R40 _disp3.png}
+    \caption{Average node displacement.}
+    \label{}
+  \end{subfigure}
+  \begin{subfigure}[b]{0.45\textwidth}
+    \centering 
+    \includegraphics[width=\textwidth]{R40 _dispmax3.png}
+    \caption{Max node displacement.}
+    \label{}
+  \end{subfigure}
+  \begin{subfigure}[b]{0.45\textwidth}
+    \centering 
+    \includegraphics[width=\textwidth]{R40 _stress3.png}
+    \caption{Average node stress.}
+    \label{}
+  \end{subfigure}
+  \begin{subfigure}[b]{0.45\textwidth}
+    \centering 
+    \includegraphics[width=\textwidth]{R40 _stressmax3.png}
+    \caption{Max node stress.}
+    \label{}
+  \end{subfigure}
+  \caption{Results of 40R fillet.}
+\end{figure}
+
+\clearpage
 
 \section{Results of femoral components}
-
-
 
 \subsection{Displacement analysis}
 
@@ -31,7 +246,6 @@ Figure \ref{fig:disp_ridges} shows the distribution of the surface nodal displac
 \end{figure}
 
 This trend can be more easily visualized by computing the average nodal deformation for each case. The left graph of Figure \ref{fig:disp_averages} shows the average nodal deformation, where each column corresponds to a simulation result and each color represents a particular volume fraction group. It is clear from this graphs that the 25\% and 33\% volume fraction results exhibit a slightly larger average deformation compared to the rest of the simulations. This is more clearly show in the right figure, which shows the average deformation for each volume fraction group as a whole. Nevertheless, this difference between average nodal deformation could still be attributed to the numerical uncertainty due to voxelization, as it had been previously established that the numerical errors of the simulation could account up to a variability of 0.01mm.
-
 
 \begin{figure}[h!]
   \includegraphics[width=0.45\textwidth]{images/results/plots/femoral/displacement/femoral_average.png}
@@ -74,13 +288,20 @@ Figure \ref{fig:disp_bins} shows that there are some ranges of deformation that 
   \label{fig:disp_max_correct}
 \end{figure}
 
-Lastly, all of the following trends can be succintly visualized using a box and whisker plot, shown in Figure \ref{fig:disp_boxwhisker}. From this final plot we can see once more that the average deformation stays constant throughout, but that there is a local minimum in the maximum deformation in the groups with intermediate volume fractions.
-
+Lastly, all of the following trends can be succinctly visualized using a box and whisker plot, shown in Figure \ref{fig:disp_boxwhisker}. From this final plot we can see once more that the average deformation stays constant throughout, but that there is a local minimum in the maximum deformation in the groups with intermediate volume fractions. The full statistics of the nodal displacements are shown in Figure \ref{fig:disp_stats}.
+ 
 \begin{figure}[h!]
   \centering
   \includegraphics[width=0.6\textwidth]{images/results/plots/femoral/displacement/boxplots.png}
-  \caption{Box and whisker plot for femoral displacement of all topologies}
+  \caption{Box and whisker plot for femoral displacement of all topologies.}
   \label{fig:disp_boxwhisker}
+\end{figure}
+
+\begin{figure}[h!]
+  \centering 
+  \includegraphics[width=0.8\textwidth]{images/results/plots/femoral/displacement/statistics.png}
+  \caption{Statistics of nodal displacements (mm); all topologies}
+  \label{fig:disp_stats}
 \end{figure}
 
 \clearpage
@@ -97,11 +318,11 @@ Figure \ref{fig:stress_stats}, where we can see slight differences in the standa
 \begin{figure}[h!]
   \centering
   \includegraphics[width=0.75\textwidth]{images/results/plots/femoral/stress/stress_stats.png}
-  \caption{Statistics of nodal stresses; all topologies}
+  \caption{Statistics of nodal stresses (MPa); all topologies.}
   \label{fig:stress_stats}
 \end{figure}
 
-Next, we inspect the average deformation of the simulation results. We can see that the baseline case has the smallest average stresses, but as soon as topologies with lower volume fraction are used, the average stresses rises more than 20\%, from a baseline value of 400 MPa to over 485 MPa. The average stress does not change considerably from topology to topology, which is similar to what was noticed for the average nodal diplacement. Looking at the maximum stress yields a very interesting result; namely, that all of the topologies have a near constant maximum stress. This result is clear from looking at both graphs in Figure \ref{fig:maximum_stresses}.
+Next, we inspect the average deformation of the simulation results. We can see that the baseline case has the smallest average stresses, but as soon as topologies with lower volume fraction are used, the average stresses rises more than 20\%, from a baseline value of 400 MPa to over 485 MPa. The average stress does not change considerably from topology to topology, which is similar to what was noticed for the average nodal displacement. Looking at the maximum stress yields a very interesting result; namely, that all of the topologies have a near constant maximum stress. This result is clear from looking at both graphs in Figure \ref{fig:maximum_stresses}.
 
 \begin{figure}[h!]
   \centering
@@ -121,7 +342,7 @@ Next, we inspect the average deformation of the simulation results. We can see t
   \label{fig:maximum_stresses}
 \end{figure}
 
-Lastly, the box-whisker plot of Figure \ref{fig:stress_boxwhisker} shows a succint summary of all the statistics discussed in this section.
+Lastly, the box-whisker plot of Figure \ref{fig:stress_boxwhisker} shows a succinct summary of all the statistics discussed in this section.
 
 \begin{figure}[h!]
   \centering

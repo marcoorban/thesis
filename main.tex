@@ -1,5 +1,4 @@
 %! TEX program = xelatex
-
 \documentclass[12pt]{report}
 
 \usepackage{xeCJK} % For Chinese font support - only works with XeLateX compiler
@@ -19,7 +18,9 @@
 \usepackage{setspace}
 \setstretch{1.5} 
 
-
+\usepackage{float}
+\floatstyle{plaintop}
+\restylefloat{table}
 
 % delete this section after thesis is done
 \setlength{\marginparwidth}{2.5cm}
@@ -36,10 +37,9 @@
 \setlength{\tabcolsep}{12pt}
 \renewcommand{\arraystretch}{1.5}
 
-
 \titleformat{\chapter}[display]
   {\Huge\bfseries}
-  {}
+  {} 
   {0pt}
   {\thechapter.\ }
 
@@ -48,21 +48,23 @@
   {}
   {0pt}
   {}
-
+  \titlespacing{\chapter}{0pt}{-32pt}{1cm}
 
 \begin{document}
   \maketitle{}
 
+  \pagenumbering{roman}
+  \subfileinclude{abs/abs}
+  \tableofcontents{}
+
+  \pagenumbering{arabic}
+  \setcounter{page}{1}
   \subfileinclude{introduction/introduction}
-
   \subfileinclude{litreview/litreview}
-
   \subfileinclude{methodology/methodology}
-
   \subfileinclude{results/results}
-
   \subfileinclude{conclusion/conclusion}
 
-\printbibliography [title={References}]
+\printbibliography[title={References}]
 
 \end{document}

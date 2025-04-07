@@ -309,8 +309,8 @@
       \strng{authornamehash}{6e4ebbf21ba7a785b5dbf5d028988692}
       \strng{authorfullhash}{aabf90ca0daaef69f131187d3cd06134}
       \strng{authorfullhashraw}{aabf90ca0daaef69f131187d3cd06134}
-      \field{sortinit}{6}
-      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Commodity thermoplastics and thermoplastic composites are staples in Additive Manufacturing (AM). Their use is widespread and accounts for the largest volume of 3D printed materials. Accessible property ranges of current material formulations are limited, and thus there is high interest in extending AM to high-performance engineering polymers and nanocomposites that have yet to gain wide commercial acceptance in AM. Current applications of high-performance thermoplastic polymers are limited to adaptations from conventional plastics processing such as injection molding, thermoforming, extrusion, and others. Thermoplastic composites can be categorized into particle-, fiber-, and nanomaterial-based composites as well as polymer blends. The importance of these different composite systems to AM is discussed in this review. Also reviewed are trends in instrument development such as in-nozzle impregnation, dual print heads, and higher temperature FDM that improve printing of thermoplastic composites. An overview of newer types of AM techniques allowing higher filler loading for thermoplastic composites like liquid deposition modeling (LDM) sometimes known as direct ink writing (DIW) are discussed. Finally, a perspective is given on the important parameters and standards needed to make AM printed objects from polymer composites more effective in cost/performance ratio.}
@@ -354,8 +354,8 @@
       \strng{authornamehash}{e35780b804a3cabf6730cfc7741bb5f3}
       \strng{authorfullhash}{e35780b804a3cabf6730cfc7741bb5f3}
       \strng{authorfullhashraw}{e35780b804a3cabf6730cfc7741bb5f3}
-      \field{sortinit}{7}
-      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{The developments in hip and knee arthroplasty over recent years have aimed to improve outcomes, reduce complications and improve implant survival. This review describes some of the most interesting trends and developments in this important and fast-moving field. Notable developments have included ceramic hip resurfacing, mini hip stems, cementless knee replacement and the wider adoption of the dual mobility articulation for hip arthroplasty. Advances in additive manufacturing and the surface modification of joint replacements offer increasing options for more challenging arthroplasty cases. Robotic assisted surgery is one of the most interesting developments in hip and knee surgery. The recent growth in the use of this technology is providing data that will help determine whether this approach should become the standard of care for hip and knee arthroplasty in the future.}
@@ -427,8 +427,8 @@
       \strng{authornamehash}{77cb8c7891198a2beda643b62f710369}
       \strng{authorfullhash}{aaf55c2c08fd03803d8b1c7fdd29f270}
       \strng{authorfullhashraw}{aaf55c2c08fd03803d8b1c7fdd29f270}
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{The use of additive manufacturing, or 3D printing, has progressed beyond prototyping to produce intricate and valuable finished goods. The potential of additive manufacturing has increased across numerous industries due to the expansion of materials, such as high-performance metals and polymers, and advancements in machine capabilities, such as multi-material printing. By enabling complex designs, reduced waste, and quick production, it has the potential to revolutionize the consumer goods, healthcare, automotive manufacturing, and aerospace industries. The development of specialized scaffolds has been made possible by the precise control that additive manufacturing provides over the internal structure of porous materials. This technology has revolutionized tissue engineering and regenerative medicine. Furthermore, it has made it possible to create individualized implants and prosthetics that improve patient comfort and outcomes in orthopedic and dental applications. Also, it provides flexibility in design and customization for individualized implants and prosthetics in orthopedic and dental applications. Design flexibility, waste reduction, improved biocompatibility, quick prototyping, and cost-effectiveness are benefits of additive manufacturing for implants. For personalized healthcare, regenerative medicine, and better patient outcomes, additive manufacturing holds promise as the technology develops with further advancements in printing speed, resolution, and scalability.}
@@ -520,8 +520,8 @@
       \strng{authornamehash}{21a28a22b906d6dd0778001777bd3457}
       \strng{authorfullhash}{a370ea1d5791c25eb0100690c4460a09}
       \strng{authorfullhashraw}{a370ea1d5791c25eb0100690c4460a09}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
       \field{abstract}{The integration of three-dimensional (3D) printing techniques into the domains of biomedical research and personalized medicine highlights the evolving paradigm shifts within contemporary healthcare}
@@ -887,8 +887,8 @@
       \strng{authornamehash}{8aad6fb7557598718e24141f2c8e7286}
       \strng{authorfullhash}{c1cb81dfc61ace16dbb2d207cc3f8dca}
       \strng{authorfullhashraw}{c1cb81dfc61ace16dbb2d207cc3f8dca}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{This paper presents a topology optimization approach to design support structures with efficient thermal conductive capabilities for powder-bed based laser additive manufacturing (AM). A transient heat transfer model is proposed to simulate the temperature distribution of the point-by-point and layer-upon-layer AM process. The process model is seamlessly integrated into a density based structural topology optimization method with an adjoint based sensitivity analysis and a gradient based optimization. For a given prototype shape, the layout of the corresponding support structure is designed such that the thermal energy during the fabrication process can be efficiently transferred from the laser path to a prescribed heat sink. Besides, an overhang constraint is proposed and used together with an AM filter to avoid overhang features in both the optimized support structure and the prototype, ensuring the overall manufacturability. Numerical examples and discussions are given to demonstrate its applicability.}
@@ -1311,8 +1311,8 @@
       \strng{authorfullhash}{066757951bb74a0ccbc836e088427aea}
       \strng{authorfullhashraw}{066757951bb74a0ccbc836e088427aea}
       \field{extraname}{1}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{isbn}{978-3-662-03117-9 978-3-662-03115-5}
@@ -1832,8 +1832,8 @@
       \strng{authorfullhash}{7a508d2791fa28df377d7919abfcb102}
       \strng{authorfullhashraw}{7a508d2791fa28df377d7919abfcb102}
       \field{extraname}{3}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
       \field{abstract}{Topology optimization of structures is nowadays a well developed field with many different approaches and a wealth of applications. One of the earliest methods of topology optimization was the so-called homogenization method, introduced in the early eighties. It became extremely popular in its over-simplified version, called SIMP (Solid Isotropic Material with Penalisation), which retains only the notion of material density and forgets about true composite materials with optimal (possibly non isotropic) microstructures. However, the appearance of mature additive manufacturing technologies which are able to build finely graded microstructures (sometimes called lattice materials) drastically change the picture and one can see a resurrection of the homogenization method for such applications. Indeed, homogenization is the right technique to deal with microstructured materials where anisotropy plays a key role, a feature which is absent from SIMP. Homogenization theory allows to replace the microscopic details of the structure (typically a complex networks of bars, trusses and plates) by a simpler effective elasticity tensor describing the mesoscopic properties of the structure. The goal of these lecture notes is to review the necessary mathematical tools of homogenization theory and apply them to topology optimization of mechanical structures. The ultimate application, targeted here, is the topology optimization of structures built with lattice materials. Practical and numerical exercises are given, based on the finite element free software FreeFem++.}
@@ -2152,8 +2152,8 @@
       \strng{authorfullhash}{a04f459f767dfefb0f93ed44f7aff81d}
       \strng{authorfullhashraw}{a04f459f767dfefb0f93ed44f7aff81d}
       \field{extraname}{1}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{To prevent numerical instabilities and ensure manufacturability, restrictions should be applied in topology optimization. In this paper, a volume preserving density filter based on Heaviside functions is presented. Different from earlier Heaviside density filters, this filter is volume preserving, which ensures efficiency and stability in optimization. The new filter is compared with four other filters through a compliance minimization problem.}
@@ -2621,8 +2621,8 @@
       \strng{authornamehash}{fd9c7fe2f4d52cf08ebfade7cb4e3476}
       \strng{authorfullhash}{647ad57167d0129c68a66002cf781565}
       \strng{authorfullhashraw}{647ad57167d0129c68a66002cf781565}
-      \field{sortinit}{7}
-      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{The aim of this study is to identify the limitations of self-supporting structures and evaluate the deformations associated with overhang structures fabricated without support structures. To achieve these objectives, a series of experiments involving different overhang geometries were designed, fabricated, and evaluated. The formation of defects during the fabrication of overhanging structures is detailed, and the self-supporting limits for different overhangs are established. A segmentation strategy for the support structure addition is proposed and evaluated in different configurations for ledge overhangs to reduce the amount of support structures without affecting the overhang accuracy. Based on the inferences of this study, design rules are proposed for producing overhang structures through electron beam melting. The results identified the self-supporting limits for different overhang geometries. In addition, the proposed segmentation strategy for support generation in ledge overhangs resulted in reduction of support structure materials and post-processing time without any effect on the quality of the fabricated overhang.}
@@ -3355,8 +3355,8 @@
       \strng{authornamehash}{1b8ca324f3c80abc4f205843b2fa89e1}
       \strng{authorfullhash}{ea2e6b53a0af7df4c8e370f330c0bf9c}
       \strng{authorfullhashraw}{ea2e6b53a0af7df4c8e370f330c0bf9c}
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Selective laser melting (SLM) is crucial for fabricating complex geometries, such as the tibial component of an artificial knee joint. However, its inherent high-temperature gradients often induce thermal defects and deformations, compromising product accuracy. This study addressed these challenges by using a multifaceted approach in which finite element method (FEM) simulations, Taguchi method analysis, and deep neural network (DNN) prediction were combined. Initially, a transient thermal model was developed using the FEM to analyze the thermal behavior of a tibial component during and after SLM; the model was then validated through experiments. Subsequently, the Taguchi method was employed to evaluate the thermal influence of various SLM parameters on deformation and stress. Furthermore, a K-means-based exploration method was developed and used to identify critical thermal areas affecting a component’s size and quality. Finally, a DNN model was developed for rapid prediction of thermal deformation by leveraging an FEM proxy modeling methodology to facilitate efficient monitoring in a digital-twin framework. The FEM analysis revealed average deformation errors of 3.26\% during SLM and 0.05~mm after SLM. The optimal SLM parameters for minimizing thermal deformation and stress for a tibial component were identified. The DNN model, trained on the proxy database, achieved error margins of only 5.47\% and 4.62\% in comparison with the FEM and experimental results, respectively, but took substantially less computation time than did the FEM. This study integrated FEM simulations, the Taguchi method, and DNN prediction to enhance the accuracy of SLM manufacturing of tibial components.}
