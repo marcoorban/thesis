@@ -2452,17 +2452,19 @@
     <bcf:citekey order="77" intorder="1">ogawaTopologyOptimizationTransient2022</bcf:citekey>
     <bcf:citekey order="78" intorder="1">chungpei-hsuStudyLatticeSupport2024</bcf:citekey>
     <bcf:citekey order="79" intorder="1">chungpei-hsuStudyLatticeSupport2024</bcf:citekey>
-    <bcf:citekey order="80" intorder="1">leopoldMinimallyInvasiveTotal2009</bcf:citekey>
+    <bcf:citekey order="80" intorder="1">FreeCAD</bcf:citekey>
     <bcf:citekey order="81" intorder="1">leopoldMinimallyInvasiveTotal2009</bcf:citekey>
-    <bcf:citekey order="82" intorder="1">leeObjectiveFunctionTopology2021</bcf:citekey>
-    <bcf:citekey order="83" intorder="1">yoonTopologicalDesignHeat2010</bcf:citekey>
-    <bcf:citekey order="84" intorder="1">brunsTopologyOptimizationConvectiondominated2007</bcf:citekey>
-    <bcf:citekey order="85" intorder="1">davisComprehensiveReviewMetallic2022</bcf:citekey>
-    <bcf:citekey order="86" intorder="1">svanbergMethodMovingAsymptotes1987</bcf:citekey>
-    <bcf:citekey order="87" intorder="1">hexagonabProcessPropertiesInfosheet</bcf:citekey>
-    <bcf:citekey order="88" intorder="1">chungpei-hsuStudyLatticeSupport2024</bcf:citekey>
-    <bcf:citekey order="89" intorder="1">chungEvaluationPredictionThermal2024a</bcf:citekey>
-    <bcf:citekey order="90" intorder="1">chowdhuryEffectsPreheatingThermal2024</bcf:citekey>
+    <bcf:citekey order="82" intorder="1">leopoldMinimallyInvasiveTotal2009</bcf:citekey>
+    <bcf:citekey order="83" intorder="1">leeObjectiveFunctionTopology2021</bcf:citekey>
+    <bcf:citekey order="84" intorder="1">yoonTopologicalDesignHeat2010</bcf:citekey>
+    <bcf:citekey order="85" intorder="1">brunsTopologyOptimizationConvectiondominated2007</bcf:citekey>
+    <bcf:citekey order="86" intorder="1">davisComprehensiveReviewMetallic2022</bcf:citekey>
+    <bcf:citekey order="87" intorder="1">svanbergMethodMovingAsymptotes1987</bcf:citekey>
+    <bcf:citekey order="88" intorder="1">NTop</bcf:citekey>
+    <bcf:citekey order="89" intorder="1">hexagonabProcessPropertiesInfosheet</bcf:citekey>
+    <bcf:citekey order="90" intorder="1">chungpei-hsuStudyLatticeSupport2024</bcf:citekey>
+    <bcf:citekey order="91" intorder="1">chungEvaluationPredictionThermal2024a</bcf:citekey>
+    <bcf:citekey order="92" intorder="1">chowdhuryEffectsPreheatingThermal2024</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="none">

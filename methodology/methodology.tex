@@ -24,7 +24,7 @@ The subsequent sections explain in detail each stage of this process.
 The components with simple geometries utilized in this study consist of a cube, three triangular
 components with different slopes, and three cylindrical components with different values of
 curvature. These shapes with these dimensions were chosen to ease the comparison of results between this study and the study of Peishu \cite{chungpei-hsuStudyLatticeSupport2024}. All the CAD models
-used for the simple geometry study were created using FreeCAD, an open-source CAD software. The components were exported as .stp files, and then were merged with their corresponding support structures using the software nTop. The geometries used for this preliminary study are the following:
+used for the simple geometry study were created using FreeCAD \cite{FreeCAD}, an open-source CAD software. The components were exported as .stp files, and then were merged with their corresponding support structures using the software nTop. The geometries used for this preliminary study are the following:
 
 \begin{itemize}
   \item A cube with side length of 30 mm, as shown in Figure \ref{fig:cube}.
@@ -139,53 +139,20 @@ Thermal conduction is given by Fourier's law as:
 where $\bm{Q}$ is the heat conduction through the material, $\kappa$ is the material's thermal conductivity and $\nabla T$ is the thermal gradient. For use in a finite element solver, the objective function $c_t$ and Fourier's law can be written using matrix notation as:
 
 \begin{align}
-  \text{minimize} \hspace{0.5cm} & c_t = \bm{T^T} \bm{Q} \\
+  \text{minimize} \hspace{0.5cm} & c_t = \bm{Q^T} \bm{T} \\
            & \bm{\kappa}\bm{T}  = \bm{Q},
 \end{align}
 
 where $\bm{\kappa}$ is the global thermal conductivity matrix, $\bm{T}$ is the temperature vector, and $\bm{Q}$ is the thermal load, or heat flux, vector. Thermal compliance $c_t$ can be thought of the thermal analogy to the stiffness of a structure. In structural problems, the objective is to maximize the stiffness, or minimize the compliance, as compliance is the inverse of stiffness. Similarly, in thermal problems, the objective is to maximize the thermal conductivity, or alternatively, minimize the thermal compliance, which can be though of as the inverse of conductivity. Thermal compliance has extensively been used in other topology optimization problems such as \cite{leeObjectiveFunctionTopology2021}, \cite{yoonTopologicalDesignHeat2010}, and \cite{brunsTopologyOptimizationConvectiondominated2007}.
 
-At the same time, stiffness of the support structure should be be maximized to avoid considerable deformations that might affect the part geometry. The geometry resulting from the thermal optimization could result in thin, dendrite-like structures, which could buckle and collapse under the component's weight, causing the whole manufacturing process to fail. Assuming small deformations, we can express the displacement of the material by using Hook's law,
+At the same time, stiffness of the support structure should be be maximized to avoid considerable deformations that might affect the part geometry. The geometry resulting from the thermal optimization could result in thin, dendrite-like structures, which could buckle and collapse under the component's weight, causing the whole manufacturing process to fail. Assuming small deformations, we can express the displacement of the material by using Hooke's law, $\bm{F} = k\bm{U}$.
+For finite element analysis, the minimization of the compliance $c$ of the structure and its mechanical behavior is obtained by minimizing the quantity $\bm{F^T}\bm{U}$, by solving for $\bm{U}$ using a numerical method.
 
-\begin{equation}
-  \bm{F} = k\bm{U},
-\end{equation}
-
-where $\bm{F}$ is the force applied, $k$ is the stiffness of a small element, and $\bm{U}$ is the displacement of the element from its equilibrium position. For finite element analysis, the minimization of the compliance $c$ of the structure and its mechanical behavior can be expressed as:
-
-\begin{align}
-  \text{minimize} \hspace{0.5cm} & c = \bm{U^T} \bm{F} \\
-            & \bm{K} \bm{U} = \bm{F}
-\end{align}
-
-where $\bm{K}$ is the global stiffness matrix, $\bm{U}$ is the vector of nodal displacement, and $\bm{F}$ is the vector of loads.
-
-We can therefore combine these two together to obtain the objective function for the topology optimization problem, with $\omega_1$ and $\omega_2$ the weight coefficients that encapsulate the relative importance of each objective:
-
-\begin{align*}
-  \text{minimize} \hspace{0.5cm} \omega_1 \bm{T^T} \bm{Q} + \omega_2 \bm{U^T} \bm{F}.
-\end{align*}
+We can then combine the thermal and mechanical compliance to obtain the objective function for this topology optimization problem, with $\omega_1$ and $\omega_2$ the weight coefficients that encapsulate the relative importance of each objective: $\omega_1 \bm{Q^T} \bm{T} + \omega_2 \bm{F^T} \bm{U}$
 
 \subsection{Topology optimization equations}
 
-Having decided the governing equations and objective function for the system, the topology optimization model must be chosen. For this study, the SIMP approach with a hyperbolic tangent projection has been employed, utilizing a volume fraction restriction. Mathematically, the topology optimization problem can be formulated as follows:
-
-\begin{align}
-  \text{minimize}  & \hspace{0.5cm} X_{obj} = \omega_1 \bm{T}^T \bm{Q} + w_2 \bm{U}^T \bm{F}  \\ 
-  \text{subject to} & \hspace{0.5cm} \bm{\kappa}(\bm{\tilde{\rho}}) \bm{T} = \bm{Q} \\
-                    &  \hspace{0.5cm} \bm{K}(\bm{\tilde{\rho}}){\bm{U}} = \bm{F} \\
-    & \hspace{0.5cm} V = \sum _{i \in \mathbb{N}_e } \tilde{\rho_i} v_i \leq V_c  \\ 
-    & \hspace{0.5cm} 0 \leq \rho_{min} \leq \tilde{\rho_i} \leq 1, \hspace{0.5cm} \forall i \in \mathbb{N}_e  \\
-    & \hspace{0.5cm} \omega_1 + \omega_2 = 1,  
- \end{align}
-
-where the density $\tilde{\rho}$ has been defined using the hyperbolic tangent projection function as defined in section \ref{ch:threshold}.
-
-\begin{figure}[h!]
-  \centering
-  \includegraphics{boundaryconds.png}
-  \caption{Boundary condition examples for design domain of cube component.}
-\end{figure}
+Having decided the governing equations and objective function for the system, the topology optimization model must be chosen. For this study, the SIMP approach with a hyperbolic tangent projection has been employed, utilizing a volume fraction restriction. Mathematically, the topology optimization problem is formulated as shown in equations \ref{eq:multiobj} to \ref{eq:multiobj_end} , where the density $\tilde{\rho}$ has been defined using the hyperbolic tangent projection function as defined in section \ref{ch:threshold}. 
 
 \section{COMSOL implementation}
 
@@ -209,7 +176,7 @@ On the other hand, For the 3D design domain of the femoral component support str
 
 \subsection{Physical parameters}
 
-For the topology optimization solution to be useful, realistic thermal and stress load should be used. The thermal load was based on the maximum wattage and efficiency of the laser achievable by the selective laser melting machine used in this work. The laser's power is 200 W, with an efficiency of 25\%. This value cannot be used for the thermal load, since the laser is only activated for a small amount of time. From the FEM software building process parameters, each layer is heated for approximately 154 ms. Therefore, with an effective power of 200 W x 0.25\% = 50W, the total amount of energy added to the layer during the heating time is 50 W x 154 ms = 7.7 J. But each layer heating time occurs periodically, with a period of approximately 440 s. Therefore, the average power input to the system per cycle is calculated to be 0.0175 W. The approximate area of the top surface of the support structure design domain is approximately 30 mm x 30 mm = 900 mm$^2$. Diving the power per cycle by this area yields a heat flux of about 19.4 W/mm$^2$, which was rounded up to 20.0 W/m$^2$. For the heat flux used in the femoral component calculation, the difference is in the area of the top surface of the design domain. This area is about 1690 mm$^2$, and thus the heat flux used for the support structure design in accounts to be about 10.37 W/m$^2$, which was rounded to 10 W/m$^2$. A graphical representation of this calculation is shown in Figure \ref{fig:heating}.
+For the topology optimization solution to be useful, realistic thermal and stress load should be used. The thermal load was based on the maximum wattage and efficiency of the laser achievable by the selective laser melting machine used in this work. The laser's power is 200 W, with an efficiency of 25\%. This value cannot be used for the thermal load, since the laser is only activated for a small amount of time. From the FEM software building process parameters, each layer is heated for approximately 154 ms. Therefore, with an effective power of 200 W x 0.25\% = 50W, the total amount of energy added to the layer during the heating time is 50 W x 154 ms = 7.7 J. But each layer heating time occurs periodically, with a period of approximately 440 s. Therefore, the average power input to the system per cycle is calculated to be 0.0175 W. A graphical representation of this calculation is shown in Figure \ref{fig:heating}. The approximate area of the top surface of the support structure design domain is approximately 30 mm x 30 mm = 900 mm$^2$. Diving the power per cycle by this area yields a heat flux of about 19.4 W/mm$^2$, which was rounded up to 20.0 W/m$^2$. For the heat flux used in the femoral component calculation, the difference is in the area of the top surface of the design domain. This area is about 1690 mm$^2$, and thus the heat flux used for the support structure design in accounts to be about 10.37 W/m$^2$, which was rounded to 10 W/m$^2$. 
 
 The material used in all simulations was 316L stainless steel. This material is often used for medical implants due to its superior mechanical, fatigue, wear and corrosion properties \cite{davisComprehensiveReviewMetallic2022}. The mechanical and thermal properties of 316L steel relevant to this study are shown in Table \ref{tab:316l}.
 
@@ -238,15 +205,15 @@ It should be noted that the physical properties of stainless steel shown above a
   \label{fig:heating}
 \end{figure}
 
-For the calculation of compliance, the structural load was also calculated by using the weight of each component and dividing it by the top area of the design domain. All of the components were modeled using the density of 316L steel, which is approximately 7.93 g/cm$^3$. This was then multiplied by the volume of each component to obtain the mass. For example, the. The volume of the femoral component was calculated to be about 32800 mm$^3$, and therefore the mass of the femoral component amounted to 0.263 kg. This was then divided by the top area of the design domain. Taking again the example of the femoral component's support structure, the area of the top surface is about 1690 mm$^2$, and so the average stress value of the top surface is calculated as (0.263 kg)$g$ /1690 mm$^2$ = 1560 N/m$^2$, where $g$ is the gravitational constant. 
+For the calculation of compliance, the structural load used was the stress on the top surface of the design domain caused by the weight of the component above it. This stress was calculated by diving the component's weight by the area of the top surface. The weight was determined using the density of 316L steel, which is approximately 7.93 g/cm$^3$. For example, the volume of the femoral component was calculated to be about 32800 mm$^3$, and therefore the mass of the femoral component amounts to approximately 0.263 kg. From this, the weight can be calculated by multiplying by the gravitational constant $g$, and the stress is obtained by dividing this weight by the top area of the design domain. The calculation for this example ends up being (0.263 kg)$g$ /1690 mm$^2$ = 1560 N/m$^2$, where $g$ is taken to be 9.81 m/s$^2$. 
 
 \subsection{Parametric study}
 
-The topology optimization problem was solved using COMSOL Multiphysics 6.2 software. COMSOL allows the creation of parametric studies that allow to run a simulation with a list of parameters to be varied, in order to study the influence of different values on the solution of a system. For this study, the values of volume fraction, objective function weights, and hyperbolic tangent angle were chosen as the parameters to be varied.
+The topology optimization problem was solved using COMSOL Multiphysics 6.2 software. COMSOL allows the creation of parametric studies that allow to run a simulation with a list of parameters to be varied, in order to study the influence of different values on the solution of a system. For this study, the values of volume fraction \ref{eq:vol}, objective function weights \ref{eq:multiobj_end}, and hyperbolic tangent angle (used in \ref{eq:tanh_filter}) were chosen as the parameters to be varied.
 
 Volume fraction is defined as the maximum amount of volume that the topology can cover within the design domain. This criteria is chosen because we seek to use less material for the supporting structure, as long as we can maintain the total deformation of the manufacturing component beneath a threshold. For the simple geometries 50\% and 75\% of volume fraction were considered. For the femoral component study, volume fractions of 25\%, 33\%, 40\%, 50\% and 75\% were considered. 
 
-Finally, the hyperbolic tangent angle projection was also varied. The hyperbolic tangent was varied from a value of 0.001\degree to 8\degree, in steps in 2\degree. The variation was stopped at 8\degree since it was noticed that for $\theta \geq$ 8\degree there would be no discernible differences between results.
+The hyperbolic tangent angle projection (\ref{eq:tanh_filter}) was also used as a parameter. The hyperbolic tangent was varied from a value of 0.001\degree to 8\degree, in steps in 2\degree. The variation was stopped at 8\degree since it was noticed that for $\theta \geq$ 8\degree there would be no discernible differences between results.
 
 Finally, the objective functions weights were also varied for the design of topologies for the simple geometry parts. The pairings of weight used were (0.2, 0.8), (0.5 , 0.5), and (0.2, 0.8), where the first weight in each pair corresponds to the weight of the thermal compliance objective and the second corresponds to the weight of the mechanical compliance objective. All of these parameters are summarized in Table \ref{tab:params}.
 
@@ -273,7 +240,15 @@ Finally, the objective functions weights were also varied for the design of topo
 
 \subsection{Boundary conditions}
 
-It is possible to change the material boundary conditions in COMSOL when solving the topology optimization problem. As an extra study parameter, the material boundary condition of several edges of the design domain were also varied for this study. For the 2D design domains, different topologies were obtained by having either a prescribed material or void boundary in the side elements of the design domain. For the femoral component, there was no variation in the density of the design domain boundary. Figures \ref{fig:solid} and \ref{fig:void} showcase the difference in topologies by varying the prescribed density on the support structure of the cube part.
+It is possible to change the material boundary conditions in COMSOL when solving the topology optimization problem. As an extra study parameter, the material boundary condition of several edges of the design domain were also varied for this study. For the 2D design domains, different topologies were obtained by having either a prescribed material or void boundary in the side elements of the design domain. For the femoral component, there was no variation in the density of the design domain boundary. Figures \ref{fig:solid} and \ref{fig:void}shows the boundary conditions used in the problem. 
+
+\begin{figure}[h!]
+  \centering
+  \includegraphics{boundaryconds.png}
+  \caption{Boundary condition examples for design domain of cube component.} 
+  \label{fig:boundary}
+\end{figure}
+
 
 \begin{figure}
   \begin{subfigure}{0.45\textwidth}
@@ -289,7 +264,7 @@ It is possible to change the material boundary conditions in COMSOL when solving
   \caption{Variation in topology due to material prescribed density at the side boundary of design domain.}
 \end{figure}
 
-The heat transfer and solid mechanics boundary conditions must also be specified. The heat transfer problem boundary conditions consisted of a heat flux through the upper surface of 20 W / (m$^2$$\cdot$K) and 10 W / (m$^2$$\cdot$K) for the simple geometry parts and femoral component respectively. The inferior surface was set at a constant temperature of 200\degree K, and the sides were kept insulated.
+The heat transfer and solid mechanics boundary conditions must also be specified. The heat transfer problem boundary conditions consisted of a heat flux through the upper surface of 20 W / (m$^2$$\cdot$K) and 10 W / (m$^2$$\cdot$K) for the simple geometry parts and femoral component respectively. The inferior surface was set at a constant temperature of 200\degree K, and the sides were kept insulated. The structural loads consisted of the weight of the component above it. Figure  \ref{fig:boundary} shows a graphical representation of the boundary conditions used.
 
 \subsection{COMSOL implementation final details}
 
@@ -317,7 +292,7 @@ Once all the physical and material parameters, the topology optimization model a
 
 \section{Support structure design and merging with part}
 
-After COMSOL was used to generate the possible topologies for the support structure, the topology was exported to image files, in the case of the 2D problem, and to an .stl file, in the case of the 3D structure. These were then converted to 3D .stp file with the aid of FreeCAD. nTop Software was then used to merge the resulting support structure with the manufactured components. Once the support structure and the part were joined, they were exported as .stl files to be used in the SLM finite element simulation.
+After COMSOL was used to generate the possible topologies for the support structure, the topology was exported to image files, in the case of the 2D problem, and to an .stl file, in the case of the 3D structure. These were then converted to 3D .stp file with the aid of FreeCAD. nTop Software \cite{NTop} was then used to merge the resulting support structure with the manufactured components. Once the support structure and the part were joined, they were exported as .stl files to be used in the SLM finite element simulation.
 
 Once the CAD file of the component and the support structure has been built, it is necessary to merge them together and import them into Simufact to undergo simulation of the manufacturing process. The software used for blending the component and its support structure is nTop version 5.17.2. nTop's interface makes it very easy to merge the part, and also allows to blend the support structure and the component, which effectively creates a fillet between the nodes of both components to allow for a smooth transition between bodies. Of course, blending the component and the support structure in this manner would not give any benefit in a real manufacturing process, as the structure and the component would not be able to be separated easily. Nevertheless, this blend radius is beneficial for the simulation since it was observed that a direct union and import of the support structure + component in Simufact resulted in having very small gaps between the two pieces, resulting in a non manifold geometry that would cause the finite element model to have gaps between some of its nodes.
 
@@ -433,7 +408,7 @@ All of the above parameters plus more are summarized in Tables \ref{tab:laser_pa
 
 \subsection{Convergence analysis}
 
-To ensure that FEM results were not dependent on the voxel size of the voxel mesh, a convergence analysis was first performed on one of the simple geometries. For this analysis, the results of three projects were compared. The details of the projects are shown in Table \ref{tab:convergence}. The convergence test proved highly successful, as there is very little difference in the results of the FEM simulations between the different voxel sizes of each project. The results of the convergence test are shown in figure \ref{fig:convergence}. The graphs shows the average and max node deformation of the part's surface, as the voxel size is varied from 1 mm to 0.5 mm. We can see that the variability of surface results due to the voxel size is at most 0.01 mm. In subsequent analyses, the difference between average node displacements of parts with different support structures would be of an order of magnitude bigger ( > 0.1 mm), and thus we can discard the possibility that differences in results are caused or are dependent on the voxel mesh size.
+To ensure that FEM results were not dependent on the voxel size of the voxel mesh, a convergence analysis was first performed on one of the simple geometries. For this analysis, the results of three projects were compared. The details of the projects are shown in Table \ref{tab:convergence}. The convergence test proved highly successful, as there is very little difference in the results of the FEM simulations between the different voxel sizes of each project. The results of the convergence test are shown in Figure \ref{fig:convergence}. The graphs shows the average and max node deformation of the part's surface, as the voxel size is varied from 1 mm to 0.5 mm. We can see that the variability of surface results due to the voxel size is at most 0.01 mm. In subsequent analyses, the difference between average node displacements of parts with different support structures would be of an order of magnitude bigger ( > 0.1 mm), and thus we can discard the possibility that differences in results are caused or are dependent on the voxel mesh size.
 
 \begin{table}[h!]
   \centering
@@ -461,16 +436,9 @@ To ensure that FEM results were not dependent on the voxel size of the voxel mes
 
 \subsection{Voxelization and numerical parameters}
 
-All of the simulations run on Simufact used voxel meshes with sizes ranging from 0.8 mm to 1.5 mm, depending on the complexity of the geometry of the part. The voxelization of the components was performed with Simufact's default voxelization engine. The voxel meshes of the components were uniform in size, while the base plate voxel mesh used adaptive meshing, with 2 levels of coarsening. The solver used for all simulations was the MUMPS Parallel Direct Solver, with 14 time steps for each voxel layer. The voxelization of the femoral component can be seen in Figure \ref{fig:femvox}.
+All of the simulations run on Simufact used voxel meshes with sizes ranging from 0.8 mm to 1.5 mm, depending on the complexity of the geometry of the part. The voxelization of the components was performed with Simufact's default voxelization engine. The voxel meshes of the components were uniform in size, while the base plate voxel mesh used adaptive meshing, with 2 levels of coarsening. The solver used for all simulations was the Multifrontal Massively Parallel Sparse (MUMPS for short) Direct Solver, with 14 time steps for each voxel layer. 
 
-\begin{figure}[h!]
-  \centering
-  \includegraphics[width=0.8\textwidth]{voxel.png}
-  \caption{Voxelization of femoral component in Simufact.}
-  \label{fig:femvox}
-\end{figure}
-
-\section{Results export and analysis}
+\section{Results and analysis}
 
 After the simulation was run, the node displacement and stress data of last time increment was exported to a .csv file using a Python script. The .csv file was then read and parsed using R, and the data was used to obtain statistical values and graphs. The results are summarized in the next chapter.
 

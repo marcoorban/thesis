@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2025.1.30)  7 APR 2025 16:22
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2025.1.30)  10 APR 2025 16:51
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1271,52 +1271,39 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 [26]
 
 [27]
-File: images/boundaryconds.png Graphic file (type bmp)
-<images/boundaryconds.png>
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
-
-[28]
 File: images/mesh1.png Graphic file (type bmp)
 <images/mesh1.png>
 
 
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
+[28]
 File: images/femmesh.png Graphic file (type bmp)
 <images/femmesh.png>
 
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
 
 [29]
-
-[30]
-
-[31]
 File: images/heating.png Graphic file (type bmp)
 <images/heating.png>
 
 
-[32]
-Overfull \hbox (3.22966pt too wide) in paragraph at lines 255--270
+[30]
+
+[31]
+Overfull \hbox (3.22966pt too wide) in paragraph at lines 222--237
  [][] 
  []
 
 
 
-[33]
+[32]
+File: images/boundaryconds.png Graphic file (type bmp)
+<images/boundaryconds.png>
 File: images/side_mat_volfrac20.png Graphic file (type bmp)
 <images/side_mat_volfrac20.png>
 File: images/side_void_volfrac20.png Graphic file (type bmp)
 <images/side_void_volfrac20.png>
 
 
-[34]
+[33]
 File: images/excube.png Graphic file (type bmp)
 <images/excube.png>
 File: images/extriangle.png Graphic file (type bmp)
@@ -1326,6 +1313,8 @@ File: images/exround.png Graphic file (type bmp)
 File: images/exfemoral.png Graphic file (type bmp)
 <images/exfemoral.png>
 
+
+[34]
 
 [35]
 File: images/meldcube.png Graphic file (type bmp)
@@ -1345,42 +1334,35 @@ File: images/meldfemoral2.png Graphic file (type bmp)
 [38]
 
 [39]
-
-[40]
 File: images/conv_average.png Graphic file (type bmp)
 <images/conv_average.png>
 File: images/conv_max.png Graphic file (type bmp)
 <images/conv_max.png>
 
 
-LaTeX Warning: Float too large for page by 66.63174pt on input line 460.
-
-File: images/voxel.png Graphic file (type bmp)
-<images/voxel.png>
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
+LaTeX Warning: Float too large for page by 66.63174pt on input line 435.
 
 
 
-[41]
+[40]
 
-[42])
+[41])
 
-[43]
+[42]
 \openout2 = `results/results.aux'.
 
  (./results/results.tex
 Chapter 4.
 
 
-[44
+[43
 
 
 
 
 ]
 
-[45]
+[44]
 File: images/cube _disp3.png Graphic file (type bmp)
 <images/cube _disp3.png>
 File: images/cube _dispmax3.png Graphic file (type bmp)
@@ -1449,6 +1431,8 @@ File: images/R40 _stressmax3.png Graphic file (type bmp)
 <images/R40 _stressmax3.png>
 
 
+[45]
+
 [46]
 
 [47]
@@ -1462,8 +1446,6 @@ File: images/R40 _stressmax3.png Graphic file (type bmp)
 [51]
 
 [52]
-
-[53]
 File: images/results/plots/femoral/displacement/disp_density_ridges.png Graphic file (type bmp)
 <images/results/plots/femoral/displacement/disp_density_ridges.png>
 
@@ -1479,7 +1461,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 
-[54
+[53
 
 ]
 File: images/results/plots/femoral/displacement/femoral_max_bad.png Graphic file (type bmp)
@@ -1495,9 +1477,9 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 
-[55]
+[54]
 
-[56]
+[55]
 File: images/results/plots/femoral/displacement/bins.png Graphic file (type bmp)
 <images/results/plots/femoral/displacement/bins.png>
 
@@ -1523,13 +1505,13 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 
+[56]
+
 [57]
 
 [58]
 
 [59]
-
-[60]
 File: images/results/plots/femoral/stress/stress_density_ridges.png Graphic file (type bmp)
 <images/results/plots/femoral/stress/stress_density_ridges.png>
 File: images/results/plots/femoral/stress/stress_stats.png Graphic file (type bmp)
@@ -1540,11 +1522,11 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 
-[61
+[60
 
 ]
 
-[62]
+[61]
 File: images/results/plots/femoral/stress/average_stress.png Graphic file (type bmp)
 <images/results/plots/femoral/stress/average_stress.png>
 File: images/results/plots/femoral/stress/femoral_average_group_stress.png Graphic file (type bmp)
@@ -1561,25 +1543,25 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 )
 
-[63]
+[62]
 
-[64]
+[63]
 \openout2 = `conclusion/conclusion.aux'.
 
  (./conclusion/conclusion.tex
 Chapter 5.
 
 
-[65
+[64
 
 
 
 
 ]
 
-[66])
+[65])
 
-[67]
+[66]
 
 Package fontspec Info: 
 (fontspec)             Script 'CJK' not explicitly supported within font
@@ -1601,7 +1583,7 @@ Package fontspec Info:
 
 
 
-[68
+[67
 
 
 
@@ -1611,10 +1593,17 @@ Overfull \hbox (3.2862pt too wide) in paragraph at lines 68--68
  []
 
 
+Overfull \hbox (3.82832pt too wide) in paragraph at lines 68--68
+\TU/lmr/m/n/12 Feb. 17, 2025. [Online]. Available: $[][][][][] [] [] [] [][][] [] [][][][][][][][][][][][][][] [] [][][] [] [][][][][][][][] []
+ []
+
+
+
+[68]
 
 [69]
-Overfull \hbox (11.71703pt too wide) in paragraph at lines 68--68
-\TU/lmr/m/n/12 pp. 113–137, Jan. 1986, \TU/lmr/m/sc/12 issn\TU/lmr/m/n/12 : 0010-3640, 1097-0312. \TU/lmr/m/sc/12 doi\TU/lmr/m/n/12 : $[][] [] [][][][] [] [][][] [] [][][][][][][][][][]$. 
+Overfull \hbox (11.71683pt too wide) in paragraph at lines 68--68
+\TU/lmr/m/n/12 pp. 113–137, Jan. 1986, \TU/lmr/m/sc/12 issn\TU/lmr/m/n/12 : 0010-3640, 1097-0312. \TU/lmr/m/sc/12 doi\TU/lmr/m/n/12 : $[][] [] [][][][] [] [][][] [] [][][][][][][][][][]$.
  []
 
 
@@ -1624,36 +1613,60 @@ Overfull \hbox (11.71703pt too wide) in paragraph at lines 68--68
 [71]
 
 [72]
+
+[73]
 Overfull \hbox (14.61674pt too wide) in paragraph at lines 68--68
 []\TU/lmr/m/n/12 B. S. Lazarov and O. Sigmund, “Filters in topology optimization based on Helmholtz-
  []
 
 
 
-[73]
+[74]
 Overfull \hbox (4.90543pt too wide) in paragraph at lines 68--68
 \TU/lmr/m/n/12 ditive manufacturing,” \TU/lmr/m/it/12 Finite Elements in Analysis and Design\TU/lmr/m/n/12 , vol. 193, p. 103 558,
  []
 
 
+Overfull \hbox (10.8365pt too wide) in paragraph at lines 68--68
+\TU/lmr/m/n/12 May 28, 2024. [Online]. Available: $[][][][][] [] [] [] [][][][][][][][][][] [] [][][][][][][][] [] [][][] [] [][][][][][][][] []
+ []
 
-[74]
+
+Overfull \hbox (25.31963pt too wide) in paragraph at lines 68--68
+\TU/lmr/m/n/12 Available: $[][][][][] [] [] [] [][][][][][][][][][] [] [][][][][][][][] [] [][][] [] [][][][][][][][] [] [][][] [] [][][][][][][][][][][][][][][][][]$. 
+ []
+
+
 
 [75]
+Overfull \hbox (4.02106pt too wide) in paragraph at lines 68--68
+[][][][][] [] [] [] [][][] [] [][][][][][][][][][][][][] [] [][][] [] [][][][][][][] [] [][][][][][][] [] [][][] [] [][][][][][][][][][][][][][][][][]$\TU/lmr/m/n/12 . 
+ []
+
+
+
+[76]
 Overfull \hbox (19.22655pt too wide) in paragraph at lines 68--68
 \TU/lmr/m/n/12 pp. 2721–2732, May 1, 2009, \TU/lmr/m/sc/12 issn\TU/lmr/m/n/12 : 0017-9310. \TU/lmr/m/sc/12 doi\TU/lmr/m/n/12 : $[][] [] [][][][] [] [] [] [][][][][][][][][][][][][][][][][][] []
  []
 
 
+Overfull \hbox (36.16147pt too wide) in paragraph at lines 68--68
+[][][][] [] [][] [] [][][]$\TU/lmr/m/n/12 . Accessed: Sep. 4, 2024. [Online]. Available: $[][][][][] [] [] [] [][][] [] [][][][][][][][][][][][][] []
+ []
+
+
+
+[77]
 Overfull \hbox (51.7125pt too wide) in paragraph at lines 68--68
 \TU/lmr/m/n/12 no. 15, pp. 2859–2873, Jul. 1, 2007, \TU/lmr/m/sc/12 issn\TU/lmr/m/n/12 : 0017-9310. \TU/lmr/m/sc/12 doi\TU/lmr/m/n/12 : $[][] [] [][][][] [] [] [] [][][][][][][][][][][][][][][][][][] []
  []
 
 
 
-[76]
+[78]
 
-[77] (./main.aux (./abs/abs.aux) (./introduction/introduction.aux) (./litreview/litreview.aux) (./methodology/methodology.aux) (./results/results.aux) (./conclusion/conclusion.aux))
+[79] (./main.aux (./abs/abs.aux) (./introduction/introduction.aux) (./litreview/litreview.aux) (./methodology/methodology.aux) (./results/results.aux) (./conclusion/conclusion.aux))
  ***********
 LaTeX2e <2024-11-01> patch level 1
 L3 programming layer <2022/08/05>
@@ -1667,12 +1680,12 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 29543 strings out of 473846
- 664723 string characters out of 5729886
- 1486651 words of memory out of 5000000
- 52007 multiletter control sequences out of 15000+600000
+ 29538 strings out of 473846
+ 664733 string characters out of 5729886
+ 1490811 words of memory out of 5000000
+ 52003 multiletter control sequences out of 15000+600000
  574862 words of font info for 122 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  117i,15n,131p,2617b,5001s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on main.xdv (80 pages, 1080448 bytes).
+Output written on main.xdv (82 pages, 1165928 bytes).

@@ -424,14 +424,14 @@ INPUT ./images/designdomain3d.png
 INPUT images/designdomain3d.png
 INPUT ./images/designdomain2d.png
 INPUT images/designdomain2d.png
-INPUT ./images/boundaryconds.png
-INPUT images/boundaryconds.png
 INPUT ./images/mesh1.png
 INPUT images/mesh1.png
 INPUT ./images/femmesh.png
 INPUT images/femmesh.png
 INPUT ./images/heating.png
 INPUT images/heating.png
+INPUT ./images/boundaryconds.png
+INPUT images/boundaryconds.png
 INPUT ./images/side_mat_volfrac20.png
 INPUT images/side_mat_volfrac20.png
 INPUT ./images/side_void_volfrac20.png
@@ -456,8 +456,6 @@ INPUT ./images/conv_average.png
 INPUT images/conv_average.png
 INPUT ./images/conv_max.png
 INPUT images/conv_max.png
-INPUT ./images/voxel.png
-INPUT images/voxel.png
 INPUT ./results/results.tex
 INPUT ./results/results.tex
 OUTPUT results/results.aux

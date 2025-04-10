@@ -165,12 +165,12 @@ where $\tilde{\rho}_i$ denotes the filtered density using the hyperbolic tangent
 In this work, topology optimization was utilized to design a support structure for components created by additive manufacturing. The design variables are the densities of the support structure throughout its design domain, which is the volume between the component and the base plate. The objective function utilized was a multi-objective function that sought to simultaneously maximize heat conduction and minimize the compliance of the supporting structure. The material properties of the support structure that depend on the design variables are the thermal conductivity and Young's modulus. A Helmholtz filter was utilized, and the final density was computed using a hyperbolic tangent projection. Additionally, a volume fraction constrain was employed with the intention of reducing the amount of material used. Mathematically, all of these conditions can be represented as follows:
 
 \begin{align}
-  \text{minimize}  & \hspace{0.5cm} X_{obj} = w_1 \bm{F}^T \bm{U} + w_2 \bm{T}^T \bm{Q}  \label{eq:multiobj}\\ 
+  \text{minimize}  & \hspace{0.5cm} X_{obj} = w_1 \bm{F}^T \bm{U} + w_2 \bm{Q}^T \bm{T}  \label{eq:multiobj}\\ 
   \text{subject to} & \hspace{0.5cm} \bm{\kappa}(\bm{\tilde{\rho}}) \bm{T} = \bm{Q} \label{eq:fourier2} \\
                     &  \hspace{0.5cm} \bm{K}(\bm{\tilde{\rho}}){\bm{U}} = \bm{F} \label{eq:hooks2} \\
     & \hspace{0.5cm} V = \sum _{i \in \mathbb{N}_e } \tilde{\rho_i} v_i \leq V_c \label{eq:vol} \\ 
     & \hspace{0.5cm} 0 \leq \rho_{min} \leq \tilde{\rho_i} \leq 1, \hspace{0.5cm} \forall i \in \mathbb{N}_e  \\
-    & \hspace{0.5cm} w_1 + w_2 = 1,  
+    & \hspace{0.5cm} w_1 + w_2 = 1,  \label{eq:multiobj_end}
  \end{align}
 
  where $\bm{\tilde{\rho}} = [\tilde{\rho_1}, \tilde{\rho_2}, ... , \tilde{\rho_n}]^T$ and the physical densities $\tilde{\rho}_i$ are defined by equation \ref{eq:tanh_filter}, $\bm{U}$ denotes the nodal displacement vector, $\bm{T}$ denotes the nodal temperature vector, $\bm{F}$ is the vector of nodal forces, and $\bm{Q}$ is the thermal load vector. Equation \ref{eq:multiobj} is the objective function, with the first term being mechanical compliance, and the second term being thermal compliance, which is the inverse of thermal conductivity.Equation \ref{eq:vol} is the volume constraint equation. Equation \ref{eq:fourier2} governs the thermal conduction of the material, with the thermal conductivity matrix $\bm{\kappa}$ calculated as:
@@ -214,7 +214,6 @@ Successfully identifying a set of parameters that yield optimal results in terms
 
 Therefore, the contributions of this study to the field are as follows:
 \begin{enumerate}
-\item  Employ topology optimization methodologies for the development of Computer-Aided Design (CAD) support structures for components manufactured through Selective Laser Melting (SLM), while validating their effectiveness in mitigating thermal deformation and stress in the final product.
 \item Investigate the impact of topology optimization parameters on the thermal deformation and stress experienced by support structures. This investigation will specifically focus on the effects of hyperbolic tangent projection, volume fraction, and the weight ratio of objective functions.
 \item Identify the optimal combination of topology optimization parameters that minimizes thermal deformation and thermal stress in components produced via SLM.
 \item Identify specific geometric configurations that enhance thermal deformation or stress performance, or determine configurations that maintain deformation or stress within acceptable limits while simultaneously reducing material usage.
