@@ -196,9 +196,13 @@
       \field{number}{31}
       \field{shortjournal}{Medicine (Baltimore)}
       \field{title}{The Increase in Total Knee Replacement Surgery in {{Taiwan}}}
+      \field{urlday}{11}
+      \field{urlmonth}{2}
+      \field{urlyear}{2025}
       \field{volume}{97}
       \field{year}{2018}
       \field{dateera}{ce}
+      \field{urldateera}{ce}
       \field{pages}{e11749}
       \range{pages}{-1}
       \verb{doi}
@@ -209,6 +213,12 @@
       \endverb
       \verb{file}
       \verb /home/morban/Zotero/storage/J6EVPIR6/Lin et al. - 2018 - The increase in total knee replacement surgery in Taiwan.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6081077/
+      \endverb
+      \verb{url}
+      \verb https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6081077/
       \endverb
     \endentry
     \entry{narraAdditiveManufacturingTotal2019}{article}{}{}
@@ -253,9 +263,13 @@
       \field{number}{1}
       \field{shortjournal}{Orthop Clin North Am}
       \field{title}{Additive {{Manufacturing}} in {{Total Joint Arthroplasty}}}
+      \field{urlday}{11}
+      \field{urlmonth}{2}
+      \field{urlyear}{2025}
       \field{volume}{50}
       \field{year}{2019}
       \field{dateera}{ce}
+      \field{urldateera}{ce}
       \field{pages}{13\bibrangedash 20}
       \range{pages}{8}
       \verb{doi}
@@ -266,6 +280,12 @@
       \endverb
       \verb{file}
       \verb /home/morban/Zotero/storage/PYQ8596R/Narra et al. - 2019 - Additive Manufacturing in Total Joint Arthroplasty.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6555404/
+      \endverb
+      \verb{url}
+      \verb https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6555404/
       \endverb
     \endentry
     \entry{valinoAdvances3DPrinting2019}{article}{}{}
@@ -309,8 +329,8 @@
       \strng{authornamehash}{6e4ebbf21ba7a785b5dbf5d028988692}
       \strng{authorfullhash}{aabf90ca0daaef69f131187d3cd06134}
       \strng{authorfullhashraw}{aabf90ca0daaef69f131187d3cd06134}
-      \field{sortinit}{6}
-      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Commodity thermoplastics and thermoplastic composites are staples in Additive Manufacturing (AM). Their use is widespread and accounts for the largest volume of 3D printed materials. Accessible property ranges of current material formulations are limited, and thus there is high interest in extending AM to high-performance engineering polymers and nanocomposites that have yet to gain wide commercial acceptance in AM. Current applications of high-performance thermoplastic polymers are limited to adaptations from conventional plastics processing such as injection molding, thermoforming, extrusion, and others. Thermoplastic composites can be categorized into particle-, fiber-, and nanomaterial-based composites as well as polymer blends. The importance of these different composite systems to AM is discussed in this review. Also reviewed are trends in instrument development such as in-nozzle impregnation, dual print heads, and higher temperature FDM that improve printing of thermoplastic composites. An overview of newer types of AM techniques allowing higher filler loading for thermoplastic composites like liquid deposition modeling (LDM) sometimes known as direct ink writing (DIW) are discussed. Finally, a perspective is given on the important parameters and standards needed to make AM printed objects from polymer composites more effective in cost/performance ratio.}
@@ -320,9 +340,13 @@
       \field{month}{11}
       \field{shortjournal}{Progress in Polymer Science}
       \field{title}{Advances in {{3D}} Printing of Thermoplastic Polymer Composites and Nanocomposites}
+      \field{urlday}{27}
+      \field{urlmonth}{2}
+      \field{urlyear}{2025}
       \field{volume}{98}
       \field{year}{2019}
       \field{dateera}{ce}
+      \field{urldateera}{ce}
       \field{pages}{101162}
       \range{pages}{1}
       \verb{doi}
@@ -330,6 +354,12 @@
       \endverb
       \verb{file}
       \verb /home/morban/Zotero/storage/V7P9FI47/S0079670018303976.html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0079670018303976
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0079670018303976
       \endverb
       \keyw{3D printing,Additive manufacturing,Polymer blends,Processing techniques,Thermoplastic composites}
     \endentry
@@ -354,8 +384,8 @@
       \strng{authornamehash}{e35780b804a3cabf6730cfc7741bb5f3}
       \strng{authorfullhash}{e35780b804a3cabf6730cfc7741bb5f3}
       \strng{authorfullhashraw}{e35780b804a3cabf6730cfc7741bb5f3}
-      \field{sortinit}{7}
-      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{The developments in hip and knee arthroplasty over recent years have aimed to improve outcomes, reduce complications and improve implant survival. This review describes some of the most interesting trends and developments in this important and fast-moving field. Notable developments have included ceramic hip resurfacing, mini hip stems, cementless knee replacement and the wider adoption of the dual mobility articulation for hip arthroplasty. Advances in additive manufacturing and the surface modification of joint replacements offer increasing options for more challenging arthroplasty cases. Robotic assisted surgery is one of the most interesting developments in hip and knee surgery. The recent growth in the use of this technology is providing data that will help determine whether this approach should become the standard of care for hip and knee arthroplasty in the future.}
@@ -366,9 +396,13 @@
       \field{month}{2}
       \field{shortjournal}{J Rehabil Assist Technol Eng}
       \field{title}{Trends and Developments in Hip and Knee Arthroplasty Technology}
+      \field{urlday}{17}
+      \field{urlmonth}{2}
+      \field{urlyear}{2025}
       \field{volume}{8}
       \field{year}{2021}
       \field{dateera}{ce}
+      \field{urldateera}{ce}
       \field{pages}{2055668320952043}
       \range{pages}{1}
       \verb{doi}
@@ -379,6 +413,12 @@
       \endverb
       \verb{file}
       \verb /home/morban/Zotero/storage/YMXVLHBU/Marsh and Newman - 2021 - Trends and developments in hip and knee arthroplasty technology.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7874345/
+      \endverb
+      \verb{url}
+      \verb https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7874345/
       \endverb
     \endentry
     \entry{mobarakRecentAdvancesAdditive2023}{article}{}{}
@@ -427,8 +467,8 @@
       \strng{authornamehash}{77cb8c7891198a2beda643b62f710369}
       \strng{authorfullhash}{aaf55c2c08fd03803d8b1c7fdd29f270}
       \strng{authorfullhashraw}{aaf55c2c08fd03803d8b1c7fdd29f270}
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{The use of additive manufacturing, or 3D printing, has progressed beyond prototyping to produce intricate and valuable finished goods. The potential of additive manufacturing has increased across numerous industries due to the expansion of materials, such as high-performance metals and polymers, and advancements in machine capabilities, such as multi-material printing. By enabling complex designs, reduced waste, and quick production, it has the potential to revolutionize the consumer goods, healthcare, automotive manufacturing, and aerospace industries. The development of specialized scaffolds has been made possible by the precise control that additive manufacturing provides over the internal structure of porous materials. This technology has revolutionized tissue engineering and regenerative medicine. Furthermore, it has made it possible to create individualized implants and prosthetics that improve patient comfort and outcomes in orthopedic and dental applications. Also, it provides flexibility in design and customization for individualized implants and prosthetics in orthopedic and dental applications. Design flexibility, waste reduction, improved biocompatibility, quick prototyping, and cost-effectiveness are benefits of additive manufacturing for implants. For personalized healthcare, regenerative medicine, and better patient outcomes, additive manufacturing holds promise as the technology develops with further advancements in printing speed, resolution, and scalability.}
@@ -438,9 +478,13 @@
       \field{month}{12}
       \field{shortjournal}{Applied Surface Science Advances}
       \field{title}{Recent Advances of Additive Manufacturing in Implant Fabrication – {{A}} Review}
+      \field{urlday}{17}
+      \field{urlmonth}{2}
+      \field{urlyear}{2025}
       \field{volume}{18}
       \field{year}{2023}
       \field{dateera}{ce}
+      \field{urldateera}{ce}
       \field{pages}{100462}
       \range{pages}{1}
       \verb{doi}
@@ -448,6 +492,12 @@
       \endverb
       \verb{file}
       \verb /home/morban/Zotero/storage/J37DBU2V/S266652392300096X.html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S266652392300096X
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S266652392300096X
       \endverb
       \keyw{3D printing,Additive manufacturing,Fabrication,Implant}
     \endentry
@@ -520,8 +570,8 @@
       \strng{authornamehash}{21a28a22b906d6dd0778001777bd3457}
       \strng{authorfullhash}{a370ea1d5791c25eb0100690c4460a09}
       \strng{authorfullhashraw}{a370ea1d5791c25eb0100690c4460a09}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
       \field{abstract}{The integration of three-dimensional (3D) printing techniques into the domains of biomedical research and personalized medicine highlights the evolving paradigm shifts within contemporary healthcare}
@@ -535,9 +585,13 @@
       \field{shortjournal}{Explor Med.}
       \field{shorttitle}{{{3D}} Printing in Biomedicine}
       \field{title}{{{3D}} Printing in Biomedicine: Advancing Personalized Care through Additive Manufacturing}
+      \field{urlday}{17}
+      \field{urlmonth}{2}
+      \field{urlyear}{2025}
       \field{volume}{4}
       \field{year}{2023}
       \field{dateera}{ce}
+      \field{urldateera}{ce}
       \field{pages}{1135\bibrangedash 1167}
       \range{pages}{33}
       \verb{doi}
@@ -545,6 +599,12 @@
       \endverb
       \verb{file}
       \verb /home/morban/Zotero/storage/M4NRPLU7/Pathak et al. - 2023 - 3D printing in biomedicine advancing personalized care through additive manufacturing.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.explorationpub.com/Journals/em/Article/1001200
+      \endverb
+      \verb{url}
+      \verb https://www.explorationpub.com/Journals/em/Article/1001200
       \endverb
     \endentry
     \entry{jonaetPredictionResidualStress2021}{article}{}{}
@@ -590,9 +650,13 @@
       \field{number}{7}
       \field{shortjournal}{Int J Adv Manuf Technol}
       \field{title}{Prediction of Residual Stress and Deformation Based on the Temperature Distribution in {{3D-printed}} Parts}
+      \field{urlday}{1}
+      \field{urlmonth}{3}
+      \field{urlyear}{2025}
       \field{volume}{113}
       \field{year}{2021}
       \field{dateera}{ce}
+      \field{urldateera}{ce}
       \field{pages}{2227\bibrangedash 2242}
       \range{pages}{16}
       \verb{doi}
@@ -600,6 +664,12 @@
       \endverb
       \verb{file}
       \verb /home/morban/Zotero/storage/5XTTSNIY/Jonaet et al. - 2021 - Prediction of residual stress and deformation based on the temperature distribution in 3D-printed pa.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://link-springer-com.proxyone.lib.nchu.edu.tw:8443/article/10.1007/s00170-021-06711-5
+      \endverb
+      \verb{url}
+      \verb https://link-springer-com.proxyone.lib.nchu.edu.tw:8443/article/10.1007/s00170-021-06711-5
       \endverb
     \endentry
     \entry{laureijsMetalAdditiveManufacturing}{online}{}{}
@@ -711,9 +781,13 @@
       \field{number}{6}
       \field{shortjournal}{Struct Multidisc Optim}
       \field{title}{Optimizing Supports for Additive Manufacturing}
+      \field{urlday}{20}
+      \field{urlmonth}{2}
+      \field{urlyear}{2025}
       \field{volume}{58}
       \field{year}{2018}
       \field{dateera}{ce}
+      \field{urldateera}{ce}
       \field{pages}{2493\bibrangedash 2515}
       \range{pages}{23}
       \verb{doi}
@@ -721,6 +795,12 @@
       \endverb
       \verb{file}
       \verb /home/morban/Zotero/storage/D9P8GW4K/Allaire and Bogosel - 2018 - Optimizing supports for additive manufacturing.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://link-springer-com.proxyone.lib.nchu.edu.tw:8443/article/10.1007/s00158-018-2125-x
+      \endverb
+      \verb{url}
+      \verb https://link-springer-com.proxyone.lib.nchu.edu.tw:8443/article/10.1007/s00158-018-2125-x
       \endverb
     \endentry
     \entry{kuoSupportStructureDesign2018}{article}{}{}
@@ -771,9 +851,13 @@
       \field{number}{1}
       \field{shortjournal}{Struct Multidisc Optim}
       \field{title}{Support Structure Design in Additive Manufacturing Based on Topology Optimization}
+      \field{urlday}{20}
+      \field{urlmonth}{2}
+      \field{urlyear}{2025}
       \field{volume}{57}
       \field{year}{2018}
       \field{dateera}{ce}
+      \field{urldateera}{ce}
       \field{pages}{183\bibrangedash 195}
       \range{pages}{13}
       \verb{doi}
@@ -781,6 +865,12 @@
       \endverb
       \verb{file}
       \verb /home/morban/Zotero/storage/786WBRIG/Kuo et al. - 2018 - Support structure design in additive manufacturing based on topology optimization.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://link-springer-com.proxyone.lib.nchu.edu.tw:8443/article/10.1007/s00158-017-1743-z
+      \endverb
+      \verb{url}
+      \verb https://link-springer-com.proxyone.lib.nchu.edu.tw:8443/article/10.1007/s00158-017-1743-z
       \endverb
     \endentry
     \entry{kumarTailoredSupportStructures2020}{incollection}{}{}
@@ -887,8 +977,8 @@
       \strng{authornamehash}{8aad6fb7557598718e24141f2c8e7286}
       \strng{authorfullhash}{c1cb81dfc61ace16dbb2d207cc3f8dca}
       \strng{authorfullhashraw}{c1cb81dfc61ace16dbb2d207cc3f8dca}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{This paper presents a topology optimization approach to design support structures with efficient thermal conductive capabilities for powder-bed based laser additive manufacturing (AM). A transient heat transfer model is proposed to simulate the temperature distribution of the point-by-point and layer-upon-layer AM process. The process model is seamlessly integrated into a density based structural topology optimization method with an adjoint based sensitivity analysis and a gradient based optimization. For a given prototype shape, the layout of the corresponding support structure is designed such that the thermal energy during the fabrication process can be efficiently transferred from the laser path to a prescribed heat sink. Besides, an overhang constraint is proposed and used together with an AM filter to avoid overhang features in both the optimized support structure and the prototype, ensuring the overall manufacturability. Numerical examples and discussions are given to demonstrate its applicability.}
@@ -898,9 +988,13 @@
       \field{month}{8}
       \field{shortjournal}{Computer Methods in Applied Mechanics and Engineering}
       \field{title}{Topology Optimization of Thermal Conductive Support Structures for Laser Additive Manufacturing}
+      \field{urlday}{20}
+      \field{urlmonth}{2}
+      \field{urlyear}{2025}
       \field{volume}{353}
       \field{year}{2019}
       \field{dateera}{ce}
+      \field{urldateera}{ce}
       \field{pages}{24\bibrangedash 43}
       \range{pages}{20}
       \verb{doi}
@@ -908,6 +1002,12 @@
       \endverb
       \verb{file}
       \verb /home/morban/Zotero/storage/ZGL56CML/S0045782519301938.html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0045782519301938
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0045782519301938
       \endverb
       \keyw{AM-process simulation,Heat transfer,Laser additive manufacturing,Support structure,Topology optimization}
     \endentry
@@ -1008,9 +1108,13 @@
       \field{number}{1}
       \field{shortjournal}{Virtual and Physical Prototyping}
       \field{title}{Topology Optimisation of Self-Supporting Structures Based on the Multi-Directional Additive Manufacturing Technique}
+      \field{urlday}{20}
+      \field{urlmonth}{2}
+      \field{urlyear}{2025}
       \field{volume}{18}
       \field{year}{2023}
       \field{dateera}{ce}
+      \field{urldateera}{ce}
       \field{pages}{e2271458}
       \range{pages}{-1}
       \verb{doi}
@@ -1018,6 +1122,12 @@
       \endverb
       \verb{file}
       \verb /home/morban/Zotero/storage/AJJ7IJQH/Ye et al. - 2023 - Topology optimisation of self-supporting structures based on the multi-directional additive manufact.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.tandfonline.com/doi/full/10.1080/17452759.2023.2271458
+      \endverb
+      \verb{url}
+      \verb https://www.tandfonline.com/doi/full/10.1080/17452759.2023.2271458
       \endverb
     \endentry
     \entry{langelaarTOPOLOGYOPTIMIZATIONADDITIVE2016}{inproceedings}{}{}
@@ -1052,8 +1162,12 @@
       \field{isbn}{978-618-82844-0-1}
       \field{langid}{english}
       \field{title}{{{TOPOLOGY OPTIMIZATION FOR ADDITIVE MANUFACTURING WITH CONTROLLABLE SUPPORT STRUCTURE COSTS}}}
+      \field{urlday}{20}
+      \field{urlmonth}{2}
+      \field{urlyear}{2025}
       \field{year}{2016}
       \field{dateera}{ce}
+      \field{urldateera}{ce}
       \field{pages}{3689\bibrangedash 3699}
       \range{pages}{11}
       \verb{doi}
@@ -1061,6 +1175,12 @@
       \endverb
       \verb{file}
       \verb /home/morban/Zotero/storage/RI5U8F23/Langelaar - 2016 - TOPOLOGY OPTIMIZATION FOR ADDITIVE MANUFACTURING WITH CONTROLLABLE SUPPORT STRUCTURE COSTS.pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://www.eccomasproceedia.org/conferences/eccomas-congresses/eccomas-congress-2016/2065
+      \endverb
+      \verb{url}
+      \verb http://www.eccomasproceedia.org/conferences/eccomas-congresses/eccomas-congress-2016/2065
       \endverb
     \endentry
     \entry{hornbergerFiniteElementMethod2005}{incollection}{}{}
@@ -1097,8 +1217,12 @@
       \field{langid}{english}
       \field{shorttitle}{The {{Finite Element Method}}}
       \field{title}{The {{Finite Element Method}}: {{An Introduction}}}
+      \field{urlday}{24}
+      \field{urlmonth}{2}
+      \field{urlyear}{2025}
       \field{year}{2005}
       \field{dateera}{ce}
+      \field{urldateera}{ce}
       \field{pages}{1\bibrangedash 10}
       \range{pages}{10}
       \verb{doi}
@@ -1106,6 +1230,12 @@
       \endverb
       \verb{file}
       \verb /home/morban/Zotero/storage/FAGPBUJ2/9781118709528.html
+      \endverb
+      \verb{urlraw}
+      \verb https://onlinelibrary.wiley.com/doi/abs/10.1002/9781118709528.ch10
+      \endverb
+      \verb{url}
+      \verb https://onlinelibrary.wiley.com/doi/abs/10.1002/9781118709528.ch10
       \endverb
     \endentry
     \entry{kohnOptimalDesignRelaxation1986}{article}{}{}
@@ -1140,9 +1270,13 @@
       \field{number}{1}
       \field{shortjournal}{Comm Pure Appl Math}
       \field{title}{Optimal Design and Relaxation of Variational Problems, {{I}}}
+      \field{urlday}{24}
+      \field{urlmonth}{2}
+      \field{urlyear}{2025}
       \field{volume}{39}
       \field{year}{1986}
       \field{dateera}{ce}
+      \field{urldateera}{ce}
       \field{pages}{113\bibrangedash 137}
       \range{pages}{25}
       \verb{doi}
@@ -1150,6 +1284,12 @@
       \endverb
       \verb{file}
       \verb /home/morban/Zotero/storage/9NE6ZUCG/Kohn and Strang - 1986 - Optimal design and relaxation of variational problems, I.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://onlinelibrary.wiley.com/doi/10.1002/cpa.3160390107
+      \endverb
+      \verb{url}
+      \verb https://onlinelibrary.wiley.com/doi/10.1002/cpa.3160390107
       \endverb
     \endentry
     \entry{liuEfficient3DTopology2014}{article}{}{}
@@ -1185,9 +1325,13 @@
       \field{number}{6}
       \field{shortjournal}{Struct Multidisc Optim}
       \field{title}{An Efficient {{3D}} Topology Optimization Code Written in {{Matlab}}}
+      \field{urlday}{17}
+      \field{urlmonth}{12}
+      \field{urlyear}{2023}
       \field{volume}{50}
       \field{year}{2014}
       \field{dateera}{ce}
+      \field{urldateera}{ce}
       \field{pages}{1175\bibrangedash 1196}
       \range{pages}{22}
       \verb{doi}
@@ -1195,6 +1339,12 @@
       \endverb
       \verb{file}
       \verb /home/morban/Zotero/storage/L4DTCVBG/Liu and Tovar - 2014 - An efficient 3D topology optimization code written.pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://link.springer.com/10.1007/s00158-014-1107-x
+      \endverb
+      \verb{url}
+      \verb http://link.springer.com/10.1007/s00158-014-1107-x
       \endverb
     \endentry
     \entry{haberNewApproachVariabletopology1996}{article}{}{}
@@ -1236,9 +1386,13 @@
       \field{number}{1}
       \field{shortjournal}{Structural Optimization}
       \field{title}{A New Approach to Variable-Topology Shape Design Using a Constraint on Perimeter}
+      \field{urlday}{12}
+      \field{urlmonth}{9}
+      \field{urlyear}{2024}
       \field{volume}{11}
       \field{year}{1996}
       \field{dateera}{ce}
+      \field{urldateera}{ce}
       \field{pages}{1\bibrangedash 12}
       \range{pages}{12}
       \verb{doi}
@@ -1246,6 +1400,12 @@
       \endverb
       \verb{file}
       \verb /home/morban/Zotero/storage/PMFPVMYI/Haber et al. - 1996 - A new approach to variable-topology shape design using a constraint on perimeter.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1007/BF01279647
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/BF01279647
       \endverb
       \keyw{Characteristic Length,Characteristic Length Scale,Design Problem,Optimal Design,Shape Optimization}
     \endentry
@@ -1275,9 +1435,13 @@
       \field{langid}{english}
       \field{number}{7}
       \field{title}{Topology Design of Structures Using a Dual Algorithm and a Constraint on the Perimeter}
+      \field{urlday}{24}
+      \field{urlmonth}{2}
+      \field{urlyear}{2025}
       \field{volume}{54}
       \field{year}{2002}
       \field{dateera}{ce}
+      \field{urldateera}{ce}
       \field{pages}{1007\bibrangedash 1019}
       \range{pages}{13}
       \verb{doi}
@@ -1285,6 +1449,12 @@
       \endverb
       \verb{file}
       \verb /home/morban/Zotero/storage/BNSWZF3M/nme.html
+      \endverb
+      \verb{urlraw}
+      \verb https://onlinelibrary.wiley.com/doi/abs/10.1002/nme.457
+      \endverb
+      \verb{url}
+      \verb https://onlinelibrary.wiley.com/doi/abs/10.1002/nme.457
       \endverb
       \keyw{continuum structures,discrete variables,topology optimization}
     \endentry
@@ -1311,17 +1481,27 @@
       \strng{authorfullhash}{066757951bb74a0ccbc836e088427aea}
       \strng{authorfullhashraw}{066757951bb74a0ccbc836e088427aea}
       \field{extraname}{1}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{isbn}{978-3-662-03117-9 978-3-662-03115-5}
       \field{langid}{english}
       \field{title}{Optimization of {{Structural Topology}}, {{Shape}}, and {{Material}}}
+      \field{urlday}{24}
+      \field{urlmonth}{2}
+      \field{urlyear}{2025}
       \field{year}{1995}
       \field{dateera}{ce}
+      \field{urldateera}{ce}
       \verb{doi}
       \verb 10.1007/978-3-662-03115-5
+      \endverb
+      \verb{urlraw}
+      \verb http://link.springer.com/10.1007/978-3-662-03115-5
+      \endverb
+      \verb{url}
+      \verb http://link.springer.com/10.1007/978-3-662-03115-5
       \endverb
       \keyw{algorithms,applied mechanics,design,design process,engineering design,Materials,Mathematical Optimization,mechanics,optimization,structural optimization,Structures,Topological,topology}
     \endentry
@@ -1376,14 +1556,24 @@
       \field{isbn}{978-1-4419-2942-6 978-1-4684-9286-6}
       \field{series}{Applied {{Mathematical Sciences}}}
       \field{title}{Shape {{Optimization}} by the {{Homogenization Method}}}
+      \field{urlday}{24}
+      \field{urlmonth}{2}
+      \field{urlyear}{2025}
       \field{volume}{146}
       \field{year}{2002}
       \field{dateera}{ce}
+      \field{urldateera}{ce}
       \verb{doi}
       \verb 10.1007/978-1-4684-9286-6
       \endverb
       \verb{file}
       \verb /home/morban/Zotero/storage/W4HAGIV4/Allaire - 2002 - Shape Optimization by the Homogenization Method.pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://link.springer.com/10.1007/978-1-4684-9286-6
+      \endverb
+      \verb{url}
+      \verb http://link.springer.com/10.1007/978-1-4684-9286-6
       \endverb
       \keyw{algorithm,analysis,mathematical modeling,mathematics,mechanical engineering,model,modeling,optimization,quality,simulation,structure}
     \endentry
@@ -1420,9 +1610,13 @@
       \field{number}{3}
       \field{shortjournal}{Computer Methods in Applied Mechanics and Engineering}
       \field{title}{A Homogenization Method for Shape and Topology Optimization}
+      \field{urlday}{24}
+      \field{urlmonth}{2}
+      \field{urlyear}{2025}
       \field{volume}{93}
       \field{year}{1991}
       \field{dateera}{ce}
+      \field{urldateera}{ce}
       \field{pages}{291\bibrangedash 318}
       \range{pages}{28}
       \verb{doi}
@@ -1430,6 +1624,12 @@
       \endverb
       \verb{file}
       \verb /home/morban/Zotero/storage/3ZCQK9DR/Suzuki and Kikuchi - 1991 - A homogenization method for shape and topology optimization.pdf;/home/morban/Zotero/storage/RUY9XZJW/0045782591902452.html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/0045782591902452
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/0045782591902452
       \endverb
     \endentry
     \entry{pietropaoliThreedimensionalFluidTopology2019}{article}{}{}
@@ -1471,9 +1671,13 @@
       \field{number}{3}
       \field{shortjournal}{Struct Multidisc Optim}
       \field{title}{Three-Dimensional Fluid Topology Optimization for Heat Transfer}
+      \field{urlday}{21}
+      \field{urlmonth}{12}
+      \field{urlyear}{2024}
       \field{volume}{59}
       \field{year}{2019}
       \field{dateera}{ce}
+      \field{urldateera}{ce}
       \field{pages}{801\bibrangedash 812}
       \range{pages}{12}
       \verb{doi}
@@ -1481,6 +1685,12 @@
       \endverb
       \verb{file}
       \verb /home/morban/Zotero/storage/K6XNEGKZ/Pietropaoli et al. - 2019 - Three-dimensional fluid topology optimization for heat transfer.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1007/s00158-018-2102-4
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/s00158-018-2102-4
       \endverb
       \keyw{Additive manufacturing,Conjugate heat transfer,Gas turbine coolant system,Topology optimization}
     \endentry
@@ -1518,9 +1728,13 @@
       \field{number}{8}
       \field{shortjournal}{Numerical Meth Engineering}
       \field{title}{Homogenization‐based Topology Optimization for High‐resolution Manufacturable Microstructures}
+      \field{urlday}{24}
+      \field{urlmonth}{2}
+      \field{urlyear}{2025}
       \field{volume}{113}
       \field{year}{2018}
       \field{dateera}{ce}
+      \field{urldateera}{ce}
       \field{pages}{1148\bibrangedash 1163}
       \range{pages}{16}
       \verb{doi}
@@ -1528,6 +1742,12 @@
       \endverb
       \verb{file}
       \verb /home/morban/Zotero/storage/XUHKWG59/Groen and Sigmund - 2018 - Homogenization‐based topology optimization for high‐resolution manufacturable microstructures.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://onlinelibrary.wiley.com/doi/10.1002/nme.5575
+      \endverb
+      \verb{url}
+      \verb https://onlinelibrary.wiley.com/doi/10.1002/nme.5575
       \endverb
     \endentry
     \entry{alexandersenTopologyOptimisationManufacturable2015}{article}{}{}
@@ -1562,9 +1782,13 @@
       \field{month}{6}
       \field{shortjournal}{Computer Methods in Applied Mechanics and Engineering}
       \field{title}{Topology Optimisation of Manufacturable Microstructural Details without Length Scale Separation Using a Spectral Coarse Basis Preconditioner}
+      \field{urlday}{24}
+      \field{urlmonth}{2}
+      \field{urlyear}{2025}
       \field{volume}{290}
       \field{year}{2015}
       \field{dateera}{ce}
+      \field{urldateera}{ce}
       \field{pages}{156\bibrangedash 182}
       \range{pages}{27}
       \verb{doi}
@@ -1572,6 +1796,12 @@
       \endverb
       \verb{file}
       \verb /home/morban/Zotero/storage/JGIN46NU/Alexandersen and Lazarov - 2015 - Topology optimisation of manufacturable microstructural details without length scale separation usin.pdf;/home/morban/Zotero/storage/U98QS3PW/S0045782515000924.html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0045782515000924
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0045782515000924
       \endverb
       \keyw{Manufacturability,Microstructure,Multiscale design,Multiscale FEM,Spectral preconditioner,Topology optimisation}
     \endentry
@@ -1615,9 +1845,13 @@
       \field{series}{Simulation for {{Additive Manufacturing}}}
       \field{shortjournal}{Computers \& Mathematics with Applications}
       \field{title}{Topology Optimization of Modulated and Oriented Periodic Microstructures by the Homogenization Method}
+      \field{urlday}{24}
+      \field{urlmonth}{2}
+      \field{urlyear}{2025}
       \field{volume}{78}
       \field{year}{2019}
       \field{dateera}{ce}
+      \field{urldateera}{ce}
       \field{pages}{2197\bibrangedash 2229}
       \range{pages}{33}
       \verb{doi}
@@ -1625,6 +1859,12 @@
       \endverb
       \verb{file}
       \verb /home/morban/Zotero/storage/WICM8MLW/Allaire et al. - 2019 - Topology optimization of modulated and oriented periodic microstructures by the homogenization metho.pdf;/home/morban/Zotero/storage/EW5RL7PI/S0898122118304255.html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0898122118304255
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0898122118304255
       \endverb
       \keyw{Homogenization,Lattice materials,Topology optimization}
     \endentry
@@ -1681,9 +1921,13 @@
       \field{month}{9}
       \field{shortjournal}{Computer Methods in Applied Mechanics and Engineering}
       \field{title}{Topology Optimization of Functionally Graded Anisotropic Composite Structures Using Homogenization Design Method}
+      \field{urlday}{24}
+      \field{urlmonth}{2}
+      \field{urlyear}{2025}
       \field{volume}{369}
       \field{year}{2020}
       \field{dateera}{ce}
+      \field{urldateera}{ce}
       \field{pages}{113220}
       \range{pages}{1}
       \verb{doi}
@@ -1691,6 +1935,12 @@
       \endverb
       \verb{file}
       \verb /home/morban/Zotero/storage/FSIVKSLU/S0045782520304059.html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0045782520304059
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0045782520304059
       \endverb
       \keyw{Compliance minimization,Functionally graded anisotropic composite,Homogenization design method,Topology optimization}
     \endentry
@@ -1733,9 +1983,13 @@
       \field{month}{9}
       \field{number}{5}
       \field{title}{Computational Homogenization of Additively Manufactured Lightweight Structures with Multiscale Topology Optimization}
+      \field{urlday}{24}
+      \field{urlmonth}{2}
+      \field{urlyear}{2025}
       \field{volume}{9}
       \field{year}{2022}
       \field{dateera}{ce}
+      \field{urldateera}{ce}
       \field{pages}{1602\bibrangedash 1615}
       \range{pages}{14}
       \verb{doi}
@@ -1743,6 +1997,12 @@
       \endverb
       \verb{file}
       \verb /home/morban/Zotero/storage/CE4HDTF3/Kim et al. - 2022 - Computational homogenization of additively manufactured lightweight structures with multiscale topol.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://academic.oup.com/jcde/article/9/5/1602/6660651
+      \endverb
+      \verb{url}
+      \verb https://academic.oup.com/jcde/article/9/5/1602/6660651
       \endverb
     \endentry
     \entry{allaireTopologyOptimizationMinimum2004}{article}{}{}
@@ -1785,13 +2045,23 @@
       \field{number}{2}
       \field{shortjournal}{Struct Multidisc Optim}
       \field{title}{Topology Optimization for Minimum Stress Design with the Homogenization Method}
+      \field{urlday}{24}
+      \field{urlmonth}{2}
+      \field{urlyear}{2025}
       \field{volume}{28}
       \field{year}{2004}
       \field{dateera}{ce}
+      \field{urldateera}{ce}
       \field{pages}{87\bibrangedash 98}
       \range{pages}{12}
       \verb{doi}
       \verb 10.1007/s00158-004-0442-8
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1007/s00158-004-0442-8
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/s00158-004-0442-8
       \endverb
       \keyw{homogenization,laminated composites,topology optimization}
     \endentry
@@ -1832,8 +2102,8 @@
       \strng{authorfullhash}{7a508d2791fa28df377d7919abfcb102}
       \strng{authorfullhashraw}{7a508d2791fa28df377d7919abfcb102}
       \field{extraname}{3}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
       \field{abstract}{Topology optimization of structures is nowadays a well developed field with many different approaches and a wealth of applications. One of the earliest methods of topology optimization was the so-called homogenization method, introduced in the early eighties. It became extremely popular in its over-simplified version, called SIMP (Solid Isotropic Material with Penalisation), which retains only the notion of material density and forgets about true composite materials with optimal (possibly non isotropic) microstructures. However, the appearance of mature additive manufacturing technologies which are able to build finely graded microstructures (sometimes called lattice materials) drastically change the picture and one can see a resurrection of the homogenization method for such applications. Indeed, homogenization is the right technique to deal with microstructured materials where anisotropy plays a key role, a feature which is absent from SIMP. Homogenization theory allows to replace the microscopic details of the structure (typically a complex networks of bars, trusses and plates) by a simpler effective elasticity tensor describing the mesoscopic properties of the structure. The goal of these lecture notes is to review the necessary mathematical tools of homogenization theory and apply them to topology optimization of mechanical structures. The ultimate application, targeted here, is the topology optimization of structures built with lattice materials. Practical and numerical exercises are given, based on the finite element free software FreeFem++.}
@@ -1884,13 +2154,23 @@
       \field{number}{4}
       \field{shortjournal}{Structural Optimization}
       \field{title}{Optimal Shape Design as a Material Distribution Problem}
+      \field{urlday}{24}
+      \field{urlmonth}{2}
+      \field{urlyear}{2025}
       \field{volume}{1}
       \field{year}{1989}
       \field{dateera}{ce}
+      \field{urldateera}{ce}
       \field{pages}{193\bibrangedash 202}
       \range{pages}{10}
       \verb{doi}
       \verb 10.1007/BF01650949
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1007/BF01650949
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/BF01650949
       \endverb
       \keyw{Boundary Variation,Material Distribution,Material Parameter,Optimal Shape,Shape Design}
     \endentry
@@ -1933,13 +2213,23 @@
       \field{number}{3}
       \field{shortjournal}{Structural Optimization}
       \field{title}{Generalized Shape Optimization without Homogenization}
+      \field{urlday}{24}
+      \field{urlmonth}{2}
+      \field{urlyear}{2025}
       \field{volume}{4}
       \field{year}{1992}
       \field{dateera}{ce}
+      \field{urldateera}{ce}
       \field{pages}{250\bibrangedash 252}
       \range{pages}{3}
       \verb{doi}
       \verb 10.1007/BF01742754
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1007/BF01742754
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/BF01742754
       \endverb
       \keyw{Civil Engineer,Microstructure,Minimum Weight,Optimal Topology,Shape Optimization}
     \endentry
@@ -2000,9 +2290,13 @@
       \field{number}{6}
       \field{shortjournal}{Struct Multidisc Optim}
       \field{title}{On Projection Methods, Convergence and Robust Formulations in Topology Optimization}
+      \field{urlday}{25}
+      \field{urlmonth}{2}
+      \field{urlyear}{2025}
       \field{volume}{43}
       \field{year}{2011}
       \field{dateera}{ce}
+      \field{urldateera}{ce}
       \field{pages}{767\bibrangedash 784}
       \range{pages}{18}
       \verb{doi}
@@ -2010,6 +2304,12 @@
       \endverb
       \verb{file}
       \verb /home/morban/Zotero/storage/A47NMVSQ/Wang et al. - 2011 - On projection methods, convergence and robust formulations in topology optimization.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://link.springer.com/10.1007/s00158-010-0602-y
+      \endverb
+      \verb{url}
+      \verb https://link.springer.com/10.1007/s00158-010-0602-y
       \endverb
     \endentry
     \entry{lazarovFiltersTopologyOptimization2011}{article}{}{}
@@ -2043,9 +2343,13 @@
       \field{langid}{english}
       \field{number}{6}
       \field{title}{Filters in Topology Optimization Based on {{Helmholtz-type}} Differential Equations}
+      \field{urlday}{14}
+      \field{urlmonth}{9}
+      \field{urlyear}{2024}
       \field{volume}{86}
       \field{year}{2011}
       \field{dateera}{ce}
+      \field{urldateera}{ce}
       \field{pages}{765\bibrangedash 781}
       \range{pages}{17}
       \verb{doi}
@@ -2053,6 +2357,12 @@
       \endverb
       \verb{file}
       \verb /home/morban/Zotero/storage/EXB9WWG2/Lazarov and Sigmund - 2011 - Filters in topology optimization based on Helmholtz-type differential equations.pdf;/home/morban/Zotero/storage/FD7K9T96/nme.html
+      \endverb
+      \verb{urlraw}
+      \verb https://onlinelibrary-wiley-com.proxyone.lib.nchu.edu.tw:8443/doi/abs/10.1002/nme.3072
+      \endverb
+      \verb{url}
+      \verb https://onlinelibrary-wiley-com.proxyone.lib.nchu.edu.tw:8443/doi/abs/10.1002/nme.3072
       \endverb
       \keyw{density filters,parallel computing,sensitivity filters,topology optimization}
     \endentry
@@ -2090,13 +2400,23 @@
       \field{number}{3}
       \field{shortjournal}{Numerical Meth Engineering}
       \field{title}{Topology Optimization Using a Continuous Density Field and Adaptive Mesh Refinement}
+      \field{urlday}{25}
+      \field{urlmonth}{2}
+      \field{urlyear}{2025}
       \field{volume}{113}
       \field{year}{2018}
       \field{dateera}{ce}
+      \field{urldateera}{ce}
       \field{pages}{357\bibrangedash 373}
       \range{pages}{17}
       \verb{doi}
       \verb 10.1002/nme.5617
+      \endverb
+      \verb{urlraw}
+      \verb https://onlinelibrary.wiley.com/doi/10.1002/nme.5617
+      \endverb
+      \verb{url}
+      \verb https://onlinelibrary.wiley.com/doi/10.1002/nme.5617
       \endverb
     \endentry
     \entry{PerformingTopologyOptimization}{online}{}{}
@@ -2152,8 +2472,8 @@
       \strng{authorfullhash}{a04f459f767dfefb0f93ed44f7aff81d}
       \strng{authorfullhashraw}{a04f459f767dfefb0f93ed44f7aff81d}
       \field{extraname}{1}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{To prevent numerical instabilities and ensure manufacturability, restrictions should be applied in topology optimization. In this paper, a volume preserving density filter based on Heaviside functions is presented. Different from earlier Heaviside density filters, this filter is volume preserving, which ensures efficiency and stability in optimization. The new filter is compared with four other filters through a compliance minimization problem.}
@@ -2166,9 +2486,13 @@
       \field{number}{4}
       \field{shortjournal}{Struct Multidisc Optim}
       \field{title}{Volume Preserving Nonlinear Density Filter Based on Heaviside Functions}
+      \field{urlday}{27}
+      \field{urlmonth}{2}
+      \field{urlyear}{2025}
       \field{volume}{41}
       \field{year}{2010}
       \field{dateera}{ce}
+      \field{urldateera}{ce}
       \field{pages}{495\bibrangedash 505}
       \range{pages}{11}
       \verb{doi}
@@ -2176,6 +2500,12 @@
       \endverb
       \verb{file}
       \verb /home/morban/Zotero/storage/BYQDE5XB/Xu et al. - 2010 - Volume preserving nonlinear density filter based on heaviside functions.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://link-springer-com.proxyone.lib.nchu.edu.tw:8443/article/10.1007/s00158-009-0452-7
+      \endverb
+      \verb{url}
+      \verb https://link-springer-com.proxyone.lib.nchu.edu.tw:8443/article/10.1007/s00158-009-0452-7
       \endverb
     \endentry
     \entry{bendsoeGeneratingOptimalTopologies1988}{article}{}{}
@@ -2211,9 +2541,13 @@
       \field{number}{2}
       \field{shortjournal}{Computer Methods in Applied Mechanics and Engineering}
       \field{title}{Generating Optimal Topologies in Structural Design Using a Homogenization Method}
+      \field{urlday}{24}
+      \field{urlmonth}{2}
+      \field{urlyear}{2025}
       \field{volume}{71}
       \field{year}{1988}
       \field{dateera}{ce}
+      \field{urldateera}{ce}
       \field{pages}{197\bibrangedash 224}
       \range{pages}{28}
       \verb{doi}
@@ -2221,6 +2555,12 @@
       \endverb
       \verb{file}
       \verb /home/morban/Zotero/storage/WX7LYVL5/Bendsøe and Kikuchi - 1988 - Generating optimal topologies in structural design using a homogenization method.pdf;/home/morban/Zotero/storage/BIE4T6YY/0045782588900862.html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/0045782588900862
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/0045782588900862
       \endverb
     \endentry
     \entry{bendsoeMaterialInterpolationSchemes1999}{article}{}{}
@@ -2290,9 +2630,13 @@
       \field{month}{10}
       \field{shortjournal}{Finite Elements in Analysis and Design}
       \field{title}{Topology Optimization Considering the Distortion in Additive Manufacturing}
+      \field{urlday}{28}
+      \field{urlmonth}{5}
+      \field{urlyear}{2024}
       \field{volume}{193}
       \field{year}{2021}
       \field{dateera}{ce}
+      \field{urldateera}{ce}
       \field{pages}{103558}
       \range{pages}{1}
       \verb{doi}
@@ -2300,6 +2644,12 @@
       \endverb
       \verb{file}
       \verb /home/morban/Zotero/storage/DACWM87X/Miki and Yamada - 2021 - Topology optimization considering the distortion i.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0168874X21000421
+      \endverb
+      \verb{url}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0168874X21000421
       \endverb
     \endentry
     \entry{misiunTopologyOptimizationAdditive2021}{article}{}{}
@@ -2365,9 +2715,13 @@
       \field{month}{12}
       \field{shortjournal}{Computer Methods in Applied Mechanics and Engineering}
       \field{title}{Topology {{Optimization}} for Additive Manufacturing with Distortion Constraints}
+      \field{urlday}{5}
+      \field{urlmonth}{3}
+      \field{urlyear}{2025}
       \field{volume}{386}
       \field{year}{2021}
       \field{dateera}{ce}
+      \field{urldateera}{ce}
       \field{pages}{114095}
       \range{pages}{1}
       \verb{doi}
@@ -2375,6 +2729,12 @@
       \endverb
       \verb{file}
       \verb /home/morban/Zotero/storage/TEJ4MDBJ/Misiun et al. - 2021 - Topology Optimization for additive manufacturing with distortion constraints.pdf;/home/morban/Zotero/storage/W537N6YW/S0045782521004266.html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0045782521004266
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0045782521004266
       \endverb
       \keyw{Additive manufacturing,Inherent strains,Recoater collision,Shape distortions,Topology Optimization}
     \endentry
@@ -2415,9 +2775,13 @@
       \field{month}{12}
       \field{shortjournal}{Advances in Engineering Software}
       \field{title}{Robust Topology Optimization Considering Part Distortion and Process Variability in Additive Manufacturing}
+      \field{urlday}{9}
+      \field{urlmonth}{3}
+      \field{urlyear}{2025}
       \field{volume}{186}
       \field{year}{2023}
       \field{dateera}{ce}
+      \field{urldateera}{ce}
       \field{pages}{103551}
       \range{pages}{1}
       \verb{doi}
@@ -2425,6 +2789,12 @@
       \endverb
       \verb{file}
       \verb /home/morban/Zotero/storage/43JJYJ7N/Komini et al. - 2023 - Robust topology optimization considering part distortion and process variability in additive manufac.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0965997823001424
+      \endverb
+      \verb{url}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0965997823001424
       \endverb
     \endentry
     \entry{guoSelfsupportingStructureDesign2017}{article}{}{}
@@ -2479,9 +2849,13 @@
       \field{month}{8}
       \field{shortjournal}{Computer Methods in Applied Mechanics and Engineering}
       \field{title}{Self-Supporting Structure Design in Additive Manufacturing through Explicit Topology Optimization}
+      \field{urlday}{5}
+      \field{urlmonth}{3}
+      \field{urlyear}{2025}
       \field{volume}{323}
       \field{year}{2017}
       \field{dateera}{ce}
+      \field{urldateera}{ce}
       \field{pages}{27\bibrangedash 63}
       \range{pages}{37}
       \verb{doi}
@@ -2489,6 +2863,12 @@
       \endverb
       \verb{file}
       \verb /home/morban/Zotero/storage/WJX5V99N/Guo et al. - 2017 - Self-supporting structure design in additive manufacturing through explicit topology optimization.pdf;/home/morban/Zotero/storage/PBQKZ35P/S004578251631564X.html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S004578251631564X
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S004578251631564X
       \endverb
       \keyw{Additive manufacturing,Moving Morphable Component (MMC),Moving Morphable Void (MMV),Self-supporting structures,Topology optimization}
     \endentry
@@ -2534,9 +2914,13 @@
       \field{month}{10}
       \field{shortjournal}{Computer-Aided Design}
       \field{title}{Topology {{Optimization}} of {{Self-supporting Structures}} for {{Additive Manufacturing}} via {{Implicit B-spline Representations}}}
+      \field{urlday}{5}
+      \field{urlmonth}{3}
+      \field{urlyear}{2025}
       \field{volume}{175}
       \field{year}{2024}
       \field{dateera}{ce}
+      \field{urldateera}{ce}
       \field{pages}{103745}
       \range{pages}{1}
       \verb{doi}
@@ -2544,6 +2928,12 @@
       \endverb
       \verb{file}
       \verb /home/morban/Zotero/storage/SVK4FUPF/S0010448524000721.html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0010448524000721
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0010448524000721
       \endverb
       \keyw{Additive manufacturing,Self-supporting structure,Topology optimization}
     \endentry
@@ -2579,9 +2969,13 @@
       \field{month}{6}
       \field{shortjournal}{Computer Methods in Applied Mechanics and Engineering}
       \field{title}{Topology Optimization of Self-Supporting Structures with Polygon Features for Additive Manufacturing}
+      \field{urlday}{5}
+      \field{urlmonth}{3}
+      \field{urlyear}{2025}
       \field{volume}{334}
       \field{year}{2018}
       \field{dateera}{ce}
+      \field{urldateera}{ce}
       \field{pages}{56\bibrangedash 78}
       \range{pages}{23}
       \verb{doi}
@@ -2589,6 +2983,12 @@
       \endverb
       \verb{file}
       \verb /home/morban/Zotero/storage/5HGR4TJP/S0045782518300392.html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0045782518300392
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0045782518300392
       \endverb
       \keyw{Additive manufacturing,Polygon feature,Self-supporting,Topology optimization,V-shaped area}
     \endentry
@@ -2621,8 +3021,8 @@
       \strng{authornamehash}{fd9c7fe2f4d52cf08ebfade7cb4e3476}
       \strng{authorfullhash}{647ad57167d0129c68a66002cf781565}
       \strng{authorfullhashraw}{647ad57167d0129c68a66002cf781565}
-      \field{sortinit}{7}
-      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{The aim of this study is to identify the limitations of self-supporting structures and evaluate the deformations associated with overhang structures fabricated without support structures. To achieve these objectives, a series of experiments involving different overhang geometries were designed, fabricated, and evaluated. The formation of defects during the fabrication of overhanging structures is detailed, and the self-supporting limits for different overhangs are established. A segmentation strategy for the support structure addition is proposed and evaluated in different configurations for ledge overhangs to reduce the amount of support structures without affecting the overhang accuracy. Based on the inferences of this study, design rules are proposed for producing overhang structures through electron beam melting. The results identified the self-supporting limits for different overhang geometries. In addition, the proposed segmentation strategy for support generation in ledge overhangs resulted in reduction of support structure materials and post-processing time without any effect on the quality of the fabricated overhang.}
@@ -2635,13 +3035,23 @@
       \field{number}{5}
       \field{shortjournal}{Int J Adv Manuf Technol}
       \field{title}{Self-Supporting Overhang Structures Produced by Additive Manufacturing through Electron Beam Melting}
+      \field{urlday}{5}
+      \field{urlmonth}{3}
+      \field{urlyear}{2025}
       \field{volume}{104}
       \field{year}{2019}
       \field{dateera}{ce}
+      \field{urldateera}{ce}
       \field{pages}{2215\bibrangedash 2232}
       \range{pages}{18}
       \verb{doi}
       \verb 10.1007/s00170-019-04007-3
+      \endverb
+      \verb{urlraw}
+      \verb https://link-springer-com.proxyone.lib.nchu.edu.tw:8443/article/10.1007/s00170-019-04007-3
+      \endverb
+      \verb{url}
+      \verb https://link-springer-com.proxyone.lib.nchu.edu.tw:8443/article/10.1007/s00170-019-04007-3
       \endverb
     \endentry
     \entry{xuSupportStructureTopology2024}{article}{}{}
@@ -2698,9 +3108,13 @@
       \field{number}{10}
       \field{shortjournal}{Struct Multidisc Optim}
       \field{title}{Support Structure Topology Optimization Considering the Residual Distortion for Laser Powder Bed Fusion Metal Additive Manufacturing}
+      \field{urlday}{5}
+      \field{urlmonth}{3}
+      \field{urlyear}{2025}
       \field{volume}{67}
       \field{year}{2024}
       \field{dateera}{ce}
+      \field{urldateera}{ce}
       \field{pages}{1\bibrangedash 20}
       \range{pages}{20}
       \verb{doi}
@@ -2708,6 +3122,12 @@
       \endverb
       \verb{file}
       \verb /home/morban/Zotero/storage/ZCF33F2K/Xu et al. - 2024 - Support structure topology optimization considering the residual distortion for laser powder bed fus.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://link-springer-com.proxyone.lib.nchu.edu.tw:8443/article/10.1007/s00158-024-03883-y
+      \endverb
+      \verb{url}
+      \verb https://link-springer-com.proxyone.lib.nchu.edu.tw:8443/article/10.1007/s00158-024-03883-y
       \endverb
     \endentry
     \entry{leeSimultaneouslyOptimizingSupports2021}{article}{}{}
@@ -2742,9 +3162,13 @@
       \field{month}{12}
       \field{shortjournal}{Finite Elements in Analysis and Design}
       \field{title}{Simultaneously Optimizing Supports and Topology in Structural Design}
+      \field{urlday}{20}
+      \field{urlmonth}{2}
+      \field{urlyear}{2025}
       \field{volume}{197}
       \field{year}{2021}
       \field{dateera}{ce}
+      \field{urldateera}{ce}
       \field{pages}{103633}
       \range{pages}{1}
       \verb{doi}
@@ -2752,6 +3176,12 @@
       \endverb
       \verb{file}
       \verb /home/morban/Zotero/storage/H7HBWRIE/S0168874X21001177.html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0168874X21001177
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0168874X21001177
       \endverb
       \keyw{FEA,Simultaneous optimization,Support locations,Topology optimization}
     \endentry
@@ -2799,9 +3229,13 @@
       \field{number}{2}
       \field{shortjournal}{Struct Multidisc Optim}
       \field{title}{A Study on Practical Objectives and Constraints for Heat Conduction Topology Optimization}
+      \field{urlday}{4}
+      \field{urlmonth}{3}
+      \field{urlyear}{2025}
       \field{volume}{61}
       \field{year}{2020}
       \field{dateera}{ce}
+      \field{urldateera}{ce}
       \field{pages}{475\bibrangedash 489}
       \range{pages}{15}
       \verb{doi}
@@ -2809,6 +3243,12 @@
       \endverb
       \verb{file}
       \verb /home/morban/Zotero/storage/CGSM4M2Q/Lohan et al. - 2020 - A study on practical objectives and constraints for heat conduction topology optimization.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://link-springer-com.proxyone.lib.nchu.edu.tw:8443/article/10.1007/s00158-019-02369-6
+      \endverb
+      \verb{url}
+      \verb https://link-springer-com.proxyone.lib.nchu.edu.tw:8443/article/10.1007/s00158-019-02369-6
       \endverb
     \endentry
     \entry{lohanTopologyOptimizationHeat2017}{article}{}{}
@@ -2851,9 +3291,13 @@
       \field{number}{3}
       \field{shortjournal}{Struct Multidisc Optim}
       \field{title}{Topology Optimization for Heat Conduction Using Generative Design Algorithms}
+      \field{urlday}{5}
+      \field{urlmonth}{2}
+      \field{urlyear}{2024}
       \field{volume}{55}
       \field{year}{2017}
       \field{dateera}{ce}
+      \field{urldateera}{ce}
       \field{pages}{1063\bibrangedash 1077}
       \range{pages}{15}
       \verb{doi}
@@ -2861,6 +3305,12 @@
       \endverb
       \verb{file}
       \verb /home/morban/Zotero/storage/H8VPS84T/Lohan et al. - 2017 - Topology optimization for heat conduction using ge.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1007/s00158-016-1563-6
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/s00158-016-1563-6
       \endverb
       \keyw{Conductive heat transfer,Generative algorithms,Topology optimization}
     \endentry
@@ -2907,13 +3357,23 @@
       \field{number}{11}
       \field{shortjournal}{International Journal of Heat and Mass Transfer}
       \field{title}{Topology Optimization for Thermal Conductors Considering Design-Dependent Effects, Including Heat Conduction and Convection}
+      \field{urlday}{4}
+      \field{urlmonth}{9}
+      \field{urlyear}{2024}
       \field{volume}{52}
       \field{year}{2009}
       \field{dateera}{ce}
+      \field{urldateera}{ce}
       \field{pages}{2721\bibrangedash 2732}
       \range{pages}{12}
       \verb{doi}
       \verb 10.1016/j.ijheatmasstransfer.2008.12.013
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0017931009000271
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0017931009000271
       \endverb
       \keyw{Heat conduction,Heat convection,Homogenization theory,Structural analysis,Topology optimization}
     \endentry
@@ -2959,9 +3419,13 @@
       \field{number}{7--8}
       \field{shortjournal}{Int J Adv Manuf Technol}
       \field{title}{Topology Optimization of Lattice Support Structures for Heat Conduction in Selective Laser Melting}
+      \field{urlday}{24}
+      \field{urlmonth}{2}
+      \field{urlyear}{2024}
       \field{volume}{109}
       \field{year}{2020}
       \field{dateera}{ce}
+      \field{urldateera}{ce}
       \field{pages}{1841\bibrangedash 1851}
       \range{pages}{11}
       \verb{doi}
@@ -2969,6 +3433,12 @@
       \endverb
       \verb{file}
       \verb /home/morban/Zotero/storage/ZTHMZRH7/Huang et al. - 2020 - Topology optimization of lattice support structure.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://link.springer.com/10.1007/s00170-020-05741-9
+      \endverb
+      \verb{url}
+      \verb https://link.springer.com/10.1007/s00170-020-05741-9
       \endverb
     \endentry
     \entry{ogawaTopologyOptimizationTransient2022}{article}{}{}
@@ -3003,9 +3473,13 @@
       \field{month}{4}
       \field{shortjournal}{Finite Elements in Analysis and Design}
       \field{title}{Topology Optimization for Transient Response Problems Involving Thermoelastic Materials}
+      \field{urlday}{23}
+      \field{urlmonth}{5}
+      \field{urlyear}{2024}
       \field{volume}{201}
       \field{year}{2022}
       \field{dateera}{ce}
+      \field{urldateera}{ce}
       \field{pages}{103695}
       \range{pages}{1}
       \verb{doi}
@@ -3014,7 +3488,28 @@
       \verb{file}
       \verb /home/morban/Zotero/storage/C9YC9LFJ/Ogawa 與 Yamada - 2022 - Topology optimization for transient response probl.pdf;/home/morban/Zotero/storage/YH47AQUP/S0168874X21001694.html
       \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0168874X21001694
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0168874X21001694
+      \endverb
       \keyw{Adjoint sensitivity analysis,Dynamics analysis,Multi-objective optimization,Stress minimization,Thermoelasticity,Topology optimization}
+    \endentry
+    \entry{FreeCAD}{software}{}{}
+      \list{organization}{1}{%
+        {FreeCAD Team}%
+      }
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labeltitlesource}{title}
+      \field{title}{{{FreeCAD}}}
+      \verb{urlraw}
+      \verb https://www.freecad.org/
+      \endverb
+      \verb{url}
+      \verb https://www.freecad.org/
+      \endverb
     \endentry
     \entry{leopoldMinimallyInvasiveTotal2009}{article}{}{}
       \name{author}{1}{}{%
@@ -3088,9 +3583,13 @@
       \field{month}{11}
       \field{number}{11}
       \field{title}{On the {{Objective Function}} for {{Topology Optimization}} of {{Heat Sinks}}}
+      \field{urlday}{17}
+      \field{urlmonth}{3}
+      \field{urlyear}{2025}
       \field{volume}{11}
       \field{year}{2021}
       \field{dateera}{ce}
+      \field{urldateera}{ce}
       \field{pages}{1776\bibrangedash 1782}
       \range{pages}{7}
       \verb{doi}
@@ -3098,6 +3597,12 @@
       \endverb
       \verb{file}
       \verb /home/morban/Zotero/storage/L5D48V9F/9576508.html
+      \endverb
+      \verb{urlraw}
+      \verb https://ieeexplore.ieee.org/document/9576508
+      \endverb
+      \verb{url}
+      \verb https://ieeexplore.ieee.org/document/9576508
       \endverb
       \keyw{Geometry,Heat sink,Heat sinks,objective function,Optimization,Temperature distribution,Thermal resistance,Topology,topology optimization}
     \endentry
@@ -3134,9 +3639,13 @@
       \field{number}{6}
       \field{shortjournal}{J Mech Sci Technol}
       \field{title}{Topological Design of Heat Dissipating Structure with Forced Convective Heat Transfer}
+      \field{urlday}{17}
+      \field{urlmonth}{3}
+      \field{urlyear}{2025}
       \field{volume}{24}
       \field{year}{2010}
       \field{dateera}{ce}
+      \field{urldateera}{ce}
       \field{pages}{1225\bibrangedash 1233}
       \range{pages}{9}
       \verb{doi}
@@ -3144,6 +3653,12 @@
       \endverb
       \verb{file}
       \verb /home/morban/Zotero/storage/DZPRB6YX/Yoon - 2010 - Topological design of heat dissipating structure with forced convective heat transfer.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://link-springer-com.proxyone.lib.nchu.edu.tw:8443/article/10.1007/s12206-010-0328-1
+      \endverb
+      \verb{url}
+      \verb https://link-springer-com.proxyone.lib.nchu.edu.tw:8443/article/10.1007/s12206-010-0328-1
       \endverb
     \endentry
     \entry{brunsTopologyOptimizationConvectiondominated2007}{article}{}{}
@@ -3174,9 +3689,13 @@
       \field{number}{15}
       \field{shortjournal}{International Journal of Heat and Mass Transfer}
       \field{title}{Topology Optimization of Convection-Dominated, Steady-State Heat Transfer Problems}
+      \field{urlday}{17}
+      \field{urlmonth}{3}
+      \field{urlyear}{2025}
       \field{volume}{50}
       \field{year}{2007}
       \field{dateera}{ce}
+      \field{urldateera}{ce}
       \field{pages}{2859\bibrangedash 2873}
       \range{pages}{15}
       \verb{doi}
@@ -3184,6 +3703,12 @@
       \endverb
       \verb{file}
       \verb /home/morban/Zotero/storage/P5CX84KV/S0017931007001330.html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0017931007001330
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0017931007001330
       \endverb
       \keyw{Conduction,Convection,Heat transfer,Topology optimization}
     \endentry
@@ -3256,9 +3781,13 @@
       \field{number}{3--4}
       \field{shortjournal}{Int J Adv Manuf Technol}
       \field{title}{A Comprehensive Review on Metallic Implant Biomaterials and Their Subtractive Manufacturing}
+      \field{urlday}{17}
+      \field{urlmonth}{3}
+      \field{urlyear}{2025}
       \field{volume}{120}
       \field{year}{2022}
       \field{dateera}{ce}
+      \field{urldateera}{ce}
       \field{pages}{1473\bibrangedash 1530}
       \range{pages}{58}
       \verb{doi}
@@ -3269,6 +3798,12 @@
       \endverb
       \verb{file}
       \verb /home/morban/Zotero/storage/AKNII4GK/Davis et al. - 2022 - A comprehensive review on metallic implant biomaterials and their subtractive manufacturing.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8865884/
+      \endverb
+      \verb{url}
+      \verb https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8865884/
       \endverb
     \endentry
     \entry{svanbergMethodMovingAsymptotes1987}{article}{}{}
@@ -3297,9 +3832,13 @@
       \field{langid}{english}
       \field{number}{2}
       \field{title}{The Method of Moving Asymptotes—a New Method for Structural Optimization}
+      \field{urlday}{18}
+      \field{urlmonth}{3}
+      \field{urlyear}{2025}
       \field{volume}{24}
       \field{year}{1987}
       \field{dateera}{ce}
+      \field{urldateera}{ce}
       \field{pages}{359\bibrangedash 373}
       \range{pages}{15}
       \verb{doi}
@@ -3307,6 +3846,27 @@
       \endverb
       \verb{file}
       \verb /home/morban/Zotero/storage/9ZBEHZ96/nme.html
+      \endverb
+      \verb{urlraw}
+      \verb https://onlinelibrary.wiley.com/doi/abs/10.1002/nme.1620240207
+      \endverb
+      \verb{url}
+      \verb https://onlinelibrary.wiley.com/doi/abs/10.1002/nme.1620240207
+      \endverb
+    \endentry
+    \entry{NTop}{software}{}{}
+      \list{organization}{1}{%
+        {nTopology Inc.}%
+      }
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labeltitlesource}{title}
+      \field{title}{{{nTop}}}
+      \verb{urlraw}
+      \verb https://www.ntop.com/
+      \endverb
+      \verb{url}
+      \verb https://www.ntop.com/
       \endverb
     \endentry
     \entry{hexagonabProcessPropertiesInfosheet}{misc}{}{}
@@ -3368,13 +3928,23 @@
       \field{number}{1}
       \field{shortjournal}{Int J Adv Manuf Technol}
       \field{title}{Evaluation and Prediction of Thermal Defects in {{SLM-manufactured}} Tibial Components Using {{FEM-based}} Deep Learning and Statistic Methods}
+      \field{urlday}{18}
+      \field{urlmonth}{3}
+      \field{urlyear}{2025}
       \field{volume}{134}
       \field{year}{2024}
       \field{dateera}{ce}
+      \field{urldateera}{ce}
       \field{pages}{691\bibrangedash 709}
       \range{pages}{19}
       \verb{doi}
       \verb 10.1007/s00170-024-14139-w
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1007/s00170-024-14139-w
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/s00170-024-14139-w
       \endverb
       \keyw{Deep learning,Digital twin,Finite element analysis,Selective laser melting,Thermal deformation,Tibial component}
     \endentry
@@ -3424,9 +3994,13 @@
       \field{month}{3}
       \field{number}{1}
       \field{title}{Effects of {{Preheating}} on {{Thermal Behavior}} in {{Inconel}} 718 {{Processed}} by {{Additive Manufacturing}}}
+      \field{urlday}{18}
+      \field{urlmonth}{3}
+      \field{urlyear}{2025}
       \field{volume}{4}
       \field{year}{2024}
       \field{dateera}{ce}
+      \field{urldateera}{ce}
       \field{pages}{48\bibrangedash 64}
       \range{pages}{17}
       \verb{doi}
@@ -3434,6 +4008,12 @@
       \endverb
       \verb{file}
       \verb /home/morban/Zotero/storage/GBLIF7GY/Chowdhury et al. - 2024 - Effects of Preheating on Thermal Behavior in Inconel 718 Processed by Additive Manufacturing.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.mdpi.com/2673-7264/4/1/5
+      \endverb
+      \verb{url}
+      \verb https://www.mdpi.com/2673-7264/4/1/5
       \endverb
       \keyw{additive manufacturing,cooling rate,IN718,preheating,simulation,solidification map,temperature gradient}
     \endentry

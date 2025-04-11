@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2025.1.30)  10 APR 2025 16:51
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2025.1.30)  11 APR 2025 18:51
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1064,13 +1064,13 @@ Package biblatex Info: Automatic encoding selection.
 \openout3 = `main.bcf'.
 
 Package biblatex Info: Trying to load bibliographic data...
-Package biblatex Info: ... file 'main.bbl' found.
- (./main.bbl)
+Package biblatex Info: ... file 'main.bbl' not found.
+
+No file main.bbl.
 Package biblatex Info: Reference section=0 on input line 53.
 Package biblatex Info: Reference segment=0 on input line 53.
 LaTeX Info: Redefining \celsius on input line 53.
 Package gensymb Info: Faking symbols for \degree and \celsius on input line 53.
-
 
 Package gensymb Warning: Not defining \perthousand.
 
@@ -1152,6 +1152,18 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
  (./introduction/introduction.tex
 Chapter 1.
 
+LaTeX Warning: Citation 'varacalloTotalKneeArthroplasty2025' on page 2 undefined on input line 8.
+
+
+LaTeX Warning: Citation 'ElderlyDisadvantagedSituation2024' on page 2 undefined on input line 10.
+
+
+LaTeX Warning: Citation 'linIncreaseTotalKnee2018' on page 2 undefined on input line 10.
+
+
+LaTeX Warning: Citation 'narraAdditiveManufacturingTotal2019' on page 2 undefined on input line 12.
+
+
 
 [2
 
@@ -1164,6 +1176,9 @@ Chapter 1.
  (./litreview/litreview.tex
 Chapter 2.
 
+LaTeX Warning: Citation 'valinoAdvances3DPrinting2019' on page 4 undefined on input line 12.
+
+
 
 [4
 
@@ -1172,51 +1187,409 @@ Chapter 2.
 
 ]
 
+LaTeX Warning: Citation 'marshTrendsDevelopmentsHip2021' on page 5 undefined on input line 14.
+
+
+LaTeX Warning: Citation 'narraAdditiveManufacturingTotal2019' on page 5 undefined on input line 14.
+
+
+LaTeX Warning: Citation 'mobarakRecentAdvancesAdditive2023' on page 5 undefined on input line 14.
+
+
+LaTeX Warning: Citation 'pathak3DPrintingBiomedicine2023' on page 5 undefined on input line 14.
+
+
+LaTeX Warning: Citation 'jonaetPredictionResidualStress2021' on page 5 undefined on input line 16.
+
+
+LaTeX Warning: Citation 'narraAdditiveManufacturingTotal2019' on page 5 undefined on input line 18.
+
+
+LaTeX Warning: Citation 'laureijsMetalAdditiveManufacturing' on page 5 undefined on input line 18.
+
+
+LaTeX Warning: Citation 'laureijsMetalAdditiveManufacturing' on page 5 undefined on input line 18.
+
+
+Overfull \hbox (1.77168pt too wide) in paragraph at lines 18--19
+\TU/lmr/m/n/12 problem of high material costs, Laureijs et al. []
+ []
+
+
+
 [5]
+
+LaTeX Warning: Citation 'chungpei-hsuStudyLatticeSupport2024' on page 6 undefined on input line 20.
+
+
+LaTeX Warning: Citation 'allaireOptimizingSupportsAdditive2018' on page 6 undefined on input line 22.
+
+
+LaTeX Warning: Citation 'kuoSupportStructureDesign2018' on page 6 undefined on input line 22.
+
+
+LaTeX Warning: Citation 'kumarTailoredSupportStructures2020' on page 6 undefined on input line 22.
+
+
+LaTeX Warning: Citation 'allaireOptimizingSupportsAdditive2018' on page 6 undefined on input line 22.
+
+
+LaTeX Warning: Citation 'zhouTopologyOptimizationThermal2019' on page 6 undefined on input line 22.
+
+
+Overfull \hbox (19.45753pt too wide) in paragraph at lines 22--23
+[] []\TU/lmr/m/n/12 .Another
+ []
+
+
+Overfull \hbox (87.73352pt too wide) in paragraph at lines 22--23
+\TU/lmr/m/n/12 or warping [] []. 
+ []
+
+
 
 [6]
 
+LaTeX Warning: Citation 'bendsoeTopologyOptimization2002' on page 7 undefined on input line 24.
+
+
+LaTeX Warning: Citation 'yeTopologyOptimisationSelfsupporting2023' on page 7 undefined on input line 24.
+
+
+LaTeX Warning: Citation 'langelaarTOPOLOGYOPTIMIZATIONADDITIVE2016' on page 7 undefined on input line 24.
+
+
+
 [7]
+
+LaTeX Warning: Citation 'hornbergerFiniteElementMethod2005' on page 8 undefined on input line 41.
+
+
 
 [8]
 
+LaTeX Warning: Citation 'kohnOptimalDesignRelaxation1986' on page 9 undefined on input line 61.
+
+
+LaTeX Warning: Citation 'liuEfficient3DTopology2014' on page 9 undefined on input line 61.
+
+
+LaTeX Warning: Citation 'haberNewApproachVariabletopology1996' on page 9 undefined on input line 61.
+
+
+LaTeX Warning: Citation 'jogTopologyDesignStructures2002' on page 9 undefined on input line 61.
+
+
+LaTeX Warning: Citation 'jogTopologyDesignStructures2002' on page 9 undefined on input line 61.
+
+
+Overfull \hbox (55.28618pt too wide) in paragraph at lines 61--62
+\TU/lmr/m/n/12 mal size, thus rendering this compliance problem to be unbounded [].
+ []
+
+
+Overfull \hbox (19.10556pt too wide) in paragraph at lines 61--62
+\TU/lmr/m/n/12 lead to wildly different designs of the final structure []. 
+ []
+
+
+
 [9]
+
+LaTeX Warning: Citation 'bendsoeOptimizationStructuralTopology1995' on page 10 undefined on input line 63.
+
+
+LaTeX Warning: Citation 'allaireShapeOptimizationHomogenization2002' on page 10 undefined on input line 63.
+
+
+LaTeX Warning: Citation 'suzukiHomogenizationMethodShape1991' on page 10 undefined on input line 63.
+
+
+LaTeX Warning: Citation 'pietropaoliThreedimensionalFluidTopology2019' on page 10 undefined on input line 63.
+
+
+LaTeX Warning: Citation 'groenHomogenizationbasedTopologyOptimization2018' on page 10 undefined on input line 63.
+
+
+LaTeX Warning: Citation 'alexandersenTopologyOptimisationManufacturable2015' on page 10 undefined on input line 63.
+
+
+LaTeX Warning: Citation 'allaireTopologyOptimizationModulated2019' on page 10 undefined on input line 63.
+
+
+LaTeX Warning: Citation 'kimTopologyOptimizationFunctionally2020' on page 10 undefined on input line 63.
+
+
+LaTeX Warning: Citation 'kimComputationalHomogenizationAdditively2022' on page 10 undefined on input line 63.
+
+
+LaTeX Warning: Citation 'allaireTopologyOptimizationMinimum2004' on page 10 undefined on input line 63.
+
+
+LaTeX Warning: Citation 'allaireHomogenizationMethodTopology2019' on page 10 undefined on input line 63.
+
+
+Overfull \hbox (224.5281pt too wide) in paragraph at lines 63--64
+[]\TU/lmr/m/n/12 A different alternative would be the utilization of a homogenization method [],
+ []
+
+
+Overfull \hbox (72.04152pt too wide) in paragraph at lines 63--64
+[] []
+ []
+
+
+Overfull \hbox (60.40137pt too wide) in paragraph at lines 63--64
+\TU/lmr/m/n/12 values could be interpreted as porous media [].
+ []
+
+
+Overfull \hbox (135.14156pt too wide) in paragraph at lines 63--64
+\TU/lmr/m/n/12 materials with high-resolution microscopic features []
+ []
+
+
+Overfull \hbox (6.13435pt too wide) in paragraph at lines 63--64
+[]\TU/lmr/m/n/12 , materials that are com-
+ []
+
+
+Overfull \hbox (219.38138pt too wide) in paragraph at lines 63--64
+\TU/lmr/m/n/12 complex structures consisting of anisotropic fiber-reinforced composite materials [].
+ []
+
+
+Overfull \hbox (141.53339pt too wide) in paragraph at lines 63--64
+\TU/lmr/m/n/12 very fine meshes with high number of elements and nodes [].
+ []
+
+
+Overfull \hbox (147.46938pt too wide) in paragraph at lines 63--64
+\TU/lmr/m/n/12 compromise the stability or functionality of the manufactured part [].
+ []
+
+
 
 [10]
 
+LaTeX Warning: Citation 'bendsoeOptimalShapeDesign1989' on page 11 undefined on input line 65.
+
+
+LaTeX Warning: Citation 'rozvanyGeneralizedShapeOptimization1992' on page 11 undefined on input line 65.
+
+
+LaTeX Warning: Citation 'SIMPMethodTopologyb' on page 11 undefined on input line 65.
+
+
+Overfull \hbox (15.86934pt too wide) in paragraph at lines 65--66
+[] []\TU/lmr/m/n/12 .
+ []
+
+
+
 [11]
+
+LaTeX Warning: Citation 'wangProjectionMethodsConvergence2011a' on page 12 undefined on input line 85.
+
+
+LaTeX Warning: Citation 'liuEfficient3DTopology2014' on page 12 undefined on input line 85.
+
+
 
 [12]
 
-Package amsmath Warning: Cannot use `split' here;
-(amsmath)                trying to recover with `aligned' on input line 125.
+LaTeX Warning: Citation 'liuEfficient3DTopology2014' on page 13 undefined on input line 98.
+
+
+LaTeX Warning: Citation 'lazarovFiltersTopologyOptimization2011' on page 13 undefined on input line 106.
+
+
+LaTeX Warning: Citation 'lambeTopologyOptimizationUsing2018' on page 13 undefined on input line 113.
+
+
+LaTeX Warning: Citation 'PerformingTopologyOptimization' on page 13 undefined on input line 113.
 
 
 
 [13]
+
+LaTeX Warning: Citation 'xuVolumePreservingNonlinear2010' on page 14 undefined on input line 117.
+
+
+Package amsmath Warning: Cannot use `split' here;
+(amsmath)                trying to recover with `aligned' on input line 125.
+
 File: images/eta03.png Graphic file (type bmp)
 <images/eta03.png>
 File: images/eta08.png Graphic file (type bmp)
 <images/eta08.png>
+
+LaTeX Warning: Citation 'wangProjectionMethodsConvergence2011a' on page 14 undefined on input line 138.
+
+
+
+[14]
 File: images/hyp3.jpg Graphic file (type bmp)
 <images/hyp3.jpg>
 File: images/hyp8.jpg Graphic file (type bmp)
 <images/hyp8.jpg>
 
 
-[14]
-
 [15]
 
 [16]
 
+LaTeX Warning: Citation 'liuEfficient3DTopology2014' on page 17 undefined on input line 190.
+
+
+LaTeX Warning: Citation 'hornbergerFiniteElementMethod2005' on page 17 undefined on input line 192.
+
+
+Overfull \hbox (112.90639pt too wide) in paragraph at lines 192--193
+\TU/lmr/m/n/12 note summation, but instead the finite element assembly operator []. 
+ []
+
+
+LaTeX Warning: Citation 'bendsoeGeneratingOptimalTopologies1988' on page 17 undefined on input line 196.
+
+
+LaTeX Warning: Citation 'bendsoeOptimalShapeDesign1989' on page 17 undefined on input line 196.
+
+
+LaTeX Warning: Citation 'bendsoeOptimizationStructuralTopology1995' on page 17 undefined on input line 196.
+
+
+LaTeX Warning: Citation 'bendsoeMaterialInterpolationSchemes1999' on page 17 undefined on input line 196.
+
+
+LaTeX Warning: Citation 'bendsoeTopologyOptimization2002' on page 17 undefined on input line 196.
+
+
+LaTeX Warning: Citation 'groenHomogenizationbasedTopologyOptimization2018' on page 17 undefined on input line 196.
+
+
+LaTeX Warning: Citation 'lazarovFiltersTopologyOptimization2011' on page 17 undefined on input line 196.
+
+
+LaTeX Warning: Citation 'wangProjectionMethodsConvergence2011a' on page 17 undefined on input line 196.
+
+
+LaTeX Warning: Citation 'allaireShapeOptimizationHomogenization2002' on page 17 undefined on input line 196.
+
+
+LaTeX Warning: Citation 'allaireHomogenizationMethodTopology2019' on page 17 undefined on input line 196.
+
+
+Overfull \hbox (28.79178pt too wide) in paragraph at lines 196--197
+\TU/lmr/m/n/12 mund, Bendsoe, Lazarov, Wang and others [],
+ []
+
+
+Overfull \hbox (30.71014pt too wide) in paragraph at lines 196--197
+[]\TU/lmr/m/n/12 , [],
+ []
+
+
+Overfull \hbox (23.88214pt too wide) in paragraph at lines 196--197
+[]\TU/lmr/m/n/12 , [],
+ []
+
+
+Overfull \hbox (124.16614pt too wide) in paragraph at lines 196--197
+[]\TU/lmr/m/n/12 , [],
+ []
+
+
+Overfull \hbox (88.86214pt too wide) in paragraph at lines 196--197
+[]\TU/lmr/m/n/12 , [],
+ []
+
+
+
 [17]
+
+LaTeX Warning: Citation 'mikiTopologyOptimizationConsidering2021' on page 18 undefined on input line 198.
+
+
+LaTeX Warning: Citation 'misiunTopologyOptimizationAdditive2021' on page 18 undefined on input line 198.
+
+
+LaTeX Warning: Citation 'kominiRobustTopologyOptimization2023' on page 18 undefined on input line 198.
+
+
+Overfull \hbox (58.57759pt too wide) in paragraph at lines 198--199
+\TU/lmr/m/n/12 distortion of AM components. Miki and Yamada []
+ []
+
+
+LaTeX Warning: Citation 'guoSelfsupportingStructureDesign2017' on page 18 undefined on input line 200.
+
+
+LaTeX Warning: Citation 'zhengTopologyOptimizationSelfsupporting2024' on page 18 undefined on input line 200.
+
+
+LaTeX Warning: Citation 'zhangTopologyOptimizationSelfsupporting2018' on page 18 undefined on input line 200.
+
+
+LaTeX Warning: Citation 'ameenSelfsupportingOverhangStructures2019' on page 18 undefined on input line 200.
+
+
+LaTeX Warning: Citation 'xuSupportStructureTopology2024' on page 18 undefined on input line 200.
+
+
+LaTeX Warning: Citation 'leeSimultaneouslyOptimizingSupports2021' on page 18 undefined on input line 200.
+
+
+Overfull \hbox (31.5309pt too wide) in paragraph at lines 200--201
+\TU/lmr/m/n/12 method to constrain distortion. Lee and Xie []
+ []
+
+
 
 [18]
 
-[19])
+LaTeX Warning: Citation 'lohanStudyPracticalObjectives2020' on page 19 undefined on input line 202.
 
-[20]
+
+LaTeX Warning: Citation 'lohanTopologyOptimizationHeat2017' on page 19 undefined on input line 203.
+
+
+LaTeX Warning: Citation 'igaTopologyOptimizationThermal2009' on page 19 undefined on input line 203.
+
+
+LaTeX Warning: Citation 'huangTopologyOptimizationLattice2020' on page 19 undefined on input line 203.
+
+
+LaTeX Warning: Citation 'mikiTopologyOptimizationConsidering2021' on page 19 undefined on input line 203.
+
+
+LaTeX Warning: Citation 'ogawaTopologyOptimizationTransient2022' on page 19 undefined on input line 203.
+
+
+LaTeX Warning: Citation 'chungpei-hsuStudyLatticeSupport2024' on page 19 undefined on input line 203.
+
+
+Overfull \hbox (42.84825pt too wide) in paragraph at lines 202--204
+\TU/lmr/m/n/12 duce these residual stresses. The study by Iga et al. []
+ []
+
+
+Overfull \hbox (83.47626pt too wide) in paragraph at lines 202--204
+\TU/lmr/m/n/12 tion in the topology optimization algorithm. Huang et al. []
+ []
+
+
+Overfull \hbox (44.48824pt too wide) in paragraph at lines 202--204
+\TU/lmr/m/n/12 space of the support structure low. Miki et al. []
+ []
+
+
+
+[19]
+
+[20])
+
+[21]
 \openout2 = `methodology/methodology.aux'.
 
  (./methodology/methodology.tex
@@ -1224,8 +1597,19 @@ Chapter 3.
 File: images/process_diagram.png Graphic file (type bmp)
 <images/process_diagram.png>
 
+LaTeX Warning: Citation 'chungpei-hsuStudyLatticeSupport2024' on page 22 undefined on input line 26.
 
-[21
+
+LaTeX Warning: Citation 'FreeCAD' on page 22 undefined on input line 27.
+
+
+Overfull \hbox (113.08537pt too wide) in paragraph at lines 24--28
+\TU/lmr/m/n/12 comparison of results between this study and the study of Peishu [].
+ []
+
+
+
+[22
 
 
 
@@ -1247,15 +1631,27 @@ File: images/cyl40.png Graphic file (type bmp)
 <images/cyl40.png>
 File: images/femoral.png Graphic file (type bmp)
 <images/femoral.png>
+
+
+LaTeX Warning: Citation 'leopoldMinimallyInvasiveTotal2009' on page 23 undefined on input line 92.
+
+
+LaTeX Warning: Citation 'leopoldMinimallyInvasiveTotal2009' on page 23 undefined on input line 92.
+
+
+Underfull \hbox (badness 1852) in paragraph at lines 92--92
+[]\TU/lmr/m/n/12 Figure 3.5: |Components of total knee arthroplasty prosthesis. Taken from
+ []
+
 File: images/femoral2.png Graphic file (type bmp)
 <images/femoral2.png>
 
 
-[22]
-
 [23]
 
 [24]
+
+[25]
 File: images/designdomain3d.png Graphic file (type bmp)
 <images/designdomain3d.png>
 File: images/designdomain2d.png Graphic file (type bmp)
@@ -1266,35 +1662,53 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 
-[25]
-
 [26]
 
+LaTeX Warning: Citation 'leeObjectiveFunctionTopology2021' on page 27 undefined on input line 146.
+
+
+LaTeX Warning: Citation 'yoonTopologicalDesignHeat2010' on page 27 undefined on input line 146.
+
+
+LaTeX Warning: Citation 'brunsTopologyOptimizationConvectiondominated2007' on page 27 undefined on input line 146.
+
+
+Overfull \hbox (97.85434pt too wide) in paragraph at lines 146--147
+[]\TU/lmr/m/n/12 , and []. 
+ []
+
+
+
 [27]
+
+[28]
 File: images/mesh1.png Graphic file (type bmp)
 <images/mesh1.png>
 
 
-[28]
+[29]
 File: images/femmesh.png Graphic file (type bmp)
 <images/femmesh.png>
 
 
-[29]
+[30]
+
+LaTeX Warning: Citation 'davisComprehensiveReviewMetallic2022' on page 31 undefined on input line 181.
+
 File: images/heating.png Graphic file (type bmp)
 <images/heating.png>
 
 
-[30]
-
 [31]
-Overfull \hbox (3.22966pt too wide) in paragraph at lines 222--237
+
+[32]
+Overfull \hbox (199.26167pt too wide) in paragraph at lines 222--239
  [][] 
  []
 
 
 
-[32]
+[33]
 File: images/boundaryconds.png Graphic file (type bmp)
 <images/boundaryconds.png>
 File: images/side_mat_volfrac20.png Graphic file (type bmp)
@@ -1303,7 +1717,15 @@ File: images/side_void_volfrac20.png Graphic file (type bmp)
 <images/side_void_volfrac20.png>
 
 
-[33]
+[34]
+
+LaTeX Warning: Citation 'svanbergMethodMovingAsymptotes1987' on page 35 undefined on input line 273.
+
+
+Overfull \hbox (85.94006pt too wide) in paragraph at lines 273--274
+\TU/lmr/m/n/12 rithm utilized the method of moving asymptotes (MMA) [],
+ []
+
 File: images/excube.png Graphic file (type bmp)
 <images/excube.png>
 File: images/extriangle.png Graphic file (type bmp)
@@ -1313,10 +1735,13 @@ File: images/exround.png Graphic file (type bmp)
 File: images/exfemoral.png Graphic file (type bmp)
 <images/exfemoral.png>
 
+LaTeX Warning: Citation 'NTop' on page 35 undefined on input line 297.
 
-[34]
+
 
 [35]
+
+[36]
 File: images/meldcube.png Graphic file (type bmp)
 <images/meldcube.png>
 File: images/meldround.png Graphic file (type bmp)
@@ -1327,42 +1752,58 @@ File: images/meldfemoral2.png Graphic file (type bmp)
 <images/meldfemoral2.png>
 
 
-[36]
-
 [37]
+
+LaTeX Warning: Citation 'hexagonabProcessPropertiesInfosheet' on page 38 undefined on input line 329.
+
+
+LaTeX Warning: Citation 'chungpei-hsuStudyLatticeSupport2024' on page 38 undefined on input line 333.
+
+
+LaTeX Warning: Citation 'chungEvaluationPredictionThermal2024a' on page 38 undefined on input line 333.
+
+
 
 [38]
 
+LaTeX Warning: Citation 'chowdhuryEffectsPreheatingThermal2024' on page 39 undefined on input line 335.
+
+
+
 [39]
+
+[40]
 File: images/conv_average.png Graphic file (type bmp)
 <images/conv_average.png>
 File: images/conv_max.png Graphic file (type bmp)
 <images/conv_max.png>
 
 
-LaTeX Warning: Float too large for page by 66.63174pt on input line 435.
+LaTeX Warning: Float too large for page by 66.63174pt on input line 437.
 
 
 
-[40]
+[41]
 
-[41])
+[42])
 
-[42]
+[43]
 \openout2 = `results/results.aux'.
 
  (./results/results.tex
 Chapter 4.
 
 
-[43
+[44
 
 
 
 
 ]
 
-[44]
+[45]
+File: images/key.png Graphic file (type bmp)
+<images/key.png>
 File: images/cube _disp3.png Graphic file (type bmp)
 <images/cube _disp3.png>
 File: images/cube _dispmax3.png Graphic file (type bmp)
@@ -1431,8 +1872,6 @@ File: images/R40 _stressmax3.png Graphic file (type bmp)
 <images/R40 _stressmax3.png>
 
 
-[45]
-
 [46]
 
 [47]
@@ -1446,6 +1885,8 @@ File: images/R40 _stressmax3.png Graphic file (type bmp)
 [51]
 
 [52]
+
+[53]
 File: images/results/plots/femoral/displacement/disp_density_ridges.png Graphic file (type bmp)
 <images/results/plots/femoral/displacement/disp_density_ridges.png>
 
@@ -1461,7 +1902,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 
-[53
+[54
 
 ]
 File: images/results/plots/femoral/displacement/femoral_max_bad.png Graphic file (type bmp)
@@ -1477,9 +1918,13 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 
-[54]
-
 [55]
+
+LaTeX Warning: Text page 56 contains only floats.
+
+
+
+[56]
 File: images/results/plots/femoral/displacement/bins.png Graphic file (type bmp)
 <images/results/plots/femoral/displacement/bins.png>
 
@@ -1505,187 +1950,107 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 
-[56]
-
 [57]
 
 [58]
 
 [59]
+
+[60]
 File: images/results/plots/femoral/stress/stress_density_ridges.png Graphic file (type bmp)
 <images/results/plots/femoral/stress/stress_density_ridges.png>
-File: images/results/plots/femoral/stress/stress_stats.png Graphic file (type bmp)
-<images/results/plots/femoral/stress/stress_stats.png>
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
+File: images/results/plots/femoral/stress/stress_stats.png Graphic file (type bmp)
+<images/results/plots/femoral/stress/stress_stats.png>
 
+LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[60
-
-]
-
-[61]
 File: images/results/plots/femoral/stress/average_stress.png Graphic file (type bmp)
 <images/results/plots/femoral/stress/average_stress.png>
 File: images/results/plots/femoral/stress/femoral_average_group_stress.png Graphic file (type bmp)
 <images/results/plots/femoral/stress/femoral_average_group_stress.png>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
 File: images/results/plots/femoral/stress/maximum_stress.png Graphic file (type bmp)
 <images/results/plots/femoral/stress/maximum_stress.png>
 File: images/results/plots/femoral/stress/femoral_max_group_stress.png Graphic file (type bmp)
 <images/results/plots/femoral/stress/femoral_max_group_stress.png>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
 File: images/results/plots/femoral/stress/boxplots.png Graphic file (type bmp)
 <images/results/plots/femoral/stress/boxplots.png>
-
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 )
 
+[61
+
+]
+
+LaTeX Warning: Text page 62 contains only floats.
+
+
+
 [62]
 
 [63]
+
+[64]
+
+[65]
 \openout2 = `conclusion/conclusion.aux'.
 
  (./conclusion/conclusion.tex
 Chapter 5.
 
 
-[64
+[66
 
 
 
 
 ]
 
-[65])
-
-[66]
-
-Package fontspec Info: 
-(fontspec)             Script 'CJK' not explicitly supported within font
-(fontspec)             'FandolFang-Regular'. Check the typeset output, and if
-(fontspec)             it is okay then ignore this warning. Otherwise a
-(fontspec)             different font should be chosen.
-
-
-Package fontspec Info: 
-(fontspec)             Font family 'FandolFang-Regular(0)' created for font
-(fontspec)             'FandolFang-Regular' with options
-(fontspec)             [Script={CJK},Extension={.otf}].
-(fontspec)              
-(fontspec)              This font family consists of the following NFSS
-(fontspec)             series/shapes:
-(fontspec)              
-(fontspec)             - 'normal' (m/n) with NFSS spec.:
-(fontspec)             <->"[FandolFang-Regular.otf]/OT:script=hani;language=dflt;"
-
-
-
-[67
-
-
-
-]
-Overfull \hbox (3.2862pt too wide) in paragraph at lines 68--68
-[]\TU/lmr/m/n/12 K. Pathak et al., “3D printing in biomedicine: Advancing personalized care through
- []
-
-
-Overfull \hbox (3.82832pt too wide) in paragraph at lines 68--68
-\TU/lmr/m/n/12 Feb. 17, 2025. [Online]. Available: $[][][][][] [] [] [] [][][] [] [][][][][][][][][][][][][][] [] [][][] [] [][][][][][][][] []
- []
-
-
+[67])
 
 [68]
 
-[69]
-Overfull \hbox (11.71683pt too wide) in paragraph at lines 68--68
-\TU/lmr/m/n/12 pp. 113–137, Jan. 1986, \TU/lmr/m/sc/12 issn\TU/lmr/m/n/12 : 0010-3640, 1097-0312. \TU/lmr/m/sc/12 doi\TU/lmr/m/n/12 : $[][] [] [][][][] [] [][][] [] [][][][][][][][][][]$.
- []
+LaTeX Warning: Empty bibliography on input line 68.
 
-
-
-[70]
-
-[71]
-
-[72]
-
-[73]
-Overfull \hbox (14.61674pt too wide) in paragraph at lines 68--68
-[]\TU/lmr/m/n/12 B. S. Lazarov and O. Sigmund, “Filters in topology optimization based on Helmholtz-
- []
-
-
-
-[74]
-Overfull \hbox (4.90543pt too wide) in paragraph at lines 68--68
-\TU/lmr/m/n/12 ditive manufacturing,” \TU/lmr/m/it/12 Finite Elements in Analysis and Design\TU/lmr/m/n/12 , vol. 193, p. 103 558,
- []
-
-
-Overfull \hbox (10.8365pt too wide) in paragraph at lines 68--68
-\TU/lmr/m/n/12 May 28, 2024. [Online]. Available: $[][][][][] [] [] [] [][][][][][][][][][] [] [][][][][][][][] [] [][][] [] [][][][][][][][] []
- []
-
-
-Overfull \hbox (25.31963pt too wide) in paragraph at lines 68--68
-\TU/lmr/m/n/12 Available: $[][][][][] [] [] [] [][][][][][][][][][] [] [][][][][][][][] [] [][][] [] [][][][][][][][] [] [][][] [] [][][][][][][][][][][][][][][][][]$. 
- []
-
-
-
-[75]
-Overfull \hbox (4.02106pt too wide) in paragraph at lines 68--68
-[][][][][] [] [] [] [][][] [] [][][][][][][][][][][][][] [] [][][] [] [][][][][][][] [] [][][][][][][] [] [][][] [] [][][][][][][][][][][][][][][][][]$\TU/lmr/m/n/12 . 
- []
-
-
-
-[76]
-Overfull \hbox (19.22655pt too wide) in paragraph at lines 68--68
-\TU/lmr/m/n/12 pp. 2721–2732, May 1, 2009, \TU/lmr/m/sc/12 issn\TU/lmr/m/n/12 : 0017-9310. \TU/lmr/m/sc/12 doi\TU/lmr/m/n/12 : $[][] [] [][][][] [] [] [] [][][][][][][][][][][][][][][][][][] []
- []
-
-
-Overfull \hbox (36.16147pt too wide) in paragraph at lines 68--68
-[][][][] [] [][] [] [][][]$\TU/lmr/m/n/12 . Accessed: Sep. 4, 2024. [Online]. Available: $[][][][][] [] [] [] [][][] [] [][][][][][][][][][][][][] []
- []
-
-
-
-[77]
-Overfull \hbox (51.7125pt too wide) in paragraph at lines 68--68
-\TU/lmr/m/n/12 no. 15, pp. 2859–2873, Jul. 1, 2007, \TU/lmr/m/sc/12 issn\TU/lmr/m/n/12 : 0017-9310. \TU/lmr/m/sc/12 doi\TU/lmr/m/n/12 : $[][] [] [][][][] [] [] [] [][][][][][][][][][][][][][][][][][] []
- []
-
-
-
-[78]
-
-[79] (./main.aux (./abs/abs.aux) (./introduction/introduction.aux) (./litreview/litreview.aux) (./methodology/methodology.aux) (./results/results.aux) (./conclusion/conclusion.aux))
+(./main.aux (./abs/abs.aux) (./introduction/introduction.aux) (./litreview/litreview.aux) (./methodology/methodology.aux) (./results/results.aux) (./conclusion/conclusion.aux))
  ***********
 LaTeX2e <2024-11-01> patch level 1
 L3 programming layer <2022/08/05>
  ***********
 
 
+LaTeX Warning: There were undefined references.
+
+
 LaTeX Warning: There were multiply-defined labels.
+
+
+Package biblatex Warning: Please (re)run Biber on the file:
+(biblatex)                main
+(biblatex)                and rerun LaTeX afterwards.
 
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 29538 strings out of 473846
- 664733 string characters out of 5729886
- 1490811 words of memory out of 5000000
- 52003 multiletter control sequences out of 15000+600000
- 574862 words of font info for 122 fonts, out of 8000000 for 9000
+ 29110 strings out of 473846
+ 642805 string characters out of 5729886
+ 1480825 words of memory out of 5000000
+ 51587 multiletter control sequences out of 15000+600000
+ 574806 words of font info for 115 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 117i,15n,131p,2617b,5001s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 117i,15n,131p,2599b,3742s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on main.xdv (82 pages, 1165928 bytes).
+Output written on main.xdv (71 pages, 898888 bytes).

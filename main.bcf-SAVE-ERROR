@@ -2373,3 +2373,117 @@
     <bcf:datasource type="file" datatype="bibtex" glob="false">references.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="0">
+    <bcf:citekey order="1" intorder="1">varacalloTotalKneeArthroplasty2025</bcf:citekey>
+    <bcf:citekey order="2" intorder="1">ElderlyDisadvantagedSituation2024</bcf:citekey>
+    <bcf:citekey order="3" intorder="1">linIncreaseTotalKnee2018</bcf:citekey>
+    <bcf:citekey order="4" intorder="1">narraAdditiveManufacturingTotal2019</bcf:citekey>
+    <bcf:citekey order="5" intorder="1">valinoAdvances3DPrinting2019</bcf:citekey>
+    <bcf:citekey order="6" intorder="1">marshTrendsDevelopmentsHip2021</bcf:citekey>
+    <bcf:citekey order="7" intorder="1">narraAdditiveManufacturingTotal2019</bcf:citekey>
+    <bcf:citekey order="8" intorder="1">mobarakRecentAdvancesAdditive2023</bcf:citekey>
+    <bcf:citekey order="9" intorder="1">pathak3DPrintingBiomedicine2023</bcf:citekey>
+    <bcf:citekey order="10" intorder="1">jonaetPredictionResidualStress2021</bcf:citekey>
+    <bcf:citekey order="11" intorder="1">narraAdditiveManufacturingTotal2019</bcf:citekey>
+    <bcf:citekey order="12" intorder="1">laureijsMetalAdditiveManufacturing</bcf:citekey>
+    <bcf:citekey order="13" intorder="1">laureijsMetalAdditiveManufacturing</bcf:citekey>
+    <bcf:citekey order="14" intorder="1">chungpei-hsuStudyLatticeSupport2024</bcf:citekey>
+    <bcf:citekey order="15" intorder="1">allaireOptimizingSupportsAdditive2018</bcf:citekey>
+    <bcf:citekey order="16" intorder="1">kuoSupportStructureDesign2018</bcf:citekey>
+    <bcf:citekey order="17" intorder="1">kumarTailoredSupportStructures2020</bcf:citekey>
+    <bcf:citekey order="18" intorder="1">allaireOptimizingSupportsAdditive2018</bcf:citekey>
+    <bcf:citekey order="19" intorder="1">zhouTopologyOptimizationThermal2019</bcf:citekey>
+    <bcf:citekey order="20" intorder="1">bendsoeTopologyOptimization2002</bcf:citekey>
+    <bcf:citekey order="21" intorder="1">yeTopologyOptimisationSelfsupporting2023</bcf:citekey>
+    <bcf:citekey order="22" intorder="1">langelaarTOPOLOGYOPTIMIZATIONADDITIVE2016</bcf:citekey>
+    <bcf:citekey order="23" intorder="1">hornbergerFiniteElementMethod2005</bcf:citekey>
+    <bcf:citekey order="24" intorder="1">kohnOptimalDesignRelaxation1986</bcf:citekey>
+    <bcf:citekey order="25" intorder="1">liuEfficient3DTopology2014</bcf:citekey>
+    <bcf:citekey order="26" intorder="1">haberNewApproachVariabletopology1996</bcf:citekey>
+    <bcf:citekey order="27" intorder="1">jogTopologyDesignStructures2002</bcf:citekey>
+    <bcf:citekey order="28" intorder="1">jogTopologyDesignStructures2002</bcf:citekey>
+    <bcf:citekey order="29" intorder="1">bendsoeOptimizationStructuralTopology1995</bcf:citekey>
+    <bcf:citekey order="30" intorder="1">allaireShapeOptimizationHomogenization2002</bcf:citekey>
+    <bcf:citekey order="31" intorder="1">suzukiHomogenizationMethodShape1991</bcf:citekey>
+    <bcf:citekey order="32" intorder="1">pietropaoliThreedimensionalFluidTopology2019</bcf:citekey>
+    <bcf:citekey order="33" intorder="1">groenHomogenizationbasedTopologyOptimization2018</bcf:citekey>
+    <bcf:citekey order="34" intorder="1">alexandersenTopologyOptimisationManufacturable2015</bcf:citekey>
+    <bcf:citekey order="35" intorder="1">allaireTopologyOptimizationModulated2019</bcf:citekey>
+    <bcf:citekey order="36" intorder="1">kimTopologyOptimizationFunctionally2020</bcf:citekey>
+    <bcf:citekey order="37" intorder="1">kimComputationalHomogenizationAdditively2022</bcf:citekey>
+    <bcf:citekey order="38" intorder="1">allaireTopologyOptimizationMinimum2004</bcf:citekey>
+    <bcf:citekey order="39" intorder="1">allaireHomogenizationMethodTopology2019</bcf:citekey>
+    <bcf:citekey order="40" intorder="1">bendsoeOptimalShapeDesign1989</bcf:citekey>
+    <bcf:citekey order="41" intorder="1">rozvanyGeneralizedShapeOptimization1992</bcf:citekey>
+    <bcf:citekey order="42" intorder="1">SIMPMethodTopologyb</bcf:citekey>
+    <bcf:citekey order="43" intorder="1">wangProjectionMethodsConvergence2011a</bcf:citekey>
+    <bcf:citekey order="44" intorder="1">liuEfficient3DTopology2014</bcf:citekey>
+    <bcf:citekey order="45" intorder="1">liuEfficient3DTopology2014</bcf:citekey>
+    <bcf:citekey order="46" intorder="1">lazarovFiltersTopologyOptimization2011</bcf:citekey>
+    <bcf:citekey order="47" intorder="1">lambeTopologyOptimizationUsing2018</bcf:citekey>
+    <bcf:citekey order="48" intorder="1">PerformingTopologyOptimization</bcf:citekey>
+    <bcf:citekey order="49" intorder="1">xuVolumePreservingNonlinear2010</bcf:citekey>
+    <bcf:citekey order="50" intorder="1">wangProjectionMethodsConvergence2011a</bcf:citekey>
+    <bcf:citekey order="51" intorder="1">liuEfficient3DTopology2014</bcf:citekey>
+    <bcf:citekey order="52" intorder="1">hornbergerFiniteElementMethod2005</bcf:citekey>
+    <bcf:citekey order="53" intorder="1">bendsoeGeneratingOptimalTopologies1988</bcf:citekey>
+    <bcf:citekey order="54" intorder="1">bendsoeOptimalShapeDesign1989</bcf:citekey>
+    <bcf:citekey order="55" intorder="1">bendsoeOptimizationStructuralTopology1995</bcf:citekey>
+    <bcf:citekey order="56" intorder="1">bendsoeMaterialInterpolationSchemes1999</bcf:citekey>
+    <bcf:citekey order="57" intorder="1">bendsoeTopologyOptimization2002</bcf:citekey>
+    <bcf:citekey order="58" intorder="1">groenHomogenizationbasedTopologyOptimization2018</bcf:citekey>
+    <bcf:citekey order="59" intorder="1">lazarovFiltersTopologyOptimization2011</bcf:citekey>
+    <bcf:citekey order="60" intorder="1">wangProjectionMethodsConvergence2011a</bcf:citekey>
+    <bcf:citekey order="61" intorder="1">allaireShapeOptimizationHomogenization2002</bcf:citekey>
+    <bcf:citekey order="62" intorder="1">allaireHomogenizationMethodTopology2019</bcf:citekey>
+    <bcf:citekey order="63" intorder="1">mikiTopologyOptimizationConsidering2021</bcf:citekey>
+    <bcf:citekey order="64" intorder="1">misiunTopologyOptimizationAdditive2021</bcf:citekey>
+    <bcf:citekey order="65" intorder="1">kominiRobustTopologyOptimization2023</bcf:citekey>
+    <bcf:citekey order="66" intorder="1">guoSelfsupportingStructureDesign2017</bcf:citekey>
+    <bcf:citekey order="67" intorder="1">zhengTopologyOptimizationSelfsupporting2024</bcf:citekey>
+    <bcf:citekey order="68" intorder="1">zhangTopologyOptimizationSelfsupporting2018</bcf:citekey>
+    <bcf:citekey order="69" intorder="1">ameenSelfsupportingOverhangStructures2019</bcf:citekey>
+    <bcf:citekey order="70" intorder="1">xuSupportStructureTopology2024</bcf:citekey>
+    <bcf:citekey order="71" intorder="1">leeSimultaneouslyOptimizingSupports2021</bcf:citekey>
+    <bcf:citekey order="72" intorder="1">lohanStudyPracticalObjectives2020</bcf:citekey>
+    <bcf:citekey order="73" intorder="1">lohanTopologyOptimizationHeat2017</bcf:citekey>
+    <bcf:citekey order="74" intorder="1">igaTopologyOptimizationThermal2009</bcf:citekey>
+    <bcf:citekey order="75" intorder="1">huangTopologyOptimizationLattice2020</bcf:citekey>
+    <bcf:citekey order="76" intorder="1">mikiTopologyOptimizationConsidering2021</bcf:citekey>
+    <bcf:citekey order="77" intorder="1">ogawaTopologyOptimizationTransient2022</bcf:citekey>
+    <bcf:citekey order="78" intorder="1">chungpei-hsuStudyLatticeSupport2024</bcf:citekey>
+    <bcf:citekey order="79" intorder="1">chungpei-hsuStudyLatticeSupport2024</bcf:citekey>
+    <bcf:citekey order="80" intorder="1">FreeCAD</bcf:citekey>
+    <bcf:citekey order="81" intorder="1">leopoldMinimallyInvasiveTotal2009</bcf:citekey>
+    <bcf:citekey order="82" intorder="1">leopoldMinimallyInvasiveTotal2009</bcf:citekey>
+    <bcf:citekey order="83" intorder="1">leeObjectiveFunctionTopology2021</bcf:citekey>
+    <bcf:citekey order="84" intorder="1">yoonTopologicalDesignHeat2010</bcf:citekey>
+    <bcf:citekey order="85" intorder="1">brunsTopologyOptimizationConvectiondominated2007</bcf:citekey>
+    <bcf:citekey order="86" intorder="1">davisComprehensiveReviewMetallic2022</bcf:citekey>
+    <bcf:citekey order="87" intorder="1">svanbergMethodMovingAsymptotes1987</bcf:citekey>
+    <bcf:citekey order="88" intorder="1">NTop</bcf:citekey>
+    <bcf:citekey order="89" intorder="1">hexagonabProcessPropertiesInfosheet</bcf:citekey>
+    <bcf:citekey order="90" intorder="1">chungpei-hsuStudyLatticeSupport2024</bcf:citekey>
+    <bcf:citekey order="91" intorder="1">chungEvaluationPredictionThermal2024a</bcf:citekey>
+    <bcf:citekey order="92" intorder="1">chowdhuryEffectsPreheatingThermal2024</bcf:citekey>
+  </bcf:section>
+  <!-- SORTING TEMPLATES -->
+  <bcf:sortingtemplate name="none">
+    <bcf:sort order="1">
+      <bcf:sortitem order="1">citeorder</bcf:sortitem>
+    </bcf:sort>
+    <bcf:sort order="2">
+      <bcf:sortitem order="1">intciteorder</bcf:sortitem>
+    </bcf:sort>
+  </bcf:sortingtemplate>
+  <!-- DATALISTS -->
+  <bcf:datalist section="0"
+                name="none/global//global/global/global"
+                type="entry"
+                sortingtemplatename="none"
+                sortingnamekeytemplatename="global"
+                labelprefix=""
+                uniquenametemplatename="global"
+                labelalphanametemplatename="global"
+                namehashtemplatename="global">
+  </bcf:datalist>
+</bcf:controlfile>

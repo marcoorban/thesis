@@ -292,11 +292,6 @@ INPUT conclusion/conclusion.aux
 OUTPUT main.aux
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/biblatex/lbx/english.lbx
 OUTPUT main.bcf
-INPUT main.bbl
-INPUT ./main.bbl
-INPUT ./main.bbl
-INPUT ./main.bbl
-INPUT main.bbl
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmex10.tfm
@@ -463,6 +458,8 @@ INPUT ./results/results.tex
 INPUT ./results/results.tex
 INPUT results/results.tex
 INPUT results/results.tex
+INPUT ./images/key.png
+INPUT images/key.png
 INPUT ./images/cube _disp3.png
 INPUT images/cube _disp3.png
 INPUT ./images/cube _dispmax3.png
