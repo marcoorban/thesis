@@ -230,7 +230,8 @@ Finally, the objective functions weights were also varied for the design of topo
     \multirow{2}{10em}{\textbf{Hyperbolic tangent angle}} & Simple geometry & 0.001\degree, 2\degree, 4\degree, 8\degree \\
                                                & Femoral component & 0.001\degree, 2\degree, 4\degree, 8\degree \\
   \hline 
-   {\textbf{Boundary conditions}} & All & void (no material at boundaries), material (material at boundaries) \\
+  \multirow{2}{10em}{\textbf{Boundary conditions}} & All &  void (no material at boundaries) \\
+                                                                                                   &   &         material (material at boundaries) \\
   \hline
     \multirow{2}{10em}{\textbf{Objective weights}} & Simple geometry & (0.2, 0.8), (0.5, 0.5), (0.8, 0.2) \\
                                         & Femoral component & (1.0, 0.0)\\
@@ -431,8 +432,8 @@ To ensure that FEM results were not dependent on the voxel size of the voxel mes
 
 \begin{figure}
   \centering
-  \includegraphics[width=.75\textwidth]{conv_average.png} \hfill
-  \includegraphics[width=.75\textwidth]{conv_max.png} \hfill
+  \includegraphics[width=.65\textwidth]{conv_average.png} \hfill
+  \includegraphics[width=.65\textwidth]{conv_max.png} \hfill
   \caption{Results of convergence test on selected parts.}\label{fig:convergence}
 \end{figure} 
 

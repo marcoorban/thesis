@@ -1,0 +1,15 @@
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {3.1}{\ignorespaces Physical properties of 316L steel.}}{30}{}%
+\contentsline {table}{\numberline {3.2}{\ignorespaces Variation of parameters.}}{32}{}%
+\contentsline {table}{\numberline {3.3}{\ignorespaces Laser parameters}}{38}{}%
+\contentsline {table}{\numberline {3.4}{\ignorespaces Scanner parameters}}{39}{}%
+\contentsline {table}{\numberline {3.5}{\ignorespaces Thermal parameters}}{39}{}%
+\contentsline {table}{\numberline {3.6}{\ignorespaces Advanced thermal parameters}}{39}{}%
+\contentsline {table}{\numberline {3.7}{\ignorespaces Parameters of support structures and geometries for convergence study.}}{40}{}%
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {4.1}{\ignorespaces Bins of nodal displacement for suspicious results. The bins labeled with an asterisk have very little to no members, indicating a discontinuous nodal deformation distribution. This is deemed to be non-physical and likely an error with the finite element result.}}{57}{}%
+\contentsline {table}{\numberline {4.2}{\ignorespaces Statistics of nodal displacements (mm); all topologies}}{59}{}%
+\contentsline {table}{\numberline {4.3}{\ignorespaces Statistics of nodal stresses (MPa); all topologies.}}{62}{}%
+\addvspace {10\p@ }

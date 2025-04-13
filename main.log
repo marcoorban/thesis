@@ -1,7 +1,6 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2025.1.30)  11 APR 2025 18:51
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2025.1.30)  13 APR 2025 17:28
 entering extended mode
  restricted \write18 enabled.
- file:line:error style messages enabled.
  %&-line parsing enabled.
 **main.tex
 (./main.tex
@@ -24,9 +23,15 @@ File: size12.clo 2024/06/29 v1.4n Standard LaTeX file (size option)
 \abovecaptionskip=\skip49
 \belowcaptionskip=\skip50
 \bibindent=\dimen141
-) (/usr/local/texlive/2024/texmf-dist/tex/xelatex/xecjk/xeCJK.sty (/usr/local/texlive/2024/texmf-dist/tex/latex/l3kernel/expl3.sty
+)
+(/usr/local/texlive/2024/texmf-dist/tex/latex/psnfss/times.sty
+Package: times 2020/03/25 PSNFSS-v9.3 (SPQR) 
+)
+(/usr/local/texlive/2024/texmf-dist/tex/xelatex/xecjk/xeCJK.sty
+(/usr/local/texlive/2024/texmf-dist/tex/latex/l3kernel/expl3.sty
 Package: expl3 2024-12-25 L3 programming layer (loader) 
- (/usr/local/texlive/2024/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
+
+(/usr/local/texlive/2024/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
 File: l3backend-xetex.def 2024-05-08 L3 backend support: XeTeX
 \g__graphics_track_int=\count267
 \l__pdf_internal_box=\box52
@@ -34,9 +39,12 @@ File: l3backend-xetex.def 2024-05-08 L3 backend support: XeTeX
 \g__pdf_backend_link_int=\count269
 ))
 Package: xeCJK 2022/08/05 v3.9.1 Typesetting CJK scripts with XeLaTeX
- (/usr/local/texlive/2024/texmf-dist/tex/latex/ctex/ctexhook.sty
+
+(/usr/local/texlive/2024/texmf-dist/tex/latex/ctex/ctexhook.sty
 Package: ctexhook 2022/07/14 v2.5.10 Document and package hooks (CTEX)
-) (/usr/local/texlive/2024/texmf-dist/tex/latex/l3packages/xtemplate/xtemplate.sty
+)
+(/usr/local/texlive/2024/texmf-dist/tex/latex/l3packages/xtemplate/xtemplate.st
+y
 Package: xtemplate 2024-08-16 L3 Experimental prototype document functions
 )
 \l__xeCJK_tmp_int=\count270
@@ -99,12 +107,15 @@ LaTeX template Info: Declaring template type 'xeCJK/punctuation' taking 0
 \g__xeCJK_fam_allocation_int=\count280
 \l__xeCJK_verb_case_int=\count281
 \l__xeCJK_verb_exspace_skip=\skip57
- (/usr/local/texlive/2024/texmf-dist/tex/latex/fontspec/fontspec.sty (/usr/local/texlive/2024/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/fontspec/fontspec.sty
+(/usr/local/texlive/2024/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
 Package: xparse 2024-08-16 L3 Experimental document command parser
 )
 Package: fontspec 2024/05/11 v2.9e Font selection for XeLaTeX and LuaLaTeX
- (/usr/local/texlive/2024/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
-Package: fontspec-xetex 2024/05/11 v2.9e Font selection for XeLaTeX and LuaLaTeX
+
+(/usr/local/texlive/2024/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+Package: fontspec-xetex 2024/05/11 v2.9e Font selection for XeLaTeX and LuaLaTe
+X
 \l__fontspec_script_int=\count282
 \l__fontspec_language_int=\count283
 \l__fontspec_strnum_int=\count284
@@ -119,42 +130,59 @@ Package: fontspec-xetex 2024/05/11 v2.9e Font selection for XeLaTeX and LuaLaTeX
 \l__fontspec_tmpa_dim=\dimen169
 \l__fontspec_tmpb_dim=\dimen170
 \l__fontspec_tmpc_dim=\dimen171
- (/usr/local/texlive/2024/texmf-dist/tex/latex/base/fontenc.sty
+
+(/usr/local/texlive/2024/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
-) (/usr/local/texlive/2024/texmf-dist/tex/latex/fontspec/fontspec.cfg))) (/usr/local/texlive/2024/texmf-dist/tex/xelatex/xecjk/xeCJK.cfg
+)
+(/usr/local/texlive/2024/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
+(/usr/local/texlive/2024/texmf-dist/tex/xelatex/xecjk/xeCJK.cfg
 File: xeCJK.cfg 2022/08/05 v3.9.1 Configuration file for xeCJK package
-)) (/usr/local/texlive/2024/texmf-dist/tex/latex/biblatex/biblatex.sty
+))
+(/usr/local/texlive/2024/texmf-dist/tex/latex/biblatex/biblatex.sty
 Package: biblatex 2024/03/21 v3.20 programmable bibliographies (PK/MW)
- (/usr/local/texlive/2024/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
-Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
- (/usr/local/texlive/2024/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+
+(/usr/local/texlive/2024/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/local/texlive/2024/texmf-dist/tex/generic/infwarerr/infwarerr.sty
 Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
-) (/usr/local/texlive/2024/texmf-dist/tex/generic/iftex/iftex.sty
+)
+(/usr/local/texlive/2024/texmf-dist/tex/generic/iftex/iftex.sty
 Package: iftex 2024/12/12 v1.0g TeX engine tests
-) (/usr/local/texlive/2024/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+)
+(/usr/local/texlive/2024/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
 Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
 )
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode not found.
-) (/usr/local/texlive/2024/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+)
+(/usr/local/texlive/2024/texmf-dist/tex/latex/etoolbox/etoolbox.sty
 Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
 \etb@tempcnta=\count293
-) (/usr/local/texlive/2024/texmf-dist/tex/latex/graphics/keyval.sty
+)
+(/usr/local/texlive/2024/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
 \KV@toks@=\toks17
-) (/usr/local/texlive/2024/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+)
+(/usr/local/texlive/2024/texmf-dist/tex/latex/kvoptions/kvoptions.sty
 Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
- (/usr/local/texlive/2024/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
+
+(/usr/local/texlive/2024/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
 Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
-)) (/usr/local/texlive/2024/texmf-dist/tex/latex/logreq/logreq.sty
+))
+(/usr/local/texlive/2024/texmf-dist/tex/latex/logreq/logreq.sty
 Package: logreq 2010/08/04 v1.0 xml request logger
 \lrq@indent=\count294
- (/usr/local/texlive/2024/texmf-dist/tex/latex/logreq/logreq.def
+
+(/usr/local/texlive/2024/texmf-dist/tex/latex/logreq/logreq.def
 File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
-)) (/usr/local/texlive/2024/texmf-dist/tex/latex/base/ifthen.sty
+))
+(/usr/local/texlive/2024/texmf-dist/tex/latex/base/ifthen.sty
 Package: ifthen 2024/03/16 v1.1e Standard LaTeX ifthen package (DPC)
-) (/usr/local/texlive/2024/texmf-dist/tex/latex/url/url.sty
+)
+(/usr/local/texlive/2024/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip17
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
@@ -217,7 +245,8 @@ Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 \c@mincompwidth=\count340
 Package biblatex Info: Trying to load biblatex default data model...
 Package biblatex Info: ... file 'blx-dm.def' found.
- (/usr/local/texlive/2024/texmf-dist/tex/latex/biblatex/blx-dm.def
+
+(/usr/local/texlive/2024/texmf-dist/tex/latex/biblatex/blx-dm.def
 File: blx-dm.def 2024/03/21 v3.20 biblatex datamodel (PK/MW)
 )
 Package biblatex Info: Trying to load biblatex style data model...
@@ -308,15 +337,18 @@ Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
 \localshorteditorwidth=\skip79
 Package biblatex Info: Trying to load enhanced support for Unicode engines...
 Package biblatex Info: ... file 'blx-unicode.def' found.
- (/usr/local/texlive/2024/texmf-dist/tex/latex/biblatex/blx-unicode.def)
+
+(/usr/local/texlive/2024/texmf-dist/tex/latex/biblatex/blx-unicode.def)
 Package biblatex Info: Trying to load compatibility code...
 Package biblatex Info: ... file 'blx-compat.def' found.
- (/usr/local/texlive/2024/texmf-dist/tex/latex/biblatex/blx-compat.def
+
+(/usr/local/texlive/2024/texmf-dist/tex/latex/biblatex/blx-compat.def
 File: blx-compat.def 2024/03/21 v3.20 biblatex compatibility (PK/MW)
 )
 Package biblatex Info: Trying to load generic definitions...
 Package biblatex Info: ... file 'biblatex.def' found.
- (/usr/local/texlive/2024/texmf-dist/tex/latex/biblatex/biblatex.def
+
+(/usr/local/texlive/2024/texmf-dist/tex/latex/biblatex/biblatex.def
 File: biblatex.def 2024/03/21 v3.20 biblatex compatibility (PK/MW)
 \c@textcitecount=\count409
 \c@textcitetotal=\count410
@@ -339,26 +371,31 @@ Package biblatex Info: ... file 'ieee.bbx' found.
 File: ieee.bbx 2025-01-15 v1.4c biblatex bibliography style
 Package biblatex Info: Trying to load bibliography style 'numeric-comp'...
 Package biblatex Info: ... file 'numeric-comp.bbx' found.
- (/usr/local/texlive/2024/texmf-dist/tex/latex/biblatex/bbx/numeric-comp.bbx
+
+(/usr/local/texlive/2024/texmf-dist/tex/latex/biblatex/bbx/numeric-comp.bbx
 File: numeric-comp.bbx 2024/03/21 v3.20 biblatex bibliography style (PK/MW)
 Package biblatex Info: Trying to load bibliography style 'numeric'...
 Package biblatex Info: ... file 'numeric.bbx' found.
- (/usr/local/texlive/2024/texmf-dist/tex/latex/biblatex/bbx/numeric.bbx
+
+(/usr/local/texlive/2024/texmf-dist/tex/latex/biblatex/bbx/numeric.bbx
 File: numeric.bbx 2024/03/21 v3.20 biblatex bibliography style (PK/MW)
 Package biblatex Info: Trying to load bibliography style 'standard'...
 Package biblatex Info: ... file 'standard.bbx' found.
- (/usr/local/texlive/2024/texmf-dist/tex/latex/biblatex/bbx/standard.bbx
+
+(/usr/local/texlive/2024/texmf-dist/tex/latex/biblatex/bbx/standard.bbx
 File: standard.bbx 2024/03/21 v3.20 biblatex bibliography style (PK/MW)
 \c@bbx:relatedcount=\count418
 \c@bbx:relatedtotal=\count419
 ))))
 Package biblatex Info: Trying to load citation style 'ieee'...
 Package biblatex Info: ... file 'ieee.cbx' found.
- (/usr/local/texlive/2024/texmf-dist/tex/latex/biblatex-ieee/ieee.cbx
+
+(/usr/local/texlive/2024/texmf-dist/tex/latex/biblatex-ieee/ieee.cbx
 File: ieee.cbx 2025-01-15 v1.4c biblatex citation style
 Package biblatex Info: Trying to load citation style 'numeric-verb'...
 Package biblatex Info: ... file 'numeric-verb.cbx' found.
- (/usr/local/texlive/2024/texmf-dist/tex/latex/biblatex/cbx/numeric-verb.cbx
+
+(/usr/local/texlive/2024/texmf-dist/tex/latex/biblatex/cbx/numeric-verb.cbx
 File: numeric-verb.cbx 2024/03/21 v3.20 biblatex citation style (PK/MW)
 Package biblatex Info: Redefining '\cite'.
 Package biblatex Info: Redefining '\parencite'.
@@ -373,7 +410,8 @@ Package biblatex Info: Redefining '\textcites'.
 ))
 Package biblatex Info: Trying to load configuration file...
 Package biblatex Info: ... file 'biblatex.cfg' found.
- (/usr/local/texlive/2024/texmf-dist/tex/latex/biblatex/biblatex.cfg
+
+(/usr/local/texlive/2024/texmf-dist/tex/latex/biblatex/biblatex.cfg
 File: biblatex.cfg 
 )
 Package biblatex Info: XeTeX detected.
@@ -383,28 +421,37 @@ Package biblatex Info: ... and expl3
 (biblatex)             2024-12-25 L3 programming layer (loader) 
 (biblatex)             is new enough (at least 2020/04/06),
 (biblatex)             setting 'casechanger=expl3'.
- (/usr/local/texlive/2024/texmf-dist/tex/latex/biblatex/blx-case-expl3.sty
+
+(/usr/local/texlive/2024/texmf-dist/tex/latex/biblatex/blx-case-expl3.sty
 Package: blx-case-expl3 2024/03/21 v3.20 expl3 case changing code for biblatex
-)) (/usr/local/texlive/2024/texmf-dist/tex/latex/todonotes/todonotes.sty
+))
+(/usr/local/texlive/2024/texmf-dist/tex/latex/todonotes/todonotes.sty
 Package: todonotes 2024/01/05 v1.1.7 Todonotes source and documentation.
 Package: todonotes 2024/01/05
- (/usr/local/texlive/2024/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+
+(/usr/local/texlive/2024/texmf-dist/tex/latex/xkeyval/xkeyval.sty
 Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
- (/usr/local/texlive/2024/texmf-dist/tex/generic/xkeyval/xkeyval.tex (/usr/local/texlive/2024/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+
+(/usr/local/texlive/2024/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(/usr/local/texlive/2024/texmf-dist/tex/generic/xkeyval/xkvutils.tex
 \XKV@toks=\toks18
 \XKV@tempa@toks=\toks19
 )
 \XKV@depth=\count420
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
-)) (/usr/local/texlive/2024/texmf-dist/tex/latex/xcolor/xcolor.sty
+))
+(/usr/local/texlive/2024/texmf-dist/tex/latex/xcolor/xcolor.sty
 Package: xcolor 2024/09/29 v3.02 LaTeX color extensions (UK)
- (/usr/local/texlive/2024/texmf-dist/tex/latex/graphics-cfg/color.cfg
+
+(/usr/local/texlive/2024/texmf-dist/tex/latex/graphics-cfg/color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: xetex.def on input line 274.
- (/usr/local/texlive/2024/texmf-dist/tex/latex/graphics-def/xetex.def
+
+(/usr/local/texlive/2024/texmf-dist/tex/latex/graphics-def/xetex.def
 File: xetex.def 2022/09/22 v5.0n Graphics/color driver for xetex
-) (/usr/local/texlive/2024/texmf-dist/tex/latex/graphics/mathcolor.ltx)
+)
+(/usr/local/texlive/2024/texmf-dist/tex/latex/graphics/mathcolor.ltx)
 Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1349.
 Package xcolor Info: Model `RGB' extended on input line 1365.
 Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1367.
@@ -413,21 +460,32 @@ Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1369.
 Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1370.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1371.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1372.
-) (/usr/local/texlive/2024/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty (/usr/local/texlive/2024/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty (/usr/local/texlive/2024/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
+)
+(/usr/local/texlive/2024/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
+(/usr/local/texlive/2024/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
+(/usr/local/texlive/2024/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
+(/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.te
+x
 \pgfutil@everybye=\toks20
 \pgfutil@tempdima=\dimen172
 \pgfutil@tempdimb=\dimen173
-) (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
+)
+(/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
 \pgfutil@abb=\box55
-) (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/pgf.revision.tex)
+) (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
+(/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/pgf.revision.tex)
 Package: pgfrcs 2023-01-15 v3.1.10 (3.1.10)
 ))
 Package: pgf 2023-01-15 v3.1.10 (3.1.10)
- (/usr/local/texlive/2024/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty (/usr/local/texlive/2024/texmf-dist/tex/latex/graphics/graphicx.sty
+
+(/usr/local/texlive/2024/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty
+(/usr/local/texlive/2024/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
- (/usr/local/texlive/2024/texmf-dist/tex/latex/graphics/graphics.sty
+
+(/usr/local/texlive/2024/texmf-dist/tex/latex/graphics/graphics.sty
 Package: graphics 2024/08/06 v1.4g Standard LaTeX Graphics (DPC,SPQR)
- (/usr/local/texlive/2024/texmf-dist/tex/latex/graphics/trig.sty
+
+(/usr/local/texlive/2024/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
 )
 (/usr/local/texlive/2024/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
@@ -437,12 +495,16 @@ Package graphics Info: Driver file: xetex.def on input line 106.
 )
 \Gin@req@height=\dimen174
 \Gin@req@width=\dimen175
-) (/usr/local/texlive/2024/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+)
+(/usr/local/texlive/2024/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
+(/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
 Package: pgfsys 2023-01-15 v3.1.10 (3.1.10)
- (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+(/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
 \pgfkeys@pathtoks=\toks21
 \pgfkeys@temptoks=\toks22
- (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/utilities/pgfkeyslibraryfiltered.code.tex
+
+(/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/utilities/pgfkeyslibraryfil
+tered.code.tex
 \pgfkeys@tmptoks=\toks23
 ))
 \pgf@x=\dimen176
@@ -465,37 +527,72 @@ Package: pgfsys 2023-01-15 v3.1.10 (3.1.10)
 \t@pgf@tokb=\toks25
 \t@pgf@tokc=\toks26
 \pgf@sys@id@count=\count425
- (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
+
+(/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
 File: pgf.cfg 2023-01-15 v3.1.10 (3.1.10)
 )
 Driver file for pgf: pgfsys-xetex.def
- (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-xetex.def
+
+(/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-xetex.de
+f
 File: pgfsys-xetex.def 2023-01-15 v3.1.10 (3.1.10)
- (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-dvipdfmx.def
+
+(/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-dvipdfmx
+.def
 File: pgfsys-dvipdfmx.def 2023-01-15 v3.1.10 (3.1.10)
- (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-pdf.def
+
+(/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-p
+df.def
 File: pgfsys-common-pdf.def 2023-01-15 v3.1.10 (3.1.10)
 )
 \pgfsys@objnum=\count426
-))) (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex
+)))
+(/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.
+code.tex
 File: pgfsyssoftpath.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgfsyssoftpath@smallbuffer@items=\count427
 \pgfsyssoftpath@bigbuffer@items=\count428
-) (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
+)
+(/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.
+code.tex
 File: pgfsysprotocol.code.tex 2023-01-15 v3.1.10 (3.1.10)
-)) (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+))
+(/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
 Package: pgfcore 2023-01-15 v3.1.10 (3.1.10)
- (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex) (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
+(/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
+(/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
+(/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
 \pgfmath@dimen=\dimen186
 \pgfmath@count=\count429
 \pgfmath@box=\box56
 \pgfmath@toks=\toks27
 \pgfmath@stack@operand=\toks28
 \pgfmath@stack@operation=\toks29
-) (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex) (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code.tex) (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonometric.code.tex) (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.code.tex) (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.comparison.code.tex) (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code.tex) (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.code.tex) (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code.tex)
-(/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerarithmetics.code.tex) (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex) (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
+)
+(/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.
+tex)
+(/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic
+.code.tex)
+(/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigo
+nometric.code.tex)
+(/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.rando
+m.code.tex)
+(/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.compa
+rison.code.tex)
+(/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.
+code.tex)
+(/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round
+.code.tex)
+(/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.
+code.tex)
+(/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integ
+erarithmetics.code.tex)
+(/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex)
+(/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
 \c@pgfmathroundto@lastzeros=\count430
-)) (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfint.code.tex) (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.tex
+)) (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfint.code.tex)
+(/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.co
+de.tex
 File: pgfcorepoints.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgf@picminx=\dimen187
 \pgf@picmaxx=\dimen188
@@ -511,76 +608,125 @@ File: pgfcorepoints.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgf@yy=\dimen198
 \pgf@zx=\dimen199
 \pgf@zy=\dimen256
-) (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.code.tex
+)
+(/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconst
+ruct.code.tex
 File: pgfcorepathconstruct.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgf@path@lastx=\dimen257
 \pgf@path@lasty=\dimen258
-) (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.code.tex
+)
+(/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage
+.code.tex
 File: pgfcorepathusage.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgf@shorten@end@additional=\dimen259
 \pgf@shorten@start@additional=\dimen260
-) (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.tex
+)
+(/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.co
+de.tex
 File: pgfcorescopes.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgfpic=\box57
 \pgf@hbox=\box58
 \pgf@layerbox@main=\box59
 \pgf@picture@serial@count=\count431
-) (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.code.tex
+)
+(/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicst
+ate.code.tex
 File: pgfcoregraphicstate.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgflinewidth=\dimen261
-) (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformations.code.tex
+)
+(/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransform
+ations.code.tex
 File: pgfcoretransformations.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgf@pt@x=\dimen262
 \pgf@pt@y=\dimen263
 \pgf@pt@temp=\dimen264
-) (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
+)
+(/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.cod
+e.tex
 File: pgfcorequick.code.tex 2023-01-15 v3.1.10 (3.1.10)
-) (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.code.tex
+)
+(/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.c
+ode.tex
 File: pgfcoreobjects.code.tex 2023-01-15 v3.1.10 (3.1.10)
-) (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathprocessing.code.tex
+)
+(/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathproce
+ssing.code.tex
 File: pgfcorepathprocessing.code.tex 2023-01-15 v3.1.10 (3.1.10)
-) (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.tex
+)
+(/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.co
+de.tex
 File: pgfcorearrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgfarrowsep=\dimen265
-) (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
+)
+(/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.cod
+e.tex
 File: pgfcoreshade.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgf@max=\dimen266
 \pgf@sys@shading@range@num=\count432
 \pgf@shadingcount=\count433
-) (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
+)
+(/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.cod
+e.tex
 File: pgfcoreimage.code.tex 2023-01-15 v3.1.10 (3.1.10)
-) (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.tex
+)
+(/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.
+code.tex
 File: pgfcoreexternal.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgfexternal@startupbox=\box60
-) (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.code.tex
+)
+(/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.co
+de.tex
 File: pgfcorelayers.code.tex 2023-01-15 v3.1.10 (3.1.10)
-) (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransparency.code.tex
+)
+(/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretranspare
+ncy.code.tex
 File: pgfcoretransparency.code.tex 2023-01-15 v3.1.10 (3.1.10)
-) (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.code.tex
+)
+(/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.
+code.tex
 File: pgfcorepatterns.code.tex 2023-01-15 v3.1.10 (3.1.10)
-) (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcorerdf.code.tex
+)
+(/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcorerdf.code.
+tex
 File: pgfcorerdf.code.tex 2023-01-15 v3.1.10 (3.1.10)
-))) (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
+)))
+(/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.cod
+e.tex
 File: pgfmoduleshapes.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgfnodeparttextbox=\box61
 )
-(/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.tex
+(/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.
+tex
 File: pgfmoduleplot.code.tex 2023-01-15 v3.1.10 (3.1.10)
-) (/usr/local/texlive/2024/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65.sty
+)
+(/usr/local/texlive/2024/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version
+-0-65.sty
 Package: pgfcomp-version-0-65 2023-01-15 v3.1.10 (3.1.10)
 \pgf@nodesepstart=\dimen267
 \pgf@nodesepend=\dimen268
-) (/usr/local/texlive/2024/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18.sty
+)
+(/usr/local/texlive/2024/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version
+-1-18.sty
 Package: pgfcomp-version-1-18 2023-01-15 v3.1.10 (3.1.10)
-)) (/usr/local/texlive/2024/texmf-dist/tex/latex/pgf/utilities/pgffor.sty (/usr/local/texlive/2024/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex)) (/usr/local/texlive/2024/texmf-dist/tex/latex/pgf/math/pgfmath.sty (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)) (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+))
+(/usr/local/texlive/2024/texmf-dist/tex/latex/pgf/utilities/pgffor.sty
+(/usr/local/texlive/2024/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
+(/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex)
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/pgf/math/pgfmath.sty
+(/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex))
+(/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
 Package: pgffor 2023-01-15 v3.1.10 (3.1.10)
 \pgffor@iter=\dimen269
 \pgffor@skip=\dimen270
 \pgffor@stack=\toks30
 \pgffor@toks=\toks31
-)) (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
+))
+(/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.cod
+e.tex
 Package: tikz 2023-01-15 v3.1.10 (3.1.10)
- (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers.code.tex
+
+(/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothan
+dlers.code.tex
 File: pgflibraryplothandlers.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgf@plot@mark@count=\count434
 \pgfplotmarksize=\dimen271
@@ -601,18 +747,25 @@ File: pgflibraryplothandlers.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \tikznumberofchildren=\count436
 \tikznumberofcurrentchild=\count437
 \tikz@fig@count=\count438
- (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
+
+(/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.cod
+e.tex
 File: pgfmodulematrix.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgfmatrixcurrentrow=\count439
 \pgfmatrixcurrentcolumn=\count440
 \pgf@matrix@numberofcolumns=\count441
 )
 \tikz@expandcount=\count442
- (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarytopaths.code.tex
+
+(/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibrarytopaths.code.tex
 File: tikzlibrarytopaths.code.tex 2023-01-15 v3.1.10 (3.1.10)
-))) (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarypositioning.code.tex
+)))
+(/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibrarypositioning.code.tex
 File: tikzlibrarypositioning.code.tex 2023-01-15 v3.1.10 (3.1.10)
-) (/usr/local/texlive/2024/texmf-dist/tex/latex/tools/calc.sty
+)
+(/usr/local/texlive/2024/texmf-dist/tex/latex/tools/calc.sty
 Package: calc 2023/07/08 v4.3 Infix arithmetic (KKT,FJ)
 \calc@Acount=\count443
 \calc@Bcount=\count444
@@ -626,21 +779,25 @@ LaTeX Info: Redefining \addtolength on input line 81.
 \calc@Cskip=\skip82
 )
 \c@@todonotes@numberoftodonotes=\count446
-) (/usr/local/texlive/2024/texmf-dist/tex/latex/amsmath/amsmath.sty
+)
+(/usr/local/texlive/2024/texmf-dist/tex/latex/amsmath/amsmath.sty
 Package: amsmath 2024/11/05 v2.17t AMS math features
 \@mathmargin=\skip83
 
 For additional information on amsmath, use the `?' option.
 (/usr/local/texlive/2024/texmf-dist/tex/latex/amsmath/amstext.sty
 Package: amstext 2021/08/26 v2.01 AMS text
- (/usr/local/texlive/2024/texmf-dist/tex/latex/amsmath/amsgen.sty
+
+(/usr/local/texlive/2024/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks32
 \ex@=\dimen282
-)) (/usr/local/texlive/2024/texmf-dist/tex/latex/amsmath/amsbsy.sty
+))
+(/usr/local/texlive/2024/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 \pmbraise@=\dimen283
-) (/usr/local/texlive/2024/texmf-dist/tex/latex/amsmath/amsopn.sty
+)
+(/usr/local/texlive/2024/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 2022/04/08 v2.04 operator names
 )
 \inf@bad=\count447
@@ -690,16 +847,19 @@ LaTeX Info: Redefining \Relbar on input line 970.
 \mathdisplay@stack=\toks36
 LaTeX Info: Redefining \[ on input line 2953.
 LaTeX Info: Redefining \] on input line 2954.
-) (/usr/local/texlive/2024/texmf-dist/tex/latex/amsfonts/amssymb.sty
+)
+(/usr/local/texlive/2024/texmf-dist/tex/latex/amsfonts/amssymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
- (/usr/local/texlive/2024/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+
+(/usr/local/texlive/2024/texmf-dist/tex/latex/amsfonts/amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \symAMSa=\mathgroup4
 \symAMSb=\mathgroup5
 LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
-)) (/usr/local/texlive/2024/texmf-dist/tex/latex/tools/bm.sty
+))
+(/usr/local/texlive/2024/texmf-dist/tex/latex/tools/bm.sty
 Package: bm 2023/12/19 v1.2f Bold Symbol Support (DPC/FMi)
 \symboldoperators=\mathgroup6
 \symboldletters=\mathgroup7
@@ -708,11 +868,14 @@ Package bm Info: No bold for \OMX/cmex/m/n, using \pmb.
 Package bm Info: No bold for \U/msa/m/n, using \pmb.
 Package bm Info: No bold for \U/msb/m/n, using \pmb.
 LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 149.
-) (/usr/local/texlive/2024/texmf-dist/tex/latex/gensymb/gensymb.sty
+)
+(/usr/local/texlive/2024/texmf-dist/tex/latex/gensymb/gensymb.sty
 Package: gensymb 2022/10/17 v1.0.2 (KJH)
-) (/usr/local/texlive/2024/texmf-dist/tex/latex/geometry/geometry.sty
+)
+(/usr/local/texlive/2024/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
- (/usr/local/texlive/2024/texmf-dist/tex/generic/iftex/ifvtex.sty
+
+(/usr/local/texlive/2024/texmf-dist/tex/generic/iftex/ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 )
 \Gm@cnth=\count459
@@ -727,9 +890,11 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 \Gm@layouthoffset=\dimen297
 \Gm@layoutvoffset=\dimen298
 \Gm@dimlist=\toks37
-) (/usr/local/texlive/2024/texmf-dist/tex/latex/setspace/setspace.sty
+)
+(/usr/local/texlive/2024/texmf-dist/tex/latex/setspace/setspace.sty
 Package: setspace 2022/12/04 v6.7b set line spacing
-) (/usr/local/texlive/2024/texmf-dist/tex/latex/float/float.sty
+)
+(/usr/local/texlive/2024/texmf-dist/tex/latex/float/float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \c@float@type=\count462
 \float@exts=\toks38
@@ -738,11 +903,14 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \@floatcapt=\box69
 )
 \@float@every@table=\toks40
- (/usr/local/texlive/2024/texmf-dist/tex/latex/subfiles/subfiles.sty
+
+(/usr/local/texlive/2024/texmf-dist/tex/latex/subfiles/subfiles.sty
 Package: subfiles 2020/11/14 v2.2 Multi-file projects (package)
- (/usr/local/texlive/2024/texmf-dist/tex/latex/import/import.sty
+
+(/usr/local/texlive/2024/texmf-dist/tex/latex/import/import.sty
 Package: import 2020/04/01  v 6.2
-)) (/usr/local/texlive/2024/texmf-dist/tex/latex/titlesec/titlesec.sty
+))
+(/usr/local/texlive/2024/texmf-dist/tex/latex/titlesec/titlesec.sty
 Package: titlesec 2025/01/04 v2.17 Sectioning titles
 \ttl@box=\box70
 \beforetitleunit=\skip86
@@ -753,11 +921,14 @@ Package: titlesec 2025/01/04 v2.17 Sectioning titles
 \titlewidth=\dimen301
 \titlewidthlast=\dimen302
 \titlewidthfirst=\dimen303
-) (/usr/local/texlive/2024/texmf-dist/tex/latex/caption/subcaption.sty
+)
+(/usr/local/texlive/2024/texmf-dist/tex/latex/caption/subcaption.sty
 Package: subcaption 2023/07/28 v1.6b Sub-captions (AR)
- (/usr/local/texlive/2024/texmf-dist/tex/latex/caption/caption.sty
+
+(/usr/local/texlive/2024/texmf-dist/tex/latex/caption/caption.sty
 Package: caption 2023/08/05 v3.6o Customizing captions (AR)
- (/usr/local/texlive/2024/texmf-dist/tex/latex/caption/caption3.sty
+
+(/usr/local/texlive/2024/texmf-dist/tex/latex/caption/caption3.sty
 Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
 \caption@tempdima=\dimen304
 \captionmargin=\dimen305
@@ -777,7 +948,8 @@ Package caption Info: New subtype `subfigure' on input line 238.
 \c@subfigure=\count465
 Package caption Info: New subtype `subtable' on input line 238.
 \c@subtable=\count466
-) (/usr/local/texlive/2024/texmf-dist/tex/latex/multirow/multirow.sty
+)
+(/usr/local/texlive/2024/texmf-dist/tex/latex/multirow/multirow.sty
 Package: multirow 2024/11/12 v2.9 Span multiple rows of a table
 \multirow@colwidth=\skip88
 \multirow@cntb=\count467
@@ -799,21 +971,27 @@ Package fontspec Info:
 Package fontspec Info: 
 (fontspec)             Font family 'FandolSong-Regular(0)' created for font
 (fontspec)             'FandolSong-Regular' with options
-(fontspec)             [Script={CJK},Extension={.otf},BoldFont={FandolSong-Bold},ItalicFont={FandolKai-Regular}].
+(fontspec)             [Script={CJK},Extension={.otf},BoldFont={FandolSong-Bold
+},ItalicFont={FandolKai-Regular}].
 (fontspec)              
 (fontspec)              This font family consists of the following NFSS
 (fontspec)             series/shapes:
 (fontspec)              
 (fontspec)             - 'normal' (m/n) with NFSS spec.:
-(fontspec)             <->"[FandolSong-Regular.otf]/OT:script=hani;language=dflt;"
+(fontspec)             <->"[FandolSong-Regular.otf]/OT:script=hani;language=dfl
+t;"
 (fontspec)             - 'bold' (b/n) with NFSS spec.:
 (fontspec)             <->"[FandolSong-Bold.otf]/OT:script=hani;language=dflt;"
+
 (fontspec)             - 'italic' (m/it) with NFSS spec.:
-(fontspec)             <->"[FandolKai-Regular.otf]/OT:script=hani;language=dflt;"
+(fontspec)             <->"[FandolKai-Regular.otf]/OT:script=hani;language=dflt
+;"
 
 \@quotelevel=\count468
 \@quotereset=\count469
-(./main.aux (./abs/abs.aux) (./introduction/introduction.aux) (./litreview/litreview.aux) (./methodology/methodology.aux) (./results/results.aux
+(./main.aux (./title/title.aux) (./abs/abs.aux)
+(./introduction/introduction.aux) (./litreview/litreview.aux)
+(./methodology/methodology.aux) (./results/results.aux
 
 LaTeX Warning: Label `' multiply defined.
 
@@ -979,22 +1157,22 @@ LaTeX Warning: Label `sub@' multiply defined.
 ) (./conclusion/conclusion.aux))
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 53.
-LaTeX Font Info:    ... okay on input line 53.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 53.
-LaTeX Font Info:    ... okay on input line 53.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 53.
-LaTeX Font Info:    ... okay on input line 53.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 53.
-LaTeX Font Info:    ... okay on input line 53.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 53.
-LaTeX Font Info:    ... okay on input line 53.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 53.
-LaTeX Font Info:    ... okay on input line 53.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 53.
-LaTeX Font Info:    ... okay on input line 53.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 53.
-LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
 
 Package fontspec Info: 
 (fontspec)             Adjusting the maths setup (use [no-math] to avoid
@@ -1002,59 +1180,60 @@ Package fontspec Info:
 
 \symlegacymaths=\mathgroup9
 LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
-(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 53.
-LaTeX Font Info:    Redeclaring math accent \acute on input line 53.
-LaTeX Font Info:    Redeclaring math accent \grave on input line 53.
-LaTeX Font Info:    Redeclaring math accent \ddot on input line 53.
-LaTeX Font Info:    Redeclaring math accent \tilde on input line 53.
-LaTeX Font Info:    Redeclaring math accent \bar on input line 53.
-LaTeX Font Info:    Redeclaring math accent \breve on input line 53.
-LaTeX Font Info:    Redeclaring math accent \check on input line 53.
-LaTeX Font Info:    Redeclaring math accent \hat on input line 53.
-LaTeX Font Info:    Redeclaring math accent \dot on input line 53.
-LaTeX Font Info:    Redeclaring math accent \mathring on input line 53.
-LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 53.
-LaTeX Font Info:    Redeclaring math symbol \Delta on input line 53.
-LaTeX Font Info:    Redeclaring math symbol \Theta on input line 53.
-LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 53.
-LaTeX Font Info:    Redeclaring math symbol \Xi on input line 53.
-LaTeX Font Info:    Redeclaring math symbol \Pi on input line 53.
-LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 53.
-LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 53.
-LaTeX Font Info:    Redeclaring math symbol \Phi on input line 53.
-LaTeX Font Info:    Redeclaring math symbol \Psi on input line 53.
-LaTeX Font Info:    Redeclaring math symbol \Omega on input line 53.
-LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 53.
-LaTeX Font Info:    Redeclaring symbol font `operators' on input line 53.
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 52.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 52.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 52.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 52.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 52.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 52.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 52.
+LaTeX Font Info:    Redeclaring math accent \check on input line 52.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 52.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 52.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 52.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 52.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 52.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 52.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 52.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 52.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 52.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 52.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 52.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 52.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 52.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 52.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 52.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 52.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `normal' on input line 53.
+(Font)              `operators' in the math version `normal' on input line 52.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> TU/lmr/m/n on input line 53.
+(Font)                  OT1/cmr/m/n --> TU/lmr/m/n on input line 52.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `bold' on input line 53.
+(Font)              `operators' in the math version `bold' on input line 52.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> TU/lmr/m/n on input line 53.
+(Font)                  OT1/cmr/bx/n --> TU/lmr/m/n on input line 52.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  TU/lmr/m/n --> TU/lmr/m/n on input line 53.
+(Font)                  TU/lmr/m/n --> TU/lmr/m/n on input line 52.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> TU/lmr/m/it on input line 53.
+(Font)                  OT1/cmr/m/it --> TU/lmr/m/it on input line 52.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> TU/lmr/b/n on input line 53.
+(Font)                  OT1/cmr/bx/n --> TU/lmr/b/n on input line 52.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 53.
+(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 52.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 53.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 52.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  TU/lmr/m/n --> TU/lmr/b/n on input line 53.
+(Font)                  TU/lmr/m/n --> TU/lmr/b/n on input line 52.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> TU/lmr/b/it on input line 53.
+(Font)                  OT1/cmr/bx/it --> TU/lmr/b/it on input line 52.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 53.
+(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 52.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 53.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 52.
 Package biblatex Info: Trying to load language 'english'...
 Package biblatex Info: ... file 'english.lbx' found.
- (/usr/local/texlive/2024/texmf-dist/tex/latex/biblatex/lbx/english.lbx
+
+(/usr/local/texlive/2024/texmf-dist/tex/latex/biblatex/lbx/english.lbx
 File: english.lbx 2024/03/21 v3.20 biblatex localization (PK/MW)
 )
 Package biblatex Info: XeTeX detected.
@@ -1064,18 +1243,20 @@ Package biblatex Info: Automatic encoding selection.
 \openout3 = `main.bcf'.
 
 Package biblatex Info: Trying to load bibliographic data...
-Package biblatex Info: ... file 'main.bbl' not found.
+Package biblatex Info: ... file 'main.bbl' found.
 
-No file main.bbl.
-Package biblatex Info: Reference section=0 on input line 53.
-Package biblatex Info: Reference segment=0 on input line 53.
-LaTeX Info: Redefining \celsius on input line 53.
-Package gensymb Info: Faking symbols for \degree and \celsius on input line 53.
+(./main.bbl)
+Package biblatex Info: Reference section=0 on input line 52.
+Package biblatex Info: Reference segment=0 on input line 52.
+LaTeX Info: Redefining \celsius on input line 52.
+Package gensymb Info: Faking symbols for \degree and \celsius on input line 52.
+
+
 
 Package gensymb Warning: Not defining \perthousand.
 
-LaTeX Info: Redefining \ohm on input line 53.
-Package gensymb Info: Using \Omega for \ohm on input line 53.
+LaTeX Info: Redefining \ohm on input line 52.
+Package gensymb Info: Using \Omega for \ohm on input line 52.
 
 Package gensymb Warning: Not defining \micro.
 
@@ -1115,16 +1296,12 @@ Package gensymb Warning: Not defining \micro.
 
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 54.
-(/usr/local/texlive/2024/texmf-dist/tex/latex/amsfonts/umsa.fd
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-)
-LaTeX Font Info:    Trying to load font information for U+msb on input line 54.
- (/usr/local/texlive/2024/texmf-dist/tex/latex/amsfonts/umsb.fd
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
+\openout2 = `title/title.aux'.
+
+(./title/title.tex)
 
 [1
+
 
 ]
 \openout2 = `abs/abs.aux'.
@@ -1134,7 +1311,17 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 [1
 
 
+
+
 ] (./main.toc
+LaTeX Font Info:    Trying to load font information for U+msa on input line 3.
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 3.
+(/usr/local/texlive/2024/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
 
 [2
 
@@ -1146,23 +1333,29 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 
 
 
-[1]
+[3] (./main.lof
+
+[4
+
+])
+\tf@lof=\write6
+\openout6 = `main.lof'.
+
+
+
+[5] (./main.lot)
+\tf@lot=\write7
+\openout7 = `main.lot'.
+
+
+
+[1
+
+]
 \openout2 = `introduction/introduction.aux'.
 
  (./introduction/introduction.tex
 Chapter 1.
-
-LaTeX Warning: Citation 'varacalloTotalKneeArthroplasty2025' on page 2 undefined on input line 8.
-
-
-LaTeX Warning: Citation 'ElderlyDisadvantagedSituation2024' on page 2 undefined on input line 10.
-
-
-LaTeX Warning: Citation 'linIncreaseTotalKnee2018' on page 2 undefined on input line 10.
-
-
-LaTeX Warning: Citation 'narraAdditiveManufacturingTotal2019' on page 2 undefined on input line 12.
-
 
 
 [2
@@ -1176,9 +1369,6 @@ LaTeX Warning: Citation 'narraAdditiveManufacturingTotal2019' on page 2 undefine
  (./litreview/litreview.tex
 Chapter 2.
 
-LaTeX Warning: Citation 'valinoAdvances3DPrinting2019' on page 4 undefined on input line 12.
-
-
 
 [4
 
@@ -1187,409 +1377,51 @@ LaTeX Warning: Citation 'valinoAdvances3DPrinting2019' on page 4 undefined on in
 
 ]
 
-LaTeX Warning: Citation 'marshTrendsDevelopmentsHip2021' on page 5 undefined on input line 14.
-
-
-LaTeX Warning: Citation 'narraAdditiveManufacturingTotal2019' on page 5 undefined on input line 14.
-
-
-LaTeX Warning: Citation 'mobarakRecentAdvancesAdditive2023' on page 5 undefined on input line 14.
-
-
-LaTeX Warning: Citation 'pathak3DPrintingBiomedicine2023' on page 5 undefined on input line 14.
-
-
-LaTeX Warning: Citation 'jonaetPredictionResidualStress2021' on page 5 undefined on input line 16.
-
-
-LaTeX Warning: Citation 'narraAdditiveManufacturingTotal2019' on page 5 undefined on input line 18.
-
-
-LaTeX Warning: Citation 'laureijsMetalAdditiveManufacturing' on page 5 undefined on input line 18.
-
-
-LaTeX Warning: Citation 'laureijsMetalAdditiveManufacturing' on page 5 undefined on input line 18.
-
-
-Overfull \hbox (1.77168pt too wide) in paragraph at lines 18--19
-\TU/lmr/m/n/12 problem of high material costs, Laureijs et al. []
- []
-
-
-
 [5]
-
-LaTeX Warning: Citation 'chungpei-hsuStudyLatticeSupport2024' on page 6 undefined on input line 20.
-
-
-LaTeX Warning: Citation 'allaireOptimizingSupportsAdditive2018' on page 6 undefined on input line 22.
-
-
-LaTeX Warning: Citation 'kuoSupportStructureDesign2018' on page 6 undefined on input line 22.
-
-
-LaTeX Warning: Citation 'kumarTailoredSupportStructures2020' on page 6 undefined on input line 22.
-
-
-LaTeX Warning: Citation 'allaireOptimizingSupportsAdditive2018' on page 6 undefined on input line 22.
-
-
-LaTeX Warning: Citation 'zhouTopologyOptimizationThermal2019' on page 6 undefined on input line 22.
-
-
-Overfull \hbox (19.45753pt too wide) in paragraph at lines 22--23
-[] []\TU/lmr/m/n/12 .Another
- []
-
-
-Overfull \hbox (87.73352pt too wide) in paragraph at lines 22--23
-\TU/lmr/m/n/12 or warping [] []. 
- []
-
-
 
 [6]
 
-LaTeX Warning: Citation 'bendsoeTopologyOptimization2002' on page 7 undefined on input line 24.
-
-
-LaTeX Warning: Citation 'yeTopologyOptimisationSelfsupporting2023' on page 7 undefined on input line 24.
-
-
-LaTeX Warning: Citation 'langelaarTOPOLOGYOPTIMIZATIONADDITIVE2016' on page 7 undefined on input line 24.
-
-
-
 [7]
-
-LaTeX Warning: Citation 'hornbergerFiniteElementMethod2005' on page 8 undefined on input line 41.
-
-
 
 [8]
 
-LaTeX Warning: Citation 'kohnOptimalDesignRelaxation1986' on page 9 undefined on input line 61.
-
-
-LaTeX Warning: Citation 'liuEfficient3DTopology2014' on page 9 undefined on input line 61.
-
-
-LaTeX Warning: Citation 'haberNewApproachVariabletopology1996' on page 9 undefined on input line 61.
-
-
-LaTeX Warning: Citation 'jogTopologyDesignStructures2002' on page 9 undefined on input line 61.
-
-
-LaTeX Warning: Citation 'jogTopologyDesignStructures2002' on page 9 undefined on input line 61.
-
-
-Overfull \hbox (55.28618pt too wide) in paragraph at lines 61--62
-\TU/lmr/m/n/12 mal size, thus rendering this compliance problem to be unbounded [].
- []
-
-
-Overfull \hbox (19.10556pt too wide) in paragraph at lines 61--62
-\TU/lmr/m/n/12 lead to wildly different designs of the final structure []. 
- []
-
-
-
 [9]
-
-LaTeX Warning: Citation 'bendsoeOptimizationStructuralTopology1995' on page 10 undefined on input line 63.
-
-
-LaTeX Warning: Citation 'allaireShapeOptimizationHomogenization2002' on page 10 undefined on input line 63.
-
-
-LaTeX Warning: Citation 'suzukiHomogenizationMethodShape1991' on page 10 undefined on input line 63.
-
-
-LaTeX Warning: Citation 'pietropaoliThreedimensionalFluidTopology2019' on page 10 undefined on input line 63.
-
-
-LaTeX Warning: Citation 'groenHomogenizationbasedTopologyOptimization2018' on page 10 undefined on input line 63.
-
-
-LaTeX Warning: Citation 'alexandersenTopologyOptimisationManufacturable2015' on page 10 undefined on input line 63.
-
-
-LaTeX Warning: Citation 'allaireTopologyOptimizationModulated2019' on page 10 undefined on input line 63.
-
-
-LaTeX Warning: Citation 'kimTopologyOptimizationFunctionally2020' on page 10 undefined on input line 63.
-
-
-LaTeX Warning: Citation 'kimComputationalHomogenizationAdditively2022' on page 10 undefined on input line 63.
-
-
-LaTeX Warning: Citation 'allaireTopologyOptimizationMinimum2004' on page 10 undefined on input line 63.
-
-
-LaTeX Warning: Citation 'allaireHomogenizationMethodTopology2019' on page 10 undefined on input line 63.
-
-
-Overfull \hbox (224.5281pt too wide) in paragraph at lines 63--64
-[]\TU/lmr/m/n/12 A different alternative would be the utilization of a homogenization method [],
- []
-
-
-Overfull \hbox (72.04152pt too wide) in paragraph at lines 63--64
-[] []
- []
-
-
-Overfull \hbox (60.40137pt too wide) in paragraph at lines 63--64
-\TU/lmr/m/n/12 values could be interpreted as porous media [].
- []
-
-
-Overfull \hbox (135.14156pt too wide) in paragraph at lines 63--64
-\TU/lmr/m/n/12 materials with high-resolution microscopic features []
- []
-
-
-Overfull \hbox (6.13435pt too wide) in paragraph at lines 63--64
-[]\TU/lmr/m/n/12 , materials that are com-
- []
-
-
-Overfull \hbox (219.38138pt too wide) in paragraph at lines 63--64
-\TU/lmr/m/n/12 complex structures consisting of anisotropic fiber-reinforced composite materials [].
- []
-
-
-Overfull \hbox (141.53339pt too wide) in paragraph at lines 63--64
-\TU/lmr/m/n/12 very fine meshes with high number of elements and nodes [].
- []
-
-
-Overfull \hbox (147.46938pt too wide) in paragraph at lines 63--64
-\TU/lmr/m/n/12 compromise the stability or functionality of the manufactured part [].
- []
-
-
 
 [10]
 
-LaTeX Warning: Citation 'bendsoeOptimalShapeDesign1989' on page 11 undefined on input line 65.
-
-
-LaTeX Warning: Citation 'rozvanyGeneralizedShapeOptimization1992' on page 11 undefined on input line 65.
-
-
-LaTeX Warning: Citation 'SIMPMethodTopologyb' on page 11 undefined on input line 65.
-
-
-Overfull \hbox (15.86934pt too wide) in paragraph at lines 65--66
-[] []\TU/lmr/m/n/12 .
- []
-
-
-
 [11]
 
-LaTeX Warning: Citation 'wangProjectionMethodsConvergence2011a' on page 12 undefined on input line 85.
-
-
-LaTeX Warning: Citation 'liuEfficient3DTopology2014' on page 12 undefined on input line 85.
-
-
-
 [12]
-
-LaTeX Warning: Citation 'liuEfficient3DTopology2014' on page 13 undefined on input line 98.
-
-
-LaTeX Warning: Citation 'lazarovFiltersTopologyOptimization2011' on page 13 undefined on input line 106.
-
-
-LaTeX Warning: Citation 'lambeTopologyOptimizationUsing2018' on page 13 undefined on input line 113.
-
-
-LaTeX Warning: Citation 'PerformingTopologyOptimization' on page 13 undefined on input line 113.
-
-
-
-[13]
-
-LaTeX Warning: Citation 'xuVolumePreservingNonlinear2010' on page 14 undefined on input line 117.
-
 
 Package amsmath Warning: Cannot use `split' here;
 (amsmath)                trying to recover with `aligned' on input line 125.
 
+
+
+[13]
 File: images/eta03.png Graphic file (type bmp)
 <images/eta03.png>
 File: images/eta08.png Graphic file (type bmp)
 <images/eta08.png>
-
-LaTeX Warning: Citation 'wangProjectionMethodsConvergence2011a' on page 14 undefined on input line 138.
-
-
-
-[14]
 File: images/hyp3.jpg Graphic file (type bmp)
 <images/hyp3.jpg>
 File: images/hyp8.jpg Graphic file (type bmp)
 <images/hyp8.jpg>
 
 
+[14]
+
 [15]
 
 [16]
 
-LaTeX Warning: Citation 'liuEfficient3DTopology2014' on page 17 undefined on input line 190.
-
-
-LaTeX Warning: Citation 'hornbergerFiniteElementMethod2005' on page 17 undefined on input line 192.
-
-
-Overfull \hbox (112.90639pt too wide) in paragraph at lines 192--193
-\TU/lmr/m/n/12 note summation, but instead the finite element assembly operator []. 
- []
-
-
-LaTeX Warning: Citation 'bendsoeGeneratingOptimalTopologies1988' on page 17 undefined on input line 196.
-
-
-LaTeX Warning: Citation 'bendsoeOptimalShapeDesign1989' on page 17 undefined on input line 196.
-
-
-LaTeX Warning: Citation 'bendsoeOptimizationStructuralTopology1995' on page 17 undefined on input line 196.
-
-
-LaTeX Warning: Citation 'bendsoeMaterialInterpolationSchemes1999' on page 17 undefined on input line 196.
-
-
-LaTeX Warning: Citation 'bendsoeTopologyOptimization2002' on page 17 undefined on input line 196.
-
-
-LaTeX Warning: Citation 'groenHomogenizationbasedTopologyOptimization2018' on page 17 undefined on input line 196.
-
-
-LaTeX Warning: Citation 'lazarovFiltersTopologyOptimization2011' on page 17 undefined on input line 196.
-
-
-LaTeX Warning: Citation 'wangProjectionMethodsConvergence2011a' on page 17 undefined on input line 196.
-
-
-LaTeX Warning: Citation 'allaireShapeOptimizationHomogenization2002' on page 17 undefined on input line 196.
-
-
-LaTeX Warning: Citation 'allaireHomogenizationMethodTopology2019' on page 17 undefined on input line 196.
-
-
-Overfull \hbox (28.79178pt too wide) in paragraph at lines 196--197
-\TU/lmr/m/n/12 mund, Bendsoe, Lazarov, Wang and others [],
- []
-
-
-Overfull \hbox (30.71014pt too wide) in paragraph at lines 196--197
-[]\TU/lmr/m/n/12 , [],
- []
-
-
-Overfull \hbox (23.88214pt too wide) in paragraph at lines 196--197
-[]\TU/lmr/m/n/12 , [],
- []
-
-
-Overfull \hbox (124.16614pt too wide) in paragraph at lines 196--197
-[]\TU/lmr/m/n/12 , [],
- []
-
-
-Overfull \hbox (88.86214pt too wide) in paragraph at lines 196--197
-[]\TU/lmr/m/n/12 , [],
- []
-
-
-
 [17]
-
-LaTeX Warning: Citation 'mikiTopologyOptimizationConsidering2021' on page 18 undefined on input line 198.
-
-
-LaTeX Warning: Citation 'misiunTopologyOptimizationAdditive2021' on page 18 undefined on input line 198.
-
-
-LaTeX Warning: Citation 'kominiRobustTopologyOptimization2023' on page 18 undefined on input line 198.
-
-
-Overfull \hbox (58.57759pt too wide) in paragraph at lines 198--199
-\TU/lmr/m/n/12 distortion of AM components. Miki and Yamada []
- []
-
-
-LaTeX Warning: Citation 'guoSelfsupportingStructureDesign2017' on page 18 undefined on input line 200.
-
-
-LaTeX Warning: Citation 'zhengTopologyOptimizationSelfsupporting2024' on page 18 undefined on input line 200.
-
-
-LaTeX Warning: Citation 'zhangTopologyOptimizationSelfsupporting2018' on page 18 undefined on input line 200.
-
-
-LaTeX Warning: Citation 'ameenSelfsupportingOverhangStructures2019' on page 18 undefined on input line 200.
-
-
-LaTeX Warning: Citation 'xuSupportStructureTopology2024' on page 18 undefined on input line 200.
-
-
-LaTeX Warning: Citation 'leeSimultaneouslyOptimizingSupports2021' on page 18 undefined on input line 200.
-
-
-Overfull \hbox (31.5309pt too wide) in paragraph at lines 200--201
-\TU/lmr/m/n/12 method to constrain distortion. Lee and Xie []
- []
-
-
 
 [18]
 
-LaTeX Warning: Citation 'lohanStudyPracticalObjectives2020' on page 19 undefined on input line 202.
+[19])
 
-
-LaTeX Warning: Citation 'lohanTopologyOptimizationHeat2017' on page 19 undefined on input line 203.
-
-
-LaTeX Warning: Citation 'igaTopologyOptimizationThermal2009' on page 19 undefined on input line 203.
-
-
-LaTeX Warning: Citation 'huangTopologyOptimizationLattice2020' on page 19 undefined on input line 203.
-
-
-LaTeX Warning: Citation 'mikiTopologyOptimizationConsidering2021' on page 19 undefined on input line 203.
-
-
-LaTeX Warning: Citation 'ogawaTopologyOptimizationTransient2022' on page 19 undefined on input line 203.
-
-
-LaTeX Warning: Citation 'chungpei-hsuStudyLatticeSupport2024' on page 19 undefined on input line 203.
-
-
-Overfull \hbox (42.84825pt too wide) in paragraph at lines 202--204
-\TU/lmr/m/n/12 duce these residual stresses. The study by Iga et al. []
- []
-
-
-Overfull \hbox (83.47626pt too wide) in paragraph at lines 202--204
-\TU/lmr/m/n/12 tion in the topology optimization algorithm. Huang et al. []
- []
-
-
-Overfull \hbox (44.48824pt too wide) in paragraph at lines 202--204
-\TU/lmr/m/n/12 space of the support structure low. Miki et al. []
- []
-
-
-
-[19]
-
-[20])
-
-[21]
+[20]
 \openout2 = `methodology/methodology.aux'.
 
  (./methodology/methodology.tex
@@ -1597,19 +1429,8 @@ Chapter 3.
 File: images/process_diagram.png Graphic file (type bmp)
 <images/process_diagram.png>
 
-LaTeX Warning: Citation 'chungpei-hsuStudyLatticeSupport2024' on page 22 undefined on input line 26.
 
-
-LaTeX Warning: Citation 'FreeCAD' on page 22 undefined on input line 27.
-
-
-Overfull \hbox (113.08537pt too wide) in paragraph at lines 24--28
-\TU/lmr/m/n/12 comparison of results between this study and the study of Peishu [].
- []
-
-
-
-[22
+[21
 
 
 
@@ -1631,27 +1452,15 @@ File: images/cyl40.png Graphic file (type bmp)
 <images/cyl40.png>
 File: images/femoral.png Graphic file (type bmp)
 <images/femoral.png>
-
-
-LaTeX Warning: Citation 'leopoldMinimallyInvasiveTotal2009' on page 23 undefined on input line 92.
-
-
-LaTeX Warning: Citation 'leopoldMinimallyInvasiveTotal2009' on page 23 undefined on input line 92.
-
-
-Underfull \hbox (badness 1852) in paragraph at lines 92--92
-[]\TU/lmr/m/n/12 Figure 3.5: |Components of total knee arthroplasty prosthesis. Taken from
- []
-
 File: images/femoral2.png Graphic file (type bmp)
 <images/femoral2.png>
 
 
+[22]
+
 [23]
 
 [24]
-
-[25]
 File: images/designdomain3d.png Graphic file (type bmp)
 <images/designdomain3d.png>
 File: images/designdomain2d.png Graphic file (type bmp)
@@ -1662,53 +1471,35 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 
+[25]
+
 [26]
 
-LaTeX Warning: Citation 'leeObjectiveFunctionTopology2021' on page 27 undefined on input line 146.
-
-
-LaTeX Warning: Citation 'yoonTopologicalDesignHeat2010' on page 27 undefined on input line 146.
-
-
-LaTeX Warning: Citation 'brunsTopologyOptimizationConvectiondominated2007' on page 27 undefined on input line 146.
-
-
-Overfull \hbox (97.85434pt too wide) in paragraph at lines 146--147
-[]\TU/lmr/m/n/12 , and []. 
- []
-
-
-
 [27]
-
-[28]
 File: images/mesh1.png Graphic file (type bmp)
 <images/mesh1.png>
 
 
-[29]
+[28]
 File: images/femmesh.png Graphic file (type bmp)
 <images/femmesh.png>
 
 
-[30]
-
-LaTeX Warning: Citation 'davisComprehensiveReviewMetallic2022' on page 31 undefined on input line 181.
-
+[29]
 File: images/heating.png Graphic file (type bmp)
 <images/heating.png>
 
 
-[31]
+[30]
 
-[32]
-Overfull \hbox (199.26167pt too wide) in paragraph at lines 222--239
+[31]
+Overfull \hbox (21.87766pt too wide) in paragraph at lines 222--240
  [][] 
  []
 
 
 
-[33]
+[32]
 File: images/boundaryconds.png Graphic file (type bmp)
 <images/boundaryconds.png>
 File: images/side_mat_volfrac20.png Graphic file (type bmp)
@@ -1717,15 +1508,7 @@ File: images/side_void_volfrac20.png Graphic file (type bmp)
 <images/side_void_volfrac20.png>
 
 
-[34]
-
-LaTeX Warning: Citation 'svanbergMethodMovingAsymptotes1987' on page 35 undefined on input line 273.
-
-
-Overfull \hbox (85.94006pt too wide) in paragraph at lines 273--274
-\TU/lmr/m/n/12 rithm utilized the method of moving asymptotes (MMA) [],
- []
-
+[33]
 File: images/excube.png Graphic file (type bmp)
 <images/excube.png>
 File: images/extriangle.png Graphic file (type bmp)
@@ -1735,13 +1518,10 @@ File: images/exround.png Graphic file (type bmp)
 File: images/exfemoral.png Graphic file (type bmp)
 <images/exfemoral.png>
 
-LaTeX Warning: Citation 'NTop' on page 35 undefined on input line 297.
 
-
+[34]
 
 [35]
-
-[36]
 File: images/meldcube.png Graphic file (type bmp)
 <images/meldcube.png>
 File: images/meldround.png Graphic file (type bmp)
@@ -1752,56 +1532,38 @@ File: images/meldfemoral2.png Graphic file (type bmp)
 <images/meldfemoral2.png>
 
 
+[36]
+
 [37]
-
-LaTeX Warning: Citation 'hexagonabProcessPropertiesInfosheet' on page 38 undefined on input line 329.
-
-
-LaTeX Warning: Citation 'chungpei-hsuStudyLatticeSupport2024' on page 38 undefined on input line 333.
-
-
-LaTeX Warning: Citation 'chungEvaluationPredictionThermal2024a' on page 38 undefined on input line 333.
-
-
 
 [38]
 
-LaTeX Warning: Citation 'chowdhuryEffectsPreheatingThermal2024' on page 39 undefined on input line 335.
-
-
-
 [39]
-
-[40]
 File: images/conv_average.png Graphic file (type bmp)
 <images/conv_average.png>
 File: images/conv_max.png Graphic file (type bmp)
 <images/conv_max.png>
 
 
-LaTeX Warning: Float too large for page by 66.63174pt on input line 437.
+[40]
 
+[41])
 
-
-[41]
-
-[42])
-
-[43]
+[42]
 \openout2 = `results/results.aux'.
 
  (./results/results.tex
 Chapter 4.
 
 
-[44
+[43
 
 
 
 
 ]
 
-[45]
+[44]
 File: images/key.png Graphic file (type bmp)
 <images/key.png>
 File: images/cube _disp3.png Graphic file (type bmp)
@@ -1872,6 +1634,8 @@ File: images/R40 _stressmax3.png Graphic file (type bmp)
 <images/R40 _stressmax3.png>
 
 
+[45]
+
 [46]
 
 [47]
@@ -1885,27 +1649,29 @@ File: images/R40 _stressmax3.png Graphic file (type bmp)
 [51]
 
 [52]
-
-[53]
-File: images/results/plots/femoral/displacement/disp_density_ridges.png Graphic file (type bmp)
+File: images/results/plots/femoral/displacement/disp_density_ridges.png Graphic
+ file (type bmp)
 <images/results/plots/femoral/displacement/disp_density_ridges.png>
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-File: images/results/plots/femoral/displacement/femoral_average.png Graphic file (type bmp)
+File: images/results/plots/femoral/displacement/femoral_average.png Graphic fil
+e (type bmp)
 <images/results/plots/femoral/displacement/femoral_average.png>
-File: images/results/plots/femoral/displacement/femoral_average_group.png Graphic file (type bmp)
+File: images/results/plots/femoral/displacement/femoral_average_group.png Graph
+ic file (type bmp)
 <images/results/plots/femoral/displacement/femoral_average_group.png>
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 
-[54
+[53
 
 ]
-File: images/results/plots/femoral/displacement/femoral_max_bad.png Graphic file (type bmp)
+File: images/results/plots/femoral/displacement/femoral_max_bad.png Graphic fil
+e (type bmp)
 <images/results/plots/femoral/displacement/femoral_max_bad.png>
 
 
@@ -1918,66 +1684,77 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 
+[54]
+
+LaTeX Warning: Text page 55 contains only floats.
+
+
+
 [55]
-
-LaTeX Warning: Text page 56 contains only floats.
-
-
-
-[56]
-File: images/results/plots/femoral/displacement/bins.png Graphic file (type bmp)
+File: images/results/plots/femoral/displacement/bins.png Graphic file (type bmp
+)
 <images/results/plots/femoral/displacement/bins.png>
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-File: images/results/plots/femoral/displacement/femoral_max.png Graphic file (type bmp)
+File: images/results/plots/femoral/displacement/femoral_max.png Graphic file (t
+ype bmp)
 <images/results/plots/femoral/displacement/femoral_max.png>
-File: images/results/plots/femoral/displacement/femoral_max_group.png Graphic file (type bmp)
+File: images/results/plots/femoral/displacement/femoral_max_group.png Graphic f
+ile (type bmp)
 <images/results/plots/femoral/displacement/femoral_max_group.png>
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-File: images/results/plots/femoral/displacement/boxplots.png Graphic file (type bmp)
-<images/results/plots/femoral/displacement/boxplots.png>
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-File: images/results/plots/femoral/displacement/statistics.png Graphic file (type bmp)
-<images/results/plots/femoral/displacement/statistics.png>
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
+[56]
 
 [57]
+File: images/results/plots/femoral/displacement/boxplots.png Graphic file (type
+ bmp)
+<images/results/plots/femoral/displacement/boxplots.png>
+File: images/results/plots/femoral/displacement/statistics.png Graphic file (ty
+pe bmp)
+<images/results/plots/femoral/displacement/statistics.png>
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
 
 [58]
 
 [59]
 
-[60]
-File: images/results/plots/femoral/stress/stress_density_ridges.png Graphic file (type bmp)
+[60
+
+]
+File: images/results/plots/femoral/stress/stress_density_ridges.png Graphic fil
+e (type bmp)
 <images/results/plots/femoral/stress/stress_density_ridges.png>
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-File: images/results/plots/femoral/stress/stress_stats.png Graphic file (type bmp)
+File: images/results/plots/femoral/stress/stress_stats.png Graphic file (type b
+mp)
 <images/results/plots/femoral/stress/stress_stats.png>
 
+
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-File: images/results/plots/femoral/stress/average_stress.png Graphic file (type bmp)
+File: images/results/plots/femoral/stress/average_stress.png Graphic file (type
+ bmp)
 <images/results/plots/femoral/stress/average_stress.png>
-File: images/results/plots/femoral/stress/femoral_average_group_stress.png Graphic file (type bmp)
+File: images/results/plots/femoral/stress/femoral_average_group_stress.png Grap
+hic file (type bmp)
 <images/results/plots/femoral/stress/femoral_average_group_stress.png>
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-File: images/results/plots/femoral/stress/maximum_stress.png Graphic file (type bmp)
+File: images/results/plots/femoral/stress/maximum_stress.png Graphic file (type
+ bmp)
 <images/results/plots/femoral/stress/maximum_stress.png>
-File: images/results/plots/femoral/stress/femoral_max_group_stress.png Graphic file (type bmp)
+File: images/results/plots/femoral/stress/femoral_max_group_stress.png Graphic 
+file (type bmp)
 <images/results/plots/femoral/stress/femoral_max_group_stress.png>
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
@@ -1989,41 +1766,156 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 )
 
-[61
-
-]
-
-LaTeX Warning: Text page 62 contains only floats.
-
-
+[61]
 
 [62]
 
 [63]
 
 [64]
-
-[65]
 \openout2 = `conclusion/conclusion.aux'.
 
  (./conclusion/conclusion.tex
 Chapter 5.
 
 
-[66
+[65
 
 
 
 
 ]
 
+[66]
+
 [67])
 
 [68]
 
-LaTeX Warning: Empty bibliography on input line 68.
+Package fontspec Info: 
+(fontspec)             Script 'CJK' not explicitly supported within font
+(fontspec)             'FandolFang-Regular'. Check the typeset output, and if
+(fontspec)             it is okay then ignore this warning. Otherwise a
+(fontspec)             different font should be chosen.
 
-(./main.aux (./abs/abs.aux) (./introduction/introduction.aux) (./litreview/litreview.aux) (./methodology/methodology.aux) (./results/results.aux) (./conclusion/conclusion.aux))
+
+Package fontspec Info: 
+(fontspec)             Font family 'FandolFang-Regular(0)' created for font
+(fontspec)             'FandolFang-Regular' with options
+(fontspec)             [Script={CJK},Extension={.otf}].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"[FandolFang-Regular.otf]/OT:script=hani;language=dfl
+t;"
+
+
+
+[69
+
+
+
+]
+Overfull \hbox (3.2862pt too wide) in paragraph at lines 71--71
+[]\TU/lmr/m/n/12 K. Pathak et al., “3D printing in biomedicine: Advancing perso
+nalized care through
+ []
+
+
+Overfull \hbox (3.82832pt too wide) in paragraph at lines 71--71
+\TU/lmr/m/n/12 Feb. 17, 2025. [Online]. Available: $[][][][][] [] [] [] [][][] 
+[] [][][][][][][][][][][][][][] [] [][][] [] [][][][][][][][] []
+ []
+
+
+
+[70]
+
+[71]
+Overfull \hbox (11.71683pt too wide) in paragraph at lines 71--71
+\TU/lmr/m/n/12 pp. 113–137, Jan. 1986, \TU/lmr/m/sc/12 issn\TU/lmr/m/n/12 : 001
+0-3640, 1097-0312. \TU/lmr/m/sc/12 doi\TU/lmr/m/n/12 : $[][] [] [][][][] [] [][
+][] [] [][][][][][][][][][]$.
+ []
+
+
+
+[72]
+
+[73]
+
+[74]
+
+[75]
+Overfull \hbox (14.61674pt too wide) in paragraph at lines 71--71
+[]\TU/lmr/m/n/12 B. S. Lazarov and O. Sigmund, “Filters in topology optimizatio
+n based on Helmholtz-
+ []
+
+
+
+[76]
+Overfull \hbox (4.90543pt too wide) in paragraph at lines 71--71
+\TU/lmr/m/n/12 ditive manufacturing,” \TU/lmr/m/it/12 Finite Elements in Analys
+is and Design\TU/lmr/m/n/12 , vol. 193, p. 103 558,
+ []
+
+
+Overfull \hbox (10.8365pt too wide) in paragraph at lines 71--71
+\TU/lmr/m/n/12 May 28, 2024. [Online]. Available: $[][][][][] [] [] [] [][][][]
+[][][][][][] [] [][][][][][][][] [] [][][] [] [][][][][][][][] []
+ []
+
+
+Overfull \hbox (25.31963pt too wide) in paragraph at lines 71--71
+\TU/lmr/m/n/12 Available: $[][][][][] [] [] [] [][][][][][][][][][] [] [][][][]
+[][][][] [] [][][] [] [][][][][][][][] [] [][][] [] [][][][][][][][][][][][][][
+][][][]$. 
+ []
+
+
+
+[77]
+Overfull \hbox (4.02106pt too wide) in paragraph at lines 71--71
+[][][][][] [] [] [] [][][] [] [][][][][][][][][][][][][] [] [][][] [] [][][][][
+][][] [] [][][][][][][] [] [][][] [] [][][][][][][][][][][][][][][][][]$\TU/lmr
+/m/n/12 . 
+ []
+
+
+
+[78]
+Overfull \hbox (19.22655pt too wide) in paragraph at lines 71--71
+\TU/lmr/m/n/12 pp. 2721–2732, May 1, 2009, \TU/lmr/m/sc/12 issn\TU/lmr/m/n/12 :
+ 0017-9310. \TU/lmr/m/sc/12 doi\TU/lmr/m/n/12 : $[][] [] [][][][] [] [] [] [][]
+[][][][][][][][][][][][][][][][] []
+ []
+
+
+Overfull \hbox (36.16147pt too wide) in paragraph at lines 71--71
+[][][][] [] [][] [] [][][]$\TU/lmr/m/n/12 . Accessed: Sep. 4, 2024. [Online]. A
+vailable: $[][][][][] [] [] [] [][][] [] [][][][][][][][][][][][][] []
+ []
+
+
+
+[79]
+Overfull \hbox (51.7125pt too wide) in paragraph at lines 71--71
+\TU/lmr/m/n/12 no. 15, pp. 2859–2873, Jul. 1, 2007, \TU/lmr/m/sc/12 issn\TU/lmr
+/m/n/12 : 0017-9310. \TU/lmr/m/sc/12 doi\TU/lmr/m/n/12 : $[][] [] [][][][] [] [
+] [] [][][][][][][][][][][][][][][][][][] []
+ []
+
+
+
+[80]
+
+[81] (./main.aux (./title/title.aux) (./abs/abs.aux)
+(./introduction/introduction.aux) (./litreview/litreview.aux)
+(./methodology/methodology.aux) (./results/results.aux)
+(./conclusion/conclusion.aux))
  ***********
 LaTeX2e <2024-11-01> patch level 1
 L3 programming layer <2022/08/05>
@@ -2045,12 +1937,12 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 29110 strings out of 473846
- 642805 string characters out of 5729886
- 1480825 words of memory out of 5000000
- 51587 multiletter control sequences out of 15000+600000
- 574806 words of font info for 115 fonts, out of 8000000 for 9000
+ 29583 strings out of 473846
+ 665844 string characters out of 5729886
+ 1491343 words of memory out of 5000000
+ 52036 multiletter control sequences out of 15000+600000
+ 569486 words of font info for 100 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 117i,15n,131p,2599b,3742s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 117i,15n,131p,2617b,5001s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on main.xdv (71 pages, 898888 bytes).
+Output written on main.pdf (87 pages).

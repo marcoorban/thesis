@@ -1,6 +1,9 @@
 %! TEX program = xelatex
 \documentclass[12pt]{report}
 
+% Setting the font to Times New Roman
+\usepackage{times}
+
 \usepackage{xeCJK} % For Chinese font support - only works with XeLateX compiler
 \usepackage[style=ieee, backend=biber]{biblatex} % Imports biblatex package 
 \addbibresource{references.bib} % Import the bibliography file
@@ -25,10 +28,6 @@
 % delete this section after thesis is done
 \setlength{\marginparwidth}{2.5cm}
 
-\title{Morban's thesis}
-\author{Marco Orban}
-\date{}
-
 \usepackage{subfiles}
 \usepackage{titlesec}
 \usepackage{subcaption}
@@ -51,11 +50,15 @@
   \titlespacing{\chapter}{0pt}{-32pt}{1cm}
 
 \begin{document}
-  \maketitle{}
+
+  \subfileinclude{title/title}  
 
   \pagenumbering{roman}
   \subfileinclude{abs/abs}
   \tableofcontents{}
+
+  \listoffigures 
+  \listoftables 
 
   \pagenumbering{arabic}
   \setcounter{page}{1}

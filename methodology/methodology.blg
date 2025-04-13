@@ -1,9 +1,9 @@
 [0] Config.pm:308> INFO - This is Biber 2.20
 [0] Config.pm:311> INFO - Logfile is 'methodology.blg'
-[45] biber:340> INFO - === Thu Jan 30, 2025, 17:19:54
-[55] Biber.pm:420> INFO - Reading 'methodology.bcf'
-[95] Biber.pm:994> INFO - Found 1 citekeys in bib section 0
-[103] Biber.pm:4463> INFO - Processing section 0
-[109] Biber.pm:4654> INFO - Looking for bibtex file 'references.bib' for section 0
-[115] Utils.pm:410> ERROR - Cannot find 'references.bib'!
-[116] Biber.pm:136> INFO - ERRORS: 1
+[46] biber:340> INFO - === Sun Apr 13, 2025, 17:28:05
+[54] Biber.pm:420> INFO - Reading 'methodology.bcf'
+[91] Biber.pm:994> INFO - Found 12 citekeys in bib section 0
+[97] Biber.pm:4463> INFO - Processing section 0
+[103] Biber.pm:4654> INFO - Looking for bibtex file 'references.bib' for section 0
+[109] Utils.pm:410> ERROR - Cannot find 'references.bib'!
+[109] Biber.pm:136> INFO - ERRORS: 1
