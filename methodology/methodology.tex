@@ -209,11 +209,11 @@ For the calculation of compliance, the structural load used was the stress on th
 
 \subsection{Parametric study}
 
-The topology optimization problem was solved using COMSOL Multiphysics 6.2 software. COMSOL allows the creation of parametric studies that allow to run a simulation with a list of parameters to be varied, in order to study the influence of different values on the solution of a system. For this study, the values of volume fraction \ref{eq:vol}, objective function weights \ref{eq:multiobj_end}, and hyperbolic tangent angle (used in \ref{eq:tanh_filter}) were chosen as the parameters to be varied.
+The topology optimization problem was solved using COMSOL Multiphysics 6.2 software. COMSOL allows the creation of parametric studies that allow to run a simulation with a list of parameters to be varied, in order to study the influence of different values on the solution of a system. For this study, the values of volume fraction (Equation \ref{eq:vol}), objective function weights (Equation \ref{eq:multiobj_end}), and hyperbolic tangent angle (Equation \ref{eq:tanh_filter}) were chosen as the parameters to be varied.
 
 Volume fraction is defined as the maximum amount of volume that the topology can cover within the design domain. This criteria is chosen because we seek to use less material for the supporting structure, as long as we can maintain the total deformation of the manufacturing component beneath a threshold. For the simple geometries 50\% and 75\% of volume fraction were considered. For the femoral component study, volume fractions of 25\%, 33\%, 40\%, 50\% and 75\% were considered. 
 
-The hyperbolic tangent angle projection (\ref{eq:tanh_filter}) was also used as a parameter. The hyperbolic tangent was varied from a value of 0.001\degree to 8\degree, in steps in 2\degree. The variation was stopped at 8\degree since it was noticed that for $\theta \geq$ 8\degree there would be no discernible differences between results.
+The hyperbolic tangent angle projection (defined in Equation \ref{eq:tanh_filter}) was also used as a parameter. The hyperbolic tangent was varied from a value of 0.001\degree to 8\degree, in steps in 2\degree. The variation was stopped at 8\degree since it was noticed that for $\theta \geq$ 8\degree there would be no discernible differences between results.
 
 Finally, the objective functions weights were also varied for the design of topologies for the simple geometry parts. The pairings of weight used were (0.2, 0.8), (0.5 , 0.5), and (0.2, 0.8), where the first weight in each pair corresponds to the weight of the thermal compliance objective and the second corresponds to the weight of the mechanical compliance objective. All of these parameters are summarized in Table \ref{tab:params}.
 
@@ -243,8 +243,7 @@ Finally, the objective functions weights were also varied for the design of topo
 
 \subsection{Boundary conditions}
 
-It is possible to change the material boundary conditions in COMSOL when solving the topology optimization problem. As an extra study parameter, the material boundary condition of several edges of the design domain were also varied for this study. For the 2D design domains, different topologies were obtained by having either a prescribed material or void boundary in the side elements of the design domain. For the femoral component, there was no variation in the density of the design domain boundary. Figures \ref{fig:solid} and \ref{fig:void}shows the boundary conditions used in the problem. 
-
+It is possible to change the material boundary conditions in COMSOL when solving the topology optimization problem. As an extra study parameter, the material boundary condition of several edges of the design domain were also varied for this study. For the 2D design domains, different topologies were obtained by having either a prescribed material or void boundary in the side elements of the design domain. For the femoral component, there was no variation in the density of the design domain boundary. 
 \begin{figure}[h!]
   \centering
   \includegraphics{boundaryconds.png}
@@ -267,7 +266,7 @@ It is possible to change the material boundary conditions in COMSOL when solving
   \caption{Variation in topology due to material prescribed density at the side boundary of design domain.}
 \end{figure}
 
-The heat transfer and solid mechanics boundary conditions must also be specified. The heat transfer problem boundary conditions consisted of a heat flux through the upper surface of 20 W / (m$^2$$\cdot$K) and 10 W / (m$^2$$\cdot$K) for the simple geometry parts and femoral component respectively. The inferior surface was set at a constant temperature of 200\degree K, and the sides were kept insulated. The structural loads consisted of the weight of the component above it. Figure  \ref{fig:boundary} shows a graphical representation of the boundary conditions used.
+The heat transfer and solid mechanics boundary conditions must also be specified. The heat transfer problem boundary conditions consisted of a heat flux through the upper surface of 20 W / (m$^2$$\cdot$K) and 10 W / (m$^2$$\cdot$K) for the simple geometry parts and femoral component respectively. The inferior surface was set at a constant temperature of 200\degree K, and the sides were kept insulated. The structural loads consisted of the weight of the component above it. Figure  \ref{fig:boundary} shows a graphical representation of the boundary conditions used. Figures \ref{fig:solid} and \ref{fig:void} show an example of the effect of the different material and void boundary conditions in the solution of the problem.
 
 \subsection{COMSOL implementation final details}
 

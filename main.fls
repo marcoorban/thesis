@@ -9,6 +9,8 @@ INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/base/report.cls
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/base/size12.clo
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/base/size12.clo
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/base/size12.clo
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/psnfss/times.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/psnfss/times.sty
 INPUT /usr/local/texlive/2024/texmf-dist/tex/xelatex/xecjk/xeCJK.sty
 INPUT /usr/local/texlive/2024/texmf-dist/tex/xelatex/xecjk/xeCJK.sty
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/l3kernel/expl3.sty
@@ -307,6 +309,7 @@ INPUT ./title/title.tex
 INPUT ./title/title.tex
 INPUT title/title.tex
 INPUT title/title.tex
+OUTPUT main.xdv
 INPUT ./abs/abs.tex
 INPUT ./abs/abs.tex
 OUTPUT abs/abs.aux
@@ -314,7 +317,6 @@ INPUT ./abs/abs.tex
 INPUT ./abs/abs.tex
 INPUT abs/abs.tex
 INPUT abs/abs.tex
-OUTPUT main.xdv
 INPUT ./main.toc
 INPUT ./main.toc
 INPUT main.toc

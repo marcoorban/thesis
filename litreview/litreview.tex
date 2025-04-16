@@ -173,7 +173,8 @@ In this work, topology optimization was utilized to design a support structure f
     & \hspace{0.5cm} w_1 + w_2 = 1,  \label{eq:multiobj_end}
  \end{align}
 
- where $\bm{\tilde{\rho}} = [\tilde{\rho_1}, \tilde{\rho_2}, ... , \tilde{\rho_n}]^T$ and the physical densities $\tilde{\rho}_i$ are defined by equation \ref{eq:tanh_filter}, $\bm{U}$ denotes the nodal displacement vector, $\bm{T}$ denotes the nodal temperature vector, $\bm{F}$ is the vector of nodal forces, and $\bm{Q}$ is the thermal load vector. Equation \ref{eq:multiobj} is the objective function, with the first term being mechanical compliance, and the second term being thermal compliance, which is the inverse of thermal conductivity.Equation \ref{eq:vol} is the volume constraint equation. Equation \ref{eq:fourier2} governs the thermal conduction of the material, with the thermal conductivity matrix $\bm{\kappa}$ calculated as:
+ where $\bm{\tilde{\rho}} = [\tilde{\rho_1}, \tilde{\rho_2}, ... , \tilde{\rho_n}]^T$ and the physical densities $\tilde{\rho}_i$ are defined by equation \ref{eq:tanh_filter}, $\bm{U}$ denotes the nodal displacement vector, $\bm{T}$ denotes the nodal temperature vector, $\bm{F}$ is the vector of nodal forces, and $\bm{Q}$ is the thermal load vector. Equation \ref{eq:multiobj} is the objective function, with the first term being mechanical compliance, and the second term being thermal compliance, which is the inverse of thermal conductivity. Equation \ref{eq:vol} is the volume constraint equation. Equation \ref{eq:fourier2} governs the thermal conduction of the material, with the thermal conductivity matrix $\bm{\kappa}$ calculated as:
+  
 
 \begin{equation}
   \bm{\kappa}(\bm{\tilde{\rho}}) = \sum_{i \in \mathbb{N}_e}[k_{min} + \tilde{\rho}_i^p(k_0 - k_{min})]\bm{k_i^0}
