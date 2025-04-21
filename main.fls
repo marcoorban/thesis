@@ -273,12 +273,6 @@ INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/multirow/multirow.sty
 INPUT ./main.aux
 INPUT ./main.aux
 INPUT main.aux
-INPUT ./title/title.aux
-INPUT ./title/title.aux
-INPUT title/title.aux
-INPUT ./abs/abs.aux
-INPUT ./abs/abs.aux
-INPUT abs/abs.aux
 INPUT ./introduction/introduction.aux
 INPUT ./introduction/introduction.aux
 INPUT introduction/introduction.aux
@@ -430,12 +424,12 @@ INPUT ./images/femmesh.png
 INPUT images/femmesh.png
 INPUT ./images/heating.png
 INPUT images/heating.png
-INPUT ./images/boundaryconds.png
-INPUT images/boundaryconds.png
 INPUT ./images/side_mat_volfrac20.png
 INPUT images/side_mat_volfrac20.png
 INPUT ./images/side_void_volfrac20.png
 INPUT images/side_void_volfrac20.png
+INPUT ./images/boundaryconds.png
+INPUT images/boundaryconds.png
 INPUT ./images/excube.png
 INPUT images/excube.png
 INPUT ./images/extriangle.png
@@ -456,6 +450,12 @@ INPUT ./images/conv_average.png
 INPUT images/conv_average.png
 INPUT ./images/conv_max.png
 INPUT images/conv_max.png
+INPUT ./images/voxel.png
+INPUT images/voxel.png
+INPUT ./main.tdo
+INPUT main.tdo
+INPUT main.tdo
+OUTPUT main.tdo
 INPUT ./results/results.tex
 INPUT ./results/results.tex
 OUTPUT results/results.aux
@@ -463,115 +463,6 @@ INPUT ./results/results.tex
 INPUT ./results/results.tex
 INPUT results/results.tex
 INPUT results/results.tex
-INPUT ./images/key.png
-INPUT images/key.png
-INPUT ./images/cube _disp3.png
-INPUT images/cube _disp3.png
-INPUT ./images/cube _dispmax3.png
-INPUT images/cube _dispmax3.png
-INPUT ./images/cube _stress3.png
-INPUT images/cube _stress3.png
-INPUT ./images/cube _stressmax3.png
-INPUT images/cube _stressmax3.png
-INPUT ./images/T15 _disp3.png
-INPUT images/T15 _disp3.png
-INPUT ./images/T15 _dispmax3.png
-INPUT images/T15 _dispmax3.png
-INPUT ./images/T15 _stress3.png
-INPUT images/T15 _stress3.png
-INPUT ./images/T15 _stressmax3.png
-INPUT images/T15 _stressmax3.png
-INPUT ./images/T30 _disp3.png
-INPUT images/T30 _disp3.png
-INPUT ./images/T30 _dispmax3.png
-INPUT images/T30 _dispmax3.png
-INPUT ./images/T30 _stress3.png
-INPUT images/T30 _stress3.png
-INPUT ./images/T30 _stressmax3.png
-INPUT images/T30 _stressmax3.png
-INPUT ./images/T45 _disp3.png
-INPUT images/T45 _disp3.png
-INPUT ./images/T45 _dispmax3.png
-INPUT images/T45 _dispmax3.png
-INPUT ./images/T45 _stress3.png
-INPUT images/T45 _stress3.png
-INPUT ./images/T45 _stressmax3.png
-INPUT images/T45 _stressmax3.png
-INPUT ./images/R20 _disp3.png
-INPUT images/R20 _disp3.png
-INPUT ./images/R20 _dispmax3.png
-INPUT images/R20 _dispmax3.png
-INPUT ./images/R20 _stress3.png
-INPUT images/R20 _stress3.png
-INPUT ./images/R20 _stressmax3.png
-INPUT images/R20 _stressmax3.png
-INPUT ./images/R30 _disp3.png
-INPUT images/R30 _disp3.png
-INPUT ./images/R30 _dispmax3.png
-INPUT images/R30 _dispmax3.png
-INPUT ./images/R30 _stress3.png
-INPUT images/R30 _stress3.png
-INPUT ./images/R30 _stressmax3.png
-INPUT images/R30 _stressmax3.png
-INPUT ./images/R40 _disp3.png
-INPUT images/R40 _disp3.png
-INPUT ./images/R40 _dispmax3.png
-INPUT images/R40 _dispmax3.png
-INPUT ./images/R40 _stress3.png
-INPUT images/R40 _stress3.png
-INPUT ./images/R40 _stressmax3.png
-INPUT images/R40 _stressmax3.png
-INPUT ./images/results/plots/femoral/displacement/disp_density_ridges.png
-INPUT ./images/results/plots/femoral/displacement/disp_density_ridges.png
-INPUT images/results/plots/femoral/displacement/disp_density_ridges.png
-INPUT ./images/results/plots/femoral/displacement/femoral_average.png
-INPUT ./images/results/plots/femoral/displacement/femoral_average.png
-INPUT images/results/plots/femoral/displacement/femoral_average.png
-INPUT ./images/results/plots/femoral/displacement/femoral_average_group.png
-INPUT ./images/results/plots/femoral/displacement/femoral_average_group.png
-INPUT images/results/plots/femoral/displacement/femoral_average_group.png
-INPUT ./images/results/plots/femoral/displacement/femoral_max_bad.png
-INPUT ./images/results/plots/femoral/displacement/femoral_max_bad.png
-INPUT images/results/plots/femoral/displacement/femoral_max_bad.png
-INPUT ./images/bad_voxel.png
-INPUT ./images/bad_voxel.png
-INPUT images/bad_voxel.png
-INPUT ./images/results/plots/femoral/displacement/bins.png
-INPUT ./images/results/plots/femoral/displacement/bins.png
-INPUT images/results/plots/femoral/displacement/bins.png
-INPUT ./images/results/plots/femoral/displacement/femoral_max.png
-INPUT ./images/results/plots/femoral/displacement/femoral_max.png
-INPUT images/results/plots/femoral/displacement/femoral_max.png
-INPUT ./images/results/plots/femoral/displacement/femoral_max_group.png
-INPUT ./images/results/plots/femoral/displacement/femoral_max_group.png
-INPUT images/results/plots/femoral/displacement/femoral_max_group.png
-INPUT ./images/results/plots/femoral/displacement/boxplots.png
-INPUT ./images/results/plots/femoral/displacement/boxplots.png
-INPUT images/results/plots/femoral/displacement/boxplots.png
-INPUT ./images/results/plots/femoral/displacement/statistics.png
-INPUT ./images/results/plots/femoral/displacement/statistics.png
-INPUT images/results/plots/femoral/displacement/statistics.png
-INPUT ./images/results/plots/femoral/stress/stress_density_ridges.png
-INPUT ./images/results/plots/femoral/stress/stress_density_ridges.png
-INPUT images/results/plots/femoral/stress/stress_density_ridges.png
-INPUT ./images/results/plots/femoral/stress/stress_stats.png
-INPUT ./images/results/plots/femoral/stress/stress_stats.png
-INPUT images/results/plots/femoral/stress/stress_stats.png
-INPUT ./images/results/plots/femoral/stress/average_stress.png
-INPUT ./images/results/plots/femoral/stress/average_stress.png
-INPUT images/results/plots/femoral/stress/average_stress.png
-INPUT ./images/results/plots/femoral/stress/femoral_average_group_stress.png
-INPUT ./images/results/plots/femoral/stress/femoral_average_group_stress.png
-INPUT images/results/plots/femoral/stress/femoral_average_group_stress.png
-INPUT ./images/results/plots/femoral/stress/maximum_stress.png
-INPUT ./images/results/plots/femoral/stress/maximum_stress.png
-INPUT images/results/plots/femoral/stress/maximum_stress.png
-INPUT ./images/results/plots/femoral/stress/femoral_max_group_stress.png
-INPUT ./images/results/plots/femoral/stress/femoral_max_group_stress.png
-INPUT images/results/plots/femoral/stress/femoral_max_group_stress.png
-INPUT ./images/results/plots/femoral/stress/boxplots.png
-INPUT ./images/results/plots/femoral/stress/boxplots.png
-INPUT images/results/plots/femoral/stress/boxplots.png
 INPUT ./conclusion/conclusion.tex
 INPUT ./conclusion/conclusion.tex
 OUTPUT conclusion/conclusion.aux

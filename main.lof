@@ -1,42 +1,25 @@
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {2.1}{\ignorespaces Smoothed modified Heaviside filters with $\eta $ = 0.3, $\eta $ = 0.8, and different values of $\beta $.}}{14}{}%
-\contentsline {figure}{\numberline {2.2}{\ignorespaces Hyberbolic tangent filter function with $\eta $ = 0.3, $\eta $ = 0.8, and different values of $\beta $.}}{15}{}%
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Smoothed modified Heaviside filters with $\eta $ = 0.3, $\eta $ = 0.8, and different values of $\beta $.}}{15}{}%
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Hyberbolic tangent filter function with $\eta $ = 0.3, $\eta $ = 0.8, and different values of $\beta $.}}{16}{}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {3.1}{\ignorespaces Process diagram.}}{22}{}%
-\contentsline {figure}{\numberline {3.2}{\ignorespaces Dimensions of cube component.}}{23}{}%
-\contentsline {figure}{\numberline {3.3}{\ignorespaces Dimensions of triangular parts.}}{23}{}%
-\contentsline {figure}{\numberline {3.4}{\ignorespaces Dimensions of rounded parts.}}{23}{}%
-\contentsline {figure}{\numberline {3.5}{\ignorespaces Components of total knee arthroplasty prosthesis. Taken from \blx@tocontentsinit {0}\cite {leopoldMinimallyInvasiveTotal2009}.}}{24}{}%
-\contentsline {figure}{\numberline {3.6}{\ignorespaces CAD model of femoral component.}}{24}{}%
-\contentsline {figure}{\numberline {3.7}{\ignorespaces Examples of design domains.}}{26}{}%
-\contentsline {figure}{\numberline {3.8}{\ignorespaces Mesh of the design domain for one of the rounded parts.}}{28}{}%
-\contentsline {figure}{\numberline {3.9}{\ignorespaces Mesh of the design domain for the support structure of the femoral component.}}{29}{}%
-\contentsline {figure}{\numberline {3.10}{\ignorespaces Layer heating cycle.}}{31}{}%
-\contentsline {figure}{\numberline {3.11}{\ignorespaces Boundary condition examples for design domain of cube component.}}{33}{}%
-\contentsline {figure}{\numberline {3.12}{\ignorespaces Variation in topology due to material prescribed density at the side boundary of design domain.}}{34}{}%
-\contentsline {figure}{\numberline {3.13}{\ignorespaces Examples of resulting topologies from COMSOL.}}{34}{}%
-\contentsline {figure}{\numberline {3.14}{\ignorespaces More examples.}}{35}{}%
-\contentsline {figure}{\numberline {3.15}{\ignorespaces Melds of support structures for cube and rounded part.}}{36}{}%
-\contentsline {figure}{\numberline {3.16}{\ignorespaces Meld of supporting structure for femoral component.}}{37}{}%
-\contentsline {figure}{\numberline {3.17}{\ignorespaces Results of convergence test on selected parts.}}{41}{}%
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Process diagram.}}{23}{}%
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Dimensions of cube component.}}{24}{}%
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Dimensions of triangular parts.}}{24}{}%
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Dimensions of rounded parts.}}{24}{}%
+\contentsline {figure}{\numberline {3.5}{\ignorespaces Components of total knee arthroplasty prothesis. Taken from \blx@tocontentsinit {0}\cite {leopoldMinimallyInvasiveTotal2009}.}}{25}{}%
+\contentsline {figure}{\numberline {3.6}{\ignorespaces CAD model of femoral component.}}{25}{}%
+\contentsline {figure}{\numberline {3.7}{\ignorespaces Examples of design domains.}}{27}{}%
+\contentsline {figure}{\numberline {3.8}{\ignorespaces Mesh of the design domain for one of the rounded parts.}}{30}{}%
+\contentsline {figure}{\numberline {3.9}{\ignorespaces Mesh of the design domain for the support structure of the femoral component.}}{31}{}%
+\contentsline {figure}{\numberline {3.10}{\ignorespaces Layer heating cycle.}}{33}{}%
+\contentsline {figure}{\numberline {3.11}{\ignorespaces Variation in topology due to material prescribed density at the side boundary of design domain.}}{35}{}%
+\contentsline {figure}{\numberline {3.12}{\ignorespaces Boundary condition examples for design domain of cube component.}}{36}{}%
+\contentsline {figure}{\numberline {3.13}{\ignorespaces Examples of resulting topologies from COMSOL.}}{37}{}%
+\contentsline {figure}{\numberline {3.14}{\ignorespaces More examples.}}{37}{}%
+\contentsline {figure}{\numberline {3.15}{\ignorespaces Melds of support structures for cube and rounded part.}}{38}{}%
+\contentsline {figure}{\numberline {3.16}{\ignorespaces Meld of supporting structure for femoral component.}}{39}{}%
+\contentsline {figure}{\numberline {3.17}{\ignorespaces Results of convergence test on selected parts.}}{42}{}%
+\contentsline {figure}{\numberline {3.18}{\ignorespaces Voxelization of femoral component in Simufact.}}{43}{}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {4.1}{\ignorespaces Topology key explanation.}}{45}{}%
-\contentsline {figure}{\numberline {4.2}{\ignorespaces Results of cube.}}{46}{}%
-\contentsline {figure}{\numberline {4.3}{\ignorespaces Results of 15\ensuremath {^\circ }triangle.}}{47}{}%
-\contentsline {figure}{\numberline {4.4}{\ignorespaces Results of 30\ensuremath {^\circ }triangle.}}{48}{}%
-\contentsline {figure}{\numberline {4.5}{\ignorespaces Results of 45\ensuremath {^\circ }triangle.}}{49}{}%
-\contentsline {figure}{\numberline {4.6}{\ignorespaces Results of 20R fillet.}}{50}{}%
-\contentsline {figure}{\numberline {4.7}{\ignorespaces Results of 30R fillet.}}{51}{}%
-\contentsline {figure}{\numberline {4.8}{\ignorespaces Results of 40R fillet.}}{52}{}%
-\contentsline {figure}{\numberline {4.9}{\ignorespaces Density distribution of nodal displacements, grouped by volume fraction and hyperbolic tangent angle.}}{54}{}%
-\contentsline {figure}{\numberline {4.10}{\ignorespaces Average nodal displacement for femoral component simulations. The left graph shows the average deformation for each topology investigated, the right graph shows the average deformation of topologies when grouped by volume fraction.}}{55}{}%
-\contentsline {figure}{\numberline {4.11}{\ignorespaces Maximum nodal displacements for the femoral component simulations. Notice that there are three topologies that show an excessive maximal displacement. These displacements are very likely to be outliers, and further analysis was done to understand their nature.}}{55}{}%
-\contentsline {figure}{\numberline {4.12}{\ignorespaces Screenshot of abnormal voxel behavior from simulation result. The voxel seems to be deformed and merging inside the structure itself. Luckily, only a handful of voxels of these sort exist, with the rest of the geometry showing much more sensible results.}}{56}{}%
-\contentsline {figure}{\numberline {4.13}{\ignorespaces Maximum nodal displacement after corrections.}}{57}{}%
-\contentsline {figure}{\numberline {4.14}{\ignorespaces Box and whisker plot for femoral displacement of all topologies.}}{58}{}%
-\contentsline {figure}{\numberline {4.15}{\ignorespaces Distribution of node stresses of support structures for femoral component.}}{61}{}%
-\contentsline {figure}{\numberline {4.16}{\ignorespaces Average node stress for supporting structure of femoral component.}}{63}{}%
-\contentsline {figure}{\numberline {4.17}{\ignorespaces Maximum node stress for supporting structure of femoral component.}}{63}{}%
-\contentsline {figure}{\numberline {4.18}{\ignorespaces Box-and-whisker plot of nodal stress values of topologies of femoral component.}}{64}{}%
 \addvspace {10\p@ }

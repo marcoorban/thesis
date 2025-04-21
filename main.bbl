@@ -329,8 +329,8 @@
       \strng{authornamehash}{6e4ebbf21ba7a785b5dbf5d028988692}
       \strng{authorfullhash}{aabf90ca0daaef69f131187d3cd06134}
       \strng{authorfullhashraw}{aabf90ca0daaef69f131187d3cd06134}
-      \field{sortinit}{6}
-      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Commodity thermoplastics and thermoplastic composites are staples in Additive Manufacturing (AM). Their use is widespread and accounts for the largest volume of 3D printed materials. Accessible property ranges of current material formulations are limited, and thus there is high interest in extending AM to high-performance engineering polymers and nanocomposites that have yet to gain wide commercial acceptance in AM. Current applications of high-performance thermoplastic polymers are limited to adaptations from conventional plastics processing such as injection molding, thermoforming, extrusion, and others. Thermoplastic composites can be categorized into particle-, fiber-, and nanomaterial-based composites as well as polymer blends. The importance of these different composite systems to AM is discussed in this review. Also reviewed are trends in instrument development such as in-nozzle impregnation, dual print heads, and higher temperature FDM that improve printing of thermoplastic composites. An overview of newer types of AM techniques allowing higher filler loading for thermoplastic composites like liquid deposition modeling (LDM) sometimes known as direct ink writing (DIW) are discussed. Finally, a perspective is given on the important parameters and standards needed to make AM printed objects from polymer composites more effective in cost/performance ratio.}
@@ -384,8 +384,8 @@
       \strng{authornamehash}{e35780b804a3cabf6730cfc7741bb5f3}
       \strng{authorfullhash}{e35780b804a3cabf6730cfc7741bb5f3}
       \strng{authorfullhashraw}{e35780b804a3cabf6730cfc7741bb5f3}
-      \field{sortinit}{7}
-      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{The developments in hip and knee arthroplasty over recent years have aimed to improve outcomes, reduce complications and improve implant survival. This review describes some of the most interesting trends and developments in this important and fast-moving field. Notable developments have included ceramic hip resurfacing, mini hip stems, cementless knee replacement and the wider adoption of the dual mobility articulation for hip arthroplasty. Advances in additive manufacturing and the surface modification of joint replacements offer increasing options for more challenging arthroplasty cases. Robotic assisted surgery is one of the most interesting developments in hip and knee surgery. The recent growth in the use of this technology is providing data that will help determine whether this approach should become the standard of care for hip and knee arthroplasty in the future.}
@@ -467,8 +467,8 @@
       \strng{authornamehash}{77cb8c7891198a2beda643b62f710369}
       \strng{authorfullhash}{aaf55c2c08fd03803d8b1c7fdd29f270}
       \strng{authorfullhashraw}{aaf55c2c08fd03803d8b1c7fdd29f270}
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{The use of additive manufacturing, or 3D printing, has progressed beyond prototyping to produce intricate and valuable finished goods. The potential of additive manufacturing has increased across numerous industries due to the expansion of materials, such as high-performance metals and polymers, and advancements in machine capabilities, such as multi-material printing. By enabling complex designs, reduced waste, and quick production, it has the potential to revolutionize the consumer goods, healthcare, automotive manufacturing, and aerospace industries. The development of specialized scaffolds has been made possible by the precise control that additive manufacturing provides over the internal structure of porous materials. This technology has revolutionized tissue engineering and regenerative medicine. Furthermore, it has made it possible to create individualized implants and prosthetics that improve patient comfort and outcomes in orthopedic and dental applications. Also, it provides flexibility in design and customization for individualized implants and prosthetics in orthopedic and dental applications. Design flexibility, waste reduction, improved biocompatibility, quick prototyping, and cost-effectiveness are benefits of additive manufacturing for implants. For personalized healthcare, regenerative medicine, and better patient outcomes, additive manufacturing holds promise as the technology develops with further advancements in printing speed, resolution, and scalability.}
@@ -2032,8 +2032,8 @@
       \strng{authorfullhash}{58092e789482b3aa6b68940316114127}
       \strng{authorfullhashraw}{58092e789482b3aa6b68940316114127}
       \field{extraname}{2}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{This paper is devoted to minimum stress design in structural optimization. The homogenization method is extended to such a framework and yields an efficient numerical algorithm for topology optimization. The main idea is to use a partial relaxation of the problem obtained by introducing special microstructures which are sequential laminated composites. Indeed, the so-called corrector terms of such microgeometries are explicitly known, which allows us to compute the relaxed objective function. These correctors can be interpreted as stress amplification factors, caused by the underlying microstructure.}
@@ -2423,8 +2423,8 @@
       \list{organization}{1}{%
         {COMSOL}%
       }
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{labeltitlesource}{title}
       \field{langid}{english}
       \field{title}{Performing {{Topology Optimization}} with the {{Density Method}}}
@@ -2958,8 +2958,8 @@
       \strng{authornamehash}{99efafd1941c1cd1f2025cb9fd7cb484}
       \strng{authorfullhash}{99efafd1941c1cd1f2025cb9fd7cb484}
       \strng{authorfullhashraw}{99efafd1941c1cd1f2025cb9fd7cb484}
-      \field{sortinit}{6}
-      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{This work aims at developing a topology optimization method for the design of self-supporting structures that can be directly realized by additive manufacturing (AM). In the proposed method, polygon-featured holes are introduced as basic design primitives whose movements, deformations and intersections allow to control the structural topology. In addition, overhang constraints are introduced directly into the geometry description, so that the inclined angles along the overhang boundaries are not less than the critical overhang angle (COA). Meanwhile, unprintable V-shaped areas caused by polygon intersections are gradually eliminated through polygon modifications and re-optimization. Numerical examples are tested to demonstrate the effectiveness of the proposed method.}
@@ -3496,21 +3496,6 @@
       \endverb
       \keyw{Adjoint sensitivity analysis,Dynamics analysis,Multi-objective optimization,Stress minimization,Thermoelasticity,Topology optimization}
     \endentry
-    \entry{FreeCAD}{software}{}{}
-      \list{organization}{1}{%
-        {FreeCAD Team}%
-      }
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
-      \field{labeltitlesource}{title}
-      \field{title}{{{FreeCAD}}}
-      \verb{urlraw}
-      \verb https://www.freecad.org/
-      \endverb
-      \verb{url}
-      \verb https://www.freecad.org/
-      \endverb
-    \endentry
     \entry{leopoldMinimallyInvasiveTotal2009}{article}{}{}
       \name{author}{1}{}{%
         {{hash=60758917d65fad6b88d1201f27d6a42c}{%
@@ -3854,21 +3839,6 @@
       \verb https://onlinelibrary.wiley.com/doi/abs/10.1002/nme.1620240207
       \endverb
     \endentry
-    \entry{NTop}{software}{}{}
-      \list{organization}{1}{%
-        {nTopology Inc.}%
-      }
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
-      \field{labeltitlesource}{title}
-      \field{title}{{{nTop}}}
-      \verb{urlraw}
-      \verb https://www.ntop.com/
-      \endverb
-      \verb{url}
-      \verb https://www.ntop.com/
-      \endverb
-    \endentry
     \entry{hexagonabProcessPropertiesInfosheet}{misc}{}{}
       \name{author}{1}{}{%
         {{hash=9573d58519fe1bc11219c30241d9fc8c}{%
@@ -3883,8 +3853,8 @@
       \strng{authornamehash}{9573d58519fe1bc11219c30241d9fc8c}
       \strng{authorfullhash}{9573d58519fe1bc11219c30241d9fc8c}
       \strng{authorfullhashraw}{9573d58519fe1bc11219c30241d9fc8c}
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Process {{Properties Infosheet}}}
